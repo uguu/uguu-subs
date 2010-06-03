@@ -8,494 +8,489 @@ PlayResX: 640
 PlayResY: 480
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
-Video Zoom: 8
-Video Position: 774
+Video Zoom: 5
+Video Position: 2058
 Last Style Storage: Default
-Video File: 1-yuuka.mkv
+Video File: [B-G]_AIR_TV_-_01.BD(H.264-720p_DTS5.1)_[9D7422D8].mkv
 Audio File: ?video
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: AirOPKan-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,30,1
-Style: AirOPRom-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,10,1
-Style: AirOPEng-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: AirOPEng,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: AirOPRom,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: AirOPKan,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,30,1
-Style: AirEDEng,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: AirEDRom,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: AirEDKan,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
-Style: Dialogue1,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Narrator,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Typesetting,Myriad Pro Light,32,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Air Dialogue,Giacomo LT,36,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.9,1.2,2,20,20,19,1
+Style: AirOPRom,Cronos Pro Subhead,30,&H00FF6A5C,&H00FFCBC2,&H1E000000,&H64000000,0,-1,0,0,100,100,0,0,1,1,0.7,8,10,10,10,1
+Style: Air Typesetting,Myriad Pro Light,32,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Air Narrator,Giacomo MD,42,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,-1,-1,0,0,100,100,-10,0,1,2,1.5,2,20,20,22,1
+Style: AirOPEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H1E2B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.4,1.2,2,20,20,15,1
+Style: AirOPKan,DFKai-SB,24,&H00FF6A5C,&H00FFCBC2,&H32000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,0.7,8,10,10,40,1
+Style: AirEDRom,Cronos Pro Subhead,30,&H00FF6A5C,&H00FFCBC2,&H1E000000,&H64000000,0,-1,0,0,100,100,0,0,1,1,0.7,8,10,10,10,1
+Style: AirEDKan,DFKai-SB,24,&H00FF6A5C,&H00FFCBC2,&H32000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,0.7,8,10,10,40,1
+Style: AirEDEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H1E2B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.4,1.2,2,20,20,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.17,0:00:03.04,Narrator,,0000,0000,0000,,{\fad(450,0)}My child,
-Dialogue: 0,0:00:03.04,0:00:05.45,Narrator,,0000,0000,0000,,listen carefully.
-Dialogue: 0,0:00:05.45,0:00:09.42,Narrator,,0000,0000,0000,,The story I'm about to tell is very important.
-Dialogue: 0,0:00:10.42,0:00:15.61,Narrator,,0000,0000,0000,,It is the story of a long, long journey,
-Dialogue: 0,0:00:15.61,0:00:21.98,Narrator,,0000,0000,0000,,{\fad(0,450)}a story that will be passed down forever from parent to child, starting now.
-Dialogue: 0,0:00:32.27,0:00:33.59,Default,,0000,0000,0000,,I'm hungry.
-Dialogue: 0,0:00:33.59,0:00:35.26,Default,,0000,0000,0000,,Argh, I'm hungry!
-Dialogue: 0,0:00:35.26,0:00:37.20,Default,,0000,0000,0000,,That's all you've been saying.
-Dialogue: 0,0:00:37.20,0:00:40.15,Default,,0000,0000,0000,,You're so slow. Walk faster.
-Dialogue: 0,0:00:39.34,0:00:40.39,Default,,0000,0000,0000,,Hey, you guys!
-Dialogue: 0,0:00:42.11,0:00:45.31,Default,,0000,0000,0000,,Have you heard of a "Ramen Set"?
-Dialogue: 0,0:00:46.01,0:00:48.44,Default,,0000,0000,0000,,I'm absolutely starving right now.
-Dialogue: 0,0:00:48.44,0:00:50.78,Default,,0000,0000,0000,,There's nothing I want more than to eat a Ramen Set!
-Dialogue: 0,0:00:51.64,0:00:52.39,Default,,0000,0000,0000,,But,
-Dialogue: 0,0:00:52.39,0:00:54.78,Default,,0000,0000,0000,,unfortunately, I'm broke. So...
-Dialogue: 0,0:00:55.96,0:00:58.68,Default,,0000,0000,0000,,Come! It's time for a fun puppet show.
-Dialogue: 0,0:00:58.68,0:01:00.45,Default,,0000,0000,0000,,You can pay me afterwards.
-Dialogue: 0,0:01:08.02,0:01:08.86,Default,,0000,0000,0000,,What do you think?
-Dialogue: 0,0:01:08.86,0:01:09.82,Default,,0000,0000,0000,,Isn't it great?
-Dialogue: 0,0:01:09.82,0:01:11.04,Default,,0000,0000,0000,,Isn't it interesting?
-Dialogue: 0,0:01:11.04,0:01:12.59,Default,,0000,0000,0000,,Isn't it fun?
-Dialogue: 0,0:01:12.84,0:01:13.90,Default,,0000,0000,0000,,What the hell is this?!
-Dialogue: 0,0:01:13.90,0:01:15.21,Default,,0000,0000,0000,,What a filthy doll!
-Dialogue: 0,0:01:15.55,0:01:16.84,Default,,0000,0000,0000,,Uncool.
-Dialogue: 0,0:01:16.46,0:01:18.40,Default,,0000,0000,0000,,Can't it do anything else?
-Dialogue: 0,0:01:17.84,0:01:18.97,Default,,0000,0000,0000,,Hey. Hey...
-Dialogue: 0,0:01:19.28,0:01:21.73,Default,,0000,0000,0000,,Kids are best when they're honest...
-Dialogue: 0,0:01:21.73,0:01:24.48,Default,,0000,0000,0000,,You can pay me as much as you want, okay?
-Dialogue: 0,0:01:24.48,0:01:27.43,Default,,0000,0000,0000,,That's why we're honestly telling you it's lame.
-Dialogue: 0,0:01:27.43,0:01:30.17,Default,,0000,0000,0000,,Why should we pay for something like this?
-Dialogue: 0,0:01:30.17,0:01:31.32,Default,,0000,0000,0000,,Are you stupid?
-Dialogue: 0,0:01:32.10,0:01:33.65,Default,,0000,0000,0000,,Listen, you guys!
-Dialogue: 0,0:01:35.59,0:01:36.38,Default,,0000,0000,0000,,Take that!
-Dialogue: 0,0:01:37.85,0:01:38.80,Default,,0000,0000,0000,,Run!
-Dialogue: 0,0:01:39.98,0:01:41.62,Default,,0000,0000,0000,,Wait, you guys!
-Dialogue: 0,0:01:50.43,0:01:52.26,Default,,0000,0000,0000,,{\i1\fad(0,300)}It's so hot...{\i0}
-Dialogue: 0,0:03:34.76,0:03:36.23,Default,,0000,0000,0000,,R-R-Ramen set!
-Dialogue: 0,0:04:02.01,0:04:05.51,Typesetting,,0000,0000,0000,,{\fs36\c&HB83D41&\pos(322,64)}Episode 1
-Dialogue: 0,0:04:06.01,0:04:07.19,Default,,0000,0000,0000,,Hello!
-Dialogue: 0,0:04:08.91,0:04:10.10,Default,,0000,0000,0000,,{\i1}Who is this girl?{\i0}
-Dialogue: 0,0:04:11.43,0:04:12.81,Default,,0000,0000,0000,,Are you alone?
-Dialogue: 0,0:04:15.26,0:04:16.65,Default,,0000,0000,0000,,It's hot, isn't it?
-Dialogue: 0,0:04:16.65,0:04:17.82,Default,,0000,0000,0000,,{\i1}What?!{\i0}
-Dialogue: 0,0:04:17.82,0:04:19.23,Default,,0000,0000,0000,,{\i1}What does she want?{\i0}
-Dialogue: 0,0:04:19.23,0:04:21.29,Default,,0000,0000,0000,,{\i1}Money...? I have no money.{\i0}
-Dialogue: 0,0:04:21.62,0:04:23.11,Default,,0000,0000,0000,,Aren't you thirsty?
-Dialogue: 0,0:04:23.76,0:04:25.07,Default,,0000,0000,0000,,I'll buy you a drink!
-Dialogue: 0,0:04:43.54,0:04:44.13,Default,,0000,0000,0000,,Here!
-Dialogue: 0,0:04:44.52,0:04:45.80,Default,,0000,0000,0000,,You fell.
-Dialogue: 0,0:04:46.25,0:04:48.10,Default,,0000,0000,0000,,G-Gao~
-Dialogue: 0,0:04:54.39,0:04:56.52,Default,,0000,0000,0000,,Gooey Concentrated Peach Nectar.
-Dialogue: 0,0:05:02.77,0:05:05.30,Default,,0000,0000,0000,,Why did you do that?
-Dialogue: 0,0:05:05.30,0:05:07.50,Default,,0000,0000,0000,,You're teasing me, aren't you?!
-Dialogue: 0,0:05:07.50,0:05:09.33,Default,,0000,0000,0000,,That's not true.
-Dialogue: 0,0:05:09.93,0:05:12.15,Default,,0000,0000,0000,,This drink is delicious.
-Dialogue: 0,0:05:17.32,0:05:19.21,Default,,0000,0000,0000,,Do you want to go to the beach?
-Dialogue: 0,0:05:19.21,0:05:20.54,Default,,0000,0000,0000,,Why?
-Dialogue: 0,0:05:20.55,0:05:22.00,Default,,0000,0000,0000,,Because I want to play.
-Dialogue: 0,0:05:25.82,0:05:29.89,Default,,0000,0000,0000,,Yesterday, the little kids were playing on the beach.
-Dialogue: 0,0:05:29.90,0:05:36.88,Default,,0000,0000,0000,,When I sat next to you as you slept, I kept thinking it looked fun, and I wanted to play too.
-Dialogue: 0,0:05:36.88,0:05:38.17,Default,,0000,0000,0000,,You were watching me?
-Dialogue: 0,0:05:38.17,0:05:40.41,Default,,0000,0000,0000,,You've been sleeping there since yesterday, right?
-Dialogue: 0,0:05:40.66,0:05:45.36,Default,,0000,0000,0000,,I poked you to try and wake you up, but you didn't wake up.
-Dialogue: 0,0:05:45.84,0:05:47.82,Default,,0000,0000,0000,,I was so hungry, I couldn't move.
-Dialogue: 0,0:05:48.45,0:05:49.91,Default,,0000,0000,0000,,Where are you going?
-Dialogue: 0,0:05:49.91,0:05:50.95,Default,,0000,0000,0000,,To work.
-Dialogue: 0,0:05:50.95,0:05:52.15,Default,,0000,0000,0000,,Work?
-Dialogue: 0,0:05:52.15,0:05:53.19,Default,,0000,0000,0000,,What kind of work?
-Dialogue: 0,0:05:53.19,0:05:54.29,Default,,0000,0000,0000,,A puppet show.
-Dialogue: 0,0:05:54.67,0:05:55.28,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:05:56.85,0:05:57.87,Default,,0000,0000,0000,,It's gone!
-Dialogue: 0,0:06:00.72,0:06:02.80,Default,,0000,0000,0000,,Is it that important?
-Dialogue: 0,0:06:03.17,0:06:04.59,Default,,0000,0000,0000,,I need it for work.
-Dialogue: 0,0:06:08.04,0:06:09.01,Default,,0000,0000,0000,,It's hot, isn't it?
-Dialogue: 0,0:06:09.02,0:06:10.51,Default,,0000,0000,0000,,It's all right. Just go on home.
-Dialogue: 0,0:06:14.18,0:06:14.93,Default,,0000,0000,0000,,There it is!
-Dialogue: 0,0:06:15.44,0:06:18.44,Default,,0000,0000,0000,,Crow! Crow!
-Dialogue: 0,0:06:17.14,0:06:18.44,Default,,0000,0000,0000,,No! Not that!
-Dialogue: 0,0:06:19.48,0:06:20.77,Default,,0000,0000,0000,,Aren't you glad?
-Dialogue: 0,0:06:20.78,0:06:23.36,Default,,0000,0000,0000,,Yeah, I am. It's all thanks to you.
-Dialogue: 0,0:06:23.36,0:06:25.82,Default,,0000,0000,0000,,Now you can play with me, right?
-Dialogue: 0,0:06:26.22,0:06:27.44,Default,,0000,0000,0000,,What do you want?
-Dialogue: 0,0:06:27.89,0:06:30.28,Default,,0000,0000,0000,,Why have you been following me all this time?
-Dialogue: 0,0:06:30.29,0:06:34.29,Default,,0000,0000,0000,,Like I said, we're going to play on the beach.
-Dialogue: 0,0:06:34.29,0:06:37.43,Default,,0000,0000,0000,,We're going to race and splash water at each other,
-Dialogue: 0,0:06:37.43,0:06:41.52,Default,,0000,0000,0000,,and when we're finished, we'll say "See you tomorrow!" and go our separate ways.
-Dialogue: 0,0:06:42.28,0:06:44.91,Default,,0000,0000,0000,,That sounds almost like we're friends.
-Dialogue: 0,0:06:44.91,0:06:46.59,Default,,0000,0000,0000,,Yes, friends.
-Dialogue: 0,0:06:46.59,0:06:48.86,Default,,0000,0000,0000,,We're friends.
-Dialogue: 0,0:06:51.29,0:06:52.35,Default,,0000,0000,0000,,So you see...
-Dialogue: 0,0:06:53.41,0:06:54.81,Default,,0000,0000,0000,,I want to play!
-Dialogue: 0,0:06:54.81,0:06:57.13,Default,,0000,0000,0000,,We don't even know each other's names yet.
-Dialogue: 0,0:06:57.13,0:06:58.69,Default,,0000,0000,0000,,I'm Misuzu Kamio.
-Dialogue: 0,0:06:58.69,0:06:59.67,Default,,0000,0000,0000,,What's yours?
-Dialogue: 0,0:07:00.74,0:07:01.93,Default,,0000,0000,0000,,Yukito Kunisaki...
-Dialogue: 0,0:07:01.93,0:07:04.23,Default,,0000,0000,0000,,But listen! I have work to do.
-Dialogue: 0,0:07:06.69,0:07:09.90,Default,,0000,0000,0000,,Since I'm hungry, I have to earn some money.
-Dialogue: 0,0:07:09.90,0:07:11.74,Default,,0000,0000,0000,,Oh! If that's the case...
-Dialogue: 0,0:07:12.87,0:07:16.62,Default,,0000,0000,0000,,I followed her blindly home, lured by the thought of food.
-Dialogue: 0,0:07:17.21,0:07:19.41,Default,,0000,0000,0000,,It's nice to eat with someone else, isn't it?
-Dialogue: 0,0:07:19.41,0:07:21.37,Default,,0000,0000,0000,,Do you usually eat alone?
-Dialogue: 0,0:07:21.37,0:07:25.34,Default,,0000,0000,0000,,Mommy comes home late, and I don't have a daddy.
-Dialogue: 0,0:07:27.96,0:07:29.96,Default,,0000,0000,0000,,After you finish eating, let's play, okay?
-Dialogue: 0,0:07:29.96,0:07:33.13,Default,,0000,0000,0000,,No way. If it gets late, I'll have trouble finding a place to stay.
-Dialogue: 0,0:07:33.13,0:07:35.83,Default,,0000,0000,0000,,You haven't found a place to stay yet?
-Dialogue: 0,0:07:35.83,0:07:38.01,Default,,0000,0000,0000,,No. I'll probably end up sleeping outside.
-Dialogue: 0,0:07:38.01,0:07:39.56,Default,,0000,0000,0000,,Stay at my house!
-Dialogue: 0,0:07:41.40,0:07:44.46,Default,,0000,0000,0000,,Now listen. We just met today.
-Dialogue: 0,0:07:44.46,0:07:47.05,Default,,0000,0000,0000,,And you have no idea who on earth I am.
-Dialogue: 0,0:07:47.05,0:07:50.82,Default,,0000,0000,0000,,Who in their right mind would let someone like that stay?
-Dialogue: 0,0:07:51.31,0:07:53.28,Default,,0000,0000,0000,,In any case, your mom wouldn't allow it.
-Dialogue: 0,0:07:53.79,0:07:58.06,Default,,0000,0000,0000,,Mommy's really lax, so I don't think it'll be a problem.
-Dialogue: 0,0:07:58.06,0:08:01.33,Default,,0000,0000,0000,,Though, I guess one shouldn't talk of one's parents like that.
-Dialogue: 0,0:08:01.33,0:08:03.77,Default,,0000,0000,0000,,But really, it's okay for you to stay.
-Dialogue: 0,0:08:04.14,0:08:06.78,Default,,0000,0000,0000,,I'm tired. I don't have the energy to play.
-Dialogue: 0,0:08:06.78,0:08:09.62,Default,,0000,0000,0000,,Then we can play tomorrow.
-Dialogue: 0,0:08:09.62,0:08:12.05,Default,,0000,0000,0000,,It's summer vacation, so I have plenty of time.
-Dialogue: 0,0:08:12.05,0:08:12.72,Default,,0000,0000,0000,,No way.
-Dialogue: 0,0:08:13.35,0:08:15.22,Default,,0000,0000,0000,,G-Gao~
-Dialogue: 0,0:08:19.37,0:08:23.14,Default,,0000,0000,0000,,Hey, what do you think math is useful for?
-Dialogue: 0,0:08:23.67,0:08:26.33,Default,,0000,0000,0000,,Will quadratic functions be useful for me in the future?
-Dialogue: 0,0:08:26.33,0:08:27.23,Default,,0000,0000,0000,,How should I know?
-Dialogue: 0,0:08:27.23,0:08:31.01,Default,,0000,0000,0000,,Anyway, why am I helping you with your homework?
-Dialogue: 0,0:08:31.01,0:08:32.67,Default,,0000,0000,0000,,Hey, your eyes are too close.
-Dialogue: 0,0:08:33.31,0:08:36.35,Default,,0000,0000,0000,,Yukito-san, you sound just like Mommy.
-Dialogue: 0,0:08:36.35,0:08:37.12,Default,,0000,0000,0000,,Do I?
-Dialogue: 0,0:08:42.82,0:08:44.51,Default,,0000,0000,0000,,Mommy's home.
-Dialogue: 0,0:08:48.52,0:08:49.59,Default,,0000,0000,0000,,Hey!
-Dialogue: 0,0:08:49.59,0:08:51.84,Default,,0000,0000,0000,,She crashed her motorcycle into the shed.
-Dialogue: 0,0:08:51.84,0:08:54.09,Default,,0000,0000,0000,,Don't worry. It happens all the time.
-Dialogue: 0,0:08:54.53,0:08:56.43,Default,,0000,0000,0000,,Are you really sure it's okay for me to be here?
-Dialogue: 0,0:08:56.43,0:08:58.60,Default,,0000,0000,0000,,Yup! I'll persuade her.
-Dialogue: 0,0:08:58.60,0:09:00.06,Default,,0000,0000,0000,,Absolutely not!
-Dialogue: 0,0:09:00.67,0:09:02.33,Default,,0000,0000,0000,,This is not how you said it would be.
-Dialogue: 0,0:09:02.33,0:09:03.52,Default,,0000,0000,0000,,Enough! No discussion!
-Dialogue: 0,0:09:03.52,0:09:06.98,Default,,0000,0000,0000,,There's no way we can let a young guy like him stay.
-Dialogue: 0,0:09:07.32,0:09:08.93,Default,,0000,0000,0000,,G-Gao~
-Dialogue: 0,0:09:09.76,0:09:12.44,Default,,0000,0000,0000,,How many times do I have to tell you to stop saying that?
-Dialogue: 0,0:09:13.01,0:09:15.67,Default,,0000,0000,0000,,How do you know Misuzu?
-Comment: 0,0:09:15.82,0:09:15.95,Typesetting,,0000,0000,0000,,CLASSMATE
-Dialogue: 0,0:09:15.95,0:09:15.99,Typesetting,,0000,0000,0000,,{\fscx76.25\fscy52.5\frx326\fry346\pos(153,354)\frz1.452}CLASSMATE
-Dialogue: 0,0:09:15.99,0:09:16.11,Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\pos(229,300)\frz1.954}CLASSMATE
-Dialogue: 0,0:09:16.11,0:09:16.32,Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz1.954\pos(252,288)}CLASSMATE
-Dialogue: 0,0:09:16.32,0:09:16.45,Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\pos(258,287)\frz1.816}CLASSMATE
-Dialogue: 0,0:09:16.45,0:09:16.61,Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\pos(277,292)\frz0.431}CLASSMATE
-Dialogue: 0,0:09:16.61,0:09:16.90,Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz359.518\pos(288,294)}CLASSMATE
-Dialogue: 0,0:09:17.32,0:09:19.87,Default,,0000,0000,0000,,Uh... I'm her classmate.
-Dialogue: 0,0:09:19.87,0:09:20.13,Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz359.518\pos(288,294)}CLASSMATE
-Dialogue: 0,0:09:20.13,0:09:20.24,Typesetting,,0000,0000,0000,,{\frx0\fry26\pos(290,324)\fscx67.5\fscy63.75\frz359.902}CLASSMATE
-Dialogue: 0,0:09:20.24,0:09:20.37,Typesetting,,0000,0000,0000,,{\frx0\fry26\fscx67.5\fscy63.75\frz359.902\pos(288,340)}CLASSMATE
-Dialogue: 0,0:09:20.37,0:09:20.91,Typesetting,,0000,0000,0000,,{\frx0\fry26\frz359.902\fscx62.5\fscy55\pos(287,356)}CLASSMATE
-Dialogue: 0,0:09:20.91,0:09:21.01,Typesetting,,0000,0000,0000,,{\frx354\fry46\frz5.327\fscx53.75\fscy56.25\pos(295,364)}CLASSMATE
+Dialogue: 0,0:00:01.17,0:00:03.04,Air Narrator,,0000,0000,0000,,{\fad(450,0)}My child,
+Dialogue: 0,0:00:03.04,0:00:05.45,Air Narrator,,0000,0000,0000,,listen carefully.
+Dialogue: 0,0:00:05.45,0:00:09.42,Air Narrator,,0000,0000,0000,,The story I'm about to tell is very important.
+Dialogue: 0,0:00:10.42,0:00:15.61,Air Narrator,,0000,0000,0000,,It is the story of a long, long journey,
+Dialogue: 0,0:00:15.61,0:00:21.98,Air Narrator,,0000,0000,0000,,{\fad(0,450)}a story that will be passed down forever from parent to child, starting now.
+Dialogue: 0,0:00:32.27,0:00:33.59,Air Dialogue,,0000,0000,0000,,I'm hungry.
+Dialogue: 0,0:00:33.59,0:00:35.26,Air Dialogue,,0000,0000,0000,,Argh, I'm hungry!
+Dialogue: 0,0:00:35.26,0:00:37.20,Air Dialogue,,0000,0000,0000,,That's all you've been saying.
+Dialogue: 0,0:00:37.20,0:00:40.15,Air Dialogue,,0000,0000,0000,,You're so slow. Walk faster.
+Dialogue: 0,0:00:39.34,0:00:40.39,Air Dialogue,,0000,0000,0000,,Hey, you guys!
+Dialogue: 0,0:00:42.11,0:00:45.31,Air Dialogue,,0000,0000,0000,,Have you heard of a "Ramen Set"?
+Dialogue: 0,0:00:46.01,0:00:48.44,Air Dialogue,,0000,0000,0000,,I'm absolutely starving right now.
+Dialogue: 0,0:00:48.44,0:00:50.78,Air Dialogue,,0000,0000,0000,,There's nothing I want more than to eat a Ramen Set!
+Dialogue: 0,0:00:51.64,0:00:52.39,Air Dialogue,,0000,0000,0000,,But,
+Dialogue: 0,0:00:52.39,0:00:54.78,Air Dialogue,,0000,0000,0000,,unfortunately, I'm broke. So...
+Dialogue: 0,0:00:55.96,0:00:58.68,Air Dialogue,,0000,0000,0000,,Come! It's time for a fun puppet show.
+Dialogue: 0,0:00:58.68,0:01:00.45,Air Dialogue,,0000,0000,0000,,You can pay me afterwards.
+Dialogue: 0,0:01:08.02,0:01:08.86,Air Dialogue,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:01:08.86,0:01:09.82,Air Dialogue,,0000,0000,0000,,Isn't it great?
+Dialogue: 0,0:01:09.82,0:01:11.04,Air Dialogue,,0000,0000,0000,,Isn't it interesting?
+Dialogue: 0,0:01:11.04,0:01:12.59,Air Dialogue,,0000,0000,0000,,Isn't it fun?
+Dialogue: 0,0:01:12.84,0:01:13.90,Air Dialogue,,0000,0000,0000,,What the hell is this?!
+Dialogue: 0,0:01:13.90,0:01:15.21,Air Dialogue,,0000,0000,0000,,What a filthy doll!
+Dialogue: 0,0:01:15.55,0:01:16.84,Air Dialogue,,0000,0000,0000,,Uncool.
+Dialogue: 0,0:01:16.46,0:01:18.40,Air Dialogue,,0000,0000,0000,,Can't it do anything else?
+Dialogue: 0,0:01:17.84,0:01:18.97,Air Dialogue,,0000,0000,0000,,Hey. Hey...
+Dialogue: 0,0:01:19.28,0:01:21.73,Air Dialogue,,0000,0000,0000,,Kids are best when they're honest...
+Dialogue: 0,0:01:21.73,0:01:24.48,Air Dialogue,,0000,0000,0000,,You can pay me as much as you want, okay?
+Dialogue: 0,0:01:24.48,0:01:27.43,Air Dialogue,,0000,0000,0000,,That's why we're honestly telling you it's lame.
+Dialogue: 0,0:01:27.43,0:01:30.17,Air Dialogue,,0000,0000,0000,,Why should we pay for something like this?
+Dialogue: 0,0:01:30.17,0:01:31.32,Air Dialogue,,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:01:32.10,0:01:33.65,Air Dialogue,,0000,0000,0000,,Listen, you guys!
+Dialogue: 0,0:01:35.59,0:01:36.38,Air Dialogue,,0000,0000,0000,,Take that!
+Dialogue: 0,0:01:37.85,0:01:38.80,Air Dialogue,,0000,0000,0000,,Run!
+Dialogue: 0,0:01:39.98,0:01:41.62,Air Dialogue,,0000,0000,0000,,Wait, you guys!
+Dialogue: 0,0:01:50.43,0:01:52.26,Air Dialogue,,0000,0000,0000,,{\i1\fad(0,300)}It's so hot...{\i0}
+Dialogue: 0,0:03:34.76,0:03:36.23,Air Dialogue,,0000,0000,0000,,R-R-Ramen set!
+Dialogue: 0,0:04:02.01,0:04:05.51,Air Typesetting,,0000,0000,0000,,{\fs36\c&HB83D41&\pos(322,64)}Episode 1
+Dialogue: 0,0:04:06.01,0:04:07.19,Air Dialogue,,0000,0000,0000,,Hello!
+Dialogue: 0,0:04:08.91,0:04:10.10,Air Dialogue,,0000,0000,0000,,{\i1}Who is this girl?{\i0}
+Dialogue: 0,0:04:11.43,0:04:12.81,Air Dialogue,,0000,0000,0000,,Are you alone?
+Dialogue: 0,0:04:15.26,0:04:16.65,Air Dialogue,,0000,0000,0000,,It's hot, isn't it?
+Dialogue: 0,0:04:16.65,0:04:17.82,Air Dialogue,,0000,0000,0000,,{\i1}What?!{\i0}
+Dialogue: 0,0:04:17.82,0:04:19.23,Air Dialogue,,0000,0000,0000,,{\i1}What does she want?{\i0}
+Dialogue: 0,0:04:19.23,0:04:21.29,Air Dialogue,,0000,0000,0000,,{\i1}Money...? I have no money.{\i0}
+Dialogue: 0,0:04:21.62,0:04:23.11,Air Dialogue,,0000,0000,0000,,Aren't you thirsty?
+Dialogue: 0,0:04:23.76,0:04:25.07,Air Dialogue,,0000,0000,0000,,I'll buy you a drink!
+Dialogue: 0,0:04:43.54,0:04:44.13,Air Dialogue,,0000,0000,0000,,Here!
+Dialogue: 0,0:04:44.52,0:04:45.80,Air Dialogue,,0000,0000,0000,,You fell.
+Dialogue: 0,0:04:46.25,0:04:48.10,Air Dialogue,,0000,0000,0000,,G-Gao~
+Dialogue: 0,0:04:54.39,0:04:56.52,Air Dialogue,,0000,0000,0000,,Gooey Concentrated Peach Nectar.
+Dialogue: 0,0:05:02.77,0:05:05.30,Air Dialogue,,0000,0000,0000,,Why did you do that?
+Dialogue: 0,0:05:05.30,0:05:07.50,Air Dialogue,,0000,0000,0000,,You're teasing me, aren't you?!
+Dialogue: 0,0:05:07.50,0:05:09.33,Air Dialogue,,0000,0000,0000,,That's not true.
+Dialogue: 0,0:05:09.93,0:05:12.15,Air Dialogue,,0000,0000,0000,,This drink is delicious.
+Dialogue: 0,0:05:17.32,0:05:19.21,Air Dialogue,,0000,0000,0000,,Do you want to go to the beach?
+Dialogue: 0,0:05:19.21,0:05:20.54,Air Dialogue,,0000,0000,0000,,Why?
+Dialogue: 0,0:05:20.55,0:05:22.00,Air Dialogue,,0000,0000,0000,,Because I want to play.
+Dialogue: 0,0:05:25.82,0:05:29.89,Air Dialogue,,0000,0000,0000,,Yesterday, the little kids were playing on the beach.
+Dialogue: 0,0:05:29.90,0:05:36.88,Air Dialogue,,0000,0000,0000,,When I sat next to you as you slept, I kept thinking it looked fun, and I wanted to play too.
+Dialogue: 0,0:05:36.88,0:05:38.17,Air Dialogue,,0000,0000,0000,,You were watching me?
+Dialogue: 0,0:05:38.17,0:05:40.41,Air Dialogue,,0000,0000,0000,,You've been sleeping there since yesterday, right?
+Dialogue: 0,0:05:40.66,0:05:45.36,Air Dialogue,,0000,0000,0000,,I poked you to try and wake you up, but you didn't wake up.
+Dialogue: 0,0:05:45.84,0:05:47.82,Air Dialogue,,0000,0000,0000,,I was so hungry, I couldn't move.
+Dialogue: 0,0:05:48.45,0:05:49.91,Air Dialogue,,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:05:49.91,0:05:50.95,Air Dialogue,,0000,0000,0000,,To work.
+Dialogue: 0,0:05:50.95,0:05:52.15,Air Dialogue,,0000,0000,0000,,Work?
+Dialogue: 0,0:05:52.15,0:05:53.19,Air Dialogue,,0000,0000,0000,,What kind of work?
+Dialogue: 0,0:05:53.19,0:05:54.29,Air Dialogue,,0000,0000,0000,,A puppet show.
+Dialogue: 0,0:05:54.67,0:05:55.28,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:56.85,0:05:57.87,Air Dialogue,,0000,0000,0000,,It's gone!
+Dialogue: 0,0:06:00.72,0:06:02.80,Air Dialogue,,0000,0000,0000,,Is it that important?
+Dialogue: 0,0:06:03.17,0:06:04.59,Air Dialogue,,0000,0000,0000,,I need it for work.
+Dialogue: 0,0:06:08.04,0:06:09.01,Air Dialogue,,0000,0000,0000,,It's hot, isn't it?
+Dialogue: 0,0:06:09.02,0:06:10.51,Air Dialogue,,0000,0000,0000,,It's all right. Just go on home.
+Dialogue: 0,0:06:14.18,0:06:14.93,Air Dialogue,,0000,0000,0000,,There it is!
+Dialogue: 0,0:06:15.44,0:06:18.44,Air Dialogue,,0000,0000,0000,,Crow! Crow!
+Dialogue: 0,0:06:17.14,0:06:18.44,Air Dialogue,,0000,0000,0000,,No! Not that!
+Dialogue: 0,0:06:19.48,0:06:20.77,Air Dialogue,,0000,0000,0000,,Aren't you glad?
+Dialogue: 0,0:06:20.78,0:06:23.36,Air Dialogue,,0000,0000,0000,,Yeah, I am. It's all thanks to you.
+Dialogue: 0,0:06:23.36,0:06:25.82,Air Dialogue,,0000,0000,0000,,Now you can play with me, right?
+Dialogue: 0,0:06:26.22,0:06:27.44,Air Dialogue,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:06:27.89,0:06:30.28,Air Dialogue,,0000,0000,0000,,Why have you been following me all this time?
+Dialogue: 0,0:06:30.29,0:06:34.29,Air Dialogue,,0000,0000,0000,,Like I said, we're going to play on the beach.
+Dialogue: 0,0:06:34.29,0:06:37.43,Air Dialogue,,0000,0000,0000,,We're going to race and splash water at each other,
+Dialogue: 0,0:06:37.43,0:06:41.52,Air Dialogue,,0000,0000,0000,,and when we're finished, we'll say "See you tomorrow!" and go our separate ways.
+Dialogue: 0,0:06:42.28,0:06:44.91,Air Dialogue,,0000,0000,0000,,That sounds almost like we're friends.
+Dialogue: 0,0:06:44.91,0:06:46.59,Air Dialogue,,0000,0000,0000,,Yes, friends.
+Dialogue: 0,0:06:46.59,0:06:48.86,Air Dialogue,,0000,0000,0000,,We're friends.
+Dialogue: 0,0:06:51.29,0:06:52.35,Air Dialogue,,0000,0000,0000,,So you see...
+Dialogue: 0,0:06:53.41,0:06:54.81,Air Dialogue,,0000,0000,0000,,I want to play!
+Dialogue: 0,0:06:54.81,0:06:57.13,Air Dialogue,,0000,0000,0000,,We don't even know each other's names yet.
+Dialogue: 0,0:06:57.13,0:06:58.69,Air Dialogue,,0000,0000,0000,,I'm Misuzu Kamio.
+Dialogue: 0,0:06:58.69,0:06:59.67,Air Dialogue,,0000,0000,0000,,What's yours?
+Dialogue: 0,0:07:00.74,0:07:01.93,Air Dialogue,,0000,0000,0000,,Yukito Kunisaki...
+Dialogue: 0,0:07:01.93,0:07:04.23,Air Dialogue,,0000,0000,0000,,But listen! I have work to do.
+Dialogue: 0,0:07:06.69,0:07:09.90,Air Dialogue,,0000,0000,0000,,Since I'm hungry, I have to earn some money.
+Dialogue: 0,0:07:09.90,0:07:11.74,Air Dialogue,,0000,0000,0000,,Oh! If that's the case...
+Dialogue: 0,0:07:12.87,0:07:16.62,Air Dialogue,,0000,0000,0000,,I followed her blindly home, lured by the thought of food.
+Dialogue: 0,0:07:17.21,0:07:19.41,Air Dialogue,,0000,0000,0000,,It's nice to eat with someone else, isn't it?
+Dialogue: 0,0:07:19.41,0:07:21.37,Air Dialogue,,0000,0000,0000,,Do you usually eat alone?
+Dialogue: 0,0:07:21.37,0:07:25.34,Air Dialogue,,0000,0000,0000,,Mommy comes home late, and I don't have a daddy.
+Dialogue: 0,0:07:27.96,0:07:29.96,Air Dialogue,,0000,0000,0000,,After you finish eating, let's play, okay?
+Dialogue: 0,0:07:29.96,0:07:33.13,Air Dialogue,,0000,0000,0000,,No way. If it gets late, I'll have trouble finding a place to stay.
+Dialogue: 0,0:07:33.13,0:07:35.83,Air Dialogue,,0000,0000,0000,,You haven't found a place to stay yet?
+Dialogue: 0,0:07:35.83,0:07:38.01,Air Dialogue,,0000,0000,0000,,No. I'll probably end up sleeping outside.
+Dialogue: 0,0:07:38.01,0:07:39.56,Air Dialogue,,0000,0000,0000,,Stay at my house!
+Dialogue: 0,0:07:41.40,0:07:44.46,Air Dialogue,,0000,0000,0000,,Now listen. We just met today.
+Dialogue: 0,0:07:44.46,0:07:47.05,Air Dialogue,,0000,0000,0000,,And you have no idea who on earth I am.
+Dialogue: 0,0:07:47.05,0:07:50.82,Air Dialogue,,0000,0000,0000,,Who in their right mind would let someone like that stay?
+Dialogue: 0,0:07:51.31,0:07:53.28,Air Dialogue,,0000,0000,0000,,In any case, your mom wouldn't allow it.
+Dialogue: 0,0:07:53.79,0:07:58.06,Air Dialogue,,0000,0000,0000,,Mommy's really lax, so I don't think it'll be a problem.
+Dialogue: 0,0:07:58.06,0:08:01.33,Air Dialogue,,0000,0000,0000,,Though, I guess one shouldn't talk of one's parents like that.
+Dialogue: 0,0:08:01.33,0:08:03.77,Air Dialogue,,0000,0000,0000,,But really, it's okay for you to stay.
+Dialogue: 0,0:08:04.14,0:08:06.78,Air Dialogue,,0000,0000,0000,,I'm tired. I don't have the energy to play.
+Dialogue: 0,0:08:06.78,0:08:09.62,Air Dialogue,,0000,0000,0000,,Then we can play tomorrow.
+Dialogue: 0,0:08:09.62,0:08:12.05,Air Dialogue,,0000,0000,0000,,It's summer vacation, so I have plenty of time.
+Dialogue: 0,0:08:12.05,0:08:12.72,Air Dialogue,,0000,0000,0000,,No way.
+Dialogue: 0,0:08:13.35,0:08:15.22,Air Dialogue,,0000,0000,0000,,G-Gao~
+Dialogue: 0,0:08:19.37,0:08:23.14,Air Dialogue,,0000,0000,0000,,Hey, what do you think math is useful for?
+Dialogue: 0,0:08:23.67,0:08:26.33,Air Dialogue,,0000,0000,0000,,Will quadratic functions be useful for me in the future?
+Dialogue: 0,0:08:26.33,0:08:27.23,Air Dialogue,,0000,0000,0000,,How should I know?
+Dialogue: 0,0:08:27.23,0:08:31.01,Air Dialogue,,0000,0000,0000,,Anyway, why am I helping you with your homework?
+Dialogue: 0,0:08:31.01,0:08:32.67,Air Dialogue,,0000,0000,0000,,Hey, your eyes are too close.
+Dialogue: 0,0:08:33.31,0:08:36.35,Air Dialogue,,0000,0000,0000,,Yukito-san, you sound just like Mommy.
+Dialogue: 0,0:08:36.35,0:08:37.12,Air Dialogue,,0000,0000,0000,,Do I?
+Dialogue: 0,0:08:42.82,0:08:44.51,Air Dialogue,,0000,0000,0000,,Mommy's home.
+Dialogue: 0,0:08:48.52,0:08:49.59,Air Dialogue,,0000,0000,0000,,Hey!
+Dialogue: 0,0:08:49.59,0:08:51.84,Air Dialogue,,0000,0000,0000,,She crashed her motorcycle into the shed.
+Dialogue: 0,0:08:51.84,0:08:54.09,Air Dialogue,,0000,0000,0000,,Don't worry. It happens all the time.
+Dialogue: 0,0:08:54.53,0:08:56.43,Air Dialogue,,0000,0000,0000,,Are you really sure it's okay for me to be here?
+Dialogue: 0,0:08:56.43,0:08:58.60,Air Dialogue,,0000,0000,0000,,Yup! I'll persuade her.
+Dialogue: 0,0:08:58.60,0:09:00.06,Air Dialogue,,0000,0000,0000,,Absolutely not!
+Dialogue: 0,0:09:00.67,0:09:02.33,Air Dialogue,,0000,0000,0000,,This is not how you said it would be.
+Dialogue: 0,0:09:02.33,0:09:03.52,Air Dialogue,,0000,0000,0000,,Enough! No discussion!
+Dialogue: 0,0:09:03.52,0:09:06.98,Air Dialogue,,0000,0000,0000,,There's no way we can let a young guy like him stay.
+Dialogue: 0,0:09:07.32,0:09:08.93,Air Dialogue,,0000,0000,0000,,G-Gao~
+Dialogue: 0,0:09:09.76,0:09:12.44,Air Dialogue,,0000,0000,0000,,How many times do I have to tell you to stop saying that?
+Dialogue: 0,0:09:13.01,0:09:15.67,Air Dialogue,,0000,0000,0000,,How do you know Misuzu?
+Comment: 0,0:09:15.82,0:09:15.95,Air Typesetting,,0000,0000,0000,,CLASSMATE
+Dialogue: 0,0:09:15.95,0:09:15.99,Air Typesetting,,0000,0000,0000,,{\fscx76.25\fscy52.5\frx326\fry346\pos(153,354)\frz1.452}CLASSMATE
+Dialogue: 0,0:09:15.99,0:09:16.11,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\pos(229,300)\frz1.954}CLASSMATE
+Dialogue: 0,0:09:16.11,0:09:16.32,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz1.954\pos(252,288)}CLASSMATE
+Dialogue: 0,0:09:16.32,0:09:16.45,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\pos(258,287)\frz1.816}CLASSMATE
+Dialogue: 0,0:09:16.45,0:09:16.61,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\pos(277,292)\frz0.431}CLASSMATE
+Dialogue: 0,0:09:16.61,0:09:16.90,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz359.518\pos(288,294)}CLASSMATE
+Dialogue: 0,0:09:17.32,0:09:19.87,Air Dialogue,,0000,0000,0000,,Uh... I'm her classmate.
+Dialogue: 0,0:09:19.87,0:09:20.13,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz359.518\pos(288,294)}CLASSMATE
+Dialogue: 0,0:09:20.13,0:09:20.24,Air Typesetting,,0000,0000,0000,,{\frx0\fry26\pos(290,324)\fscx67.5\fscy63.75\frz359.902}CLASSMATE
+Dialogue: 0,0:09:20.24,0:09:20.37,Air Typesetting,,0000,0000,0000,,{\frx0\fry26\fscx67.5\fscy63.75\frz359.902\pos(288,340)}CLASSMATE
+Dialogue: 0,0:09:20.37,0:09:20.91,Air Typesetting,,0000,0000,0000,,{\frx0\fry26\frz359.902\fscx62.5\fscy55\pos(287,356)}CLASSMATE
+Dialogue: 0,0:09:20.91,0:09:21.01,Air Typesetting,,0000,0000,0000,,{\frx354\fry46\frz5.327\fscx53.75\fscy56.25\pos(295,364)}CLASSMATE
 Dialogue: 0,0:09:20.26,0:09:23.36,Default,,0000,0000,0000,,Huh? You look a bit old for that.
-Dialogue: 0,0:09:23.20,0:09:23.30,Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz3.299\pos(249,159)}DON'T FALL FOR ME
-Dialogue: 0,0:09:23.30,0:09:23.40,Typesetting,,0000,0000,0000,,{\frx40\fry16\fscx61.25\fscy55\frz4.058\pos(212,79)}DON'T FALL FOR ME
-Dialogue: 0,0:09:23.40,0:09:23.55,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz1.792\fscx62.5\fscy60\pos(219,119)}DON'T FALL FOR ME
-Dialogue: 0,0:09:23.55,0:09:23.70,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz1.792\fscx62.5\fscy60\pos(227,197)}DON'T FALL FOR ME
-Dialogue: 0,0:09:23.70,0:09:23.91,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\pos(222,313)\fscx68.75\fscy65}DON'T FALL FOR ME
-Dialogue: 0,0:09:23.91,0:09:24.05,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\fscx68.75\fscy65\pos(241,309)}DON'T FALL FOR ME
-Dialogue: 0,0:09:24.05,0:09:24.17,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\fscx68.75\fscy65\pos(260,306)}DON'T FALL FOR ME
-Dialogue: 0,0:09:24.17,0:09:24.63,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\fscx68.75\fscy65\pos(296,298)}DON'T FALL FOR ME
-Dialogue: 0,0:09:25.10,0:09:26.42,Default,,0000,0000,0000,,Don't fall for me.
-Dialogue: 0,0:09:26.42,0:09:28.25,Default,,0000,0000,0000,,As if I would!
-Dialogue: 0,0:09:26.52,0:09:26.64,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\pos(401,311)\fscx32.5\fscy31.25}DON'T FALL FOR ME
-Dialogue: 0,0:09:26.62,0:09:26.81,Typesetting,,0000,0000,0000,,{\frx14\fry0\fscx32.5\fscy31.25\pos(384,330)\frz1.727}DON'T FALL FOR ME
-Dialogue: 0,0:09:26.79,0:09:27.00,Typesetting,,0000,0000,0000,,{\frx14\fry0\frz1.727\pos(358,356)\fscx36.25\fscy30\clip(m 325 340 l 356 363 437 361 426 328)}DON'T FALL FOR ME
-Dialogue: 0,0:09:29.88,0:09:33.45,Default,,0000,0000,0000,,Well, you seem to have guts. I like that about you.
-Dialogue: 0,0:09:33.45,0:09:35.97,Default,,0000,0000,0000,,That's right. Yukito-san is a very good person.
-Dialogue: 0,0:09:37.09,0:09:38.08,Default,,0000,0000,0000,,I understand.
-Dialogue: 0,0:09:38.08,0:09:39.17,Default,,0000,0000,0000,,I'll let him stay.
-Dialogue: 0,0:09:39.17,0:09:40.19,Default,,0000,0000,0000,,Seriously?
-Dialogue: 0,0:09:40.19,0:09:42.38,Default,,0000,0000,0000,,Seriously? Of course! I'm deadly serious.
-Dialogue: 0,0:09:42.38,0:09:44.67,Default,,0000,0000,0000,,But there are two conditions.
-Dialogue: 0,0:09:44.67,0:09:45.98,Default,,0000,0000,0000,,You'll sleep in the shed.
-Dialogue: 0,0:09:46.38,0:09:47.23,Default,,0000,0000,0000,,And...
-Dialogue: 0,0:09:48.42,0:09:50.27,Default,,0000,0000,0000,,You will have a drink with me.
-Dialogue: 0,0:09:52.11,0:09:56.61,Default,,0000,0000,0000,,And then, in the end, this is what he said...
-Dialogue: 0,0:09:56.91,0:10:00.82,Default,,0000,0000,0000,,"Perhaps the one who fell in love was me."
-Dialogue: 0,0:10:01.18,0:10:02.23,Default,,0000,0000,0000,,See!
-Dialogue: 0,0:10:02.23,0:10:03.30,Default,,0000,0000,0000,,How's that?
-Dialogue: 0,0:10:03.30,0:10:04.75,Default,,0000,0000,0000,,I win, right?
-Dialogue: 0,0:10:04.75,0:10:06.54,Default,,0000,0000,0000,,So I told him,
-Dialogue: 0,0:10:07.02,0:10:09.54,Default,,0000,0000,0000,,"The fish you let escape was a mermaid,"
-Dialogue: 0,0:10:09.93,0:10:10.97,Default,,0000,0000,0000,,How's that?
-Dialogue: 0,0:10:10.97,0:10:12.50,Default,,0000,0000,0000,,That struck home, right?
-Dialogue: 0,0:10:12.89,0:10:14.35,Default,,0000,0000,0000,,How did it end up like this?
-Dialogue: 0,0:10:14.35,0:10:16.01,Default,,0000,0000,0000,,Mommy's at her best.
-Dialogue: 0,0:10:16.40,0:10:19.31,Default,,0000,0000,0000,,Hey, freeloader. Why are you looking so glum?
-Dialogue: 0,0:10:19.31,0:10:21.05,Default,,0000,0000,0000,,Why don't you join in?
-Dialogue: 0,0:10:21.22,0:10:22.35,Default,,0000,0000,0000,,My eeeeeyes!
-Dialogue: 0,0:10:22.35,0:10:23.34,Default,,0000,0000,0000,,Yukito-san!
-Dialogue: 0,0:10:24.32,0:10:25.58,Default,,0000,0000,0000,,Join in?
-Dialogue: 0,0:10:25.58,0:10:26.93,Default,,0000,0000,0000,,What do you want me to say?
-Dialogue: 0,0:10:26.93,0:10:31.40,Default,,0000,0000,0000,,Anything, like a story of an erotic confession of love or a hidden talent.
-Dialogue: 0,0:10:31.68,0:10:32.49,Default,,0000,0000,0000,,I see.
-Dialogue: 0,0:10:32.81,0:10:33.66,Default,,0000,0000,0000,,In that case...
-Dialogue: 0,0:10:36.96,0:10:38.57,Default,,0000,0000,0000,,Oh, that's the doll from earlier.
-Dialogue: 0,0:10:44.06,0:10:45.49,Default,,0000,0000,0000,,Wow! That's impressive.
-Dialogue: 0,0:10:46.11,0:10:48.46,Default,,0000,0000,0000,,This trick is how I earn a living.
-Dialogue: 0,0:10:48.81,0:10:51.93,Default,,0000,0000,0000,,My mother also used to travel with this as her profession.
-Dialogue: 0,0:10:53.48,0:10:54.88,Default,,0000,0000,0000,,Does this have a punch line?
-Dialogue: 0,0:10:57.11,0:10:59.89,Default,,0000,0000,0000,,No good. You're not funny at all.
-Dialogue: 0,0:10:59.89,0:11:03.01,Default,,0000,0000,0000,,But isn't it amazing he's not using any tricks?
-Dialogue: 0,0:11:03.01,0:11:04.89,Default,,0000,0000,0000,,Who cares?
-Dialogue: 0,0:11:04.89,0:11:08.85,Default,,0000,0000,0000,,Even if it had obvious strings showing, it would be better if it were funny.
-Dialogue: 0,0:11:09.20,0:11:09.79,Default,,0000,0000,0000,,Good night.
-Dialogue: 0,0:11:10.09,0:11:12.98,Default,,0000,0000,0000,,Ah! He's leaving on his own!
-Dialogue: 0,0:11:14.04,0:11:16.33,Default,,0000,0000,0000,,It doesn't really matter that you don't have any talents.
-Dialogue: 0,0:11:16.33,0:11:18.09,Default,,0000,0000,0000,,Just down the sorrow with some drinks.
-Dialogue: 0,0:11:20.21,0:11:22.02,Default,,0000,0000,0000,,My name's Haruko.
-Dialogue: 0,0:11:22.02,0:11:23.62,Default,,0000,0000,0000,,Haruko Kamio.
-Dialogue: 0,0:11:23.99,0:11:25.58,Default,,0000,0000,0000,,Give me one more glass, missus.
-Dialogue: 0,0:11:26.41,0:11:29.79,Default,,0000,0000,0000,,Didn't I tell you my name so that you wouldn't call me that?
-Dialogue: 0,0:11:29.79,0:11:31.88,Default,,0000,0000,0000,,Geez! You're such an insensitive guy.
-Dialogue: 0,0:11:34.17,0:11:35.10,Default,,0000,0000,0000,,So...
-Dialogue: 0,0:11:35.10,0:11:36.34,Default,,0000,0000,0000,,Are you a runaway?
-Dialogue: 0,0:11:36.92,0:11:38.17,Default,,0000,0000,0000,,I'm on a journey.
-Dialogue: 0,0:11:39.03,0:11:41.83,Default,,0000,0000,0000,,Are you chasing a goal or a dream?
-Dialogue: 0,0:11:41.83,0:11:42.80,Default,,0000,0000,0000,,I guess.
-Dialogue: 0,0:11:43.40,0:11:44.76,Default,,0000,0000,0000,,You're so young.
-Dialogue: 0,0:11:45.21,0:11:46.38,Default,,0000,0000,0000,,Well, compared to you.
-Dialogue: 0,0:11:49.71,0:11:51.69,Default,,0000,0000,0000,,You're quite a funny guy.
-Dialogue: 0,0:11:51.69,0:11:52.42,Default,,0000,0000,0000,,I am?
-Dialogue: 0,0:11:52.42,0:11:55.79,Default,,0000,0000,0000,,I may not look like it, but I have a pretty good eye for judging men.
-Dialogue: 0,0:11:55.79,0:11:57.57,Default,,0000,0000,0000,,I can let you stay for a while,
-Dialogue: 0,0:11:58.04,0:11:59.28,Default,,0000,0000,0000,,but I have a favor to ask.
-Dialogue: 0,0:12:00.35,0:12:02.40,Default,,0000,0000,0000,,Can you look after her?
-Dialogue: 0,0:12:02.87,0:12:03.61,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:12:03.64,0:12:06.92,Default,,0000,0000,0000,,You've seen her reckless side, right?
-Dialogue: 0,0:12:06.92,0:12:11.08,Default,,0000,0000,0000,,She's impulsive, and once something catches her eye, she'll be attracted to it like a bee to honey.
-Dialogue: 0,0:12:11.30,0:12:12.65,Default,,0000,0000,0000,,So I'm a babysitter?
-Dialogue: 0,0:12:12.65,0:12:16.54,Default,,0000,0000,0000,,Also, can you stop her saying that phrase?
-Dialogue: 0,0:12:16.84,0:12:17.93,Default,,0000,0000,0000,,"Gao!"
-Dialogue: 0,0:12:17.93,0:12:21.01,Default,,0000,0000,0000,,It's what she says when she's frustrated or about to cry, right?
-Dialogue: 0,0:12:21.44,0:12:22.10,Default,,0000,0000,0000,,Yeah...
-Dialogue: 0,0:12:22.51,0:12:24.84,Default,,0000,0000,0000,,Oh, it's supposed to sound like a dinosaur.
-Dialogue: 0,0:12:25.35,0:12:29.47,Default,,0000,0000,0000,,She loves dinosaurs. She's been saying that since she was little.
-Dialogue: 0,0:12:30.21,0:12:32.86,Default,,0000,0000,0000,,She's still just a child.
-Dialogue: 0,0:12:42.70,0:12:45.05,Default,,0000,0000,0000,,What are you doing?
-Dialogue: 0,0:12:46.06,0:12:47.53,Default,,0000,0000,0000,,Well, I have to take remedial classes.
-Dialogue: 0,0:12:48.37,0:12:49.99,Default,,0000,0000,0000,,Has Haruko already left?
-Dialogue: 0,0:12:49.99,0:12:52.50,Default,,0000,0000,0000,,Yeah. She leaves early every day.
-Dialogue: 0,0:12:52.50,0:12:55.44,Default,,0000,0000,0000,,It's the first time in a while that I've eaten breakfast with someone.
-Dialogue: 0,0:12:56.70,0:12:58.91,Default,,0000,0000,0000,,Yukito-san, what are you going to do today?
-Dialogue: 0,0:12:58.91,0:13:01.18,Default,,0000,0000,0000,,For now, I'll walk you to school.
-Dialogue: 0,0:13:01.63,0:13:06.52,Default,,0000,0000,0000,,Haruko asked me to watch you so that you don't do anything stupid.
-Dialogue: 0,0:13:07.40,0:13:09.81,Default,,0000,0000,0000,,She still doesn't trust me at all.
-Dialogue: 0,0:13:10.37,0:13:11.72,Default,,0000,0000,0000,,Gao~!
-Dialogue: 0,0:13:12.45,0:13:13.30,Default,,0000,0000,0000,,I'm done!
-Dialogue: 0,0:13:13.30,0:13:14.52,Default,,0000,0000,0000,,It's a map of this town.
-Dialogue: 0,0:13:14.95,0:13:16.27,Default,,0000,0000,0000,,That was fast.
-Dialogue: 0,0:13:16.81,0:13:19.79,Default,,0000,0000,0000,,It will show you where you people gather together.
-Dialogue: 0,0:13:19.79,0:13:22.07,Default,,0000,0000,0000,,It'll be useful for your work, right?
-Dialogue: 0,0:13:23.16,0:13:24.72,Default,,0000,0000,0000,,Yeah, it'll help.
-Dialogue: 0,0:13:26.03,0:13:27.61,Default,,0000,0000,0000,,Oh, I'm going to be late.
-Dialogue: 0,0:13:27.61,0:13:29.22,Default,,0000,0000,0000,,Misuzu-chin is in a pinch!
-Dialogue: 0,0:13:33.52,0:13:35.25,Default,,0000,0000,0000,,I'll come to pick you up after school.
-Dialogue: 0,0:13:35.25,0:13:36.55,Default,,0000,0000,0000,,We'll meet here.
-Dialogue: 0,0:13:36.55,0:13:37.36,Default,,0000,0000,0000,,Okay!
-Dialogue: 0,0:13:49.18,0:13:51.67,Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz25.094\t($sstart,$send,\fs22)\move(138,105,178,137,0,2484)}Japanese\Nuse\Nthese,\Nright?
-Dialogue: 0,0:13:49.18,0:13:51.67,Typesetting,,0000,0000,0000,,{\fscx62.5\fscy63.75\frz7.094\t($sstart,$send,\fs22)\c&H170B66&\move(247,203,264,214,0,2484)}I'm\Nstudying
-Dialogue: 0,0:13:49.18,0:13:51.67,Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz356.864\t($sstart,$send,\fs22)\move(332,446,324,397,0,2484)}Munch munch
-Dialogue: 0,0:13:49.18,0:13:51.67,Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz27.01\t($sstart,$send,\fs22)\move(100,425,149,378,0,2484)}Its the ocean!
-Dialogue: 0,0:13:49.18,0:13:51.67,Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz358.684\t($sstart,$send,\fs22)\move(410,168,387,193,0,2484)}Here 
-Dialogue: 0,0:13:49.18,0:13:51.67,Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\t($sstart,$send,\fs22)\frz352.797\move(467,464,428,410,0,2484)}Delicious!
-Comment: 0,0:13:50.26,0:13:51.68,Default,,0000,0000,0000,,What... is this?
-Dialogue: 0,0:13:51.96,0:13:54.71,Default,,0000,0000,0000,,Is this how she sees the world?
-Dialogue: 0,0:13:54.71,0:13:55.46,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:14:01.24,0:14:02.77,Default,,0000,0000,0000,,What do you want?
-Dialogue: 0,0:14:02.77,0:14:03.69,Default,,0000,0000,0000,,Piko-piko!
-Dialogue: 0,0:14:04.12,0:14:06.77,Default,,0000,0000,0000,,Are you this town's local legendary creature?
-Dialogue: 0,0:14:06.77,0:14:07.74,Default,,0000,0000,0000,,Piko-piko-piko!
-Dialogue: 0,0:14:08.46,0:14:11.74,Default,,0000,0000,0000,,If he really is, I'll do it a favor, then it'll give me something in return,
-Dialogue: 0,0:14:11.74,0:14:13.83,Default,,0000,0000,0000,,just like in those fairytales.
-Dialogue: 0,0:14:13.83,0:14:15.52,Default,,0000,0000,0000,,Piko-piko-piko!
-Dialogue: 0,0:14:15.52,0:14:16.76,Default,,0000,0000,0000,,Okay, come here.
-Dialogue: 0,0:14:16.76,0:14:17.71,Default,,0000,0000,0000,,I'll show you something good.
-Dialogue: 0,0:14:19.58,0:14:20.65,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:14:20.65,0:14:21.55,Default,,0000,0000,0000,,Piko-piko!
-Dialogue: 0,0:14:21.55,0:14:22.75,Default,,0000,0000,0000,,Piko... Piko!
-Dialogue: 0,0:14:23.36,0:14:24.20,Default,,0000,0000,0000,,What do you think?
-Dialogue: 0,0:14:24.20,0:14:27.72,Default,,0000,0000,0000,,Isn't it such a great trick that it makes you feel like giving me something in return?
-Dialogue: 0,0:14:27.72,0:14:30.21,Default,,0000,0000,0000,,Piko! Piko! Piko... Piko...
-Dialogue: 0,0:14:30.21,0:14:31.14,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:14:31.14,0:14:31.99,Default,,0000,0000,0000,,Hey!
-Dialogue: 0,0:14:31.99,0:14:32.78,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:14:32.78,0:14:33.40,Default,,0000,0000,0000,,Wait!
-Dialogue: 0,0:14:33.40,0:14:35.31,Default,,0000,0000,0000,,Pikooo~
-Dialogue: 0,0:14:35.31,0:14:36.40,Default,,0000,0000,0000,,Piko-Piko...
-Dialogue: 0,0:14:36.08,0:14:37.06,Default,,0000,0000,0000,,WAIT!
-Dialogue: 0,0:14:37.06,0:14:38.49,Default,,0000,0000,0000,,Piko! Piko! Piko!
-Dialogue: 0,0:14:40.50,0:14:41.65,Default,,0000,0000,0000,,Piko.
-Dialogue: 0,0:14:42.11,0:14:43.90,Default,,0000,0000,0000,,Pi-P-Pi-Piko!
-Dialogue: 0,0:14:45.21,0:14:46.17,Default,,0000,0000,0000,,Piko.
-Dialogue: 0,0:14:47.94,0:14:49.78,Default,,0000,0000,0000,,Piko-piko! Piko!
-Dialogue: 0,0:14:51.73,0:14:53.14,Default,,0000,0000,0000,,Piko. Piko.
-Dialogue: 0,0:14:53.14,0:14:56.79,Default,,0000,0000,0000,,Give me a break, you evil extraterrestial creature.
-Dialogue: 0,0:14:57.16,0:14:59.00,Default,,0000,0000,0000,,Piko... Piko...
-Dialogue: 0,0:14:59.00,0:14:59.71,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:14:59.71,0:15:00.83,Default,,0000,0000,0000,,You won't get away!
-Dialogue: 0,0:15:00.83,0:15:01.46,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:15:07.01,0:15:08.92,Default,,0000,0000,0000,,What are you doing?
-Dialogue: 0,0:15:13.47,0:15:17.43,Default,,0000,0000,0000,,A strange extraterrestrial creature stole my doll and ran away.
-Dialogue: 0,0:15:18.33,0:15:18.88,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:15:18.88,0:15:19.89,Default,,0000,0000,0000,,You mean him?
-Dialogue: 0,0:15:20.21,0:15:23.05,Default,,0000,0000,0000,,Potato isn't an extraterrestrial creature.
-Dialogue: 0,0:15:23.05,0:15:25.36,Default,,0000,0000,0000,,He's a stray dog from my neighborhood.
-Dialogue: 0,0:15:25.75,0:15:28.36,Default,,0000,0000,0000,,That's actually a dog?
-Dialogue: 0,0:15:28.59,0:15:30.82,Default,,0000,0000,0000,,Piko! Piko-piko!
-Dialogue: 0,0:15:31.06,0:15:31.86,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:15:31.86,0:15:35.26,Default,,0000,0000,0000,,Piko-piko! Piko-piko-piko! Piko!
-Dialogue: 0,0:15:35.26,0:15:36.53,Default,,0000,0000,0000,,I see...
-Dialogue: 0,0:15:36.53,0:15:39.20,Default,,0000,0000,0000,,I'm sorry he caused you so much trouble.
-Dialogue: 0,0:15:39.20,0:15:40.75,Default,,0000,0000,0000,,Why are you apologizing?
-Dialogue: 0,0:15:40.94,0:15:44.64,Default,,0000,0000,0000,,Well, Potato said that he took your doll and ran here.
-Dialogue: 0,0:15:44.64,0:15:46.71,Default,,0000,0000,0000,,Apparently, he wanted to play with you.
-Dialogue: 0,0:15:46.01,0:15:47.05,Default,,0000,0000,0000,,Piko-piko!
-Dialogue: 0,0:15:47.05,0:15:49.24,Default,,0000,0000,0000,,You can understand what he's saying?
-Dialogue: 0,0:15:49.24,0:15:51.17,Default,,0000,0000,0000,,Yes! We're best friends.
-Dialogue: 0,0:15:51.48,0:15:52.61,Default,,0000,0000,0000,,Right, Potato?
-Dialogue: 0,0:15:52.61,0:15:53.68,Default,,0000,0000,0000,,Piko, piko!
-Dialogue: 0,0:15:53.68,0:15:58.14,Default,,0000,0000,0000,,It seems there are worlds here on Earth I know nothing about.
-Dialogue: 0,0:16:00.16,0:16:00.85,Default,,0000,0000,0000,,Thanks.
-Dialogue: 0,0:16:02.26,0:16:04.05,Default,,0000,0000,0000,,Are you hurt?
-Dialogue: 0,0:16:04.05,0:16:04.86,Default,,0000,0000,0000,,Oh, this?
-Dialogue: 0,0:16:05.39,0:16:06.90,Default,,0000,0000,0000,,Um, well...
-Dialogue: 0,0:16:08.15,0:16:10.36,Default,,0000,0000,0000,,No, I have to keep it a secret.
-Dialogue: 0,0:16:13.98,0:16:15.80,Default,,0000,0000,0000,,I'm Kano Kirishima.
-Dialogue: 0,0:16:15.80,0:16:16.71,Default,,0000,0000,0000,,You are?
-Dialogue: 0,0:16:16.71,0:16:17.99,Default,,0000,0000,0000,,I'm Yukito Kunisaki.
-Dialogue: 0,0:16:18.30,0:16:20.24,Default,,0000,0000,0000,,Are you free, by any chance?
-Dialogue: 0,0:16:20.24,0:16:20.98,Default,,0000,0000,0000,,I guess.
-Dialogue: 0,0:16:20.98,0:16:21.94,Default,,0000,0000,0000,,All right!
-Dialogue: 0,0:16:21.94,0:16:25.28,Default,,0000,0000,0000,,I'm naming you Carefree Planet citizen Number 2!
-Dialogue: 0,0:16:25.28,0:16:27.04,Default,,0000,0000,0000,,Who's Number 1?
-Dialogue: 0,0:16:28.05,0:16:28.97,Default,,0000,0000,0000,,Me!
-Dialogue: 0,0:16:28.97,0:16:30.99,Default,,0000,0000,0000,,And Potato is Number 3.
-Dialogue: 0,0:16:30.99,0:16:31.88,Default,,0000,0000,0000,,Piko!
-Dialogue: 0,0:16:32.49,0:16:34.89,Default,,0000,0000,0000,,And what does a Carefree citizen do?
-Dialogue: 0,0:16:35.22,0:16:36.96,Default,,0000,0000,0000,,They just have time on their hands.
-Dialogue: 0,0:16:36.96,0:16:39.69,Default,,0000,0000,0000,,That's the fate of a Carefree citizen.
-Dialogue: 0,0:16:39.69,0:16:41.73,Default,,0000,0000,0000,,Right? We have nothing to do, do we, Potato?
-Dialogue: 0,0:16:41.73,0:16:42.77,Default,,0000,0000,0000,,Piko-piko.
-Dialogue: 0,0:16:44.67,0:16:46.80,Default,,0000,0000,0000,,I have to go to school now.
-Dialogue: 0,0:16:46.80,0:16:48.85,Default,,0000,0000,0000,,So I'll say good-bye for now.
-Dialogue: 0,0:16:48.85,0:16:50.73,Default,,0000,0000,0000,,I thought you were a Carefree citizen?
-Dialogue: 0,0:16:51.12,0:16:53.17,Default,,0000,0000,0000,,You actually believed that?!
-Dialogue: 0,0:16:53.17,0:16:54.57,Default,,0000,0000,0000,,You're such a kid!
-Dialogue: 0,0:16:55.81,0:16:56.86,Default,,0000,0000,0000,,See you!
-Dialogue: 0,0:16:57.75,0:17:01.13,Default,,0000,0000,0000,,Are all the girls who wear that uniform weird?
-Dialogue: 0,0:17:02.22,0:17:03.58,Default,,0000,0000,0000,,Hey!
-Dialogue: 0,0:17:04.75,0:17:05.71,Default,,0000,0000,0000,,What is it?
-Dialogue: 0,0:17:05.71,0:17:10.09,Default,,0000,0000,0000,,Have you ever wondered what you would do if you had magical powers?
-Dialogue: 0,0:17:14.51,0:17:15.89,Default,,0000,0000,0000,,You look surprised!
-Dialogue: 0,0:17:15.89,0:17:16.97,Default,,0000,0000,0000,,See you!
-Dialogue: 0,0:17:18.60,0:17:19.96,Default,,0000,0000,0000,,Magic?
-Dialogue: 0,0:17:28.88,0:17:31.31,Default,,0000,0000,0000,,Oh, Yukito-san!
-Dialogue: 0,0:17:31.31,0:17:33.74,Default,,0000,0000,0000,,How did your work go?
-Dialogue: 0,0:17:33.93,0:17:35.70,Default,,0000,0000,0000,,A great success!
-Dialogue: 0,0:17:36.10,0:17:38.03,Default,,0000,0000,0000,,Wow, really?
-Dialogue: 0,0:17:38.39,0:17:40.32,Default,,0000,0000,0000,,I'm sorry; I lied.
-Dialogue: 0,0:17:41.09,0:17:44.41,Default,,0000,0000,0000,,There won't be any business until there are more people.
-Dialogue: 0,0:17:44.76,0:17:48.88,Default,,0000,0000,0000,,Why is this place so quiet when people should be returning from work?
-Dialogue: 0,0:17:49.10,0:17:52.20,Default,,0000,0000,0000,,Well, this station has been shut down.
-Dialogue: 0,0:17:52.20,0:17:53.84,Default,,0000,0000,0000,,You should have told me that earlier.
-Dialogue: 0,0:17:54.05,0:17:55.55,Default,,0000,0000,0000,,G-Gao~
-Dialogue: 0,0:17:56.20,0:17:57.34,Default,,0000,0000,0000,,Ouch!
-Dialogue: 0,0:17:57.34,0:17:59.74,Default,,0000,0000,0000,,Why did you hit me?
-Dialogue: 0,0:18:00.34,0:18:05.14,Default,,0000,0000,0000,,Haruko told me to scold you when you say that.
-Dialogue: 0,0:18:05.51,0:18:07.54,Default,,0000,0000,0000,,Oh, how cute!
-Dialogue: 0,0:18:12.93,0:18:15.11,Default,,0000,0000,0000,,Tohno-san?
-Dialogue: 0,0:18:15.11,0:18:16.49,Default,,0000,0000,0000,,You know her?
-Dialogue: 0,0:18:16.49,0:18:17.46,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:18:20.53,0:18:22.28,Default,,0000,0000,0000,,What are you worried about?
-Dialogue: 0,0:18:23.20,0:18:26.18,Default,,0000,0000,0000,,He... Hello!
-Dialogue: 0,0:18:27.94,0:18:28.99,Default,,0000,0000,0000,,Hello.
-Dialogue: 0,0:18:28.99,0:18:30.63,Default,,0000,0000,0000,,What a coincidence.
-Dialogue: 0,0:18:30.63,0:18:33.98,Default,,0000,0000,0000,,Y-Yes! Quite a coincidence...
-Dialogue: 0,0:18:34.68,0:18:35.80,Default,,0000,0000,0000,,I was surprised.
-Dialogue: 0,0:18:37.61,0:18:39.01,Default,,0000,0000,0000,,What were you doing?
-Dialogue: 0,0:18:39.38,0:18:41.22,Default,,0000,0000,0000,,Basking in the sun.
-Dialogue: 0,0:18:42.48,0:18:43.81,Default,,0000,0000,0000,,Just kidding.
-Dialogue: 0,0:18:43.81,0:18:45.64,Default,,0000,0000,0000,,It's evening right now.
-Dialogue: 0,0:18:46.94,0:18:48.60,Default,,0000,0000,0000,,Hey, who is this girl?
-Dialogue: 0,0:18:48.60,0:18:51.96,Default,,0000,0000,0000,,Minagi Tohno. She's my classmate.
-Dialogue: 0,0:18:51.96,0:18:53.11,Default,,0000,0000,0000,,She's smart.
-Dialogue: 0,0:18:53.11,0:18:56.07,Default,,0000,0000,0000,,She's at the top of our class, and is the president of the Astronomy Club.
-Dialogue: 0,0:18:56.59,0:19:01.06,Default,,0000,0000,0000,,Please just call me Tohno.
-Dialogue: 0,0:19:01.06,0:19:03.58,Default,,0000,0000,0000,,Hey! Minagi!
-Dialogue: 0,0:19:09.01,0:19:13.21,Default,,0000,0000,0000,,Oh, Yukito-san is flying like a leaf!
-Dialogue: 0,0:19:13.21,0:19:15.98,Default,,0000,0000,0000,,Hey! Let's hurry up and go back to blowing bubbles!
-Dialogue: 0,0:19:15.98,0:19:18.55,Default,,0000,0000,0000,,You know, I'm doing really good now!
-Dialogue: 0,0:19:18.55,0:19:19.15,Default,,0000,0000,0000,,Come on!
-Dialogue: 0,0:19:19.15,0:19:21.69,Default,,0000,0000,0000,,Is this your younger sister?
-Dialogue: 0,0:19:21.69,0:19:23.41,Default,,0000,0000,0000,,No, I'm not.
-Dialogue: 0,0:19:23.41,0:19:25.33,Default,,0000,0000,0000,,I'm Michiru, Minagi's best friend.
-Dialogue: 0,0:19:25.33,0:19:26.86,Default,,0000,0000,0000,,Who are you?
-Dialogue: 0,0:19:26.86,0:19:29.55,Default,,0000,0000,0000,,I'm Tohno-san's classmate.
-Dialogue: 0,0:19:29.55,0:19:32.03,Default,,0000,0000,0000,,That hurt...!
-Dialogue: 0,0:19:32.03,0:19:32.96,Default,,0000,0000,0000,,What?!
-Dialogue: 0,0:19:32.96,0:19:34.86,Default,,0000,0000,0000,,Are you one of Minagi's classmates too?
-Dialogue: 0,0:19:34.86,0:19:38.32,Default,,0000,0000,0000,,I'm an innocent passer-by who just got bowled over by you.
-Dialogue: 0,0:19:42.00,0:19:43.00,Default,,0000,0000,0000,,I've got it!
-Dialogue: 0,0:19:43.00,0:19:46.81,Default,,0000,0000,0000,,Minagi, this is a perverted kidnapper who's come to take us!
-Dialogue: 0,0:19:46.81,0:19:48.08,Default,,0000,0000,0000,,I'm on this side too?
-Dialogue: 0,0:19:48.32,0:19:50.43,Default,,0000,0000,0000,,Who are you calling a kidnapper?!
-Dialogue: 0,0:19:50.05,0:19:51.55,Default,,0000,0000,0000,,Yikes! He's mad.
-Dialogue: 0,0:19:51.55,0:19:53.85,Default,,0000,0000,0000,,Us young girls are in trouble!
-Dialogue: 0,0:19:55.32,0:19:57.17,Default,,0000,0000,0000,,Wow, it made a cool sound.
-Dialogue: 0,0:19:58.39,0:20:00.36,Default,,0000,0000,0000,,Kamio-san, who is this?
-Dialogue: 0,0:20:00.36,0:20:02.00,Default,,0000,0000,0000,,Yukito Kunisaki-san.
-Dialogue: 0,0:20:02.00,0:20:05.13,Default,,0000,0000,0000,,He's a traveler who is staying with us now.
-Dialogue: 0,0:20:05.13,0:20:06.87,Default,,0000,0000,0000,,A traveler?
-Dialogue: 0,0:20:06.87,0:20:10.43,Default,,0000,0000,0000,,There's no hope left if you're a perverted homeless kidnapper.
-Dialogue: 0,0:20:24.04,0:20:27.45,Default,,0000,0000,0000,,Kamio-san, I think we'd best be going.
-Dialogue: 0,0:20:27.45,0:20:30.87,Default,,0000,0000,0000,,What? But I was finally able to make nice bubbles.
-Dialogue: 0,0:20:30.87,0:20:32.17,Default,,0000,0000,0000,,Let's do it some more.
-Dialogue: 0,0:20:32.17,0:20:33.64,Default,,0000,0000,0000,,Kami-Kami too.
-Dialogue: 0,0:20:33.64,0:20:35.52,Default,,0000,0000,0000,,Kami-Kami... Me?
-Dialogue: 0,0:20:36.15,0:20:39.50,Default,,0000,0000,0000,,It's getting dark, so let's do it tomorrow.
-Dialogue: 0,0:20:39.50,0:20:41.88,Default,,0000,0000,0000,,I'll pack a lunch for us.
-Dialogue: 0,0:20:44.74,0:20:45.76,Default,,0000,0000,0000,,See you!
-Dialogue: 0,0:20:45.76,0:20:47.30,Default,,0000,0000,0000,,Kamiya~!
-Dialogue: 0,0:20:48.59,0:20:49.58,Default,,0000,0000,0000,,Bye-bye!
-Dialogue: 0,0:20:49.58,0:20:51.20,Default,,0000,0000,0000,,Yukito Kunisaki!
-Dialogue: 0,0:20:51.20,0:20:51.81,Default,,0000,0000,0000,,Yeah?
-Dialogue: 0,0:20:52.05,0:20:54.51,Default,,0000,0000,0000,,Geez, you should get lost!
-Dialogue: 0,0:20:55.65,0:20:57.98,Default,,0000,0000,0000,,What was that?!
-Dialogue: 0,0:20:58.35,0:21:01.87,Default,,0000,0000,0000,,Hey, for tomorrow's lunch, can you make hamburgers?
-Dialogue: 0,0:21:01.87,0:21:02.63,Default,,0000,0000,0000,,All right.
-Dialogue: 0,0:21:02.63,0:21:03.44,Default,,0000,0000,0000,,Really?
-Dialogue: 0,0:21:03.44,0:21:04.45,Default,,0000,0000,0000,,Yay!
-Dialogue: 0,0:21:04.93,0:21:07.15,Default,,0000,0000,0000,,Did I do something wrong to that brat?
-Dialogue: 0,0:21:07.15,0:21:09.20,Default,,0000,0000,0000,,Hmm, I don't know.
-Dialogue: 0,0:21:12.07,0:21:15.33,Default,,0000,0000,0000,,I haven't made a single yen today.
-Dialogue: 0,0:21:16.59,0:21:19.34,Default,,0000,0000,0000,,You were standing there like that when we met yesterday, too.
-Dialogue: 0,0:21:19.77,0:21:24.30,Default,,0000,0000,0000,,Ever since I was little, I've had this longing for the sky.
-Dialogue: 0,0:21:25.08,0:21:25.76,Default,,0000,0000,0000,,Why?
-Dialogue: 0,0:21:26.35,0:21:27.95,Default,,0000,0000,0000,,I don't know.
-Dialogue: 0,0:21:27.95,0:21:28.72,Default,,0000,0000,0000,,It's just...
-Dialogue: 0,0:21:29.42,0:21:33.50,Default,,0000,0000,0000,,I have this feeling that my other self is out there...
-Dialogue: 0,0:21:33.50,0:21:36.10,Default,,0000,0000,0000,,That's a romantic thought, isn't it?
-Dialogue: 0,0:21:36.10,0:21:38.63,Default,,0000,0000,0000,,That the real me is in the sky.
-Dialogue: 0,0:21:38.63,0:21:40.70,Default,,0000,0000,0000,,It sounds so wonderful.
-Dialogue: 0,0:21:41.15,0:21:43.33,Default,,0000,0000,0000,,Being able to see far into the distance,
-Dialogue: 0,0:21:43.33,0:21:46.86,Default,,0000,0000,0000,,everything on earth would seem so insignificant,
-Dialogue: 0,0:21:47.63,0:21:51.33,Default,,0000,0000,0000,,and one would find a kind feeling towards others, don't you think?
-Dialogue: 0,0:21:55.86,0:21:57.25,Default,,0000,0000,0000,,Misuzu...
-Dialogue: 0,0:21:57.25,0:21:58.49,Default,,0000,0000,0000,,...you are...
-Dialogue: 0,0:21:59.65,0:22:09.64,Default,,0000,0000,0000,,{\i1}For me, that was the start of a summer as short as a star's twinkle, and as long as eternity.{\fad(0,600)\i0}
-Dialogue: 0,0:23:39.98,0:23:42.85,Typesetting,,0000,0000,0000,,{\c&HFFFFFF&\fad(400,400)\fs34\shad1.5\pos(321,195)}Next Episode Preview
-Dialogue: 0,0:23:41.27,0:23:45.32,Default,,0000,0000,0000,,It might be the other you that I've been looking for.
-Dialogue: 0,0:23:45.63,0:23:47.92,Default,,0000,0000,0000,,I'm not cut out to be a parent.
-Dialogue: 0,0:23:47.92,0:23:50.26,Default,,0000,0000,0000,,I should have stayed alone.
-Dialogue: 0,0:23:51.52,0:23:53.09,Default,,0000,0000,0000,,I had a dream.
-Dialogue: 0,0:23:53.09,0:23:54.46,Default,,0000,0000,0000,,A mysterious dream.
-Dialogue: 0,0:23:54.46,0:23:55.59,Default,,0000,0000,0000,,A dream about the sky.
-Dialogue: 0,0:23:56.06,0:23:58.03,Default,,0000,0000,0000,,I was in the sky.
-Dialogue: 0,0:23:58.03,0:24:00.93,Default,,0000,0000,0000,,It was a world I'd never seen before.
-Dialogue: 0,0:24:00.93,0:24:03.52,Default,,0000,0000,0000,,Everything extends endlessly into infinity.
-Dialogue: 0,0:24:04.22,0:24:04.98,Default,,0000,0000,0000,,Hey,
-Dialogue: 0,0:24:05.67,0:24:08.95,Default,,0000,0000,0000,,{\fad(0,400)}did you have wings in your dream?
-Dialogue: 0,0:24:06.77,0:24:10.00,Typesetting,,0000,0000,0000,,{\fad(1000,0)\fs26\fscx100\fscy100\shad1.6\pos(478,278)\c&HFEFEFA&\4c&H121213&}Episode 2
+Dialogue: 0,0:09:23.20,0:09:23.30,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz3.299\pos(249,159)}DON'T FALL FOR ME
+Dialogue: 0,0:09:23.30,0:09:23.40,Air Typesetting,,0000,0000,0000,,{\frx40\fry16\fscx61.25\fscy55\frz4.058\pos(212,79)}DON'T FALL FOR ME
+Dialogue: 0,0:09:23.40,0:09:23.55,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz1.792\fscx62.5\fscy60\pos(219,119)}DON'T FALL FOR ME
+Dialogue: 0,0:09:23.55,0:09:23.70,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz1.792\fscx62.5\fscy60\pos(227,197)}DON'T FALL FOR ME
+Dialogue: 0,0:09:23.70,0:09:23.91,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\pos(222,313)\fscx68.75\fscy65}DON'T FALL FOR ME
+Dialogue: 0,0:09:23.91,0:09:24.05,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\fscx68.75\fscy65\pos(241,309)}DON'T FALL FOR ME
+Dialogue: 0,0:09:24.05,0:09:24.17,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\fscx68.75\fscy65\pos(260,306)}DON'T FALL FOR ME
+Dialogue: 0,0:09:24.17,0:09:24.63,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\fscx68.75\fscy65\pos(296,298)}DON'T FALL FOR ME
+Dialogue: 0,0:09:25.10,0:09:26.42,Air Dialogue,,0000,0000,0000,,Don't fall for me.
+Dialogue: 0,0:09:26.42,0:09:28.25,Air Dialogue,,0000,0000,0000,,As if I would!
+Dialogue: 0,0:09:26.52,0:09:26.64,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz0.616\pos(401,311)\fscx32.5\fscy31.25}DON'T FALL FOR ME
+Dialogue: 0,0:09:26.62,0:09:26.81,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\fscx32.5\fscy31.25\pos(384,330)\frz1.727}DON'T FALL FOR ME
+Dialogue: 0,0:09:26.79,0:09:27.00,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz1.727\pos(358,356)\fscx36.25\fscy30\clip(m 325 340 l 356 363 437 361 426 328)}DON'T FALL FOR ME
+Dialogue: 0,0:09:29.88,0:09:33.45,Air Dialogue,,0000,0000,0000,,Well, you seem to have guts. I like that about you.
+Dialogue: 0,0:09:33.45,0:09:35.97,Air Dialogue,,0000,0000,0000,,That's right. Yukito-san is a very good person.
+Dialogue: 0,0:09:37.09,0:09:38.08,Air Dialogue,,0000,0000,0000,,I understand.
+Dialogue: 0,0:09:38.08,0:09:39.17,Air Dialogue,,0000,0000,0000,,I'll let him stay.
+Dialogue: 0,0:09:39.17,0:09:40.19,Air Dialogue,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:09:40.19,0:09:42.38,Air Dialogue,,0000,0000,0000,,Seriously? Of course! I'm deadly serious.
+Dialogue: 0,0:09:42.38,0:09:44.67,Air Dialogue,,0000,0000,0000,,But there are two conditions.
+Dialogue: 0,0:09:44.67,0:09:45.98,Air Dialogue,,0000,0000,0000,,You'll sleep in the shed.
+Dialogue: 0,0:09:46.38,0:09:47.23,Air Dialogue,,0000,0000,0000,,And...
+Dialogue: 0,0:09:48.42,0:09:50.27,Air Dialogue,,0000,0000,0000,,You will have a drink with me.
+Dialogue: 0,0:09:52.11,0:09:56.61,Air Dialogue,,0000,0000,0000,,And then, in the end, this is what he said...
+Dialogue: 0,0:09:56.91,0:10:00.82,Air Dialogue,,0000,0000,0000,,"Perhaps the one who fell in love was me."
+Dialogue: 0,0:10:01.18,0:10:02.23,Air Dialogue,,0000,0000,0000,,See!
+Dialogue: 0,0:10:02.23,0:10:03.30,Air Dialogue,,0000,0000,0000,,How's that?
+Dialogue: 0,0:10:03.30,0:10:04.75,Air Dialogue,,0000,0000,0000,,I win, right?
+Dialogue: 0,0:10:04.75,0:10:06.54,Air Dialogue,,0000,0000,0000,,So I told him,
+Dialogue: 0,0:10:07.02,0:10:09.54,Air Dialogue,,0000,0000,0000,,"The fish you let escape was a mermaid,"
+Dialogue: 0,0:10:09.93,0:10:10.97,Air Dialogue,,0000,0000,0000,,How's that?
+Dialogue: 0,0:10:10.97,0:10:12.50,Air Dialogue,,0000,0000,0000,,That struck home, right?
+Dialogue: 0,0:10:12.89,0:10:14.35,Air Dialogue,,0000,0000,0000,,How did it end up like this?
+Dialogue: 0,0:10:14.35,0:10:16.01,Air Dialogue,,0000,0000,0000,,Mommy's at her best.
+Dialogue: 0,0:10:16.40,0:10:19.31,Air Dialogue,,0000,0000,0000,,Hey, freeloader. Why are you looking so glum?
+Dialogue: 0,0:10:19.31,0:10:21.05,Air Dialogue,,0000,0000,0000,,Why don't you join in?
+Dialogue: 0,0:10:21.22,0:10:22.35,Air Dialogue,,0000,0000,0000,,My eeeeeyes!
+Dialogue: 0,0:10:22.35,0:10:23.34,Air Dialogue,,0000,0000,0000,,Yukito-san!
+Dialogue: 0,0:10:24.32,0:10:25.58,Air Dialogue,,0000,0000,0000,,Join in?
+Dialogue: 0,0:10:25.58,0:10:26.93,Air Dialogue,,0000,0000,0000,,What do you want me to say?
+Dialogue: 0,0:10:26.93,0:10:31.40,Air Dialogue,,0000,0000,0000,,Anything, like a story of an erotic confession of love or a hidden talent.
+Dialogue: 0,0:10:31.68,0:10:32.49,Air Dialogue,,0000,0000,0000,,I see.
+Dialogue: 0,0:10:32.81,0:10:33.66,Air Dialogue,,0000,0000,0000,,In that case...
+Dialogue: 0,0:10:36.96,0:10:38.57,Air Dialogue,,0000,0000,0000,,Oh, that's the doll from earlier.
+Dialogue: 0,0:10:44.06,0:10:45.49,Air Dialogue,,0000,0000,0000,,Wow! That's impressive.
+Dialogue: 0,0:10:46.11,0:10:48.46,Air Dialogue,,0000,0000,0000,,This trick is how I earn a living.
+Dialogue: 0,0:10:48.81,0:10:51.93,Air Dialogue,,0000,0000,0000,,My mother also used to travel with this as her profession.
+Dialogue: 0,0:10:53.48,0:10:54.88,Air Dialogue,,0000,0000,0000,,Does this have a punch line?
+Dialogue: 0,0:10:57.11,0:10:59.89,Air Dialogue,,0000,0000,0000,,No good. You're not funny at all.
+Dialogue: 0,0:10:59.89,0:11:03.01,Air Dialogue,,0000,0000,0000,,But isn't it amazing he's not using any tricks?
+Dialogue: 0,0:11:03.01,0:11:04.89,Air Dialogue,,0000,0000,0000,,Who cares?
+Dialogue: 0,0:11:04.89,0:11:08.85,Air Dialogue,,0000,0000,0000,,Even if it had obvious strings showing, it would be better if it were funny.
+Dialogue: 0,0:11:09.20,0:11:09.79,Air Dialogue,,0000,0000,0000,,Good night.
+Dialogue: 0,0:11:10.09,0:11:12.98,Air Dialogue,,0000,0000,0000,,Ah! He's leaving on his own!
+Dialogue: 0,0:11:14.04,0:11:16.33,Air Dialogue,,0000,0000,0000,,It doesn't really matter that you don't have any talents.
+Dialogue: 0,0:11:16.33,0:11:18.09,Air Dialogue,,0000,0000,0000,,Just down the sorrow with some drinks.
+Dialogue: 0,0:11:20.21,0:11:22.02,Air Dialogue,,0000,0000,0000,,My name's Haruko.
+Dialogue: 0,0:11:22.02,0:11:23.62,Air Dialogue,,0000,0000,0000,,Haruko Kamio.
+Dialogue: 0,0:11:23.99,0:11:25.58,Air Dialogue,,0000,0000,0000,,Give me one more glass, missus.
+Dialogue: 0,0:11:26.41,0:11:29.79,Air Dialogue,,0000,0000,0000,,Didn't I tell you my name so that you wouldn't call me that?
+Dialogue: 0,0:11:29.79,0:11:31.88,Air Dialogue,,0000,0000,0000,,Geez! You're such an insensitive guy.
+Dialogue: 0,0:11:34.17,0:11:35.10,Air Dialogue,,0000,0000,0000,,So...
+Dialogue: 0,0:11:35.10,0:11:36.34,Air Dialogue,,0000,0000,0000,,Are you a runaway?
+Dialogue: 0,0:11:36.92,0:11:38.17,Air Dialogue,,0000,0000,0000,,I'm on a journey.
+Dialogue: 0,0:11:39.03,0:11:41.83,Air Dialogue,,0000,0000,0000,,Are you chasing a goal or a dream?
+Dialogue: 0,0:11:41.83,0:11:42.80,Air Dialogue,,0000,0000,0000,,I guess.
+Dialogue: 0,0:11:43.40,0:11:44.76,Air Dialogue,,0000,0000,0000,,You're so young.
+Dialogue: 0,0:11:45.21,0:11:46.38,Air Dialogue,,0000,0000,0000,,Well, compared to you.
+Dialogue: 0,0:11:49.71,0:11:51.69,Air Dialogue,,0000,0000,0000,,You're quite a funny guy.
+Dialogue: 0,0:11:51.69,0:11:52.42,Air Dialogue,,0000,0000,0000,,I am?
+Dialogue: 0,0:11:52.42,0:11:55.79,Air Dialogue,,0000,0000,0000,,I may not look like it, but I have a pretty good eye for judging men.
+Dialogue: 0,0:11:55.79,0:11:57.57,Air Dialogue,,0000,0000,0000,,I can let you stay for a while,
+Dialogue: 0,0:11:58.04,0:11:59.28,Air Dialogue,,0000,0000,0000,,but I have a favor to ask.
+Dialogue: 0,0:12:00.35,0:12:02.40,Air Dialogue,,0000,0000,0000,,Can you look after her?
+Dialogue: 0,0:12:02.87,0:12:03.61,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:03.64,0:12:06.92,Air Dialogue,,0000,0000,0000,,You've seen her reckless side, right?
+Dialogue: 0,0:12:06.92,0:12:11.08,Air Dialogue,,0000,0000,0000,,She's impulsive, and once something catches her eye, she'll be attracted to it like a bee to honey.
+Dialogue: 0,0:12:11.30,0:12:12.65,Air Dialogue,,0000,0000,0000,,So I'm a babysitter?
+Dialogue: 0,0:12:12.65,0:12:16.54,Air Dialogue,,0000,0000,0000,,Also, can you stop her saying that phrase?
+Dialogue: 0,0:12:16.84,0:12:17.93,Air Dialogue,,0000,0000,0000,,"Gao!"
+Dialogue: 0,0:12:17.93,0:12:21.01,Air Dialogue,,0000,0000,0000,,It's what she says when she's frustrated or about to cry, right?
+Dialogue: 0,0:12:21.44,0:12:22.10,Air Dialogue,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:12:22.51,0:12:24.84,Air Dialogue,,0000,0000,0000,,Oh, it's supposed to sound like a dinosaur.
+Dialogue: 0,0:12:25.35,0:12:29.47,Air Dialogue,,0000,0000,0000,,She loves dinosaurs. She's been saying that since she was little.
+Dialogue: 0,0:12:30.21,0:12:32.86,Air Dialogue,,0000,0000,0000,,She's still just a child.
+Dialogue: 0,0:12:42.70,0:12:45.05,Air Dialogue,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:12:46.06,0:12:47.53,Air Dialogue,,0000,0000,0000,,Well, I have to take remedial classes.
+Dialogue: 0,0:12:48.37,0:12:49.99,Air Dialogue,,0000,0000,0000,,Has Haruko already left?
+Dialogue: 0,0:12:49.99,0:12:52.50,Air Dialogue,,0000,0000,0000,,Yeah. She leaves early every day.
+Dialogue: 0,0:12:52.50,0:12:55.44,Air Dialogue,,0000,0000,0000,,It's the first time in a while that I've eaten breakfast with someone.
+Dialogue: 0,0:12:56.70,0:12:58.91,Air Dialogue,,0000,0000,0000,,Yukito-san, what are you going to do today?
+Dialogue: 0,0:12:58.91,0:13:01.18,Air Dialogue,,0000,0000,0000,,For now, I'll walk you to school.
+Dialogue: 0,0:13:01.63,0:13:06.52,Air Dialogue,,0000,0000,0000,,Haruko asked me to watch you so that you don't do anything stupid.
+Dialogue: 0,0:13:07.40,0:13:09.81,Air Dialogue,,0000,0000,0000,,She still doesn't trust me at all.
+Dialogue: 0,0:13:10.37,0:13:11.72,Air Dialogue,,0000,0000,0000,,Gao~!
+Dialogue: 0,0:13:12.45,0:13:13.30,Air Dialogue,,0000,0000,0000,,I'm done!
+Dialogue: 0,0:13:13.30,0:13:14.52,Air Dialogue,,0000,0000,0000,,It's a map of this town.
+Dialogue: 0,0:13:14.95,0:13:16.27,Air Dialogue,,0000,0000,0000,,That was fast.
+Dialogue: 0,0:13:16.81,0:13:19.79,Air Dialogue,,0000,0000,0000,,It will show you where you people gather together.
+Dialogue: 0,0:13:19.79,0:13:22.07,Air Dialogue,,0000,0000,0000,,It'll be useful for your work, right?
+Dialogue: 0,0:13:23.16,0:13:24.72,Air Dialogue,,0000,0000,0000,,Yeah, it'll help.
+Dialogue: 0,0:13:26.03,0:13:27.61,Air Dialogue,,0000,0000,0000,,Oh, I'm going to be late.
+Dialogue: 0,0:13:27.61,0:13:29.22,Air Dialogue,,0000,0000,0000,,Misuzu-chin is in a pinch!
+Dialogue: 0,0:13:33.52,0:13:35.25,Air Dialogue,,0000,0000,0000,,I'll come to pick you up after school.
+Dialogue: 0,0:13:35.25,0:13:36.55,Air Dialogue,,0000,0000,0000,,We'll meet here.
+Dialogue: 0,0:13:36.55,0:13:37.36,Air Dialogue,,0000,0000,0000,,Okay!
+Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz25.094\t($sstart,$send,\fs22)\move(138,105,178,137,0,2484)}Japanese\Nuse\Nthese,\Nright?
+Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\fscx62.5\fscy63.75\frz7.094\t($sstart,$send,\fs22)\c&H170B66&\move(247,203,264,214,0,2484)}I'm\Nstudying
+Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz356.864\t($sstart,$send,\fs22)\move(332,446,324,397,0,2484)}Munch munch
+Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz27.01\t($sstart,$send,\fs22)\move(100,425,149,378,0,2484)}Its the ocean!
+Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz358.684\t($sstart,$send,\fs22)\move(410,168,387,193,0,2484)}Here 
+Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\t($sstart,$send,\fs22)\frz352.797\move(467,464,428,410,0,2484)}Delicious!
+Dialogue: 0,0:13:50.26,0:13:51.68,Air Dialogue,,0000,0000,0000,,What... is this?
+Dialogue: 0,0:13:51.96,0:13:54.71,Air Dialogue,,0000,0000,0000,,Is this how she sees the world?
+Dialogue: 0,0:13:54.71,0:13:55.46,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:14:01.24,0:14:02.77,Air Dialogue,,0000,0000,0000,,What do you want?
+Dialogue: 0,0:14:02.77,0:14:03.69,Air Dialogue,,0000,0000,0000,,Piko-piko!
+Dialogue: 0,0:14:04.12,0:14:06.77,Air Dialogue,,0000,0000,0000,,Are you this town's local legendary creature?
+Dialogue: 0,0:14:06.77,0:14:07.74,Air Dialogue,,0000,0000,0000,,Piko-piko-piko!
+Dialogue: 0,0:14:08.46,0:14:11.74,Air Dialogue,,0000,0000,0000,,If he really is, I'll do it a favor, then it'll give me something in return,
+Dialogue: 0,0:14:11.74,0:14:13.83,Air Dialogue,,0000,0000,0000,,just like in those fairytales.
+Dialogue: 0,0:14:13.83,0:14:15.52,Air Dialogue,,0000,0000,0000,,Piko-piko-piko!
+Dialogue: 0,0:14:15.52,0:14:16.76,Air Dialogue,,0000,0000,0000,,Okay, come here.
+Dialogue: 0,0:14:16.76,0:14:17.71,Air Dialogue,,0000,0000,0000,,I'll show you something good.
+Dialogue: 0,0:14:19.58,0:14:20.65,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:14:20.65,0:14:21.55,Air Dialogue,,0000,0000,0000,,Piko-piko!
+Dialogue: 0,0:14:21.55,0:14:22.75,Air Dialogue,,0000,0000,0000,,Piko... Piko!
+Dialogue: 0,0:14:23.36,0:14:24.20,Air Dialogue,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:14:24.20,0:14:27.72,Air Dialogue,,0000,0000,0000,,Isn't it such a great trick that it makes you feel like giving me something in return?
+Dialogue: 0,0:14:27.72,0:14:30.21,Air Dialogue,,0000,0000,0000,,Piko! Piko! Piko... Piko...
+Dialogue: 0,0:14:30.21,0:14:31.14,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:14:31.14,0:14:31.99,Air Dialogue,,0000,0000,0000,,Hey!
+Dialogue: 0,0:14:31.99,0:14:32.78,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:14:32.78,0:14:33.40,Air Dialogue,,0000,0000,0000,,Wait!
+Dialogue: 0,0:14:33.40,0:14:35.31,Air Dialogue,,0000,0000,0000,,Pikooo~
+Dialogue: 0,0:14:35.31,0:14:36.40,Air Dialogue,,0000,0000,0000,,Piko-Piko...
+Dialogue: 0,0:14:36.08,0:14:37.06,Air Dialogue,,0000,0000,0000,,WAIT!
+Dialogue: 0,0:14:37.06,0:14:38.49,Air Dialogue,,0000,0000,0000,,Piko! Piko! Piko!
+Dialogue: 0,0:14:40.50,0:14:41.65,Air Dialogue,,0000,0000,0000,,Piko.
+Dialogue: 0,0:14:42.11,0:14:43.90,Air Dialogue,,0000,0000,0000,,Pi-P-Pi-Piko!
+Dialogue: 0,0:14:45.21,0:14:46.17,Air Dialogue,,0000,0000,0000,,Piko.
+Dialogue: 0,0:14:47.94,0:14:49.78,Air Dialogue,,0000,0000,0000,,Piko-piko! Piko!
+Dialogue: 0,0:14:51.73,0:14:53.14,Air Dialogue,,0000,0000,0000,,Piko. Piko.
+Dialogue: 0,0:14:53.14,0:14:56.79,Air Dialogue,,0000,0000,0000,,Give me a break, you evil extraterrestial creature.
+Dialogue: 0,0:14:57.16,0:14:59.00,Air Dialogue,,0000,0000,0000,,Piko... Piko...
+Dialogue: 0,0:14:59.00,0:14:59.71,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:14:59.71,0:15:00.83,Air Dialogue,,0000,0000,0000,,You won't get away!
+Dialogue: 0,0:15:00.83,0:15:01.46,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:15:07.01,0:15:08.92,Air Dialogue,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:15:13.47,0:15:17.43,Air Dialogue,,0000,0000,0000,,A strange extraterrestrial creature stole my doll and ran away.
+Dialogue: 0,0:15:18.33,0:15:18.88,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:15:18.88,0:15:19.89,Air Dialogue,,0000,0000,0000,,You mean him?
+Dialogue: 0,0:15:20.21,0:15:23.05,Air Dialogue,,0000,0000,0000,,Potato isn't an extraterrestrial creature.
+Dialogue: 0,0:15:23.05,0:15:25.36,Air Dialogue,,0000,0000,0000,,He's a stray dog from my neighborhood.
+Dialogue: 0,0:15:25.75,0:15:28.36,Air Dialogue,,0000,0000,0000,,That's actually a dog?
+Dialogue: 0,0:15:28.59,0:15:30.82,Air Dialogue,,0000,0000,0000,,Piko! Piko-piko!
+Dialogue: 0,0:15:31.06,0:15:31.86,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:31.86,0:15:35.26,Air Dialogue,,0000,0000,0000,,Piko-piko! Piko-piko-piko! Piko!
+Dialogue: 0,0:15:35.26,0:15:36.53,Air Dialogue,,0000,0000,0000,,I see...
+Dialogue: 0,0:15:36.53,0:15:39.20,Air Dialogue,,0000,0000,0000,,I'm sorry he caused you so much trouble.
+Dialogue: 0,0:15:39.20,0:15:40.75,Air Dialogue,,0000,0000,0000,,Why are you apologizing?
+Dialogue: 0,0:15:40.94,0:15:44.64,Air Dialogue,,0000,0000,0000,,Well, Potato said that he took your doll and ran here.
+Dialogue: 0,0:15:44.64,0:15:46.71,Air Dialogue,,0000,0000,0000,,Apparently, he wanted to play with you.
+Dialogue: 0,0:15:46.01,0:15:47.05,Air Dialogue,,0000,0000,0000,,Piko-piko!
+Dialogue: 0,0:15:47.05,0:15:49.24,Air Dialogue,,0000,0000,0000,,You can understand what he's saying?
+Dialogue: 0,0:15:49.24,0:15:51.17,Air Dialogue,,0000,0000,0000,,Yes! We're best friends.
+Dialogue: 0,0:15:51.48,0:15:52.61,Air Dialogue,,0000,0000,0000,,Right, Potato?
+Dialogue: 0,0:15:52.61,0:15:53.68,Air Dialogue,,0000,0000,0000,,Piko, piko!
+Dialogue: 0,0:15:53.68,0:15:58.14,Air Dialogue,,0000,0000,0000,,It seems there are worlds here on Earth I know nothing about.
+Dialogue: 0,0:16:00.16,0:16:00.85,Air Dialogue,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:16:02.26,0:16:04.05,Air Dialogue,,0000,0000,0000,,Are you hurt?
+Dialogue: 0,0:16:04.05,0:16:04.86,Air Dialogue,,0000,0000,0000,,Oh, this?
+Dialogue: 0,0:16:05.39,0:16:06.90,Air Dialogue,,0000,0000,0000,,Um, well...
+Dialogue: 0,0:16:08.15,0:16:10.36,Air Dialogue,,0000,0000,0000,,No, I have to keep it a secret.
+Dialogue: 0,0:16:13.98,0:16:15.80,Air Dialogue,,0000,0000,0000,,I'm Kano Kirishima.
+Dialogue: 0,0:16:15.80,0:16:16.71,Air Dialogue,,0000,0000,0000,,You are?
+Dialogue: 0,0:16:16.71,0:16:17.99,Air Dialogue,,0000,0000,0000,,I'm Yukito Kunisaki.
+Dialogue: 0,0:16:18.30,0:16:20.24,Air Dialogue,,0000,0000,0000,,Are you free, by any chance?
+Dialogue: 0,0:16:20.24,0:16:20.98,Air Dialogue,,0000,0000,0000,,I guess.
+Dialogue: 0,0:16:20.98,0:16:21.94,Air Dialogue,,0000,0000,0000,,All right!
+Dialogue: 0,0:16:21.94,0:16:25.28,Air Dialogue,,0000,0000,0000,,I'm naming you Carefree Planet citizen Number 2!
+Dialogue: 0,0:16:25.28,0:16:27.04,Air Dialogue,,0000,0000,0000,,Who's Number 1?
+Dialogue: 0,0:16:28.05,0:16:28.97,Air Dialogue,,0000,0000,0000,,Me!
+Dialogue: 0,0:16:28.97,0:16:30.99,Air Dialogue,,0000,0000,0000,,And Potato is Number 3.
+Dialogue: 0,0:16:30.99,0:16:31.88,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:16:32.49,0:16:34.89,Air Dialogue,,0000,0000,0000,,And what does a Carefree citizen do?
+Dialogue: 0,0:16:35.22,0:16:36.96,Air Dialogue,,0000,0000,0000,,They just have time on their hands.
+Dialogue: 0,0:16:36.96,0:16:39.69,Air Dialogue,,0000,0000,0000,,That's the fate of a Carefree citizen.
+Dialogue: 0,0:16:39.69,0:16:41.73,Air Dialogue,,0000,0000,0000,,Right? We have nothing to do, do we, Potato?
+Dialogue: 0,0:16:41.73,0:16:42.77,Air Dialogue,,0000,0000,0000,,Piko-piko.
+Dialogue: 0,0:16:44.67,0:16:46.80,Air Dialogue,,0000,0000,0000,,I have to go to school now.
+Dialogue: 0,0:16:46.80,0:16:48.85,Air Dialogue,,0000,0000,0000,,So I'll say good-bye for now.
+Dialogue: 0,0:16:48.85,0:16:50.73,Air Dialogue,,0000,0000,0000,,I thought you were a Carefree citizen?
+Dialogue: 0,0:16:51.12,0:16:53.17,Air Dialogue,,0000,0000,0000,,You actually believed that?!
+Dialogue: 0,0:16:53.17,0:16:54.57,Air Dialogue,,0000,0000,0000,,You're such a kid!
+Dialogue: 0,0:16:55.81,0:16:56.86,Air Dialogue,,0000,0000,0000,,See you!
+Dialogue: 0,0:16:57.75,0:17:01.13,Air Dialogue,,0000,0000,0000,,Are all the girls who wear that uniform weird?
+Dialogue: 0,0:17:02.22,0:17:03.58,Air Dialogue,,0000,0000,0000,,Hey!
+Dialogue: 0,0:17:04.75,0:17:05.71,Air Dialogue,,0000,0000,0000,,What is it?
+Dialogue: 0,0:17:05.71,0:17:10.09,Air Dialogue,,0000,0000,0000,,Have you ever wondered what you would do if you had magical powers?
+Dialogue: 0,0:17:14.51,0:17:15.89,Air Dialogue,,0000,0000,0000,,You look surprised!
+Dialogue: 0,0:17:15.89,0:17:16.97,Air Dialogue,,0000,0000,0000,,See you!
+Dialogue: 0,0:17:18.60,0:17:19.96,Air Dialogue,,0000,0000,0000,,Magic?
+Dialogue: 0,0:17:28.88,0:17:31.31,Air Dialogue,,0000,0000,0000,,Oh, Yukito-san!
+Dialogue: 0,0:17:31.31,0:17:33.74,Air Dialogue,,0000,0000,0000,,How did your work go?
+Dialogue: 0,0:17:33.93,0:17:35.70,Air Dialogue,,0000,0000,0000,,A great success!
+Dialogue: 0,0:17:36.10,0:17:38.03,Air Dialogue,,0000,0000,0000,,Wow, really?
+Dialogue: 0,0:17:38.39,0:17:40.32,Air Dialogue,,0000,0000,0000,,I'm sorry; I lied.
+Dialogue: 0,0:17:41.09,0:17:44.41,Air Dialogue,,0000,0000,0000,,There won't be any business until there are more people.
+Dialogue: 0,0:17:44.76,0:17:48.88,Air Dialogue,,0000,0000,0000,,Why is this place so quiet when people should be returning from work?
+Dialogue: 0,0:17:49.10,0:17:52.20,Air Dialogue,,0000,0000,0000,,Well, this station has been shut down.
+Dialogue: 0,0:17:52.20,0:17:53.84,Air Dialogue,,0000,0000,0000,,You should have told me that earlier.
+Dialogue: 0,0:17:54.05,0:17:55.55,Air Dialogue,,0000,0000,0000,,G-Gao~
+Dialogue: 0,0:17:56.20,0:17:57.34,Air Dialogue,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:17:57.34,0:17:59.74,Air Dialogue,,0000,0000,0000,,Why did you hit me?
+Dialogue: 0,0:18:00.34,0:18:05.14,Air Dialogue,,0000,0000,0000,,Haruko told me to scold you when you say that.
+Dialogue: 0,0:18:05.51,0:18:07.54,Air Dialogue,,0000,0000,0000,,Oh, how cute!
+Dialogue: 0,0:18:12.93,0:18:15.11,Air Dialogue,,0000,0000,0000,,Tohno-san?
+Dialogue: 0,0:18:15.11,0:18:16.49,Air Dialogue,,0000,0000,0000,,You know her?
+Dialogue: 0,0:18:16.49,0:18:17.46,Air Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:20.53,0:18:22.28,Air Dialogue,,0000,0000,0000,,What are you worried about?
+Dialogue: 0,0:18:23.20,0:18:26.18,Air Dialogue,,0000,0000,0000,,He... Hello!
+Dialogue: 0,0:18:27.94,0:18:28.99,Air Dialogue,,0000,0000,0000,,Hello.
+Dialogue: 0,0:18:28.99,0:18:30.63,Air Dialogue,,0000,0000,0000,,What a coincidence.
+Dialogue: 0,0:18:30.63,0:18:33.98,Air Dialogue,,0000,0000,0000,,Y-Yes! Quite a coincidence...
+Dialogue: 0,0:18:34.68,0:18:35.80,Air Dialogue,,0000,0000,0000,,I was surprised.
+Dialogue: 0,0:18:37.61,0:18:39.01,Air Dialogue,,0000,0000,0000,,What were you doing?
+Dialogue: 0,0:18:39.38,0:18:41.22,Air Dialogue,,0000,0000,0000,,Basking in the sun.
+Dialogue: 0,0:18:42.48,0:18:43.81,Air Dialogue,,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:18:43.81,0:18:45.64,Air Dialogue,,0000,0000,0000,,It's evening right now.
+Dialogue: 0,0:18:46.94,0:18:48.60,Air Dialogue,,0000,0000,0000,,Hey, who is this girl?
+Dialogue: 0,0:18:48.60,0:18:51.96,Air Dialogue,,0000,0000,0000,,Minagi Tohno. She's my classmate.
+Dialogue: 0,0:18:51.96,0:18:53.11,Air Dialogue,,0000,0000,0000,,She's smart.
+Dialogue: 0,0:18:53.11,0:18:56.07,Air Dialogue,,0000,0000,0000,,She's at the top of our class, and is the president of the Astronomy Club.
+Dialogue: 0,0:18:56.59,0:19:01.06,Air Dialogue,,0000,0000,0000,,Please just call me Tohno.
+Dialogue: 0,0:19:01.06,0:19:03.58,Air Dialogue,,0000,0000,0000,,Hey! Minagi!
+Dialogue: 0,0:19:09.01,0:19:13.21,Air Dialogue,,0000,0000,0000,,Oh, Yukito-san is flying like a leaf!
+Dialogue: 0,0:19:13.21,0:19:15.98,Air Dialogue,,0000,0000,0000,,Hey! Let's hurry up and go back to blowing bubbles!
+Dialogue: 0,0:19:15.98,0:19:18.55,Air Dialogue,,0000,0000,0000,,You know, I'm doing really good now!
+Dialogue: 0,0:19:18.55,0:19:19.15,Air Dialogue,,0000,0000,0000,,Come on!
+Dialogue: 0,0:19:19.15,0:19:21.69,Air Dialogue,,0000,0000,0000,,Is this your younger sister?
+Dialogue: 0,0:19:21.69,0:19:23.41,Air Dialogue,,0000,0000,0000,,No, I'm not.
+Dialogue: 0,0:19:23.41,0:19:25.33,Air Dialogue,,0000,0000,0000,,I'm Michiru, Minagi's best friend.
+Dialogue: 0,0:19:25.33,0:19:26.86,Air Dialogue,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:19:26.86,0:19:29.55,Air Dialogue,,0000,0000,0000,,I'm Tohno-san's classmate.
+Dialogue: 0,0:19:29.55,0:19:32.03,Air Dialogue,,0000,0000,0000,,That hurt...!
+Dialogue: 0,0:19:32.03,0:19:32.96,Air Dialogue,,0000,0000,0000,,What?!
+Dialogue: 0,0:19:32.96,0:19:34.86,Air Dialogue,,0000,0000,0000,,Are you one of Minagi's classmates too?
+Dialogue: 0,0:19:34.86,0:19:38.32,Air Dialogue,,0000,0000,0000,,I'm an innocent passer-by who just got bowled over by you.
+Dialogue: 0,0:19:42.00,0:19:43.00,Air Dialogue,,0000,0000,0000,,I've got it!
+Dialogue: 0,0:19:43.00,0:19:46.81,Air Dialogue,,0000,0000,0000,,Minagi, this is a perverted kidnapper who's come to take us!
+Dialogue: 0,0:19:46.81,0:19:48.08,Air Dialogue,,0000,0000,0000,,I'm on this side too?
+Dialogue: 0,0:19:48.32,0:19:50.43,Air Dialogue,,0000,0000,0000,,Who are you calling a kidnapper?!
+Dialogue: 0,0:19:50.05,0:19:51.55,Air Dialogue,,0000,0000,0000,,Yikes! He's mad.
+Dialogue: 0,0:19:51.55,0:19:53.85,Air Dialogue,,0000,0000,0000,,Us young girls are in trouble!
+Dialogue: 0,0:19:55.32,0:19:57.17,Air Dialogue,,0000,0000,0000,,Wow, it made a cool sound.
+Dialogue: 0,0:19:58.39,0:20:00.36,Air Dialogue,,0000,0000,0000,,Kamio-san, who is this?
+Dialogue: 0,0:20:00.36,0:20:02.00,Air Dialogue,,0000,0000,0000,,Yukito Kunisaki-san.
+Dialogue: 0,0:20:02.00,0:20:05.13,Air Dialogue,,0000,0000,0000,,He's a traveler who is staying with us now.
+Dialogue: 0,0:20:05.13,0:20:06.87,Air Dialogue,,0000,0000,0000,,A traveler?
+Dialogue: 0,0:20:06.87,0:20:10.43,Air Dialogue,,0000,0000,0000,,There's no hope left if you're a perverted homeless kidnapper.
+Dialogue: 0,0:20:24.04,0:20:27.45,Air Dialogue,,0000,0000,0000,,Kamio-san, I think we'd best be going.
+Dialogue: 0,0:20:27.45,0:20:30.87,Air Dialogue,,0000,0000,0000,,What? But I was finally able to make nice bubbles.
+Dialogue: 0,0:20:30.87,0:20:32.17,Air Dialogue,,0000,0000,0000,,Let's do it some more.
+Dialogue: 0,0:20:32.17,0:20:33.64,Air Dialogue,,0000,0000,0000,,Kami-Kami too.
+Dialogue: 0,0:20:33.64,0:20:35.52,Air Dialogue,,0000,0000,0000,,Kami-Kami... Me?
+Dialogue: 0,0:20:36.15,0:20:39.50,Air Dialogue,,0000,0000,0000,,It's getting dark, so let's do it tomorrow.
+Dialogue: 0,0:20:39.50,0:20:41.88,Air Dialogue,,0000,0000,0000,,I'll pack a lunch for us.
+Dialogue: 0,0:20:44.74,0:20:45.76,Air Dialogue,,0000,0000,0000,,See you!
+Dialogue: 0,0:20:45.76,0:20:47.30,Air Dialogue,,0000,0000,0000,,Kamiya~!
+Dialogue: 0,0:20:48.59,0:20:49.58,Air Dialogue,,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:20:49.58,0:20:51.20,Air Dialogue,,0000,0000,0000,,Yukito Kunisaki!
+Dialogue: 0,0:20:51.20,0:20:51.81,Air Dialogue,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:20:52.05,0:20:54.51,Air Dialogue,,0000,0000,0000,,Geez, you should get lost!
+Dialogue: 0,0:20:55.65,0:20:57.98,Air Dialogue,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:20:58.35,0:21:01.87,Air Dialogue,,0000,0000,0000,,Hey, for tomorrow's lunch, can you make hamburgers?
+Dialogue: 0,0:21:01.87,0:21:02.63,Air Dialogue,,0000,0000,0000,,All right.
+Dialogue: 0,0:21:02.63,0:21:03.44,Air Dialogue,,0000,0000,0000,,Really?
+Dialogue: 0,0:21:03.44,0:21:04.45,Air Dialogue,,0000,0000,0000,,Yay!
+Dialogue: 0,0:21:04.93,0:21:07.15,Air Dialogue,,0000,0000,0000,,Did I do something wrong to that brat?
+Dialogue: 0,0:21:07.15,0:21:09.20,Air Dialogue,,0000,0000,0000,,Hmm, I don't know.
+Dialogue: 0,0:21:12.07,0:21:15.33,Air Dialogue,,0000,0000,0000,,I haven't made a single yen today.
+Dialogue: 0,0:21:16.59,0:21:19.34,Air Dialogue,,0000,0000,0000,,You were standing there like that when we met yesterday, too.
+Dialogue: 0,0:21:19.77,0:21:24.30,Air Dialogue,,0000,0000,0000,,Ever since I was little, I've had this longing for the sky.
+Dialogue: 0,0:21:25.08,0:21:25.76,Air Dialogue,,0000,0000,0000,,Why?
+Dialogue: 0,0:21:26.35,0:21:27.95,Air Dialogue,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:21:27.95,0:21:28.72,Air Dialogue,,0000,0000,0000,,It's just...
+Dialogue: 0,0:21:29.42,0:21:33.50,Air Dialogue,,0000,0000,0000,,I have this feeling that my other self is out there...
+Dialogue: 0,0:21:33.50,0:21:36.10,Air Dialogue,,0000,0000,0000,,That's a romantic thought, isn't it?
+Dialogue: 0,0:21:36.10,0:21:38.63,Air Dialogue,,0000,0000,0000,,That the real me is in the sky.
+Dialogue: 0,0:21:38.63,0:21:40.70,Air Dialogue,,0000,0000,0000,,It sounds so wonderful.
+Dialogue: 0,0:21:41.15,0:21:43.33,Air Dialogue,,0000,0000,0000,,Being able to see far into the distance,
+Dialogue: 0,0:21:43.33,0:21:46.86,Air Dialogue,,0000,0000,0000,,everything on earth would seem so insignificant,
+Dialogue: 0,0:21:47.63,0:21:51.33,Air Dialogue,,0000,0000,0000,,and one would find a kind feeling towards others, don't you think?
+Dialogue: 0,0:21:55.86,0:21:57.25,Air Dialogue,,0000,0000,0000,,Misuzu...
+Dialogue: 0,0:21:57.25,0:21:58.49,Air Dialogue,,0000,0000,0000,,...you are...
+Dialogue: 0,0:21:59.65,0:22:09.64,Air Dialogue,,0000,0000,0000,,{\i1}For me, that was the start of a summer as short as a star's twinkle, and as long as eternity.{\fad(0,600)\i0}
+Dialogue: 0,0:23:39.98,0:23:42.85,Air Dialogue,,0000,0000,0000,,{\c&HFFFFFF&\fad(400,400)\fs34\shad1.5\pos(321,195)}Next Episode Preview
+Dialogue: 0,0:23:41.27,0:23:45.32,Air Dialogue,,0000,0000,0000,,It might be the other you that I've been looking for.
+Dialogue: 0,0:23:45.63,0:23:47.92,Air Dialogue,,0000,0000,0000,,I'm not cut out to be a parent.
+Dialogue: 0,0:23:47.92,0:23:50.26,Air Dialogue,,0000,0000,0000,,I should have stayed alone.
+Dialogue: 0,0:23:51.52,0:23:53.09,Air Dialogue,,0000,0000,0000,,I had a dream.
+Dialogue: 0,0:23:53.09,0:23:54.46,Air Dialogue,,0000,0000,0000,,A mysterious dream.
+Dialogue: 0,0:23:54.46,0:23:55.59,Air Dialogue,,0000,0000,0000,,A dream about the sky.
+Dialogue: 0,0:23:56.06,0:23:58.03,Air Dialogue,,0000,0000,0000,,I was in the sky.
+Dialogue: 0,0:23:58.03,0:24:00.93,Air Dialogue,,0000,0000,0000,,It was a world I'd never seen before.
+Dialogue: 0,0:24:00.93,0:24:03.52,Air Dialogue,,0000,0000,0000,,Everything extends endlessly into infinity.
+Dialogue: 0,0:24:04.22,0:24:04.98,Air Dialogue,,0000,0000,0000,,Hey,
+Dialogue: 0,0:24:05.67,0:24:08.95,Air Dialogue,,0000,0000,0000,,{\fad(0,400)}did you have wings in your dream?
+Dialogue: 0,0:24:06.77,0:24:10.00,Air Typesetting,,0000,0000,0000,,{\fad(1000,0)\fs26\fscx100\fscy100\shad1.6\pos(478,278)\c&HFEFEFA&\4c&H121213&}Episode 2
 Dialogue: 1,0:01:56.30,0:02:03.45,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}We watched the fading vapor trails
 Dialogue: 1,0:02:04.00,0:02:07.90,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}They were so dazzaling, I ran away
 Dialogue: 1,0:02:07.91,0:02:17.28,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}I was so frustrated, I released your hand
