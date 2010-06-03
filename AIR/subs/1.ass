@@ -9,7 +9,7 @@ PlayResY: 480
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 5
-Video Position: 2058
+Video Position: 1010
 Last Style Storage: Default
 Video File: [B-G]_AIR_TV_-_01.BD(H.264-720p_DTS5.1)_[9D7422D8].mkv
 Audio File: ?video
@@ -19,12 +19,12 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Air Dialogue,Giacomo LT,36,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.9,1.2,2,20,20,19,1
 Style: AirOPRom,Cronos Pro Subhead,30,&H00FF6A5C,&H00FFCBC2,&H1E000000,&H64000000,0,-1,0,0,100,100,0,0,1,1,0.7,8,10,10,10,1
 Style: Air Typesetting,Myriad Pro Light,32,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Air Narrator,Giacomo MD,42,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,-1,-1,0,0,100,100,-10,0,1,2,1.5,2,20,20,22,1
 Style: AirOPEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H1E2B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.4,1.2,2,20,20,15,1
 Style: AirOPKan,DFKai-SB,24,&H00FF6A5C,&H00FFCBC2,&H32000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,0.7,8,10,10,40,1
 Style: AirEDRom,Cronos Pro Subhead,30,&H00FF6A5C,&H00FFCBC2,&H1E000000,&H64000000,0,-1,0,0,100,100,0,0,1,1,0.7,8,10,10,10,1
 Style: AirEDKan,DFKai-SB,24,&H00FF6A5C,&H00FFCBC2,&H32000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,0.7,8,10,10,40,1
 Style: AirEDEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H1E2B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.4,1.2,2,20,20,15,1
+Style: Air Narrator,Giacomo LT,36,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,-1,-1,0,0,100,100,-10,0,1,1.9,1.2,2,20,20,19,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
