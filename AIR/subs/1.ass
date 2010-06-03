@@ -8,31 +8,28 @@ PlayResX: 640
 PlayResY: 480
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
-Video Zoom: 5
-Video Position: 1010
+Video Zoom: 6
+Video Position: 0
 Last Style Storage: Default
-Video File: [B-G]_AIR_TV_-_01.BD(H.264-720p_DTS5.1)_[9D7422D8].mkv
-Audio File: ?video
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Air Dialogue,Giacomo LT,36,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.9,1.2,2,20,20,19,1
+Style: Air Dialogue,Giacomo LT,36,&H00FEE9E0,&H000000FF,&H00141414,&H96000000,-1,0,0,0,100,100,0,0,1,1.5,1.2,2,20,20,19,1
 Style: AirOPRom,Cronos Pro Subhead,30,&H00FF6A5C,&H00FFCBC2,&H1E000000,&H64000000,0,-1,0,0,100,100,0,0,1,1,0.7,8,10,10,10,1
 Style: Air Typesetting,Myriad Pro Light,32,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: AirOPEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H1E2B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.4,1.2,2,20,20,15,1
+Style: AirOPEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,0,0,0,0,100,100,0,0,1,1.4,1.2,2,20,20,15,1
 Style: AirOPKan,DFKai-SB,24,&H00FF6A5C,&H00FFCBC2,&H32000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,0.7,8,10,10,40,1
 Style: AirEDRom,Cronos Pro Subhead,30,&H00FF6A5C,&H00FFCBC2,&H1E000000,&H64000000,0,-1,0,0,100,100,0,0,1,1,0.7,8,10,10,10,1
 Style: AirEDKan,DFKai-SB,24,&H00FF6A5C,&H00FFCBC2,&H32000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,0.7,8,10,10,40,1
-Style: AirEDEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H1E2B2B2B,&H96000000,-1,0,0,0,100,100,-10,0,1,1.4,1.2,2,20,20,15,1
-Style: Air Narrator,Giacomo LT,36,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,-1,-1,0,0,100,100,-10,0,1,1.9,1.2,2,20,20,19,1
+Style: AirEDEng,Giacomo MD,28,&H00FEE9E0,&H000000FF,&H002B2B2B,&H96000000,0,0,0,0,100,100,0,0,1,1.4,1.2,2,20,20,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.17,0:00:03.04,Air Narrator,,0000,0000,0000,,{\fad(450,0)}My child,
-Dialogue: 0,0:00:03.04,0:00:05.45,Air Narrator,,0000,0000,0000,,listen carefully.
-Dialogue: 0,0:00:05.45,0:00:09.42,Air Narrator,,0000,0000,0000,,The story I'm about to tell is very important.
-Dialogue: 0,0:00:10.42,0:00:15.61,Air Narrator,,0000,0000,0000,,It is the story of a long, long journey,
-Dialogue: 0,0:00:15.61,0:00:21.98,Air Narrator,,0000,0000,0000,,{\fad(0,450)}a story that will be passed down forever from parent to child, starting now.
+Dialogue: 0,0:00:01.17,0:00:03.04,Air Dialogue,,0000,0000,0000,,{\i1\fad(450,0)}My child,
+Dialogue: 0,0:00:03.04,0:00:05.45,Air Dialogue,,0000,0000,0000,,{\i1}listen carefully.
+Dialogue: 0,0:00:05.45,0:00:09.42,Air Dialogue,,0000,0000,0000,,{\i1}The story I'm about to tell is very important.
+Dialogue: 0,0:00:10.42,0:00:15.61,Air Dialogue,,0000,0000,0000,,{\i1}It is the story of a long, long journey,
+Dialogue: 0,0:00:15.61,0:00:21.98,Air Dialogue,,0000,0000,0000,,{\fad(0,450)\i1}a story that will be passed down forever from parent to child, starting now.
 Dialogue: 0,0:00:32.27,0:00:33.59,Air Dialogue,,0000,0000,0000,,I'm hungry.
 Dialogue: 0,0:00:33.59,0:00:35.26,Air Dialogue,,0000,0000,0000,,Argh, I'm hungry!
 Dialogue: 0,0:00:35.26,0:00:37.20,Air Dialogue,,0000,0000,0000,,That's all you've been saying.
@@ -180,7 +177,7 @@ Dialogue: 0,0:09:20.13,0:09:20.24,Air Typesetting,,0000,0000,0000,,{\frx0\fry26\
 Dialogue: 0,0:09:20.24,0:09:20.37,Air Typesetting,,0000,0000,0000,,{\frx0\fry26\fscx67.5\fscy63.75\frz359.902\pos(288,340)}CLASSMATE
 Dialogue: 0,0:09:20.37,0:09:20.91,Air Typesetting,,0000,0000,0000,,{\frx0\fry26\frz359.902\fscx62.5\fscy55\pos(287,356)}CLASSMATE
 Dialogue: 0,0:09:20.91,0:09:21.01,Air Typesetting,,0000,0000,0000,,{\frx354\fry46\frz5.327\fscx53.75\fscy56.25\pos(295,364)}CLASSMATE
-Dialogue: 0,0:09:20.26,0:09:23.36,Default,,0000,0000,0000,,Huh? You look a bit old for that.
+Dialogue: 0,0:09:20.26,0:09:23.36,Air Dialogue,,0000,0000,0000,,Huh? You look a bit old for that.
 Dialogue: 0,0:09:23.20,0:09:23.30,Air Typesetting,,0000,0000,0000,,{\fscx71.25\fscy67.5\frz3.299\pos(249,159)}DON'T FALL FOR ME
 Dialogue: 0,0:09:23.30,0:09:23.40,Air Typesetting,,0000,0000,0000,,{\frx40\fry16\fscx61.25\fscy55\frz4.058\pos(212,79)}DON'T FALL FOR ME
 Dialogue: 0,0:09:23.40,0:09:23.55,Air Typesetting,,0000,0000,0000,,{\frx14\fry0\frz1.792\fscx62.5\fscy60\pos(219,119)}DON'T FALL FOR ME
@@ -291,7 +288,7 @@ Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\
 Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\fscx62.5\fscy63.75\frz7.094\t($sstart,$send,\fs22)\c&H170B66&\move(247,203,264,214,0,2484)}I'm\Nstudying
 Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz356.864\t($sstart,$send,\fs22)\move(332,446,324,397,0,2484)}Munch munch
 Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz27.01\t($sstart,$send,\fs22)\move(100,425,149,378,0,2484)}Its the ocean!
-Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz358.684\t($sstart,$send,\fs22)\move(410,168,387,193,0,2484)}Here 
+Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\frz358.684\t($sstart,$send,\fs22)\move(410,168,387,193,0,2484)}Here
 Dialogue: 0,0:13:49.18,0:13:51.67,Air Typesetting,,0000,0000,0000,,{\c&H170B66&\fscx62.5\fscy63.75\t($sstart,$send,\fs22)\frz352.797\move(467,464,428,410,0,2484)}Delicious!
 Dialogue: 0,0:13:50.26,0:13:51.68,Air Dialogue,,0000,0000,0000,,What... is this?
 Dialogue: 0,0:13:51.96,0:13:54.71,Air Dialogue,,0000,0000,0000,,Is this how she sees the world?
@@ -499,37 +496,37 @@ Dialogue: 1,0:02:25.89,0:02:32.21,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250
 Dialogue: 1,0:02:32.52,0:02:40.66,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}Children walk along the summer railway tracks
 Dialogue: 1,0:02:40.89,0:02:47.22,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}Holding in both hands their wishes to take flight
 Dialogue: 1,0:02:47.42,0:02:54.51,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}Chasing, chasing the fading vapor trails
-Dialogue: 1,0:02:55.38,0:03:02.25,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}It hasn't changed since the day we crossed that hill
-Dialogue: 1,0:03:02.25,0:03:04.42,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}And never will
+Dialogue: 1,0:02:55.38,0:03:02.16,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}It hasn't changed since the day we crossed that hill
+Dialogue: 1,0:03:02.16,0:03:04.42,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}And never will
 Dialogue: 1,0:03:04.49,0:03:10.56,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}And just as we are now, standing tall
 Dialogue: 1,0:03:11.06,0:03:19.47,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}We'll guard the strength of a sea god
-Dialogue: 1,0:03:19.72,0:03:24.67,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}Surely
-Dialogue: 0,0:01:56.30,0:02:03.45,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K56}ki{\K26}e{\K23}ru {\K23}hi{\K47}kou{\K30}ki{\K15}gu{\K122}mo{\K30} {\K28}bo{\K23}ku{\K17}ta{\K29}chi {\K28}wa {\K27}mi{\K48}o{\K43}ku{\K100}tta
-Dialogue: 0,0:01:56.30,0:02:03.45,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K56}消{\K26}え{\K23}る{\K23}飛{\K47}行{\K45}機{\K122}雲{\K30}{\K51}僕{\K17}た{\K29}ち{\K28}は{\K75}見{\K43}送{\K100}った
-Dialogue: 0,0:02:04.00,0:02:07.90,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K66}ma{\K21}bu{\K35}shi{\K23}ku{\K47}te {\K29}ni{\K18}ge{\K139}ta
-Dialogue: 0,0:02:04.00,0:02:07.90,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K87}眩{\K35}し{\K23}く{\K47}て{\K29}逃{\K18}げ{\K139}た
-Dialogue: 0,0:02:07.91,0:02:17.28,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K18}ku{\K26}ya{\K38}shi{\K22}ku{\K24}te {\K28}yu{\K178}bi {\K166}wo {\K45}ha{\K187}na{\K206}su
-Dialogue: 0,0:02:07.91,0:02:17.28,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K44}悔{\K38}し{\K22}く{\K24}て{\K206}指{\K166}を{\K232}離{\K206}す
-Dialogue: 0,0:02:18.01,0:02:25.13,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K28}to{\K33}do{\K40}ka{\K25}na{\K36}i {\K24}ba{\K58}sho {\K53}ga {\K24}ma{\K40}da {\K31}to{\K48}o{\K19}ku {\K157}ni {\K41}a{\K54}ru
-Dialogue: 0,0:02:18.01,0:02:25.13,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K61}届{\K40}か{\K25}な{\K36}い{\K24}場{\K58}所{\K53}が{\K24}ま{\K40}だ{\K79}遠{\K19}く{\K157}に{\K41}あ{\K54}る
-Dialogue: 0,0:02:25.89,0:02:32.21,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K25}ne{\K35}ga{\K21}i {\K20}hi {\K22}da{\K40}ke {\K34}hi{\K48}me{\K48}te {\K23}mi{\K102}tsu{\K49}me{\K49}te{\K116}ru
-Dialogue: 0,0:02:25.89,0:02:32.21,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K60}願{\K21}い{\K42}だ{\K40}け{\K34}秘{\K48}め{\K48}て{\K23}見{\K102}つ{\K49}め{\K49}て{\K116}る
-Dialogue: 0,0:02:32.52,0:02:40.66,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K49}ko{\K25}do{\K24}mo{\K20}ta{\K20}chi {\K157}wa {\K48}na{\K50}tsu {\K35}no {\K95}sen{\K185}ro {\K28}a{\K24}ru{\K53}ku
-Dialogue: 0,0:02:32.52,0:02:40.66,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K74}子{\K24}供{\K20}た{\K20}ち{\K157}は{\K98}夏{\K35}の{\K95}線{\K185}路{\K52}歩{\K53}く
-Dialogue: 0,0:02:40.89,0:02:47.22,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K22}ry{\K25}ou{\K21}te {\K21}ni {\K250}wa {\K26}to{\K27}bi{\K44}da{\K23}tsu {\K32}ki{\K72}bou {\K69}wo
-Dialogue: 0,0:02:40.89,0:02:47.22,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K47}両{\K21}手{\K21}に{\K250}は{\K26}飛{\K27}び{\K44}立{\K23}つ{\K32}希{\K72}望{\K69}を
-Dialogue: 0,0:02:47.42,0:02:54.51,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K46}ki{\K24}e{\K25}ru {\K27}hi{\K46}kou{\K23}ki{\K15}gu{\K173}mo {\K20}o{\K15}i{\K29}ka{\K23}ke{\K13}te {\K46}o{\K50}i{\K18}ka{\K27}ke{\K88}te
-Dialogue: 0,0:02:47.42,0:02:54.51,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K46}消{\K24}え{\K25}る{\K27}飛{\K46}行{\K23}機{\K188}雲{\K20}　追{\K15}い{\K29}か{\K23}け{\K13}て{\K46}追{\K50}い{\K18}か{\K27}け{\K88}て
-Dialogue: 0,0:02:55.38,0:03:02.25,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K45}ko{\K28}no {\K26}o{\K26}ka {\K47}wo {\K19}ko{\K19}e{\K153}ta {\K28}a{\K28}no {\K16}hi {\K29}ka{\K28}ra {\K27}ka{\K35}wa{\K37}ra{\K96}zu
-Dialogue: 0,0:02:55.38,0:03:02.25,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K45}こ{\K28}の{\K52}丘{\K47}を{\K19}越{\K19}え{\K153}た{\K28}あ{\K28}の{\K16}日{\K29}か{\K28}ら{\K27}変{\K35}わ{\K37}ら{\K96}ず
-Dialogue: 0,0:03:02.25,0:03:04.42,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K24}i{\K51}tsu{\K46}ma{\K50}de{\K46}mo
-Dialogue: 0,0:03:02.25,0:03:04.42,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K24}い{\K51}つ{\K46}ま{\K50}で{\K46}も
-Dialogue: 0,0:03:04.49,0:03:10.56,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K27}mas{\K22}su{\K23}gu {\K139}ni {\K33}{\K26}bo{\K23}ku{\K21}ta{\K28}chi {\K26}wa {\K24}a{\K48}ru {\K49}you{\K117}ni
-Dialogue: 0,0:03:04.49,0:03:10.56,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K27}真{\K22}っ直{\K23}ぐ{\K139}に{\K33}{\K49}僕{\K21}た{\K28}ち{\K26}は{\K24}あ{\K48}る{\K49}よう{\K117}に
-Dialogue: 0,0:03:11.06,0:03:19.47,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K53}wa{\K23}ta{\K27}tsu{\K25}mi {\K45}no {\K19}yo{\K16}u{\K159}na {\K31}tsu{\K14}yo{\K37}sa {\K24}wo {\K24}ma{\K26}mo{\K172}re{\K26}ru {\K120}yo
-Dialogue: 0,0:03:11.06,0:03:19.47,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K53}わ{\K23}た{\K27}つ{\K25}み{\K45}の{\K19}よ{\K16}う{\K159}な{\K45}強{\K37}さ{\K24}を{\K50}守{\K172}れ{\K26}る{\K120}よ
-Dialogue: 0,0:03:19.72,0:03:24.67,AirOPKan,,0000,0000,0000,karaoke,{\fad(250,250)}{\K50}き{\K189}っ{\K257}と
-Dialogue: 0,0:03:19.72,0:03:24.67,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K50}k{\K189}it{\K257}to
+Dialogue: 1,0:03:19.65,0:03:24.57,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}Surely
+Dialogue: 0,0:01:56.30,0:02:03.45,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K48}ki{\K26}e{\K24}ru {\K24}hi{\K47}kou{\K29}ki{\K18}gu{\K126}mo{\K26} {\K27}bo{\K22}ku{\K17}ta{\K32}chi {\K25}wa {\K28}mi{\K46}o{\K48}ku{\K102}tta
+Dialogue: 0,0:01:56.30,0:02:03.45,AirOPKan,,0000,0000,0000,karaoke,{\k48}消{\k26}え{\k24}る{\k24}飛{\k47}行{\k47}機{\k126}雲{\k26}{\k49}僕{\k17}た{\k32}ち{\k25}は{\k74}見{\k48}送{\k102}った
+Dialogue: 0,0:02:04.00,0:02:07.90,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K64}ma{\K17}bu{\K34}shi{\K27}ku{\K49}te {\K21}ni{\K17}ge{\K162}ta
+Dialogue: 0,0:02:04.00,0:02:07.90,AirOPKan,,0000,0000,0000,karaoke,{\k81}眩{\k34}し{\k27}く{\k49}て{\k21}逃{\k17}げ{\k162}た
+Dialogue: 0,0:02:07.91,0:02:17.28,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K13}ku{\K23}ya{\K37}shi{\K25}ku{\K23}te {\K25}yu{\K183}bi {\K163}wo {\K49}ha{\K188}na{\K209}su
+Dialogue: 0,0:02:07.91,0:02:17.28,AirOPKan,,0000,0000,0000,karaoke,{\k36}悔{\k37}し{\k25}く{\k23}て{\k208}指{\k163}を{\k237}離{\k209}す
+Dialogue: 0,0:02:18.01,0:02:25.13,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K21}to{\K34}do{\K39}ka{\K24}na{\K37}i {\K28}ba{\K56}sho {\K48}ga {\K27}ma{\K38}da {\K33}to{\K53}o{\K21}ku {\K151}ni {\K51}a{\K50}ru
+Dialogue: 0,0:02:18.01,0:02:25.13,AirOPKan,,0000,0000,0000,karaoke,{\k55}届{\k39}か{\k24}な{\k37}い{\k28}場{\k56}所{\k48}が{\k27}ま{\k38}だ{\k86}遠{\k21}く{\k151}に{\k51}あ{\k50}る
+Dialogue: 0,0:02:25.89,0:02:32.21,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K17}ne{\K36}ga{\K16}i {\K25}hi {\K22}da{\K39}ke {\K35}hi{\K47}me{\K51}te {\K23}mi{\K98}tsu{\K51}me{\K50}te{\K122}ru
+Dialogue: 0,0:02:25.89,0:02:32.21,AirOPKan,,0000,0000,0000,karaoke,{\k53}願{\k16}い{\k47}だ{\k39}け{\k35}秘{\k47}め{\k51}て{\k23}見{\k98}つ{\k51}め{\k50}て{\k122}る
+Dialogue: 0,0:02:32.52,0:02:40.66,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K43}ko{\K25}do{\K25}mo{\K20}ta{\K17}chi {\K158}wa {\K46}na{\K53}tsu {\K36}no {\K101}sen{\K179}ro {\K29}a{\K22}ru{\K59}ku
+Dialogue: 0,0:02:32.52,0:02:40.66,AirOPKan,,0000,0000,0000,karaoke,{\k68}子{\k25}供{\k20}た{\k17}ち{\k158}は{\k99}夏{\k36}の{\k101}線{\k179}路{\k51}歩{\k59}く
+Dialogue: 0,0:02:40.89,0:02:47.22,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K16}ry{\K25}ou{\K24}te {\K16}ni {\K250}wa {\K30}to{\K23}bi{\K47}da{\K21}tsu {\K33}ki{\K78}bou {\K69}wo
+Dialogue: 0,0:02:40.89,0:02:47.22,AirOPKan,,0000,0000,0000,karaoke,{\k41}両{\k24}手{\k16}に{\k250}は{\k30}飛{\k23}び{\k47}立{\k21}つ{\k33}希{\k78}望{\k69}を
+Dialogue: 0,0:02:47.42,0:02:54.51,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K52}ki{\K23}e{\K20}ru {\K30}hi{\K49}kou{\K17}ki{\K15}gu{\K164}mo {\K26}o{\K26}i{\K21}ka{\K28}ke{\K24}te {\K21}o{\K52}i{\K22}ka{\K27}ke{\K91}te
+Dialogue: 0,0:02:47.42,0:02:54.51,AirOPKan,,0000,0000,0000,karaoke,{\k52}消{\k23}え{\k20}る{\k30}飛{\k49}行{\k17}機{\k179}雲{\k26}追{\k26}い{\k21}か{\k28}け{\k24}て{\k21}追{\k52}い{\k22}か{\k27}け{\k91}て
+Dialogue: 0,0:02:55.38,0:03:02.16,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K39}ko{\K29}no {\K24}o{\K24}ka {\K49}wo {\K22}ko{\K17}e{\K159}ta {\K26}a{\K23}no {\K23}hi {\K26}ka{\K25}ra {\K21}ka{\K37}wa{\K38}ra{\K98}zu
+Dialogue: 0,0:02:55.38,0:03:02.16,AirOPKan,,0000,0000,0000,karaoke,{\k39}こ{\k29}の{\k48}丘{\k49}を{\k22}越{\k17}え{\k159}た{\k26}あ{\k23}の{\k23}日{\k26}か{\k25}ら{\k21}変{\k37}わ{\k38}ら{\k98}ず
+Dialogue: 0,0:03:02.16,0:03:04.42,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K26}i{\K50}tsu{\K49}ma{\K46}de{\K55}mo
+Dialogue: 0,0:03:02.16,0:03:04.42,AirOPKan,,0000,0000,0000,karaoke,{\k26}い{\k50}つ{\k49}ま{\k46}で{\k55}も
+Dialogue: 0,0:03:04.49,0:03:10.56,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K24}mas{\K19}su{\K22}gu {\K142}ni {\K29}{\K28}bo{\K23}ku{\K21}ta{\K28}chi {\K25}wa {\K25}a{\K48}ru {\K49}you{\K123}ni
+Dialogue: 0,0:03:04.49,0:03:10.56,AirOPKan,,0000,0000,0000,karaoke,{\k24}真{\k19}っ直{\k22}ぐ{\k142}に{\k29}{\k51}僕{\k21}た{\k28}ち{\k25}は{\k25}あ{\k48}る{\k49}よう{\k123}に
+Dialogue: 0,0:03:11.06,0:03:19.47,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K47}wa{\K21}ta{\K29}tsu{\K25}mi {\K41}no {\K30}yo{\K15}u{\K154}na {\K29}tsu{\K16}yo{\K41}sa {\K20}wo {\K23}ma{\K23}mo{\K174}re{\K28}ru {\K125}yo
+Dialogue: 0,0:03:11.06,0:03:19.47,AirOPKan,,0000,0000,0000,karaoke,{\k47}わ{\k21}た{\k29}つ{\k25}み{\k41}の{\k30}よ{\k15}う{\k154}な{\k45}強{\k41}さ{\k20}を{\k46}守{\k174}れ{\k28}る{\k125}よ
+Dialogue: 0,0:03:19.65,0:03:24.57,AirOPRom,,0000,0000,0000,karaoke,{\fad(250,250)}{\K50}k{\K189}it{\K257}to
+Dialogue: 0,0:03:19.65,0:03:24.57,AirOPKan,,0000,0000,0000,karaoke,{\k50}き{\k189}っ{\k257}と
 Dialogue: 1,0:22:18.03,0:22:27.69,AirEDEng,,0000,0000,0000,,{\fad(250,250)}Grasping the white fragments of an interrupted dream
 Dialogue: 1,0:22:28.75,0:22:32.69,AirEDEng,,0000,0000,0000,,{\fad(250,250)}A boy runs
 Dialogue: 1,0:22:33.33,0:22:47.61,AirEDEng,,0000,0000,0000,,{\fad(250,250)}When he lets go, they disappear into the distant sound of the wind
@@ -537,17 +534,17 @@ Dialogue: 1,0:22:48.17,0:22:56.03,AirEDEng,,0000,0000,0000,,{\fad(250,250)}The k
 Dialogue: 1,0:22:56.25,0:23:07.00,AirEDEng,,0000,0000,0000,,{\fad(250,250)}I just look at my feet, stepping forward alone
 Dialogue: 1,0:23:07.19,0:23:22.11,AirEDEng,,0000,0000,0000,,{\fad(250,250)}I listened to the singing until it disappeared when morning came
 Dialogue: 1,0:23:22.46,0:23:38.00,AirEDEng,,0000,0000,0000,,{\fad(250,250)}I followed the footprints we'd left behind into the distance
-Dialogue: 1,0:22:18.03,0:22:27.69,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K36}shi{\K27}ro{\K69}ku {\K24}to{\K47}gi{\K23}re{\K109}ta{\K59} {\K24}yu{\K24}me {\K94}no {\K37}ki{\K35}re{\K21}ha{\K38}shi {\K37}wo {\K14}tsu{\K11}ka{\K35}ma{\K37}e{\K152}te
-Dialogue: 1,0:22:28.75,0:22:32.69,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K39}sho{\K32}u{\K36}ne{\K28}n {\K33}wa {\K27}ha{\K33}shi{\K165}ru
-Dialogue: 1,0:22:33.33,0:22:47.61,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K24}te {\K25}wo {\K65}ha{\K27}na{\K50}shi{\K30}ta{\K102}ra{\K59} {\K23}do{\K25}ko{\K66}ma{\K26}de{\K36}mo {\K37}to{\K23}o{\K37}ku {\K33}ka{\K26}ze {\K36}no {\K33}ne {\K120}ni{\K236} {\K28}ki{\K26}e{\K39}te{\K30}yu{\K166}ku
-Dialogue: 1,0:22:48.17,0:22:56.03,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K36}i{\K36}tsu{\K116}ka {\K38}mi{\K35}e{\K71}ta {\K20}ya{\K22}sa{\K39}shi{\K39}sa {\K71}wa {\K48}mo{\K36}u {\K37}na{\K142}i
-Dialogue: 1,0:22:56.25,0:23:07.00,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K24}hi{\K27}to{\K45}ri {\K24}fu{\K23}mi{\K57}da{\K86}su {\K37}a{\K48}shi{\K36}da{\K304}ke {\K41}mi{\K36}te{\K287}ru
-Dialogue: 1,0:23:07.19,0:23:22.11,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K107}a{\K60}sa {\K26}ni {\K120}wa {\K46}ki{\K26}e{\K116}ta {\K25}a{\K23}no {\K25}u{\K72}ta{\K71}go{\K47}e {\K95}wo {\K32}i{\K37}tsu{\K26}ma{\K71}de{\K73}mo {\K24}ki{\K23}i{\K71}te{\K275}ta
-Dialogue: 1,0:23:22.46,0:23:38.00,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K118}bo{\K47}ku{\K25}ra {\K113}ga {\K30}no{\K21}ko{\K27}shi{\K116}ta {\K27}a{\K23}no {\K25}a{\K70}shi{\K71}a{\K46}to {\K97}wo {\K33}i{\K39}tsu{\K24}ma{\K67}de{\K75}mo {\K39}o{\K10}t{\K72}te{\K339}ta
-Dialogue: 0,0:22:18.03,0:22:27.69,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\K74}白{\K68}く{\K26}途{\K48}切{\K21}れ{\K168}た{\K47}夢{\K95}の{\K34}切{\K39}れ{\K59}端{\K35}を{\K15}つ{\K18}か{\K31}ま{\K30}え{\K154}て
-Dialogue: 0,0:22:28.75,0:22:32.69,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\K87}少{\K60}年{\K32}は{\K63}走{\K196}る
-Dialogue: 0,0:22:33.33,0:22:47.61,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\K34}手{\K20}を{\K97}放{\K49}し{\K32}た{\K93}ら{\K25}ど{\K26}こ{\K69}ま{\K22}で{\K36}も{\K62}遠{\K34}く{\K61}風{\K36}の{\K33}音{\K355}に{\K30}消{\K26}え{\K41}て{\K24}ゆ{\K161}く
-Dialogue: 0,0:22:48.17,0:22:56.03,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\K45}い{\K36}つ{\K119}か{\K48}見{\K24}え{\K71}た{\K43}優{\K32}し{\K44}さ{\K72}は{\K48}も{\K36}う{\K35}な{\K120}い
-Dialogue: 0,0:22:56.25,0:23:07.00,AirEDKan,,0000,0000,0000,,{\fad(250,250)\blur2}{\K34}ひ{\K26}と{\K36}り{\K35}踏{\K22}み{\K62}出{\K80}す{\K85}足{\K34}だ{\K309}け{\K34}見{\K39}て{\K291}る
-Dialogue: 0,0:23:07.19,0:23:22.11,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\K183}朝{\K31}に{\K119}は{\K48}消{\K25}え{\K105}た{\K38}あ{\K24}の{\K91}歌{\K122}声{\K94}を{\K30}い{\K40}つ{\K26}ま{\K70}で{\K71}も{\K50}聞い{\K73}て{\K302}た
-Dialogue: 0,0:23:22.46,0:23:38.00,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\K175}僕{\K25}ら{\K106}が{\K51}残{\K33}し{\K117}た{\K26}あ{\K23}の{\K96}足{\K119}跡{\K95}を{\K32}い{\K39}つ{\K24}ま{\K72}で{\K72}も{\K48}追{\K70}って{\K312}た
+Dialogue: 1,0:22:18.03,0:22:27.69,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K28}shi{\K28}ro{\K70}ku {\K23}to{\K48}gi{\K24}re{\K109}ta{\K58} {\K24}yu{\K26}me {\K92}no {\K37}ki{\K36}re{\K18}ha{\K40}shi {\K37}wo {\K13}tsu{\K10}ka{\K38}ma{\K33}e{\K173}te
+Dialogue: 1,0:22:28.75,0:22:32.69,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K34}sho{\K33}u{\K35}ne{\K27}n {\K34}wa {\K28}ha{\K35}shi{\K167}ru
+Dialogue: 1,0:22:33.33,0:22:47.61,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K24}te {\K25}wo {\K65}ha{\K27}na{\K50}shi{\K25}ta{\K107}ra{\K55} {\K27}do{\K25}ko{\K70}ma{\K25}de{\K35}mo {\K35}to{\K28}o{\K32}ku {\K33}ka{\K26}ze {\K36}no {\K33}ne {\K120}ni{\K240} {\K24}ki{\K26}e{\K36}te{\K33}yu{\K166}ku
+Dialogue: 1,0:22:48.17,0:22:56.03,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K30}i{\K34}tsu{\K120}ka {\K36}mi{\K34}e{\K72}ta {\K26}ya{\K22}sa{\K34}shi{\K38}sa {\K70}wa {\K48}mo{\K40}u {\K32}na{\K150}i
+Dialogue: 1,0:22:56.25,0:23:07.00,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K16}hi{\K30}to{\K44}ri {\K23}fu{\K25}mi{\K57}da{\K84}su {\K39}a{\K47}shi{\K34}da{\K308}ke {\K39}mi{\K36}te{\K293}ru
+Dialogue: 1,0:23:07.19,0:23:22.11,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K104}a{\K57}sa {\K25}ni {\K119}wa {\K48}ki{\K25}e{\K117}ta {\K24}a{\K24}no {\K24}u{\K71}ta{\K71}go{\K48}e {\K97}wo {\K36}i{\K30}tsu{\K29}ma{\K71}de{\K69}mo {\K33}ki{\K18}i{\K70}te{\K281}ta
+Dialogue: 1,0:23:22.46,0:23:38.00,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K112}bo{\K47}ku{\K26}ra {\K115}ga {\K26}no{\K24}ko{\K23}shi{\K119}ta {\K24}a{\K25}no {\K21}a{\K73}shi{\K69}a{\K49}to {\K97}wo {\K35}i{\K34}tsu{\K26}ma{\K69}de{\K73}mo {\K38}o{\K9}t{\K74}te{\K346}ta
+Dialogue: 0,0:22:18.03,0:22:27.69,AirEDKan,,0000,0000,0000,,{\k56}白{\k70}く{\k23}途{\k48}切{\k24}れ{\k109}た{\k58}{\k50}夢{\k92}の{\k37}切{\k36}れ{\k58}端{\k37}を{\k13}つ{\k10}か{\k38}ま{\k33}え{\k173}て
+Dialogue: 0,0:22:28.75,0:22:32.69,AirEDKan,,0000,0000,0000,,{\k67}少{\k62}年{\k34}は{\k63}走{\k167}る
+Dialogue: 0,0:22:33.33,0:22:47.61,AirEDKan,,0000,0000,0000,,{\k24}手{\k25}を{\k92}放{\k50}し{\k25}た{\k107}ら{\k55}{\k27}ど{\k25}こ{\k70}ま{\k25}で{\k35}も{\k63}遠{\k32}く{\k59}風{\k36}の{\k33}音{\k120}に{\k240}{\k24}消{\k26}え{\k36}て{\k33}ゆ{\k166}く
+Dialogue: 0,0:22:48.17,0:22:56.03,AirEDKan,,0000,0000,0000,,{\k30}い{\k34}つ{\k120}か{\k36}見{\k34}え{\k72}た{\k48}優{\k34}し{\k38}さ{\k70}は{\k48}も{\k40}う{\k32}な{\k150}い
+Dialogue: 0,0:22:56.25,0:23:07.00,AirEDKan,,0000,0000,0000,,{\k16}ひ{\k30}と{\k44}り{\k23}踏{\k25}み{\k57}出{\k84}す{\k86}足{\k34}だ{\k308}け{\k39}見{\k36}て{\k293}る
+Dialogue: 0,0:23:07.19,0:23:22.11,AirEDKan,,0000,0000,0000,,{\k161}朝{\k25}に{\k119}は{\k48}消{\k25}え{\k117}た{\k24}あ{\k24}の{\k95}歌{\k119}声{\k97}を{\k36}い{\k30}つ{\k29}ま{\k71}で{\k69}も{\k33}聞{\k18}い{\k70}て{\k281}た
+Dialogue: 0,0:23:22.46,0:23:38.00,AirEDKan,,0000,0000,0000,,{\k159}僕{\k26}ら{\k115}が{\k50}残{\k23}し{\k119}た{\k24}あ{\k25}の{\k94}足{\k118}跡{\k97}を{\k35}い{\k34}つ{\k26}ま{\k69}で{\k73}も{\k47}追{\k74}って{\k346}た
