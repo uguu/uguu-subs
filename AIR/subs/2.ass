@@ -8,10 +8,10 @@ PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
-Video Zoom: 4
-Video Position: 787
+Video Zoom: 8
+Video Position: 31812
 Last Style Storage: Default
-Video File: ..\..\Downloads\2-720-qc.mkv
+Video File: 2-tiny.mkv
 Audio File: ?video
 
 [V4+ Styles]
@@ -34,8 +34,8 @@ Dialogue: 0,0:00:14.08,0:00:18.14,Air Dialogue,,0000,0000,0000,,Somewhere beyond
 Dialogue: 0,0:00:18.14,0:00:21.91,Air Dialogue,,0000,0000,0000,,She spreads those wings and continues to be blown by the wind from the distant past,
 Dialogue: 0,0:00:21.91,0:00:22.97,Air Dialogue,,0000,0000,0000,,just like long ago.
 Dialogue: 0,0:00:23.45,0:00:28.71,Air Dialogue,,0000,0000,0000,,My mother passed away before she told me any more details.
-Dialogue: 0,0:00:32.80,0:00:44.44,Air Dialogue,,0000,0000,0000,,Ever since then, my only companions whilst traveling have been that story of the girl in the sky and this doll.
-Comment: 0,0:00:44.44,0:00:44.84,Air Dialogue,,0000,0000,0000,,TRIPLE LINE OMGWTF
+Dialogue: 0,0:00:32.80,0:00:35.37,Air Dialogue,,0000,0000,0000,,Ever since then,
+Dialogue: 0,0:00:35.37,0:00:44.44,Air Dialogue,,0000,0000,0000,,my only companions whilst traveling have been that story of the girl in the sky and this doll.
 Dialogue: 0,0:00:44.84,0:00:49.53,Air Dialogue,,0000,0000,0000,,Yukito-san, are you also searching for the same girl as your mother?
 Dialogue: 0,0:00:49.53,0:00:52.40,Air Dialogue,,0000,0000,0000,,Well, there's no way that you're that girl.
 Dialogue: 0,0:00:52.40,0:00:54.86,Air Dialogue,,0000,0000,0000,,Many people dream of flying through the sky.
@@ -79,7 +79,7 @@ Dialogue: 0,0:04:44.18,0:04:46.75,Air Dialogue,,0000,0000,0000,,I should have st
 Dialogue: 0,0:04:48.57,0:04:51.14,Air Dialogue,,0000,0000,0000,,Besides, that girl is a little weird.
 Dialogue: 0,0:04:51.51,0:04:52.35,Air Dialogue,,0000,0000,0000,,Weird?
 Dialogue: 0,0:04:52.35,0:04:56.62,Air Dialogue,,0000,0000,0000,,But she seems to cheer up when she's with you,
-Dialogue: 0,0:04:55.90,0:04:59.72,Air Dialogue,,0000,0000,0000,,so if possible, I hope you'll stay friends with her forever.
+Dialogue: 0,0:04:56.62,0:04:59.72,Air Dialogue,,0000,0000,0000,,so if possible, I hope you'll stay friends with her forever.
 Dialogue: 0,0:05:01.36,0:05:04.61,Air Dialogue,,0000,0000,0000,,There's nothing more I can do for her now.
 Dialogue: 0,0:05:43.48,0:05:46.70,Air Dialogue,,0000,0000,0000,,Come! It's time for a fun puppet show.
 Dialogue: 0,0:05:57.85,0:05:58.83,Air Dialogue,,0000,0000,0000,,What is this?
@@ -89,24 +89,25 @@ Dialogue: 0,0:06:02.52,0:06:03.13,Air Dialogue,,0000,0000,0000,,Come on; let's g
 Dialogue: 0,0:06:03.13,0:06:04.06,Air Dialogue,,0000,0000,0000,,Hey!
 Dialogue: 0,0:06:04.06,0:06:05.51,Air Dialogue,,0000,0000,0000,,Give me my payment!
 Dialogue: 0,0:06:07.80,0:06:09.43,Air Dialogue,,0000,0000,0000,,This doesn't work at all!
-Dialogue: 0,0:06:09.43,0:06:10.36,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:06:09.43,0:06:10.40,Air Dialogue,,0000,0000,0000,,Piko!
 Dialogue: 0,0:06:13.17,0:06:15.05,Air Dialogue,,0000,0000,0000,,Oh, you again?
 Dialogue: 0,0:06:15.05,0:06:15.89,Air Dialogue,,0000,0000,0000,,Your name was Potato, wasn't it?
 Dialogue: 0,0:06:16.23,0:06:17.49,Air Dialogue,,0000,0000,0000,,Pikkori.
 Dialogue: 0,0:06:17.49,0:06:18.87,Air Dialogue,,0000,0000,0000,,Piko!
 Dialogue: 0,0:06:18.87,0:06:20.86,Air Dialogue,,0000,0000,0000,,Piko pikoo.
 Dialogue: 0,0:06:20.86,0:06:23.67,Air Dialogue,,0000,0000,0000,,Pikopikopiko.
-Dialogue: 0,0:06:23.67,0:06:28.52,Air Dialogue - top,,0000,0000,0000,,Piko pika piko piko pika piko pikopiko...
+Dialogue: 0,0:06:23.67,0:06:49.94,Air Dialogue - top,,0000,0000,0000,,Piko pika piko piko pika piko pikopiko...
 Dialogue: 0,0:06:25.28,0:06:26.98,Air Dialogue,,0000,0000,0000,,What are you doing?
 Dialogue: 0,0:06:26.22,0:06:28.52,Air Dialogue alt,,0000,0000,0000,,Is your daughter well?
 Dialogue: 0,0:06:28.52,0:06:29.54,Air Dialogue,,0000,0000,0000,,Yes.
-Dialogue: 0,0:06:29.54,0:06:36.12,Air Dialogue,,0000,0000,0000,,She says white rice tastes great and asks for seconds and thirds, so it makes cooking worthwhile.
+Dialogue: 0,0:06:29.54,0:06:33.92,Air Dialogue,,0000,0000,0000,,She says white rice tastes great and asks for seconds and thirds,
+Dialogue: 0,0:06:33.92,0:06:36.12,Air Dialogue,,0000,0000,0000,,so it makes cooking worthwhile.
 Dialogue: 0,0:06:36.12,0:06:40.22,Air Dialogue,,0000,0000,0000,,Please tell her to be careful of an upset stomach.
 Dialogue: 0,0:06:40.22,0:06:41.72,Air Dialogue,,0000,0000,0000,,I'll tell her.
 Dialogue: 0,0:06:41.72,0:06:42.59,Air Dialogue,,0000,0000,0000,,See you.
 Dialogue: 0,0:06:46.67,0:06:47.59,Air Dialogue,,0000,0000,0000,,Now then...
 Dialogue: 0,0:06:47.59,0:06:50.69,Air Dialogue,,0000,0000,0000,,What have you been doing loitering in front of my place?
-Dialogue: 0,0:06:49.94,0:06:54.14,Air Dialogue - top,,0000,0000,0000,,Pikapikapika piko piko...
+Dialogue: 0,0:06:49.94,0:06:54.59,Air Dialogue - top,,0000,0000,0000,,Pikapikapika piko piko...
 Dialogue: 0,0:06:52.04,0:06:54.00,Air Dialogue,,0000,0000,0000,,Now, let's go home, shall we...
 Dialogue: 0,0:06:52.90,0:06:55.42,Air Dialogue alt,,0000,0000,0000,,Hey! Don't ignore me like that!
 Dialogue: 0,0:06:54.59,0:06:59.26,Air Dialogue - top,,0000,0000,0000,,Piko! Piko! Piko! Piko! Piko! Piko! Piiikoo.
@@ -118,11 +119,10 @@ Dialogue: 0,0:07:05.48,0:07:07.03,Air Typesetting,,0000,0000,0000,,{\fs30\frz357
 Dialogue: 0,0:07:05.48,0:07:07.03,Air Typesetting,,0000,0000,0000,,{\fs30\frz357.838\c&H0E0D0C&\pos(1032,239)}CLINIC
 Dialogue: 0,0:07:05.98,0:07:10.63,Air Dialogue - top,,0000,0000,0000,,Piko pikopiko pi-pikopiko piko piko piko!
 Dialogue: 0,0:07:09.85,0:07:12.49,Air Dialogue,,0000,0000,0000,,Wow, that's amazing!
-Dialogue: 0,0:07:11.57,0:07:15.93,Air Dialogue - top,,0000,0000,0000,,Piko piko piko piko...
+Dialogue: 0,0:07:11.57,0:07:23.88,Air Dialogue - top,,0000,0000,0000,,Piko piko piko piko...
 Dialogue: 0,0:07:13.75,0:07:16.45,Air Dialogue,,0000,0000,0000,,It looks like Potato's become your fan too.
 Dialogue: 0,0:07:16.83,0:07:19.74,Air Dialogue,,0000,0000,0000,,Wait, did you say your name is Yukito Kunisaki-kun?
 Dialogue: 0,0:07:19.74,0:07:23.88,Air Dialogue,,0000,0000,0000,,Your skill is impressive, but I doubt you'll be able to make much money with that trick.
-Dialogue: 0,0:07:19.74,0:07:23.88,Air Dialogue - top,,0000,0000,0000,,Piko piko piko piko...
 Dialogue: 0,0:07:24.22,0:07:25.09,Air Dialogue,,0000,0000,0000,,Piko?
 Dialogue: 0,0:07:25.09,0:07:26.09,Air Dialogue,,0000,0000,0000,,Piko!
 Dialogue: 0,0:07:26.46,0:07:31.51,Air Dialogue,,0000,0000,0000,,Still, I've been traveling from town to town using this trick.
@@ -138,8 +138,8 @@ Dialogue: 0,0:08:00.26,0:08:01.62,Air Dialogue,,0000,0000,0000,,I'm so happy!
 Dialogue: 0,0:08:01.62,0:08:03.98,Air Dialogue,,0000,0000,0000,,I've always wanted to try this.
 Dialogue: 0,0:08:03.98,0:08:06.66,Air Dialogue,,0000,0000,0000,,Why are you eating nagashi soumen for lunch?
 Dialogue: 0,0:08:06.66,0:08:10.84,Air Dialogue,,0000,0000,0000,,In this house, if Kano asks for nagashi soumen, we eat nagashi soumen.
-Dialogue: 0,0:08:11.32,0:08:13.14,Air Dialogue - top,,0000,0000,0000,,Piko piko.
-Dialogue: 0,0:08:11.69,0:08:15.25,Air Dialogue,,0000,0000,0000,,No matter how you look at it, this is an unfair seating arrangement.
+Dialogue: 0,0:08:11.32,0:08:18.31,Air Dialogue - top,,0000,0000,0000,,Piko piko.
+Dialogue: 0,0:08:11.69,0:08:14.53,Air Dialogue,,0000,0000,0000,,No matter how you look at it, this is an unfair seating arrangement.
 Dialogue: 0,0:08:14.53,0:08:15.80,Air Dialogue,,0000,0000,0000,,Why's that?
 Dialogue: 0,0:08:15.80,0:08:18.82,Air Dialogue,,0000,0000,0000,,You'd eat a lot if you didn't sit there.
 Dialogue: 0,0:08:18.82,0:08:19.79,Air Dialogue,,0000,0000,0000,,Piko!
@@ -162,7 +162,7 @@ Dialogue: 0,0:08:55.34,0:08:56.99,Air Dialogue,,0000,0000,0000,,Ah, no. It's my 
 Dialogue: 0,0:09:00.88,0:09:03.11,Air Dialogue,,0000,0000,0000,,Thank you very much.
 Dialogue: 0,0:09:03.11,0:09:04.75,Air Dialogue,,0000,0000,0000,,D-Don't worry about it.
 Dialogue: 0,0:09:04.75,0:09:07.17,Air Dialogue,,0000,0000,0000,,It's my fault too for bumping into you.
-Dialogue: 0,0:09:07.17,0:09:09.48,Air Dialogue,,0000,0000,0000,,But why do you have so much stuff?
+Dialogue: 0,0:09:07.17,0:09:09.12,Air Dialogue,,0000,0000,0000,,But why do you have so much stuff?
 Dialogue: 0,0:09:09.12,0:09:13.11,Air Dialogue,,0000,0000,0000,,My daughter loves rice and eats so much of it that I just...
 Dialogue: 0,0:09:14.22,0:09:16.15,Air Dialogue,,0000,0000,0000,,Thank you very much.
 Dialogue: 0,0:09:16.15,0:09:18.64,Air Dialogue,,0000,0000,0000,,Oh, it's not much, but...
@@ -183,7 +183,6 @@ Dialogue: 0,0:10:17.64,0:10:18.97,Air Dialogue,,0000,0000,0000,,Do you want to e
 Dialogue: 0,0:10:22.00,0:10:24.16,Air Dialogue,,0000,0000,0000,,It's yummy and cute.
 Dialogue: 0,0:10:24.16,0:10:26.80,Air Dialogue,,0000,0000,0000,,Decide whether it's yummy or cute.
 Dialogue: 0,0:10:26.80,0:10:29.45,Air Dialogue,,0000,0000,0000,,It's cute and yummy.
-Dialogue: 0,0:10:29.85,0:10:31.36,Air Dialogue,,0000,0000,0000,,Oh.
 Dialogue: 0,0:10:31.07,0:10:34.28,Air Dialogue,,0000,0000,0000,,Oh, Yukito-san, who is this girl?
 Dialogue: 0,0:10:34.28,0:10:35.40,Air Dialogue,,0000,0000,0000,,I think she's lost.
 Dialogue: 0,0:10:35.86,0:10:37.25,Air Dialogue,,0000,0000,0000,,What's your name?
@@ -196,7 +195,7 @@ Dialogue: 0,0:10:45.83,0:10:47.54,Air Dialogue,,0000,0000,0000,,Saika Shino, six
 Dialogue: 0,0:10:47.54,0:10:49.37,Air Dialogue,,0000,0000,0000,,Oh, Shino-san.
 Dialogue: 0,0:10:49.37,0:10:50.83,Air Dialogue,,0000,0000,0000,,Bye-bye.
 Dialogue: 0,0:10:51.16,0:10:52.99,Air Dialogue,,0000,0000,0000,,Mm, bye-bye!
-Dialogue: 0,0:10:56.79,0:11:00.78,Air Dialogue,,0000,0000,0000,,I heard that girl has to be admitted to hospital.
+Dialogue: 0,0:10:56.79,0:11:00.78,Air Dialogue,,0000,0000,0000,,I heard that girl has to be admitted to the hospital.
 Dialogue: 0,0:11:00.78,0:11:01.90,Air Dialogue,,0000,0000,0000,,She's sick?
 Dialogue: 0,0:11:01.90,0:11:02.74,Air Dialogue,,0000,0000,0000,,Is it serious?
 Dialogue: 0,0:11:02.74,0:11:05.97,Air Dialogue,,0000,0000,0000,,No, it doesn't seem too serious.
@@ -204,7 +203,7 @@ Dialogue: 0,0:11:05.97,0:11:10.81,Air Dialogue,,0000,0000,0000,,And she said the
 Dialogue: 0,0:11:11.71,0:11:12.77,Air Dialogue,,0000,0000,0000,,I see.
 Dialogue: 0,0:11:19.30,0:11:20.88,Air Dialogue,,0000,0000,0000,,I had a dream.
 Dialogue: 0,0:11:21.48,0:11:23.03,Air Dialogue,,0000,0000,0000,,That's nothing unusual.
-Dialogue: 0,0:11:23.03,0:11:24.37,Air Dialogue,,0000,0000,0000,,I have them too.
+Dialogue: 0,0:11:23.03,0:11:24.10,Air Dialogue,,0000,0000,0000,,I have them too.
 Dialogue: 0,0:11:24.37,0:11:25.86,Air Dialogue,,0000,0000,0000,,A mysterious dream,
 Dialogue: 0,0:11:25.86,0:11:26.99,Air Dialogue,,0000,0000,0000,,a dream about the sky.
 Dialogue: 0,0:11:30.31,0:11:32.42,Air Dialogue,,0000,0000,0000,,I was in the sky.
@@ -237,7 +236,7 @@ Dialogue: 0,0:12:54.31,0:12:56.92,Air Dialogue,,0000,0000,0000,,Kano is at schoo
 Dialogue: 0,0:12:56.92,0:13:00.63,Air Dialogue,,0000,0000,0000,,If you dare eat it on the way there...
 Dialogue: 0,0:13:00.63,0:13:03.38,Air Dialogue,,0000,0000,0000,,I'll deliver it carefully and quickly.
 Dialogue: 0,0:13:06.64,0:13:09.40,Air Dialogue,,0000,0000,0000,,Can we stop by the bookstore?
-Dialogue: 0,0:13:08.44,0:13:10.44,Air Dialogue,,0000,0000,0000,,There are quite a lot of students.
+Dialogue: 0,0:13:08.44,0:13:10.44,Air Dialogue alt,,0000,0000,0000,,There are quite a lot of students.
 Dialogue: 0,0:13:10.44,0:13:12.95,Air Dialogue,,0000,0000,0000,,I guess they're here for remedial classes, club activities, or student government.
 Dialogue: 0,0:13:12.95,0:13:13.70,Air Dialogue,,0000,0000,0000,,Piko!
 Dialogue: 0,0:13:15.58,0:13:18.61,Air Dialogue,,0000,0000,0000,,This might be a good place to set up shop.
@@ -250,11 +249,19 @@ Dialogue: 0,0:13:21.82,0:13:24.53,Air Typesetting,,0000,0000,0000,,{\fs30\c&H7E7
 Dialogue: 0,0:13:21.82,0:13:24.53,Air Typesetting,,0000,0000,0000,,{\fs30\c&H7E7468&\frz340.085\move(211,535,262,516,22,2692)}SAKI
 Dialogue: 0,0:13:24.57,0:13:27.20,Air Dialogue,,0000,0000,0000,,Kunisaki, you're the best!
 Dialogue: 0,0:13:27.20,0:13:28.20,Air Dialogue,,0000,0000,0000,,Everybody, say it!
+Dialogue: 0,0:13:28.20,0:13:29.16,Air Typesetting,,0000,0000,0000,,{\fs30\c&HDEDEDE&\pos(543,132)}YUKITO
+Dialogue: 0,0:13:28.20,0:13:29.16,Air Typesetting,,0000,0000,0000,,{\fs30\c&HDEDEDE&\frz0\pos(764,134)}FESTIVAL
+Dialogue: 0,0:13:28.20,0:13:29.16,Air Typesetting,,0000,0000,0000,,{\fs30\c&H7E7468&\frz20.715\pos(123,524)}KUNI
+Dialogue: 0,0:13:28.20,0:13:29.16,Air Typesetting,,0000,0000,0000,,{\fs30\c&H7E7468&\frz340.085\pos(262,516)}SAKI
 Dialogue: 0,0:13:28.20,0:13:29.16,Air Dialogue,,0000,0000,0000,,Kunisaki, you're the best!
 Dialogue: 0,0:13:29.16,0:13:30.13,Air Dialogue,,0000,0000,0000,,Love and Peace!
+Dialogue: 0,0:13:30.13,0:13:31.08,Air Typesetting,,0000,0000,0000,,{\fs30\c&HDEDEDE&\pos(543,132)}YUKITO
+Dialogue: 0,0:13:30.13,0:13:31.08,Air Typesetting,,0000,0000,0000,,{\fs30\c&HDEDEDE&\frz0\pos(764,134)}FESTIVAL
+Dialogue: 0,0:13:30.13,0:13:31.08,Air Typesetting,,0000,0000,0000,,{\fs30\c&H7E7468&\frz20.715\pos(123,524)}KUNI
+Dialogue: 0,0:13:30.13,0:13:31.08,Air Typesetting,,0000,0000,0000,,{\fs30\c&H7E7468&\frz340.085\pos(262,516)}SAKI
 Dialogue: 0,0:13:30.13,0:13:31.08,Air Dialogue,,0000,0000,0000,,Kunisaki, you're the best!
 Dialogue: 0,0:13:31.51,0:13:34.15,Air Dialogue,,0000,0000,0000,,There's no way that'll ever happen.
-Dialogue: 0,0:13:33.39,0:13:34.44,Air Dialogue,,0000,0000,0000,,Piko?
+Dialogue: 0,0:13:33.39,0:13:34.44,Air Dialogue alt,,0000,0000,0000,,Piko?
 Dialogue: 0,0:13:34.70,0:13:35.65,Air Dialogue,,0000,0000,0000,,Hm?
 Dialogue: 0,0:13:35.65,0:13:36.74,Air Dialogue,,0000,0000,0000,,Piko.
 Dialogue: 0,0:13:36.74,0:13:41.30,Air Dialogue,,0000,0000,0000,,If I take this weird creature in, the high school might erupt in a great panic.
@@ -272,7 +279,7 @@ Dialogue: 0,0:14:01.89,0:14:04.97,Air Dialogue,,0000,0000,0000,,She said she was
 Dialogue: 0,0:14:04.97,0:14:08.99,Air Dialogue,,0000,0000,0000,,She said, "kyuu," and collapsed all of a sudden after mumbling something.
 Dialogue: 0,0:14:08.99,0:14:11.28,Air Dialogue,,0000,0000,0000,,I think she just got a little light-headed.
 Dialogue: 0,0:14:18.70,0:14:20.13,Air Dialogue,,0000,0000,0000,,I see.
-Dialogue: 0,0:14:19.89,0:14:22.34,Air Dialogue,,0000,0000,0000,,So you worried about me.
+Dialogue: 0,0:14:20.13,0:14:22.34,Air Dialogue,,0000,0000,0000,,So you worried about me.
 Dialogue: 0,0:14:22.34,0:14:24.33,Air Dialogue,,0000,0000,0000,,Are you sure you're really okay?
 Dialogue: 0,0:14:24.33,0:14:25.82,Air Dialogue,,0000,0000,0000,,Geez, you're overreacting.
 Dialogue: 0,0:14:25.82,0:14:28.54,Air Dialogue,,0000,0000,0000,,I just felt a little dizzy.
@@ -304,10 +311,10 @@ Dialogue: 0,0:15:21.45,0:15:22.31,Air Dialogue,,0000,0000,0000,,Um, well...
 Dialogue: 0,0:15:23.57,0:15:25.73,Air Dialogue,,0000,0000,0000,,I want to fly through the sky.
 Dialogue: 0,0:15:28.54,0:15:30.70,Air Dialogue,,0000,0000,0000,,Magic to fly through the sky...
 Dialogue: 0,0:15:30.70,0:15:32.08,Air Dialogue,,0000,0000,0000,,Hey!
-Dialogue: 0,0:15:32.08,0:15:34.56,Air Dialogue,,0000,0000,0000,,Yukito Kunisaki!
+Dialogue: 0,0:15:32.08,0:15:34.12,Air Dialogue,,0000,0000,0000,,Yukito Kunisaki!
 Dialogue: 0,0:15:36.62,0:15:38.62,Air Dialogue,,0000,0000,0000,,Don't attack me so suddenly!
 Dialogue: 0,0:15:38.62,0:15:40.15,Air Dialogue,,0000,0000,0000,,Why are you angry?
-Dialogue: 0,0:15:40.15,0:15:43.04,Air Dialogue,,0000,0000,0000,,And after I went through the trouble of calling out to you too!
+Dialogue: 0,0:15:40.15,0:15:42.69,Air Dialogue,,0000,0000,0000,,And after I went through the trouble of calling out to you too!
 Dialogue: 0,0:15:42.69,0:15:43.80,Air Dialogue,,0000,0000,0000,,Shut up!
 Dialogue: 0,0:15:44.91,0:15:47.00,Air Dialogue,,0000,0000,0000,,My head is spinning.
 Dialogue: 0,0:15:47.62,0:15:50.04,Air Dialogue,,0000,0000,0000,,Oh, what a dirty doll!
@@ -347,8 +354,8 @@ Dialogue: 0,0:16:55.91,0:16:57.00,Air Dialogue,,0000,0000,0000,,Eh?
 Dialogue: 0,0:16:57.67,0:16:59.08,Air Dialogue,,0000,0000,0000,,Am I wrong?
 Dialogue: 0,0:17:00.06,0:17:01.29,Air Dialogue,,0000,0000,0000,,No,
 Dialogue: 0,0:17:01.81,0:17:03.25,Air Dialogue,,0000,0000,0000,,that might be it.
-Dialogue: 0,0:17:05.37,0:17:07.30,Air Dialogue,,0000,0000,0000,,You ruined the mood!
-Dialogue: 0,0:17:06.46,0:17:07.86,Air Dialogue alt,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:17:05.37,0:17:06.71,Air Dialogue,,0000,0000,0000,,You ruined the mood!
+Dialogue: 0,0:17:06.71,0:17:07.86,Air Dialogue,,0000,0000,0000,,Shut up!
 Dialogue: 0,0:17:09.96,0:17:12.42,Air Dialogue,,0000,0000,0000,,I present you with a coupon for rice.
 Dialogue: 0,0:17:09.96,0:17:10.09,Air Typesetting,,0000,0000,0000,,{\fs30\pos(749,108)\c&H5C8026&}YEN
 Dialogue: 0,0:17:10.09,0:17:10.21,Air Typesetting,,0000,0000,0000,,{\fs30\c&H5C8026&\pos(751,134)}YEN
@@ -400,7 +407,7 @@ Dialogue: 0,0:18:21.62,0:18:23.06,Air Dialogue,,0000,0000,0000,,Hide-and-seek.
 Dialogue: 0,0:18:23.06,0:18:24.54,Air Dialogue,,0000,0000,0000,,I want to play it with you.
 Dialogue: 0,0:18:24.54,0:18:26.50,Air Dialogue,,0000,0000,0000,,How old do you think we are?
 Dialogue: 0,0:18:26.50,0:18:28.83,Air Dialogue,,0000,0000,0000,,Then... Then... let's catch bugs.
-Dialogue: 0,0:18:30.30,0:18:31.34,Air Dialogue,,0000,0000,0000,,Gao~
+Dialogue: 0,0:18:30.30,0:18:31.77,Air Dialogue,,0000,0000,0000,,Gao~
 Dialogue: 0,0:18:39.51,0:18:41.42,Air Dialogue,,0000,0000,0000,,Oh, fish!
 Dialogue: 0,0:18:41.42,0:18:42.76,Air Dialogue,,0000,0000,0000,,I want to catch fish.
 Dialogue: 0,0:18:44.31,0:18:46.80,Air Dialogue,,0000,0000,0000,,You don't care what we play, do you?
@@ -415,8 +422,8 @@ Dialogue: 0,0:19:29.14,0:19:32.70,Air Dialogue,,0000,0000,0000,,{\i1}Chicks grow
 Dialogue: 0,0:19:32.70,0:19:38.96,Air Dialogue,,0000,0000,0000,,{\i1}Actually, what I really wanted wasn't a chick or a baby dinosaur.
 Dialogue: 0,0:19:40.46,0:19:42.91,Air Dialogue,,0000,0000,0000,,{\i1}I heard that you cried all day long.
 Dialogue: 0,0:19:43.87,0:19:48.30,Air Dialogue,,0000,0000,0000,,{\i1}It didn't matter what it was, as long as Mommy bought it for me.
-Dialogue: 0,0:19:53.24,0:19:55.00,Air Dialogue,,0000,0000,0000,,What a fun day!
-Dialogue: 0,0:19:55.00,0:19:55.78,Air Dialogue,,0000,0000,0000,,Really?
+Dialogue: 0,0:19:53.24,0:19:54.84,Air Dialogue,,0000,0000,0000,,What a fun day!
+Dialogue: 0,0:19:54.84,0:19:55.78,Air Dialogue,,0000,0000,0000,,Really?
 Dialogue: 0,0:19:55.78,0:19:57.03,Air Dialogue,,0000,0000,0000,,I'm glad.
 Dialogue: 0,0:19:57.03,0:20:01.41,Air Dialogue,,0000,0000,0000,,I've never had so much fun on my birthday before, so I'm really glad.
 Dialogue: 0,0:20:01.95,0:20:04.18,Air Dialogue,,0000,0000,0000,,Today's... your birthday?
@@ -445,8 +452,8 @@ Dialogue: 0,0:20:54.45,0:20:55.67,Air Dialogue,,0000,0000,0000,,I'll give it to 
 Dialogue: 0,0:20:55.67,0:20:58.19,Air Dialogue,,0000,0000,0000,,A thank-you gift for showing me something so unusual.
 Dialogue: 0,0:21:04.73,0:21:06.48,Air Dialogue,,0000,0000,0000,,It's really good.
 Dialogue: 0,0:21:06.48,0:21:10.34,Air Dialogue,,0000,0000,0000,,Aren't you lucky that I was given a cake?
-Dialogue: 0,0:21:10.34,0:21:14.25,Air Dialogue,,0000,0000,0000,,Yup, and the number of candles was just right.
-Dialogue: 0,0:21:14.03,0:21:17.87,Air Dialogue,,0000,0000,0000,,I wonder if he was planning to celebrate someone's birthday.
+Dialogue: 0,0:21:10.34,0:21:13.80,Air Dialogue,,0000,0000,0000,,Yup, and the number of candles was just right.
+Dialogue: 0,0:21:13.80,0:21:17.87,Air Dialogue,,0000,0000,0000,,I wonder if he was planning to celebrate someone's birthday.
 Dialogue: 0,0:21:17.87,0:21:21.61,Air Dialogue,,0000,0000,0000,,Didn't Haruko remember that today is your birthday?
 Dialogue: 0,0:21:22.03,0:21:24.28,Air Dialogue,,0000,0000,0000,,Mommy's busy, so...
 Dialogue: 0,0:21:32.13,0:21:33.85,Air Dialogue,,0000,0000,0000,,Pretty...
@@ -462,9 +469,9 @@ Dialogue: 0,0:21:54.23,0:21:54.70,Air Dialogue,,0000,0000,0000,,Oh!
 Dialogue: 0,0:21:55.86,0:21:59.33,Air Dialogue,,0000,0000,0000,,Like the number of stars in the heavens,
 Dialogue: 0,0:21:59.73,0:22:02.58,Air Dialogue,,0000,0000,0000,,the number of trees in the mountains,
 Dialogue: 0,0:22:03.29,0:22:04.47,Air Dialogue,,0000,0000,0000,,the number...
-Dialogue: 0,0:22:04.47,0:22:05.09,Air Dialogue,,0000,0000,0000,,Kano!
+Dialogue: 0,0:22:04.47,0:22:05.45,Air Dialogue,,0000,0000,0000,,Kano!
 Dialogue: 0,0:23:40.98,0:23:43.81,Air Typesetting,,0000,0000,0000,,{\c&HFFFFFF&\fad(400,900)\fs51\shad2.25\pos(641,293)}Next Episode Preview
-Dialogue: 0,0:23:41.28,0:23:43.81,Air Dialogue,,0000,0000,0000,,At least work enough to earn your wages.
+Dialogue: 0,0:23:40.98,0:23:43.81,Air Dialogue,,0000,0000,0000,,{\fad(400,0)}At least work enough to earn your wages.
 Dialogue: 0,0:23:43.81,0:23:45.30,Air Dialogue,,0000,0000,0000,,Potato!
 Dialogue: 0,0:23:45.30,0:23:47.06,Air Dialogue,,0000,0000,0000,,Pikopiko!
 Dialogue: 0,0:23:47.06,0:23:48.60,Air Dialogue,,0000,0000,0000,,Potato!
@@ -479,7 +486,7 @@ Dialogue: 0,0:24:03.16,0:24:04.57,Air Dialogue,,0000,0000,0000,,I won!
 Dialogue: 0,0:24:04.57,0:24:05.34,Air Dialogue,,0000,0000,0000,,V!
 Dialogue: 0,0:24:05.34,0:24:07.13,Air Dialogue,,0000,0000,0000,,Help me!
 Dialogue: 0,0:24:07.13,0:24:09.51,Air Dialogue,,0000,0000,0000,,I can't do it well at all!
-Dialogue: 0,0:24:07.96,0:24:18.81,Air Typesetting,,0000,0000,0000,,{\fad(950,0)\fs39\fscx100\fscy100\shad2.4\pos(833,417)\c&HFEFEFA&\4c&H121213&}Episode 3
+Dialogue: 0,0:24:07.96,0:24:18.81,Air Typesetting,,0000,0000,0000,,{\fad(950,0)\fs39\fscx100\fscy100\shad2.4\c&HFEFEFA&\4c&H121213&\pos(896,417)}Episode 3
 Dialogue: 0,0:24:09.51,0:24:18.71,Air Dialogue,,0000,0000,0000,,Piko! Piko! Pik-
 Dialogue: 1,0:01:26.26,0:01:33.41,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}We watched the fading vapor trails
 Dialogue: 1,0:01:33.96,0:01:37.86,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}They were so dazzling, I ran away
