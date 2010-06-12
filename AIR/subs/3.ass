@@ -8,12 +8,12 @@ PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
-Video Zoom: 4
-Video Position: 19692
+Video Zoom: 8
+Video Position: 147
 Collisions: Normal
 Last Style Storage: Default
 Audio File: ?video
-Video File: ..\Downloads\3-tiny.mkv
+Video File: ..\..\Downloads\3-tiny.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,7 +67,7 @@ Dialogue: 0,0:02:48.91,0:02:49.76,Air Dialogue,,0000,0000,0000,,Wait, wait!
 Dialogue: 0,0:02:54.85,0:02:55.63,Air Dialogue,,0000,0000,0000,,Onee-chan?
 Dialogue: 0,0:02:56.15,0:02:56.35,Air Dialogue,,0000,0000,0000,,Oh.
 Comment: 0,0:02:13.90,0:02:13.90,Air Dialogue,,0000,0000,0000,,Note: Same 'oh' question
-Comment: 0,0:02:57.11,0:03:00.50,Air Typesetting,,0000,0000,0000,,Episode 3
+Dialogue: 0,0:02:57.07,0:03:00.57,Air Typesetting,,0000,0000,0000,,{\fs54\c&HB83D41&\pos(643,96)}Episode 3
 Dialogue: 0,0:03:00.89,0:03:03.04,Air Dialogue,,0000,0000,0000,,I can't say it enough, but I am very sorry.
 Comment: 0,0:03:02.34,0:03:02.34,Air Dialogue,,0000,0000,0000,,Alternative: "I deeply apologize for doing such a bad thing." Which is better?
 Comment: 0,0:03:02.34,0:03:02.34,Air Dialogue,,0000,0000,0000,,Kirishima Clinic
@@ -334,7 +334,7 @@ Dialogue: 0,0:13:36.04,0:13:37.41,Air Dialogue,,0000,0000,0000,,I'm looking for 
 Dialogue: 0,0:13:38.17,0:13:38.97,Air Dialogue,,0000,0000,0000,,Hm...
 Comment: 0,0:02:13.90,0:02:13.90,Air Dialogue,,0000,0000,0000,,Note: Same 'oh' question
 Dialogue: 0,0:13:40.29,0:13:45.05,Air Dialogue,,0000,0000,0000,,Then someday, when I can fly, I'll look for that girl for you.
-Comment: 0,0:13:48.32,0:13:52.69,Air Typesetting,,0000,0000,0000,,KAMIO
+Dialogue: 0,0:13:49.18,0:13:52.89,Air Typesetting,,0000,0000,0000,,{\fs60\fsp2\pos(646,68)\c&H091403&}KAMIO
 Dialogue: 0,0:13:50.67,0:13:51.26,Air Dialogue,,0000,0000,0000,,I'm home.
 Dialogue: 0,0:13:53.22,0:13:54.24,Air Dialogue,,0000,0000,0000,,You're late.
 Dialogue: 0,0:13:54.68,0:13:55.37,Air Dialogue,,0000,0000,0000,,Are you alone?
@@ -442,7 +442,36 @@ Dialogue: 0,0:17:45.66,0:17:48.06,Air Dialogue,,0000,0000,0000,,I can use a bit 
 Dialogue: 0,0:17:49.31,0:17:50.18,Air Dialogue,,0000,0000,0000,,Magical powers?
 Dialogue: 0,0:17:50.78,0:17:53.38,Air Dialogue,,0000,0000,0000,,There are so many mysteries in the world.
 Dialogue: 0,0:17:54.25,0:17:56.50,Air Dialogue,,0000,0000,0000,,Well then, I have a special thank you gift.
-Comment: 0,0:17:56.17,0:17:56.24,Air Typesetting,,0000,0000,0000,,Rice Coupon\N1000 yen
+Dialogue: 0,0:17:57.01,0:17:57.05,Air Typesetting,,0000,0000,0000,,{\fs30\pos(802,339)\frz27.884\c&H61C386&}YEN
+Dialogue: 0,0:17:57.05,0:17:57.09,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(815,359)}YEN
+Dialogue: 0,0:17:57.09,0:17:57.13,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(828,379)}YEN
+Dialogue: 0,0:17:57.13,0:17:57.18,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(837,394)}YEN
+Dialogue: 0,0:17:57.18,0:17:57.22,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(848,405)}YEN
+Dialogue: 0,0:17:57.22,0:17:57.26,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(856,418)}YEN
+Dialogue: 0,0:17:57.26,0:17:57.30,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(862,426)}YEN
+Dialogue: 0,0:17:57.30,0:17:57.34,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(865,432)}YEN
+Dialogue: 0,0:17:57.34,0:17:57.38,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(870,435)}YEN
+Dialogue: 0,0:17:57.38,0:17:58.01,Air Typesetting,,0000,0000,0000,,{\fs30\frz27.884\c&H61C386&\pos(871,438)}YEN
+Dialogue: 0,0:17:57.01,0:17:57.05,Air Typesetting,,0000,0000,0000,,{\fs27\frz25.287\pos(669,303)\c&H3B7064&}RICE COUPON
+Dialogue: 0,0:17:57.05,0:17:57.09,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\pos(685,323)\frz23.74}RICE COUPON
+Dialogue: 0,0:17:57.09,0:17:57.13,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\pos(698,344)\frz23.599}RICE COUPON
+Dialogue: 0,0:17:57.13,0:17:57.18,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\pos(710,357)\frz23.37}RICE COUPON
+Dialogue: 0,0:17:57.18,0:17:57.22,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\pos(717,371)\frz23.418}RICE COUPON
+Dialogue: 0,0:17:57.22,0:17:57.26,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\pos(725,381)\frz22.386}RICE COUPON
+Dialogue: 0,0:17:57.26,0:17:57.30,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\pos(730,388)\frz23.623}RICE COUPON
+Dialogue: 0,0:17:57.30,0:17:57.34,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\pos(735,394)\frz22.79}RICE COUPON
+Dialogue: 0,0:17:57.34,0:17:57.38,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\frz22.479\pos(739,400)}RICE COUPON
+Dialogue: 0,0:17:57.38,0:17:58.01,Air Typesetting,,0000,0000,0000,,{\fs27\c&H3B7064&\frz22.479\pos(742,402)}RICE COUPON
+Dialogue: 0,0:17:57.01,0:17:57.05,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(593,183)}Worldwide
+Dialogue: 0,0:17:57.05,0:17:57.09,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(604,203)}Worldwide
+Dialogue: 0,0:17:57.09,0:17:57.13,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(616,220)}Worldwide
+Dialogue: 0,0:17:57.13,0:17:57.18,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(630,236)}Worldwide
+Dialogue: 0,0:17:57.18,0:17:57.22,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(639,250)}Worldwide
+Dialogue: 0,0:17:57.22,0:17:57.26,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(647,260)}Worldwide
+Dialogue: 0,0:17:57.26,0:17:57.30,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(650,266)}Worldwide
+Dialogue: 0,0:17:57.30,0:17:57.34,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(655,275)}Worldwide
+Dialogue: 0,0:17:57.34,0:17:57.38,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(659,280)}Worldwide
+Dialogue: 0,0:17:57.38,0:17:58.01,Air Typesetting,,0000,0000,0000,,{\fs24\frz25.249\c&H709CAD&\pos(660,285)}Worldwide
 Dialogue: 0,0:17:57.16,0:17:57.61,Air Dialogue,,0000,0000,0000,,Ta-da.
 Dialogue: 0,0:18:00.73,0:18:01.98,Air Dialogue,,0000,0000,0000,,Kunisaki-san?
 Dialogue: 0,0:18:08.72,0:18:11.44,Air Dialogue,,0000,0000,0000,,A girl with wings?
@@ -508,7 +537,7 @@ Dialogue: 0,0:21:43.35,0:21:43.73,Air Dialogue alt,,0000,0000,0000,,Kano?
 Dialogue: 0,0:21:44.92,0:21:45.88,Air Dialogue,,0000,0000,0000,,Then, perhaps...
 Dialogue: 0,0:21:46.76,0:21:47.88,Air Dialogue,,0000,0000,0000,,with my own hands...
 Dialogue: 0,0:21:48.65,0:21:49.38,Air Dialogue,,0000,0000,0000,,Hey, Kano.
-Comment: 0,0:23:41.91,0:23:45.73,Air Typesetting,,0000,0000,0000,,Next Episode Preview
+Dialogue: 0,0:23:41.06,0:23:44.02,Air Typesetting,,0000,0000,0000,,{\c&HFFFFFF&\fad(400,900)\fs51\shad2.25\pos(641,293)}Next Episode Preview
 Dialogue: 0,0:23:41.91,0:23:45.73,Air Dialogue,,0000,0000,0000,,Yukito-kun, I am writing this to you because I think you'll believe me.
 Dialogue: 0,0:23:46.87,0:23:49.56,Air Dialogue,,0000,0000,0000,,I've finally decided to go to the skies.
 Dialogue: 0,0:23:50.49,0:23:53.85,Air Dialogue,,0000,0000,0000,,I have a feeling it will make everyone happy.
@@ -516,4 +545,4 @@ Dialogue: 0,0:23:54.89,0:23:58.14,Air Dialogue,,0000,0000,0000,,I have a feeling
 Dialogue: 0,0:23:59.48,0:24:01.10,Air Dialogue,,0000,0000,0000,,I don't know how long it will take,
 Dialogue: 0,0:24:01.78,0:24:03.84,Air Dialogue,,0000,0000,0000,,but I will definitely bring her to you.
 Dialogue: 0,0:24:04.99,0:24:08.70,Air Dialogue,,0000,0000,0000,,I'd be grateful if you can help Onee-chan until I return.
-Comment: 0,0:24:09.04,0:24:10.13,Air Typesetting,,0000,0000,0000,,Episode 4
+Dialogue: 0,0:24:08.13,0:24:20.13,Air Typesetting,,0000,0000,0000,,{\fad(950,0)\fs39\fscx100\fscy100\shad2.4\c&HFEFEFA&\4c&H121213&\pos(954,417)}Episode 4
