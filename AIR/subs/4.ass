@@ -10,7 +10,7 @@ ScaledBorderAndShadow: yes
 Last Style Storage: Default
 Video Aspect Ratio: 0
 Video Zoom: 6
-Video Position: 94
+Video Position: 34775
 Collisions: Normal
 Audio File: ?video
 Video File: ..\..\Downloads\4-tiny(2).mkv
@@ -31,287 +31,287 @@ Style: Air Dialogue - top,Giacomo LT,44,&H00FEE9E0,&H000000FF,&H00141414,&H96000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.09,0:00:03.07,Air Dialogue,,0000,0000,0000,,Then, perhaps...
-Dialogue: 0,0:00:03.88,0:00:04.85,Air Dialogue,,0000,0000,0000,,with my own hands...
-Dialogue: 0,0:00:05.74,0:00:06.44,Air Dialogue,,0000,0000,0000,,Hey, Kano.
-Dialogue: 0,0:00:08.98,0:00:09.47,Air Dialogue,,0000,0000,0000,,Ah!
-Dialogue: 0,0:00:09.76,0:00:10.38,Air Dialogue,,0000,0000,0000,,Argh.
-Dialogue: 0,0:00:23.42,0:00:23.90,Air Dialogue,,0000,0000,0000,,Misuzu!
-Dialogue: 0,0:00:24.26,0:00:24.66,Air Dialogue,,0000,0000,0000,,Kano!
-Dialogue: 0,0:00:24.85,0:00:25.27,Air Dialogue,,0000,0000,0000,,Piko!
-Dialogue: 0,0:00:25.72,0:00:26.62,Air Dialogue,,0000,0000,0000,,Piko piko!
-Dialogue: 0,0:00:27.05,0:00:29.62,Air Dialogue,,0000,0000,0000,,Piko pikopiko piko!
-Dialogue: 0,0:02:02.34,0:02:04.64,Air Dialogue,,0000,0000,0000,,It looks like you might have this bruise for a while.
-Dialogue: 0,0:02:05.98,0:02:06.65,Air Dialogue,,0000,0000,0000,,I've caused you a lot of trouble.
-Dialogue: 0,0:02:07.41,0:02:10.31,Air Dialogue,,0000,0000,0000,,I apologize, Kunisaki-kun, Kamio-san.
-Dialogue: 0,0:02:11.20,0:02:11.56,Air Dialogue,,0000,0000,0000,,Oh, not at all.
-Dialogue: 0,0:02:11.93,0:02:13.82,Air Dialogue,,0000,0000,0000,,It's not a problem.
-Dialogue: 0,0:02:21.13,0:02:24.15,Air Dialogue,,0000,0000,0000,,It started when Kano was still a little girl.
+Dialogue: 0,0:00:01.93,0:00:03.72,Air Dialogue,,0000,0000,0000,,Then, perhaps...
+Dialogue: 0,0:00:03.72,0:00:05.40,Air Dialogue,,0000,0000,0000,,with my own hands...
+Dialogue: 0,0:00:05.40,0:00:06.44,Air Dialogue,,0000,0000,0000,,Hey, Kano.
+Dialogue: 0,0:00:08.90,0:00:09.76,Air Dialogue,,0000,0000,0000,,Ah!
+Dialogue: 0,0:00:09.76,0:00:10.40,Air Dialogue,,0000,0000,0000,,Argh.
+Dialogue: 0,0:00:23.26,0:00:24.26,Air Dialogue,,0000,0000,0000,,Misuzu!
+Dialogue: 0,0:00:24.26,0:00:24.67,Air Dialogue,,0000,0000,0000,,Kano!
+Dialogue: 0,0:00:24.67,0:00:25.72,Air Dialogue,,0000,0000,0000,,Piko!
+Dialogue: 0,0:00:25.72,0:00:26.63,Air Dialogue,,0000,0000,0000,,Piko piko!
+Dialogue: 0,0:00:27.05,0:00:30.12,Air Dialogue,,0000,0000,0000,,Piko pikopiko piko!
+Dialogue: 0,0:02:02.01,0:02:05.02,Air Dialogue,,0000,0000,0000,,It looks like you might have this bruise for a while.
+Dialogue: 0,0:02:05.82,0:02:07.25,Air Dialogue,,0000,0000,0000,,I've caused you a lot of trouble.
+Dialogue: 0,0:02:07.25,0:02:10.72,Air Dialogue,,0000,0000,0000,,I apologize, Kunisaki-kun, Kamio-san.
+Dialogue: 0,0:02:10.72,0:02:11.82,Air Dialogue,,0000,0000,0000,,Oh, not at all.
+Dialogue: 0,0:02:11.82,0:02:14.19,Air Dialogue,,0000,0000,0000,,It's not a problem.
+Dialogue: 0,0:02:20.97,0:02:24.70,Air Dialogue,,0000,0000,0000,,It started when Kano was still a little girl.
 Dialogue: 0,0:02:24.70,0:02:28.21,Air Typesetting,,0000,0000,0000,,{\fs54\c&HB83D41&\pos(643,96)}Episode 4
-Dialogue: 0,0:02:29.34,0:02:31.70,Air Dialogue,,0000,0000,0000,,{\i1}It was the first summer after our mother died.
-Dialogue: 0,0:02:39.53,0:02:40.21,Air Dialogue,,0000,0000,0000,,Look! Look!
-Dialogue: 0,0:02:40.45,0:02:41.73,Air Dialogue,,0000,0000,0000,,Onee-chan, balloons!
+Dialogue: 0,0:02:29.18,0:02:32.23,Air Dialogue,,0000,0000,0000,,{\i1}It was the first summer after our mother died.
+Dialogue: 0,0:02:39.28,0:02:40.59,Air Dialogue,,0000,0000,0000,,Look! Look!
+Dialogue: 0,0:02:40.59,0:02:42.23,Air Dialogue,,0000,0000,0000,,Onee-chan, balloons!
 Dialogue: 0,0:02:44.05,0:02:45.56,Air Typesetting,,0000,0000,0000,,{\fs40\pos(289,251)\frz0.5\c&H0D2E6A&}BALLOONS
-Dialogue: 0,0:02:44.55,0:02:45.55,Air Dialogue,,0000,0000,0000,,There, there!
-Dialogue: 0,0:02:45.80,0:02:48.10,Air Dialogue,,0000,0000,0000,,Hey, hey, if I bought one, would I be able to fly in the sky?
-Dialogue: 0,0:02:48.62,0:02:53.33,Air Dialogue,,0000,0000,0000,,If one balloon could lift a person, the stall would have flown away by now.
-Dialogue: 0,0:02:53.50,0:02:54.86,Air Dialogue,,0000,0000,0000,,Hm, I see.
-Dialogue: 0,0:02:55.47,0:02:57.02,Air Dialogue,,0000,0000,0000,,Onee-chan, you're so smart!
-Dialogue: 0,0:02:57.48,0:03:00.99,Air Dialogue,,0000,0000,0000,,But then that means I can fly through the sky if I have lots of  balloons, right?
-Dialogue: 0,0:03:01.41,0:03:03.97,Air Dialogue,,0000,0000,0000,,Well, yes, maybe then you could fly.
-Dialogue: 0,0:03:08.27,0:03:09.97,Air Dialogue,,0000,0000,0000,,But we can only afford one.
-Dialogue: 0,0:03:11.06,0:03:15.04,Air Dialogue,,0000,0000,0000,,If it's one balloon, we'll just have to blow it up really big!
-Dialogue: 0,0:03:15.31,0:03:18.72,Air Dialogue,,0000,0000,0000,,If we do that, it'll be able to lift much more weight.
-Dialogue: 0,0:03:19.43,0:03:21.14,Air Dialogue,,0000,0000,0000,,And we won't be able to buy anything else.
-Dialogue: 0,0:03:22.26,0:03:22.52,Air Dialogue,,0000,0000,0000,,Okay!
-Dialogue: 0,0:03:27.50,0:03:27.72,Air Dialogue,,0000,0000,0000,,Here.
-Dialogue: 0,0:03:28.10,0:03:29.93,Air Dialogue,,0000,0000,0000,,Wow, thank you, Onee-chan!
-Dialogue: 0,0:03:32.24,0:03:33.02,Air Dialogue,,0000,0000,0000,,Ah!
-Dialogue: 0,0:03:34.43,0:03:36.07,Air Dialogue,,0000,0000,0000,,{\i1}Kano always wanted to fly through the sky
-Dialogue: 0,0:03:36.83,0:03:39.03,Air Dialogue,,0000,0000,0000,,{\i1}because she believed that she could see her mother there.
-Dialogue: 0,0:03:40.17,0:03:45.20,Air Dialogue,,0000,0000,0000,,{\i1}I told her that her mother was in the sky, watching over her.
-Dialogue: 0,0:03:47.34,0:03:49.13,Air Dialogue,,0000,0000,0000,,{\i1}Neither Father nor I could tell her
-Dialogue: 0,0:03:50.28,0:03:52.61,Air Dialogue,,0000,0000,0000,,{\i1}that her mother was no longer around anywhere.
-Dialogue: 0,0:03:56.75,0:03:57.05,Air Dialogue,,0000,0000,0000,,Oh.
-Dialogue: 0,0:04:02.35,0:04:02.78,Air Dialogue,,0000,0000,0000,,Kano!
-Dialogue: 0,0:04:46.55,0:04:47.92,Air Dialogue,,0000,0000,0000,,Then what happened?
-Dialogue: 0,0:04:48.60,0:04:50.80,Air Dialogue,,0000,0000,0000,,Nothing in particular.
-Dialogue: 0,0:04:52.36,0:04:54.86,Air Dialogue,,0000,0000,0000,,Who's playing here?
-Dialogue: 0,0:04:56.25,0:04:59.15,Air Dialogue,,0000,0000,0000,,{\i1}We put the feather back and went home together.
-Dialogue: 0,0:05:09.84,0:05:13.12,Air Dialogue,,0000,0000,0000,,So I can't go to where Mommy is anymore?
-Dialogue: 0,0:05:13.86,0:05:16.34,Air Dialogue,,0000,0000,0000,,{\i1}The following morning, Kano started acting strangely.
-Dialogue: 0,0:05:17.15,0:05:18.61,Air Dialogue,,0000,0000,0000,,She became afraid of bright lights,
-Dialogue: 0,0:05:19.12,0:05:21.65,Air Dialogue,,0000,0000,0000,,and she started wandering around outside in a daze,
-Dialogue: 0,0:05:22.19,0:05:24.75,Air Dialogue,,0000,0000,0000,,mumbling nonsense to herself.
-Dialogue: 0,0:05:27.60,0:05:29.81,Air Dialogue,,0000,0000,0000,,One night, Kano was gone before I realized it.
-Dialogue: 0,0:05:30.53,0:05:31.53,Air Dialogue,,0000,0000,0000,,{\i1}After I rushed to look for her,
-Dialogue: 0,0:05:31.73,0:05:34.71,Air Dialogue,,0000,0000,0000,,{\i1}I found her in the examination room, pressing a scalpel to her wrist.
-Dialogue: 0,0:05:35.77,0:05:36.90,Air Dialogue,,0000,0000,0000,,I caught her in time,
-Dialogue: 0,0:05:37.17,0:05:38.73,Air Dialogue,,0000,0000,0000,,so it wasn't serious.
-Dialogue: 0,0:05:39.60,0:05:42.85,Air Dialogue,,0000,0000,0000,,But I realized then; she wasn't Kano.
-Dialogue: 0,0:05:43.34,0:05:45.67,Air Dialogue,,0000,0000,0000,,It felt like someone else was pretending to be Kano.
-Dialogue: 0,0:05:48.61,0:05:50.32,Air Dialogue,,0000,0000,0000,,Was it a case of multiple personalities?
-Dialogue: 0,0:05:51.06,0:05:51.90,Air Dialogue,,0000,0000,0000,,It might have been.
-Dialogue: 0,0:05:53.16,0:05:55.13,Air Dialogue,,0000,0000,0000,,This is a magical bandana.
-Dialogue: 0,0:05:55.84,0:05:59.02,Air Dialogue,,0000,0000,0000,,If you keep wearing it until you're an adult, you'll be able to use magic.
-Dialogue: 0,0:05:59.43,0:06:01.75,Air Dialogue,,0000,0000,0000,,So, no matter what happens, never take it off.
-Dialogue: 0,0:06:05.70,0:06:06.52,Air Dialogue,,0000,0000,0000,,I see.
-Dialogue: 0,0:06:06.90,0:06:09.17,Air Dialogue,,0000,0000,0000,,So you were the one who gave Kano the bandana.
-Dialogue: 0,0:06:09.88,0:06:11.71,Air Dialogue,,0000,0000,0000,,If she ever tried to unconsciously cut her wrist again,
-Dialogue: 0,0:06:12.10,0:06:14.20,Air Dialogue,,0000,0000,0000,,she'd see the bandana and come to her senses.
-Dialogue: 0,0:06:14.50,0:06:16.18,Air Dialogue,,0000,0000,0000,,That was the idea.
-Dialogue: 0,0:06:17.50,0:06:19.35,Air Dialogue,,0000,0000,0000,,Kano doesn't really remember it.
-Dialogue: 0,0:06:20.64,0:06:23.63,Air Dialogue,,0000,0000,0000,,There never was any such thing as magic.
-Dialogue: 0,0:06:24.61,0:06:27.38,Air Dialogue,,0000,0000,0000,,I decided to follow in my father's footsteps.
-Dialogue: 0,0:06:28.24,0:06:32.14,Air Dialogue,,0000,0000,0000,,I thought that if I became a doctor, I'd be able to cure Kano's illness.
-Dialogue: 0,0:06:32.85,0:06:34.85,Air Dialogue,,0000,0000,0000,,What was that feather that Kano touched?
-Dialogue: 0,0:06:35.76,0:06:36.27,Air Dialogue,,0000,0000,0000,,I don't know.
-Dialogue: 0,0:06:36.78,0:06:39.74,Air Dialogue,,0000,0000,0000,,Apparently it's been there at the shrine for a long time.
-Dialogue: 0,0:06:40.00,0:06:42.23,Air Dialogue,,0000,0000,0000,,Even the shrine-keeper doesn't know the details.
-Dialogue: 0,0:06:43.39,0:06:45.05,Air Dialogue,,0000,0000,0000,,Perhaps it's the curse of that feather.
-Dialogue: 0,0:06:47.62,0:06:50.50,Air Dialogue,,0000,0000,0000,,As a doctor, I can't accept that kind of explanation.
-Dialogue: 0,0:06:51.23,0:06:54.70,Air Dialogue,,0000,0000,0000,,However, it's possible that the feather was a psychological trigger for her illness.
-Dialogue: 0,0:06:55.40,0:06:59.25,Air Dialogue,,0000,0000,0000,,Back then, Kano was suffering from a lot of stress after losing her mother.
-Dialogue: 0,0:06:59.80,0:07:01.85,Air Dialogue,,0000,0000,0000,,That was probably the root cause.
-Dialogue: 0,0:07:03.77,0:07:06.26,Air Dialogue,,0000,0000,0000,,Are you going to Kirishima-san's place today too?
-Dialogue: 0,0:07:06.47,0:07:06.88,Air Dialogue,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:07:07.27,0:07:08.18,Air Dialogue,,0000,0000,0000,,I have my job there.
-Dialogue: 0,0:07:08.90,0:07:11.15,Air Dialogue,,0000,0000,0000,,Maybe I'll go visit Kano later too.
-Dialogue: 0,0:07:11.68,0:07:12.21,Air Dialogue,,0000,0000,0000,,You should.
-Dialogue: 0,0:07:12.71,0:07:14.76,Air Dialogue,,0000,0000,0000,,Aren't you glad you made a new friend?
-Dialogue: 0,0:07:15.96,0:07:17.80,Air Dialogue,,0000,0000,0000,,Last night, I had another dream.
-Dialogue: 0,0:07:18.14,0:07:18.42,Air Dialogue,,0000,0000,0000,,Eh?
-Dialogue: 0,0:07:19.50,0:07:20.69,Air Dialogue,,0000,0000,0000,,A dream of flying through the sky.
-Dialogue: 0,0:07:22.22,0:07:25.50,Air Dialogue,,0000,0000,0000,,In this dream, I was traveling further and further back in time.
-Dialogue: 0,0:07:28.38,0:07:31.50,Air Dialogue,,0000,0000,0000,,Last night, I was mourning in the sky.
-Dialogue: 0,0:07:32.32,0:07:33.35,Air Dialogue,,0000,0000,0000,,You were mourning?
-Dialogue: 0,0:07:35.70,0:07:39.21,Air Dialogue,,0000,0000,0000,,As usual, my body was soaring through the sky,
-Dialogue: 0,0:07:40.22,0:07:43.19,Air Dialogue,,0000,0000,0000,,but I was overwhelmed by sadness.
-Dialogue: 0,0:07:44.57,0:07:52.78,Air Dialogue,,0000,0000,0000,,I wondered why I felt so sad surrounded by such beautiful, comforting breezes.
-Dialogue: 0,0:07:53.30,0:07:53.90,Air Dialogue,,0000,0000,0000,,It was only a dream.
-Dialogue: 0,0:07:54.60,0:07:56.03,Air Dialogue,,0000,0000,0000,,It's not about you personally.
-Dialogue: 0,0:07:57.36,0:07:57.59,Air Dialogue,,0000,0000,0000,,Right.
-Dialogue: 0,0:07:59.27,0:08:01.09,Air Dialogue,,0000,0000,0000,,When you're not smiling, I also feel...
-Dialogue: 0,0:08:01.48,0:08:01.65,Air Dialogue,,0000,0000,0000,,Eh?
-Dialogue: 0,0:08:02.30,0:08:03.66,Air Dialogue,,0000,0000,0000,,Anyway, just keep smiling.
-Dialogue: 0,0:08:06.25,0:08:06.54,Air Dialogue,,0000,0000,0000,,V!
-Dialogue: 0,0:08:16.17,0:08:17.78,Air Dialogue,,0000,0000,0000,,There's nothing here...
-Dialogue: 0,0:08:20.05,0:08:20.90,Air Dialogue,,0000,0000,0000,,Found it!
-Dialogue: 0,0:08:23.45,0:08:25.02,Air Dialogue,,0000,0000,0000,,What are you doing?
-Dialogue: 0,0:08:27.83,0:08:29.16,Air Dialogue,,0000,0000,0000,,Yukito Kunisaki!
+Dialogue: 0,0:02:44.32,0:02:45.56,Air Dialogue,,0000,0000,0000,,There, there!
+Dialogue: 0,0:02:45.56,0:02:48.60,Air Dialogue,,0000,0000,0000,,Hey, hey, if I bought one, would I be able to fly in the sky?
+Dialogue: 0,0:02:48.60,0:02:53.50,Air Dialogue,,0000,0000,0000,,If one balloon could lift a person, the stall would have flown away by now.
+Dialogue: 0,0:02:53.50,0:02:55.40,Air Dialogue,,0000,0000,0000,,Hm, I see.
+Dialogue: 0,0:02:55.40,0:02:57.36,Air Dialogue,,0000,0000,0000,,Onee-chan, you're so smart!
+Dialogue: 0,0:02:57.36,0:03:01.26,Air Dialogue,,0000,0000,0000,,But then that means I can fly through the sky if I have lots of  balloons, right?
+Dialogue: 0,0:03:01.26,0:03:04.47,Air Dialogue,,0000,0000,0000,,Well, yes, maybe then you could fly.
+Dialogue: 0,0:03:08.11,0:03:10.47,Air Dialogue,,0000,0000,0000,,But we can only afford one.
+Dialogue: 0,0:03:10.90,0:03:15.31,Air Dialogue,,0000,0000,0000,,If it's one balloon, we'll just have to blow it up really big!
+Dialogue: 0,0:03:15.31,0:03:19.27,Air Dialogue,,0000,0000,0000,,If we do that, it'll be able to lift much more weight.
+Dialogue: 0,0:03:19.27,0:03:21.43,Air Dialogue,,0000,0000,0000,,And we won't be able to buy anything else.
+Dialogue: 0,0:03:22.10,0:03:23.02,Air Dialogue,,0000,0000,0000,,Okay!
+Dialogue: 0,0:03:27.34,0:03:27.99,Air Dialogue,,0000,0000,0000,,Here.
+Dialogue: 0,0:03:27.99,0:03:30.60,Air Dialogue,,0000,0000,0000,,Wow, thank you, Onee-chan!
+Dialogue: 0,0:03:31.98,0:03:33.52,Air Dialogue,,0000,0000,0000,,Ah!
+Dialogue: 0,0:03:34.27,0:03:36.67,Air Dialogue,,0000,0000,0000,,{\i1}Kano always wanted to fly through the sky
+Dialogue: 0,0:03:36.67,0:03:39.89,Air Dialogue,,0000,0000,0000,,{\i1}because she believed that she could see her mother there.
+Dialogue: 0,0:03:39.89,0:03:45.49,Air Dialogue,,0000,0000,0000,,{\i1}I told her that her mother was in the sky, watching over her.
+Dialogue: 0,0:03:46.95,0:03:49.63,Air Dialogue,,0000,0000,0000,,{\i1}Neither Father nor I could tell her
+Dialogue: 0,0:03:50.12,0:03:53.11,Air Dialogue,,0000,0000,0000,,{\i1}that her mother was no longer around anywhere.
+Dialogue: 0,0:03:56.38,0:03:57.55,Air Dialogue,,0000,0000,0000,,Oh.
+Dialogue: 0,0:04:02.19,0:04:03.01,Air Dialogue,,0000,0000,0000,,Kano!
+Dialogue: 0,0:04:46.39,0:04:48.35,Air Dialogue,,0000,0000,0000,,Then what happened?
+Dialogue: 0,0:04:48.35,0:04:50.81,Air Dialogue,,0000,0000,0000,,Nothing in particular.
+Dialogue: 0,0:04:52.20,0:04:55.27,Air Dialogue,,0000,0000,0000,,Who's playing here?
+Dialogue: 0,0:04:56.09,0:04:59.65,Air Dialogue,,0000,0000,0000,,{\i1}We put the feather back and went home together.
+Dialogue: 0,0:05:09.68,0:05:13.70,Air Dialogue,,0000,0000,0000,,So I can't go to where Mommy is anymore?
+Dialogue: 0,0:05:13.70,0:05:16.58,Air Dialogue,,0000,0000,0000,,{\i1}The following morning, Kano started acting strangely.
+Dialogue: 0,0:05:16.99,0:05:19.11,Air Dialogue,,0000,0000,0000,,She became afraid of bright lights,
+Dialogue: 0,0:05:19.11,0:05:22.15,Air Dialogue,,0000,0000,0000,,and she started wandering around outside in a daze,
+Dialogue: 0,0:05:22.15,0:05:25.25,Air Dialogue,,0000,0000,0000,,mumbling nonsense to herself.
+Dialogue: 0,0:05:27.44,0:05:30.39,Air Dialogue,,0000,0000,0000,,One night, Kano was gone before I realized it.
+Dialogue: 0,0:05:30.39,0:05:31.73,Air Dialogue,,0000,0000,0000,,{\i1}After I rushed to look for her,
+Dialogue: 0,0:05:31.73,0:05:35.21,Air Dialogue,,0000,0000,0000,,{\i1}I found her in the examination room, pressing a scalpel to her wrist.
+Dialogue: 0,0:05:35.61,0:05:37.17,Air Dialogue,,0000,0000,0000,,I caught her in time,
+Dialogue: 0,0:05:37.17,0:05:38.74,Air Dialogue,,0000,0000,0000,,so it wasn't serious.
+Dialogue: 0,0:05:39.44,0:05:43.34,Air Dialogue,,0000,0000,0000,,But I realized then; she wasn't Kano.
+Dialogue: 0,0:05:43.34,0:05:46.17,Air Dialogue,,0000,0000,0000,,It felt like someone else was pretending to be Kano.
+Dialogue: 0,0:05:48.36,0:05:50.90,Air Dialogue,,0000,0000,0000,,Was it a case of multiple personalities?
+Dialogue: 0,0:05:50.90,0:05:51.91,Air Dialogue,,0000,0000,0000,,It might have been.
+Dialogue: 0,0:05:53.00,0:05:55.68,Air Dialogue,,0000,0000,0000,,This is a magical bandana.
+Dialogue: 0,0:05:55.68,0:05:59.43,Air Dialogue,,0000,0000,0000,,If you keep wearing it until you're an adult, you'll be able to use magic.
+Dialogue: 0,0:05:59.43,0:06:02.25,Air Dialogue,,0000,0000,0000,,So, no matter what happens, never take it off.
+Dialogue: 0,0:06:05.42,0:06:06.90,Air Dialogue,,0000,0000,0000,,I see.
+Dialogue: 0,0:06:06.90,0:06:09.51,Air Dialogue,,0000,0000,0000,,So you were the one who gave Kano the bandana.
+Dialogue: 0,0:06:09.51,0:06:12.10,Air Dialogue,,0000,0000,0000,,If she ever tried to unconsciously cut her wrist again,
+Dialogue: 0,0:06:12.10,0:06:14.50,Air Dialogue,,0000,0000,0000,,she'd see the bandana and come to her senses.
+Dialogue: 0,0:06:14.50,0:06:17.10,Air Dialogue,,0000,0000,0000,,That was the idea.
+Dialogue: 0,0:06:17.10,0:06:19.85,Air Dialogue,,0000,0000,0000,,Kano doesn't really remember it.
+Dialogue: 0,0:06:20.44,0:06:24.11,Air Dialogue,,0000,0000,0000,,There never was any such thing as magic.
+Dialogue: 0,0:06:24.45,0:06:28.08,Air Dialogue,,0000,0000,0000,,I decided to follow in my father's footsteps.
+Dialogue: 0,0:06:28.08,0:06:32.69,Air Dialogue,,0000,0000,0000,,I thought that if I became a doctor, I'd be able to cure Kano's illness.
+Dialogue: 0,0:06:32.69,0:06:35.60,Air Dialogue,,0000,0000,0000,,What was that feather that Kano touched?
+Dialogue: 0,0:06:35.60,0:06:36.77,Air Dialogue,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:06:36.77,0:06:40.00,Air Dialogue,,0000,0000,0000,,Apparently it's been there at the shrine for a long time.
+Dialogue: 0,0:06:40.00,0:06:43.09,Air Dialogue,,0000,0000,0000,,Even the shrine-keeper doesn't know the details.
+Dialogue: 0,0:06:43.09,0:06:45.52,Air Dialogue,,0000,0000,0000,,Perhaps it's the curse of that feather.
+Dialogue: 0,0:06:47.30,0:06:51.07,Air Dialogue,,0000,0000,0000,,As a doctor, I can't accept that kind of explanation.
+Dialogue: 0,0:06:51.07,0:06:54.97,Air Dialogue,,0000,0000,0000,,However, it's possible that the feather was a psychological trigger for her illness.
+Dialogue: 0,0:06:54.97,0:06:59.75,Air Dialogue,,0000,0000,0000,,Back then, Kano was suffering from a lot of stress after losing her mother.
+Dialogue: 0,0:06:59.75,0:07:02.48,Air Dialogue,,0000,0000,0000,,That was probably the root cause.
+Dialogue: 0,0:07:03.61,0:07:06.32,Air Dialogue,,0000,0000,0000,,Are you going to Kirishima-san's place today too?
+Dialogue: 0,0:07:06.32,0:07:07.27,Air Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:07.27,0:07:08.74,Air Dialogue,,0000,0000,0000,,I have my job there.
+Dialogue: 0,0:07:08.74,0:07:11.65,Air Dialogue,,0000,0000,0000,,Maybe I'll go visit Kano later too.
+Dialogue: 0,0:07:11.65,0:07:12.71,Air Dialogue,,0000,0000,0000,,You should.
+Dialogue: 0,0:07:12.71,0:07:15.33,Air Dialogue,,0000,0000,0000,,Aren't you glad you made a new friend?
+Dialogue: 0,0:07:15.80,0:07:18.04,Air Dialogue,,0000,0000,0000,,Last night, I had another dream.
+Dialogue: 0,0:07:18.04,0:07:18.92,Air Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:19.34,0:07:21.19,Air Dialogue,,0000,0000,0000,,A dream of flying through the sky.
+Dialogue: 0,0:07:22.06,0:07:25.84,Air Dialogue,,0000,0000,0000,,In this dream, I was traveling further and further back in time.
+Dialogue: 0,0:07:28.00,0:07:32.16,Air Dialogue,,0000,0000,0000,,Last night, I was mourning in the sky.
+Dialogue: 0,0:07:32.16,0:07:34.14,Air Dialogue,,0000,0000,0000,,You were mourning?
+Dialogue: 0,0:07:35.54,0:07:40.06,Air Dialogue,,0000,0000,0000,,As usual, my body was soaring through the sky,
+Dialogue: 0,0:07:40.06,0:07:43.44,Air Dialogue,,0000,0000,0000,,but I was overwhelmed by sadness.
+Dialogue: 0,0:07:44.41,0:07:52.78,Air Dialogue,,0000,0000,0000,,I wondered why I felt so sad surrounded by such beautiful, comforting breezes.
+Dialogue: 0,0:07:53.28,0:07:54.44,Air Dialogue,,0000,0000,0000,,It was only a dream.
+Dialogue: 0,0:07:54.44,0:07:56.52,Air Dialogue,,0000,0000,0000,,It's not about you personally.
+Dialogue: 0,0:07:57.20,0:07:58.20,Air Dialogue,,0000,0000,0000,,Right.
+Dialogue: 0,0:07:59.11,0:08:01.48,Air Dialogue,,0000,0000,0000,,When you're not smiling, I also feel...
+Dialogue: 0,0:08:01.48,0:08:02.15,Air Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:08:02.15,0:08:03.67,Air Dialogue,,0000,0000,0000,,Anyway, just keep smiling.
+Dialogue: 0,0:08:06.09,0:08:07.13,Air Dialogue,,0000,0000,0000,,V!
+Dialogue: 0,0:08:16.01,0:08:18.28,Air Dialogue,,0000,0000,0000,,There's nothing here...
+Dialogue: 0,0:08:19.89,0:08:21.77,Air Dialogue,,0000,0000,0000,,Found it!
+Dialogue: 0,0:08:23.29,0:08:25.52,Air Dialogue,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:08:27.67,0:08:29.63,Air Dialogue,,0000,0000,0000,,Yukito Kunisaki!
 Dialogue: 0,0:08:29.63,0:08:31.65,Air Dialogue,,0000,0000,0000,,What are you doing here?
-Dialogue: 0,0:08:32.08,0:08:33.11,Air Dialogue,,0000,0000,0000,,That's what I was about to say.
-Dialogue: 0,0:08:33.55,0:08:36.12,Air Dialogue,,0000,0000,0000,,Are you picking up stuff like that to collect garbage or something?
-Dialogue: 0,0:08:36.41,0:08:37.22,Air Dialogue,,0000,0000,0000,,Shut up!
-Dialogue: 0,0:08:37.50,0:08:40.26,Air Dialogue,,0000,0000,0000,,Collecting interesting things from places like this is my hobby.
-Dialogue: 0,0:08:40.68,0:08:42.94,Air Dialogue,,0000,0000,0000,,That's the most pathetic hobby ever!
-Dialogue: 0,0:08:43.38,0:08:44.09,Air Dialogue,,0000,0000,0000,,Leave me alone!
-Dialogue: 0,0:08:47.20,0:08:47.75,Air Dialogue,,0000,0000,0000,,Jeez.
-Dialogue: 0,0:08:48.15,0:08:51.06,Air Dialogue,,0000,0000,0000,,You get to play day in and day out. You're in a very enviable position.
-Dialogue: 0,0:08:51.50,0:08:54.43,Air Dialogue,,0000,0000,0000,,You're pretty much like that too, aren't you, Yukito Kunisaki?
-Dialogue: 0,0:08:54.77,0:08:56.67,Air Dialogue,,0000,0000,0000,,I have a proper job.
-Dialogue: 0,0:08:57.05,0:08:59.92,Air Dialogue,,0000,0000,0000,,In fact, I'm on my way to my job right now to work hard.
-Dialogue: 0,0:09:01.35,0:09:01.75,Air Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:09:02.29,0:09:02.75,Air Dialogue,,0000,0000,0000,,Hm?
-Dialogue: 0,0:09:03.09,0:09:03.75,Air Dialogue,,0000,0000,0000,,Bathroom?
-Dialogue: 0,0:09:06.09,0:09:07.44,Air Dialogue,,0000,0000,0000,,No! Look over there.
-Dialogue: 0,0:09:09.67,0:09:10.25,Air Dialogue,,0000,0000,0000,,Hm?
-Dialogue: 0,0:09:13.13,0:09:13.67,Air Dialogue,,0000,0000,0000,,That's...
-Dialogue: 0,0:09:17.45,0:09:19.62,Air Dialogue,,0000,0000,0000,,Is that, by any chance, Tohno's mom?
-Dialogue: 0,0:09:19.90,0:09:20.36,Air Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:09:21.63,0:09:21.96,Air Dialogue,,0000,0000,0000,,What's wrong?
-Dialogue: 0,0:09:22.42,0:09:24.45,Air Dialogue,,0000,0000,0000,,No, it's nothing.
-Dialogue: 0,0:09:35.30,0:09:37.60,Air Dialogue,,0000,0000,0000,,Minagi looks sad.
-Dialogue: 0,0:09:38.05,0:09:38.34,Air Dialogue,,0000,0000,0000,,Eh?
-Dialogue: 0,0:09:38.61,0:09:40.36,Air Dialogue,,0000,0000,0000,,Hey, call Minagi over.
-Dialogue: 0,0:09:40.66,0:09:42.62,Air Dialogue,,0000,0000,0000,,I think she's lonely all by herself.
-Dialogue: 0,0:09:43.11,0:09:43.60,Air Dialogue,,0000,0000,0000,,That's true.
-Dialogue: 0,0:09:44.15,0:09:44.95,Air Dialogue,,0000,0000,0000,,Let's try it.
-Dialogue: 0,0:09:45.88,0:09:46.56,Air Dialogue,,0000,0000,0000,,Tohno!
-Dialogue: 0,0:09:54.94,0:09:55.90,Air Dialogue,,0000,0000,0000,,Kunisaki-san.
-Dialogue: 0,0:09:56.58,0:09:57.89,Air Dialogue,,0000,0000,0000,,What happened?
-Dialogue: 0,0:09:58.20,0:09:59.31,Air Dialogue,,0000,0000,0000,,What brings you here?
-Dialogue: 0,0:10:00.03,0:10:00.67,Air Dialogue,,0000,0000,0000,,Nothing in particular.
-Dialogue: 0,0:10:01.10,0:10:02.55,Air Dialogue,,0000,0000,0000,,I was just taking a walk with Michiru.
+Dialogue: 0,0:08:32.08,0:08:33.55,Air Dialogue,,0000,0000,0000,,That's what I was about to say.
+Dialogue: 0,0:08:33.55,0:08:36.41,Air Dialogue,,0000,0000,0000,,Are you picking up stuff like that to collect garbage or something?
+Dialogue: 0,0:08:36.41,0:08:37.50,Air Dialogue,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:08:37.50,0:08:40.68,Air Dialogue,,0000,0000,0000,,Collecting interesting things from places like this is my hobby.
+Dialogue: 0,0:08:40.68,0:08:43.38,Air Dialogue,,0000,0000,0000,,That's the most pathetic hobby ever!
+Dialogue: 0,0:08:43.38,0:08:44.83,Air Dialogue,,0000,0000,0000,,Leave me alone!
+Dialogue: 0,0:08:46.79,0:08:48.15,Air Dialogue,,0000,0000,0000,,Jeez.
+Dialogue: 0,0:08:48.15,0:08:51.25,Air Dialogue,,0000,0000,0000,,You get to play day in and day out. You're in a very enviable position.
+Dialogue: 0,0:08:51.25,0:08:54.77,Air Dialogue,,0000,0000,0000,,You're pretty much like that too, aren't you, Yukito Kunisaki?
+Dialogue: 0,0:08:54.77,0:08:57.05,Air Dialogue,,0000,0000,0000,,I have a proper job.
+Dialogue: 0,0:08:57.05,0:09:00.42,Air Dialogue,,0000,0000,0000,,In fact, I'm on my way to my job right now to work hard.
+Dialogue: 0,0:09:01.26,0:09:02.25,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:02.25,0:09:03.09,Air Dialogue,,0000,0000,0000,,Hm?
+Dialogue: 0,0:09:03.09,0:09:04.25,Air Dialogue,,0000,0000,0000,,Bathroom?
+Dialogue: 0,0:09:05.73,0:09:07.44,Air Dialogue,,0000,0000,0000,,No! Look over there.
+Dialogue: 0,0:09:09.51,0:09:10.40,Air Dialogue,,0000,0000,0000,,Hm?
+Dialogue: 0,0:09:12.97,0:09:14.17,Air Dialogue,,0000,0000,0000,,That's...
+Dialogue: 0,0:09:17.29,0:09:19.90,Air Dialogue,,0000,0000,0000,,Is that, by any chance, Tohno's mom?
+Dialogue: 0,0:09:19.90,0:09:20.78,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:21.47,0:09:22.42,Air Dialogue,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:09:22.42,0:09:24.75,Air Dialogue,,0000,0000,0000,,No, it's nothing.
+Dialogue: 0,0:09:35.14,0:09:37.72,Air Dialogue,,0000,0000,0000,,Minagi looks sad.
+Dialogue: 0,0:09:38.05,0:09:38.61,Air Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:09:38.61,0:09:40.66,Air Dialogue,,0000,0000,0000,,Hey, call Minagi over.
+Dialogue: 0,0:09:40.66,0:09:42.68,Air Dialogue,,0000,0000,0000,,I think she's lonely all by herself.
+Dialogue: 0,0:09:43.11,0:09:44.10,Air Dialogue,,0000,0000,0000,,That's true.
+Dialogue: 0,0:09:44.10,0:09:45.72,Air Dialogue,,0000,0000,0000,,Let's try it.
+Dialogue: 0,0:09:45.72,0:09:46.64,Air Dialogue,,0000,0000,0000,,Tohno!
+Dialogue: 0,0:09:54.78,0:09:56.07,Air Dialogue,,0000,0000,0000,,Kunisaki-san.
+Dialogue: 0,0:09:56.42,0:09:58.20,Air Dialogue,,0000,0000,0000,,What happened?
+Dialogue: 0,0:09:58.20,0:09:59.41,Air Dialogue,,0000,0000,0000,,What brings you here?
+Dialogue: 0,0:09:59.87,0:10:01.10,Air Dialogue,,0000,0000,0000,,Nothing in particular.
+Dialogue: 0,0:10:01.10,0:10:03.37,Air Dialogue,,0000,0000,0000,,I was just taking a walk with Michiru.
 Dialogue: 0,0:10:03.37,0:10:25.10,Air Typesetting,,0000,0000,0000,,{\fs24\c&HD5D5D5&\4c&H222222&\shad2\pos(421,172)}Sakuma Cycling Shop
-Dialogue: 0,0:10:03.43,0:10:03.61,Air Dialogue,,0000,0000,0000,,Oh.
-Dialogue: 0,0:10:03.90,0:10:04.30,Air Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:10:04.82,0:10:05.97,Air Dialogue,,0000,0000,0000,,Where'd she go?
-Dialogue: 0,0:10:06.60,0:10:08.67,Air Dialogue,,0000,0000,0000,,Were you with Michiru?
-Dialogue: 0,0:10:09.15,0:10:11.34,Air Dialogue,,0000,0000,0000,,Yeah, I was with her.
-Dialogue: 0,0:10:12.07,0:10:16.99,Air Dialogue,,0000,0000,0000,,Did Michiru say anything about the person who was with me just now?
-Dialogue: 0,0:10:17.54,0:10:17.99,Air Dialogue,,0000,0000,0000,,No.
-Dialogue: 0,0:10:18.31,0:10:19.85,Air Dialogue,,0000,0000,0000,,She didn't say anything in particular.
-Dialogue: 0,0:10:20.42,0:10:21.27,Air Dialogue,,0000,0000,0000,,I see.
-Dialogue: 0,0:10:21.50,0:10:22.71,Air Dialogue,,0000,0000,0000,,Then it's okay.
+Dialogue: 0,0:10:03.37,0:10:03.90,Air Dialogue,,0000,0000,0000,,Oh.
+Dialogue: 0,0:10:03.90,0:10:04.80,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:04.80,0:10:06.47,Air Dialogue,,0000,0000,0000,,Where'd she go?
+Dialogue: 0,0:10:06.47,0:10:09.15,Air Dialogue,,0000,0000,0000,,Were you with Michiru?
+Dialogue: 0,0:10:09.15,0:10:11.91,Air Dialogue,,0000,0000,0000,,Yeah, I was with her.
+Dialogue: 0,0:10:11.91,0:10:17.49,Air Dialogue,,0000,0000,0000,,Did Michiru say anything about the person who was with me just now?
+Dialogue: 0,0:10:17.49,0:10:18.31,Air Dialogue,,0000,0000,0000,,No.
+Dialogue: 0,0:10:18.31,0:10:20.35,Air Dialogue,,0000,0000,0000,,She didn't say anything in particular.
+Dialogue: 0,0:10:20.35,0:10:21.50,Air Dialogue,,0000,0000,0000,,I see.
+Dialogue: 0,0:10:21.50,0:10:23.09,Air Dialogue,,0000,0000,0000,,Then it's okay.
 Dialogue: 0,0:10:23.09,0:10:25.10,Air Dialogue,,0000,0000,0000,,That person is your mother, right?
-Dialogue: 0,0:10:25.48,0:10:25.70,Air Dialogue,,0000,0000,0000,,Eh?
-Dialogue: 0,0:10:26.35,0:10:30.17,Air Dialogue,,0000,0000,0000,,I once helped her with a big cart of groceries.
-Dialogue: 0,0:10:31.41,0:10:33.55,Air Dialogue,,0000,0000,0000,,Come to think of it, the two of you are rather similar.
-Dialogue: 0,0:10:35.53,0:10:38.52,Air Dialogue,,0000,0000,0000,,I am a fragment of that person's dream.
-Dialogue: 0,0:10:38.75,0:10:39.09,Air Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:10:43.30,0:10:52.95,Air Dialogue - top,,0000,0000,0000,,Piko piko piko pikopiko piko piko piko piko...
-Dialogue: 0,0:10:46.00,0:10:47.55,Air Dialogue,,0000,0000,0000,,Don't run away, Potato.
-Dialogue: 0,0:10:48.25,0:10:49.91,Air Dialogue,,0000,0000,0000,,Here, I'll scrub you.
-Dialogue: 0,0:10:52.95,0:10:54.70,Air Dialogue,,0000,0000,0000,,Piko pikopiko... Piko!
-Dialogue: 0,0:10:56.41,0:10:57.32,Air Dialogue,,0000,0000,0000,,You seem to be doing well.
-Dialogue: 0,0:10:58.12,0:10:59.79,Air Dialogue,,0000,0000,0000,,Ah, Yukito-kun. Good morning.
-Dialogue: 0,0:11:00.28,0:11:03.06,Air Dialogue,,0000,0000,0000,,I'm sorry. It seems that I caused you troubled yesterday too.
-Dialogue: 0,0:11:03.46,0:11:04.45,Air Dialogue,,0000,0000,0000,,It wasn't a big deal.
-Dialogue: 0,0:11:04.54,0:11:05.12,Air Dialogue,,0000,0000,0000,,Don't worry about it.
-Dialogue: 0,0:11:05.33,0:11:06.86,Air Dialogue,,0000,0000,0000,,Oh, you came, Kunisaki-kun.
-Dialogue: 0,0:11:07.19,0:11:09.04,Air Dialogue,,0000,0000,0000,,I have a lot of work for you to do today.
-Dialogue: 0,0:11:22.44,0:11:24.28,Air Dialogue,,0000,0000,0000,,Is Kano-san taking a nap?
-Dialogue: 0,0:11:24.76,0:11:25.09,Air Dialogue,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:11:25.52,0:11:27.89,Air Dialogue,,0000,0000,0000,,I told her to rest because of what happened yesterday.
-Dialogue: 0,0:11:28.40,0:11:29.92,Air Dialogue,,0000,0000,0000,,It's about time for her to wake up.
-Dialogue: 0,0:11:30.78,0:11:31.73,Air Dialogue,,0000,0000,0000,,I'll go check up on her.
-Dialogue: 0,0:11:32.79,0:11:33.24,Air Dialogue,,0000,0000,0000,,Kano!
-Dialogue: 0,0:11:35.13,0:11:35.56,Air Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:11:42.25,0:11:45.69,Air Dialogue,,0000,0000,0000,,{\i1}Yukito-kun, I am writing this to you because I think you'll believe me.
-Dialogue: 0,0:11:46.33,0:11:48.74,Air Dialogue,,0000,0000,0000,,{\i1}I've finally decided to go to the sky.
-Dialogue: 0,0:11:49.62,0:11:52.83,Air Dialogue,,0000,0000,0000,,{\i1}I have a feeling that it will make everyone happy.
-Dialogue: 0,0:11:53.67,0:11:56.67,Air Dialogue,,0000,0000,0000,,{\i1}I have a feeling that I will meet the girl you are looking for too.
-Dialogue: 0,0:11:57.55,0:11:59.23,Air Dialogue,,0000,0000,0000,,{\i1}I don't know how long it will take,
-Dialogue: 0,0:11:59.70,0:12:01.33,Air Dialogue,,0000,0000,0000,,{\i1}but I will definitely bring her to you.
-Dialogue: 0,0:12:02.21,0:12:05.28,Air Dialogue,,0000,0000,0000,,{\i1}I'd be grateful if you could help Onee-chan until I return.
-Dialogue: 0,0:12:05.99,0:12:08.60,Air Dialogue,,0000,0000,0000,,{\i1}I know she is under a lot of stress.
-Dialogue: 0,0:12:09.79,0:12:13.18,Air Dialogue,,0000,0000,0000,,{\i1}P.S. I'm really sorry about the bruise on your neck.
-Dialogue: 0,0:12:22.59,0:12:22.92,Air Dialogue,,0000,0000,0000,,Oh!
-Dialogue: 0,0:12:22.94,0:12:24.62,Air Dialogue - top,,0000,0000,0000,,Piko! Pikopikopikopiko.
+Dialogue: 0,0:10:25.48,0:10:26.20,Air Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:10:26.20,0:10:30.67,Air Dialogue,,0000,0000,0000,,I once helped her with a big cart of groceries.
+Dialogue: 0,0:10:31.25,0:10:34.05,Air Dialogue,,0000,0000,0000,,Come to think of it, the two of you are rather similar.
+Dialogue: 0,0:10:35.37,0:10:38.53,Air Dialogue,,0000,0000,0000,,I am a fragment of that person's dream.
+Dialogue: 0,0:10:38.53,0:10:39.59,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:43.14,0:10:52.95,Air Dialogue - top,,0000,0000,0000,,Piko piko piko pikopiko piko piko piko piko...
+Dialogue: 0,0:10:45.70,0:10:48.16,Air Dialogue,,0000,0000,0000,,Don't run away, Potato.
+Dialogue: 0,0:10:48.16,0:10:50.41,Air Dialogue,,0000,0000,0000,,Here, I'll scrub you.
+Dialogue: 0,0:10:52.95,0:10:55.55,Air Dialogue,,0000,0000,0000,,Piko pikopiko... Piko!
+Dialogue: 0,0:10:56.25,0:10:57.51,Air Dialogue,,0000,0000,0000,,You seem to be doing well.
+Dialogue: 0,0:10:57.96,0:11:00.28,Air Dialogue,,0000,0000,0000,,Ah, Yukito-kun. Good morning.
+Dialogue: 0,0:11:00.28,0:11:03.46,Air Dialogue,,0000,0000,0000,,I'm sorry. It seems that I caused you troubled yesterday too.
+Dialogue: 0,0:11:03.46,0:11:04.54,Air Dialogue,,0000,0000,0000,,It wasn't a big deal.
+Dialogue: 0,0:11:04.54,0:11:05.33,Air Dialogue,,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:11:05.33,0:11:07.19,Air Dialogue,,0000,0000,0000,,Oh, you came, Kunisaki-kun.
+Dialogue: 0,0:11:07.19,0:11:09.54,Air Dialogue,,0000,0000,0000,,I have a lot of work for you to do today.
+Dialogue: 0,0:11:22.28,0:11:24.41,Air Dialogue,,0000,0000,0000,,Is Kano-san taking a nap?
+Dialogue: 0,0:11:24.76,0:11:25.52,Air Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:25.52,0:11:27.91,Air Dialogue,,0000,0000,0000,,I told her to rest because of what happened yesterday.
+Dialogue: 0,0:11:28.39,0:11:30.62,Air Dialogue,,0000,0000,0000,,It's about time for her to wake up.
+Dialogue: 0,0:11:30.62,0:11:32.08,Air Dialogue,,0000,0000,0000,,I'll go check up on her.
+Dialogue: 0,0:11:32.63,0:11:33.74,Air Dialogue,,0000,0000,0000,,Kano!
+Dialogue: 0,0:11:34.97,0:11:36.06,Air Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:42.09,0:11:46.19,Air Dialogue,,0000,0000,0000,,{\i1}Yukito-kun, I am writing this to you because I think you'll believe me.
+Dialogue: 0,0:11:46.19,0:11:49.46,Air Dialogue,,0000,0000,0000,,{\i1}I've finally decided to go to the sky.
+Dialogue: 0,0:11:49.46,0:11:53.51,Air Dialogue,,0000,0000,0000,,{\i1}I have a feeling that it will make everyone happy.
+Dialogue: 0,0:11:53.51,0:11:57.39,Air Dialogue,,0000,0000,0000,,{\i1}I have a feeling that I will meet the girl you are looking for too.
+Dialogue: 0,0:11:57.39,0:11:59.70,Air Dialogue,,0000,0000,0000,,{\i1}I don't know how long it will take,
+Dialogue: 0,0:11:59.70,0:12:02.05,Air Dialogue,,0000,0000,0000,,{\i1}but I will definitely bring her to you.
+Dialogue: 0,0:12:02.05,0:12:05.62,Air Dialogue,,0000,0000,0000,,{\i1}I'd be grateful if you could help Onee-chan until I return.
+Dialogue: 0,0:12:05.62,0:12:09.10,Air Dialogue,,0000,0000,0000,,{\i1}I know she is under a lot of stress.
+Dialogue: 0,0:12:09.63,0:12:13.68,Air Dialogue,,0000,0000,0000,,{\i1}P.S. I'm really sorry about the bruise on your neck.
+Dialogue: 0,0:12:22.43,0:12:23.38,Air Dialogue,,0000,0000,0000,,Oh!
+Dialogue: 0,0:12:22.94,0:12:24.51,Air Dialogue - top,,0000,0000,0000,,Piko! Pikopikopikopiko.
 Dialogue: 0,0:12:25.00,0:12:27.79,Air Dialogue - top,,0000,0000,0000,,Pikopikopikopikopiko pikopikopikopikopikopiko.
-Dialogue: 0,0:12:31.15,0:12:33.01,Air Dialogue - top,,0000,0000,0000,,Piko piko. Piko!
-Dialogue: 0,0:12:27.79,0:12:30.07,Air Dialogue - top,,0000,0000,0000,,Piko! Piko Piko Piko! Piko!
-Dialogue: 0,0:12:34.67,0:12:35.17,Air Dialogue,,0000,0000,0000,,Kano!
-Dialogue: 0,0:12:40.36,0:12:41.05,Air Dialogue,,0000,0000,0000,,Wake up!
-Dialogue: 0,0:12:41.44,0:12:41.93,Air Dialogue,,0000,0000,0000,,Kano!
-Dialogue: 0,0:12:44.16,0:12:44.99,Air Dialogue,,0000,0000,0000,,There are no superficial wounds.
-Dialogue: 0,0:12:46.44,0:12:47.36,Air Dialogue,,0000,0000,0000,,Then what about the blood?
-Dialogue: 0,0:12:47.67,0:12:48.79,Air Dialogue,,0000,0000,0000,,There's no sign of bleeding.
-Dialogue: 0,0:12:49.25,0:12:51.36,Air Dialogue,,0000,0000,0000,,It doesn't seem to be life-threatening,
-Dialogue: 0,0:12:51.73,0:12:53.30,Air Dialogue,,0000,0000,0000,,but what on Earth happened?
-Dialogue: 0,0:12:53.79,0:12:56.48,Air Dialogue,,0000,0000,0000,,Maybe she tried to go up to the sky from here.
-Dialogue: 0,0:12:58.09,0:12:58.31,Air Dialogue,,0000,0000,0000,,Oh?
-Dialogue: 0,0:13:06.57,0:13:07.46,Air Dialogue,,0000,0000,0000,,What's this?
-Dialogue: 0,0:13:10.27,0:13:10.59,Air Dialogue,,0000,0000,0000,,Oh!
-Dialogue: 0,0:13:12.10,0:13:13.73,Air Dialogue,,0000,0000,0000,,What's wrong, Yukito-san?
-Dialogue: 0,0:13:14.07,0:13:16.31,Air Dialogue,,0000,0000,0000,,Somehow, my emotions are acting up,
-Dialogue: 0,0:13:17.14,0:13:19.35,Air Dialogue,,0000,0000,0000,,like I'm nostalgic... or sad.
-Dialogue: 0,0:13:21.70,0:13:22.79,Air Dialogue,,0000,0000,0000,,Lay Kano down.
-Dialogue: 0,0:13:33.62,0:13:34.42,Air Dialogue,,0000,0000,0000,,Kunisaki-kun.
-Dialogue: 0,0:13:45.31,0:13:47.66,Air Dialogue,,0000,0000,0000,,{\i1}My name is Shiraho.
-Dialogue: 0,0:13:48.83,0:13:50.97,Air Dialogue,,0000,0000,0000,,{\i1}Please listen to my story.
-Dialogue: 0,0:13:53.14,0:13:56.64,Air Dialogue,,0000,0000,0000,,{\i1}I remember - it was a beautiful autumn.
-Dialogue: 0,0:13:57.98,0:14:00.86,Air Dialogue,,0000,0000,0000,,{\i1}My husband and I had our first child.
-Dialogue: 0,0:14:01.65,0:14:04.88,Air Dialogue,,0000,0000,0000,,{\i1}She had a birthmark on her right wrist.
-Dialogue: 0,0:14:05.97,0:14:10.03,Air Dialogue,,0000,0000,0000,,{\i1}The villagers said it was ominous, but we never paid them any attention.
-Dialogue: 0,0:14:12.02,0:14:16.72,Air Dialogue,,0000,0000,0000,,{\i1}When Yakumo cried, I sang her a lullaby that I had learned from my mother.
-Dialogue: 0,0:14:18.40,0:14:22.08,Air Dialogue,,0000,0000,0000,,{\i1}Yakumo would always stop crying, but that day, she didn't.
-Dialogue: 0,0:14:34.59,0:14:38.74,Air Dialogue,,0000,0000,0000,,{\i1}I felt that the feather was a charm sent by God for her.
-Dialogue: 0,0:14:53.65,0:14:54.38,Air Dialogue,,0000,0000,0000,,Take them away!
-Dialogue: 0,0:14:54.95,0:14:59.40,Air Dialogue,,0000,0000,0000,,{\i1}A war started, and my husband, like many others, never returned.
-Dialogue: 0,0:15:08.86,0:15:11.74,Air Dialogue,,0000,0000,0000,,Did anyone in this village pick up a shining feather?
-Dialogue: 0,0:15:12.03,0:15:15.38,Air Dialogue,,0000,0000,0000,,It is cursed! Anyone who has touched it should step forward and confess!
-Dialogue: 0,0:15:16.40,0:15:19.59,Air Dialogue,,0000,0000,0000,,{\i1}That night, I fled from the village.
-Dialogue: 0,0:15:34.36,0:15:37.92,Air Dialogue,,0000,0000,0000,,{\i1}And so, I arrived at this village.
-Dialogue: 0,0:15:41.77,0:15:46.63,Air Dialogue,,0000,0000,0000,,{\i1}The chief priest of the shrine was very kind to us outsiders.
-Dialogue: 0,0:15:47.93,0:15:55.01,Air Dialogue,,0000,0000,0000,,{\i1}I felt that Yakumo and I would be able to start a new life in this peaceful village.
-Dialogue: 0,0:15:57.00,0:16:03.46,Air Dialogue,,0000,0000,0000,,{\i1}However, that summer, an epidemic spread through the village, killing many.
-Dialogue: 0,0:16:06.43,0:16:08.34,Air Dialogue,,0000,0000,0000,,Chief Priest, how is she?
-Dialogue: 0,0:16:09.18,0:16:10.38,Air Dialogue,,0000,0000,0000,,The worst is over.
-Dialogue: 0,0:16:10.67,0:16:11.99,Air Dialogue,,0000,0000,0000,,His fever will come down in time.
-Dialogue: 0,0:16:12.52,0:16:17.96,Air Dialogue,,0000,0000,0000,,However, the villagers believe the two of you brought the epidemic to the village.
-Dialogue: 0,0:16:18.54,0:16:19.16,Air Dialogue,,0000,0000,0000,,No!
-Dialogue: 0,0:16:20.56,0:16:24.21,Air Dialogue,,0000,0000,0000,,It was a mistake to invite the two of you here.
-Dialogue: 0,0:16:24.62,0:16:26.85,Air Dialogue,,0000,0000,0000,,We worship a divine idol here.
-Dialogue: 0,0:16:27.46,0:16:31.34,Air Dialogue,,0000,0000,0000,,The idol gives a sign to those who bring bad fortune.
-Dialogue: 0,0:16:31.96,0:16:36.99,Air Dialogue,,0000,0000,0000,,If the villagers discover her birthmark, they will demand her to be sacrificed.
-Dialogue: 0,0:16:39.12,0:16:41.60,Air Dialogue,,0000,0000,0000,,You're telling me to sacrifice him?!
-Dialogue: 0,0:16:41.83,0:16:45.47,Air Dialogue,,0000,0000,0000,,In this land, we have always averted disasters by doing that.
-Dialogue: 0,0:16:48.49,0:16:50.33,Air Dialogue,,0000,0000,0000,,This child is my life!
-Dialogue: 0,0:16:50.68,0:16:53.84,Air Dialogue,,0000,0000,0000,,She's the only treasure my husband left me!
-Dialogue: 0,0:16:54.34,0:16:55.31,Air Dialogue,,0000,0000,0000,,Don't resist!
-Dialogue: 0,0:16:55.71,0:16:58.44,Air Dialogue,,0000,0000,0000,,Otherwise, you will be killed as well.
-Dialogue: 0,0:17:00.86,0:17:01.46,Air Dialogue,,0000,0000,0000,,Then, perhaps...
-Dialogue: 0,0:17:02.55,0:17:03.37,Air Dialogue,,0000,0000,0000,,with my own hands...
-Dialogue: 0,0:17:18.77,0:17:19.46,Air Dialogue,,0000,0000,0000,,I can't!
-Dialogue: 0,0:17:20.23,0:17:21.43,Air Dialogue,,0000,0000,0000,,I can't do it!
-Dialogue: 0,0:17:22.44,0:17:24.66,Air Dialogue,,0000,0000,0000,,What mother would kill her own child?!
+Dialogue: 0,0:12:31.10,0:12:33.31,Air Dialogue - top,,0000,0000,0000,,Piko piko. Piko!
+Dialogue: 0,0:12:27.79,0:12:30.57,Air Dialogue - top,,0000,0000,0000,,Piko! Piko piko piko! Piko!
+Dialogue: 0,0:12:34.51,0:12:35.67,Air Dialogue,,0000,0000,0000,,Kano!
+Dialogue: 0,0:12:40.20,0:12:41.44,Air Dialogue,,0000,0000,0000,,Wake up!
+Dialogue: 0,0:12:41.44,0:12:42.43,Air Dialogue,,0000,0000,0000,,Kano!
+Dialogue: 0,0:12:44.00,0:12:46.28,Air Dialogue,,0000,0000,0000,,There are no superficial wounds.
+Dialogue: 0,0:12:46.28,0:12:47.67,Air Dialogue,,0000,0000,0000,,Then what about the blood?
+Dialogue: 0,0:12:47.67,0:12:49.25,Air Dialogue,,0000,0000,0000,,There's no sign of bleeding.
+Dialogue: 0,0:12:49.25,0:12:51.65,Air Dialogue,,0000,0000,0000,,It doesn't seem to be life-threatening,
+Dialogue: 0,0:12:51.65,0:12:53.33,Air Dialogue,,0000,0000,0000,,but what on Earth happened?
+Dialogue: 0,0:12:53.79,0:12:56.98,Air Dialogue,,0000,0000,0000,,Maybe she tried to go up to the sky from here.
+Dialogue: 0,0:12:57.93,0:12:58.83,Air Dialogue,,0000,0000,0000,,Oh?
+Dialogue: 0,0:13:06.41,0:13:07.96,Air Dialogue,,0000,0000,0000,,What's this?
+Dialogue: 0,0:13:10.11,0:13:11.20,Air Dialogue,,0000,0000,0000,,Oh!
+Dialogue: 0,0:13:11.77,0:13:14.05,Air Dialogue,,0000,0000,0000,,What's wrong, Yukito-san?
+Dialogue: 0,0:13:14.05,0:13:16.52,Air Dialogue,,0000,0000,0000,,Somehow, my emotions are acting up,
+Dialogue: 0,0:13:16.98,0:13:20.11,Air Dialogue,,0000,0000,0000,,like I'm nostalgic... or sad.
+Dialogue: 0,0:13:21.54,0:13:22.82,Air Dialogue,,0000,0000,0000,,Lay Kano down.
+Dialogue: 0,0:13:33.46,0:13:34.78,Air Dialogue,,0000,0000,0000,,Kunisaki-kun.
+Dialogue: 0,0:13:45.22,0:13:48.16,Air Dialogue,,0000,0000,0000,,{\i1}My name is Shiraho.
+Dialogue: 0,0:13:48.67,0:13:51.47,Air Dialogue,,0000,0000,0000,,{\i1}Please listen to my story.
+Dialogue: 0,0:13:52.98,0:13:57.14,Air Dialogue,,0000,0000,0000,,{\i1}I remember – it was a beautiful autumn.
+Dialogue: 0,0:13:57.82,0:14:01.49,Air Dialogue,,0000,0000,0000,,{\i1}My husband and I had our first child.
+Dialogue: 0,0:14:01.49,0:14:05.38,Air Dialogue,,0000,0000,0000,,{\i1}She had a birthmark on her right wrist.
+Dialogue: 0,0:14:05.81,0:14:10.91,Air Dialogue,,0000,0000,0000,,{\i1}The villagers said it was ominous, but we never paid them any attention.
+Dialogue: 0,0:14:11.86,0:14:17.22,Air Dialogue,,0000,0000,0000,,{\i1}When Yakumo cried, I sang her a lullaby that I had learned from my mother.
+Dialogue: 0,0:14:18.08,0:14:22.58,Air Dialogue,,0000,0000,0000,,{\i1}Yakumo would always stop crying, but that day, she didn't.
+Dialogue: 0,0:14:34.47,0:14:39.24,Air Dialogue,,0000,0000,0000,,{\i1}I felt that the feather was a charm sent by God for her.
+Dialogue: 0,0:14:53.34,0:14:54.41,Air Dialogue,,0000,0000,0000,,Take them away!
+Dialogue: 0,0:14:54.88,0:14:59.83,Air Dialogue,,0000,0000,0000,,{\i1}A war started, and my husband, like many others, never returned.
+Dialogue: 0,0:15:08.70,0:15:11.76,Air Dialogue,,0000,0000,0000,,Did anyone in this village pick up a shining feather?
+Dialogue: 0,0:15:11.76,0:15:16.24,Air Dialogue,,0000,0000,0000,,It is cursed! Anyone who has touched it should step forward and confess!
+Dialogue: 0,0:15:16.24,0:15:19.85,Air Dialogue,,0000,0000,0000,,{\i1}That night, I fled from the village.
+Dialogue: 0,0:15:34.20,0:15:38.37,Air Dialogue,,0000,0000,0000,,{\i1}And so, I arrived at this village.
+Dialogue: 0,0:15:41.61,0:15:47.34,Air Dialogue,,0000,0000,0000,,{\i1}The chief priest of the shrine was very kind to us outsiders.
+Dialogue: 0,0:15:47.77,0:15:55.18,Air Dialogue,,0000,0000,0000,,{\i1}I felt that Yakumo and I would be able to start a new life in this peaceful village.
+Dialogue: 0,0:15:56.84,0:16:03.96,Air Dialogue,,0000,0000,0000,,{\i1}However, that summer, an epidemic spread through the village, killing many.
+Dialogue: 0,0:16:06.27,0:16:08.52,Air Dialogue,,0000,0000,0000,,Chief Priest, how is she?
+Dialogue: 0,0:16:09.02,0:16:10.67,Air Dialogue,,0000,0000,0000,,The worst is over.
+Dialogue: 0,0:16:10.67,0:16:12.03,Air Dialogue,,0000,0000,0000,,His fever will come down in time.
+Dialogue: 0,0:16:12.49,0:16:17.99,Air Dialogue,,0000,0000,0000,,However, the villagers believe the two of you brought the epidemic to the village.
+Dialogue: 0,0:16:18.46,0:16:19.45,Air Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:16:20.40,0:16:24.62,Air Dialogue,,0000,0000,0000,,It was a mistake to invite the two of you here.
+Dialogue: 0,0:16:24.62,0:16:26.92,Air Dialogue,,0000,0000,0000,,We worship a divine idol here.
+Dialogue: 0,0:16:27.35,0:16:31.38,Air Dialogue,,0000,0000,0000,,The idol gives a sign to those who bring bad fortune.
+Dialogue: 0,0:16:31.84,0:16:37.49,Air Dialogue,,0000,0000,0000,,If the villagers discover her birthmark, they will demand her to be sacrificed.
+Dialogue: 0,0:16:38.96,0:16:41.83,Air Dialogue,,0000,0000,0000,,You're telling me to sacrifice her?!
+Dialogue: 0,0:16:41.83,0:16:45.97,Air Dialogue,,0000,0000,0000,,In this land, we have always averted disasters by doing that.
+Dialogue: 0,0:16:48.33,0:16:50.68,Air Dialogue,,0000,0000,0000,,This child is my life!
+Dialogue: 0,0:16:50.68,0:16:53.86,Air Dialogue,,0000,0000,0000,,She's the only treasure my husband left me!
+Dialogue: 0,0:16:54.34,0:16:55.71,Air Dialogue,,0000,0000,0000,,Don't resist!
+Dialogue: 0,0:16:55.71,0:16:58.57,Air Dialogue,,0000,0000,0000,,Otherwise, you will be killed as well.
+Dialogue: 0,0:17:00.70,0:17:01.96,Air Dialogue,,0000,0000,0000,,Then, perhaps...
+Dialogue: 0,0:17:02.39,0:17:03.50,Air Dialogue,,0000,0000,0000,,with my own hands...
+Dialogue: 0,0:17:18.61,0:17:20.07,Air Dialogue,,0000,0000,0000,,I can't!
+Dialogue: 0,0:17:20.07,0:17:22.28,Air Dialogue,,0000,0000,0000,,I can't do it!
+Dialogue: 0,0:17:22.28,0:17:25.06,Air Dialogue,,0000,0000,0000,,What mother would kill her own child?!
 Dialogue: 0,0:17:25.06,0:17:29.44,Air Dialogue,,0000,0000,0000,,Even if it might destroy the world, what mother could bear to kill her own child?
-Dialogue: 0,0:17:31.35,0:17:33.37,Air Dialogue,,0000,0000,0000,,I will take her place.
-Dialogue: 0,0:17:34.23,0:17:35.05,Air Dialogue,,0000,0000,0000,,Please, somehow, save him.
-Dialogue: 0,0:17:36.18,0:17:37.81,Air Dialogue,,0000,0000,0000,,Please save my child.
-Dialogue: 0,0:17:40.59,0:17:41.99,Air Dialogue,,0000,0000,0000,,Don't do it!
-Dialogue: 0,0:17:57.03,0:17:57.64,Air Dialogue,,0000,0000,0000,,Mommy?
-Dialogue: 0,0:18:01.42,0:18:02.52,Air Dialogue,,0000,0000,0000,,Mommy, where are you?
-Dialogue: 0,0:18:03.23,0:18:04.06,Air Dialogue,,0000,0000,0000,,I'm right here.
-Dialogue: 0,0:18:09.57,0:18:10.37,Air Dialogue,,0000,0000,0000,,Mommy!
-Dialogue: 0,0:18:12.32,0:18:13.69,Air Dialogue,,0000,0000,0000,,Is there anything you want to eat?
-Dialogue: 0,0:18:14.09,0:18:15.61,Air Dialogue,,0000,0000,0000,,No, I'm already full!
-Dialogue: 0,0:18:16.08,0:18:17.30,Air Dialogue,,0000,0000,0000,,Is there anything you want?
-Dialogue: 0,0:18:17.84,0:18:18.34,Air Dialogue,,0000,0000,0000,,No.
-Dialogue: 0,0:18:21.19,0:18:24.05,Air Dialogue,,0000,0000,0000,,Um... I'll go home now.
-Dialogue: 0,0:18:25.40,0:18:27.22,Air Dialogue,,0000,0000,0000,,Onee-chan is waiting for me.
-Dialogue: 0,0:18:27.73,0:18:28.69,Air Dialogue,,0000,0000,0000,,And Potato too.
-Dialogue: 0,0:18:30.48,0:18:32.80,Air Dialogue,,0000,0000,0000,,And a new friend I've made.
-Dialogue: 0,0:18:33.36,0:18:33.96,Air Dialogue,,0000,0000,0000,,Really?
-Dialogue: 0,0:18:35.33,0:18:37.63,Air Dialogue,,0000,0000,0000,,He says he's looking for a girl in the sky.
-Dialogue: 0,0:18:38.45,0:18:41.78,Air Dialogue,,0000,0000,0000,,I kind of wish that I were that girl.
-Dialogue: 0,0:18:42.59,0:18:45.31,Air Dialogue,,0000,0000,0000,,If things are too hard for you, you can come with me, you know.
-Dialogue: 0,0:18:49.40,0:18:51.08,Air Dialogue,,0000,0000,0000,,Um, Mommy?
-Dialogue: 0,0:18:52.01,0:18:52.57,Air Dialogue,,0000,0000,0000,,Thank you.
-Dialogue: 0,0:18:54.55,0:18:57.40,Air Dialogue,,0000,0000,0000,,I don't remember much about you,
-Dialogue: 0,0:18:59.14,0:19:03.20,Air Dialogue,,0000,0000,0000,,and I might have cut your life short,
-Dialogue: 0,0:19:04.49,0:19:04.87,Air Dialogue,,0000,0000,0000,,but...
-Dialogue: 0,0:19:07.41,0:19:09.49,Air Dialogue,,0000,0000,0000,,Thank you for giving birth to me!
-Dialogue: 0,0:19:10.76,0:19:11.00,Air Dialogue,,0000,0000,0000,,Oh!
-Dialogue: 0,0:19:12.04,0:19:13.88,Air Dialogue,,0000,0000,0000,,I just wanted to say that.
-Dialogue: 0,0:19:17.99,0:19:18.56,Air Dialogue,,0000,0000,0000,,Kano,
-Dialogue: 0,0:19:19.28,0:19:20.96,Air Dialogue,,0000,0000,0000,,you don't have wings,
-Dialogue: 0,0:19:21.88,0:19:23.95,Air Dialogue,,0000,0000,0000,,so live happily down there.
+Dialogue: 0,0:17:31.19,0:17:34.07,Air Dialogue,,0000,0000,0000,,I will take her place.
+Dialogue: 0,0:17:34.07,0:17:35.81,Air Dialogue,,0000,0000,0000,,Please, somehow, save her.
+Dialogue: 0,0:17:36.02,0:17:38.31,Air Dialogue,,0000,0000,0000,,Please save my child.
+Dialogue: 0,0:17:40.43,0:17:42.54,Air Dialogue,,0000,0000,0000,,Don't do it!
+Dialogue: 0,0:17:56.87,0:17:58.14,Air Dialogue,,0000,0000,0000,,Mommy?
+Dialogue: 0,0:18:01.26,0:18:03.07,Air Dialogue,,0000,0000,0000,,Mommy, where are you?
+Dialogue: 0,0:18:03.07,0:18:04.72,Air Dialogue,,0000,0000,0000,,I'm right here.
+Dialogue: 0,0:18:09.41,0:18:10.40,Air Dialogue,,0000,0000,0000,,Mommy!
+Dialogue: 0,0:18:12.16,0:18:14.09,Air Dialogue,,0000,0000,0000,,Is there anything you want to eat?
+Dialogue: 0,0:18:14.09,0:18:16.08,Air Dialogue,,0000,0000,0000,,No, I'm already full!
+Dialogue: 0,0:18:16.08,0:18:17.80,Air Dialogue,,0000,0000,0000,,Is there anything you want?
+Dialogue: 0,0:18:17.80,0:18:18.86,Air Dialogue,,0000,0000,0000,,No.
+Dialogue: 0,0:18:21.03,0:18:24.55,Air Dialogue,,0000,0000,0000,,Um... I'll go home now.
+Dialogue: 0,0:18:25.24,0:18:27.50,Air Dialogue,,0000,0000,0000,,Onee-chan is waiting for me.
+Dialogue: 0,0:18:27.50,0:18:29.19,Air Dialogue,,0000,0000,0000,,And Potato too.
+Dialogue: 0,0:18:30.32,0:18:33.30,Air Dialogue,,0000,0000,0000,,And a new friend I've made.
+Dialogue: 0,0:18:33.30,0:18:34.46,Air Dialogue,,0000,0000,0000,,Really?
+Dialogue: 0,0:18:35.17,0:18:38.29,Air Dialogue,,0000,0000,0000,,He says he's looking for a girl in the sky.
+Dialogue: 0,0:18:38.29,0:18:42.43,Air Dialogue,,0000,0000,0000,,I kind of wish that I were that girl.
+Dialogue: 0,0:18:42.43,0:18:45.35,Air Dialogue,,0000,0000,0000,,If things are too hard for you, you can come with me, you know.
+Dialogue: 0,0:18:49.24,0:18:51.85,Air Dialogue,,0000,0000,0000,,Um, Mommy?
+Dialogue: 0,0:18:51.85,0:18:53.07,Air Dialogue,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:54.39,0:18:57.90,Air Dialogue,,0000,0000,0000,,I don't remember much about you,
+Dialogue: 0,0:18:58.98,0:19:03.70,Air Dialogue,,0000,0000,0000,,and I might have cut your life short,
+Dialogue: 0,0:19:04.33,0:19:05.37,Air Dialogue,,0000,0000,0000,,but...
+Dialogue: 0,0:19:07.25,0:19:10.29,Air Dialogue,,0000,0000,0000,,Thank you for giving birth to me!
+Dialogue: 0,0:19:10.60,0:19:11.88,Air Dialogue,,0000,0000,0000,,Oh!
+Dialogue: 0,0:19:11.88,0:19:13.96,Air Dialogue,,0000,0000,0000,,I just wanted to say that.
+Dialogue: 0,0:19:17.83,0:19:19.12,Air Dialogue,,0000,0000,0000,,Kano,
+Dialogue: 0,0:19:19.12,0:19:21.72,Air Dialogue,,0000,0000,0000,,you don't have wings,
+Dialogue: 0,0:19:21.72,0:19:23.97,Air Dialogue,,0000,0000,0000,,so live happily down there.
 Dialogue: 0,0:19:21.89,0:19:29.95,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K61}ko{\K54}no {\K56}ko {\K92}no {\K29}ka{\K57}wa{\K61}i{\K84}sa {\K34}ka{\K55}gi{\K57}ri {\K57}na {\K109}ya
 Dialogue: 0,0:19:21.89,0:19:29.95,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k61}こ{\k54}の{\k56}子{\k92}の{\k29}可{\k57}愛{\k145}さ{\k89}限{\k57}り{\k57}な{\k109}や
-Dialogue: 0,0:19:23.95,0:19:29.95,AirEDEng,,0000,0000,0000,,{\fad(0,250)}Limitless are the ways this child is dear
+Dialogue: 0,0:19:23.96,0:19:29.95,AirEDEng,,0000,0000,0000,,{\fad(0,250)}Limitless are the ways this child is dear
 Dialogue: 0,0:19:31.31,0:19:39.62,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K181}ten {\K88}ni {\K29}ta{\K52}to{\K57}e{\K91}ba {\K33}ho{\K53}shi {\K51}no {\K71}ka{\K125}zu
 Dialogue: 0,0:19:31.31,0:19:39.62,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k181}天{\k88}に{\k29}例{\k109}え{\k91}ば{\k86}星{\k51}の{\k196}数
 Dialogue: 0,0:19:31.31,0:19:39.62,AirEDEng,,0000,0000,0000,,{\fad(250,250)}more so than the number of stars in the heavens,
@@ -335,37 +335,37 @@ Comment: 0,0:19:49.68,0:19:59.16,Air Dialogue,,0000,0000,0000,,Obana karukaya, h
 Comment: 0,0:19:59.16,0:20:04.10,Air Dialogue,,0000,0000,0000,,Nana kusa, chigusa no kazu yorimo\NMore than the flowers of autumn
 Comment: 0,0:20:04.10,0:20:08.47,Air Dialogue,,0000,0000,0000,,Nana kusa, chigusa no kazu yorimo\NMore than the number of all the flowering plants
 Comment: 0,0:20:08.47,0:20:17.57,Air Dialogue,,0000,0000,0000,,Daijina kono ko ga nenne suru\NMy precious child is sleeping
-Dialogue: 0,0:20:22.08,0:20:22.74,Air Dialogue,,0000,0000,0000,,Just now...
-Dialogue: 0,0:20:23.27,0:20:24.58,Air Dialogue,,0000,0000,0000,,Kamio-san, you saw it too?
-Dialogue: 0,0:20:25.04,0:20:25.34,Air Dialogue,,0000,0000,0000,,Yes.
-Dialogue: 0,0:20:26.40,0:20:26.66,Air Dialogue,,0000,0000,0000,,Oh.
-Dialogue: 0,0:20:34.93,0:20:35.69,Air Dialogue,,0000,0000,0000,,Are you awake now?
-Dialogue: 0,0:20:36.62,0:20:37.07,Air Dialogue,,0000,0000,0000,,Kano.
-Dialogue: 0,0:20:39.97,0:20:40.70,Air Dialogue,,0000,0000,0000,,Yukito-kun...
-Dialogue: 0,0:20:42.70,0:20:43.36,Air Dialogue,,0000,0000,0000,,Onee-chan.
-Dialogue: 0,0:20:53.53,0:20:54.01,Air Dialogue,,0000,0000,0000,,Kano!
-Dialogue: 0,0:20:54.34,0:20:54.88,Air Dialogue,,0000,0000,0000,,Pika!
-Dialogue: 0,0:20:55.01,0:20:59.40,Air Dialogue - top,,0000,0000,0000,,Piko piko piko piko piko piko piko piko piko...
-Dialogue: 0,0:21:09.80,0:21:12.61,Air Dialogue,,0000,0000,0000,,So, what was that feather?
-Dialogue: 0,0:21:12.94,0:21:13.62,Air Dialogue,,0000,0000,0000,,Who knows?
-Dialogue: 0,0:21:15.45,0:21:17.90,Air Dialogue,,0000,0000,0000,,Onee-chan, I met Mommy.
-Dialogue: 0,0:21:18.34,0:21:19.48,Air Dialogue,,0000,0000,0000,,Yeah, I was watching.
-Dialogue: 0,0:21:20.45,0:21:23.20,Air Dialogue,,0000,0000,0000,,I couldn't go to where she was,
-Dialogue: 0,0:21:23.90,0:21:27.38,Air Dialogue,,0000,0000,0000,,but I was able to thank her, just like Yukito-kun told me to.
-Dialogue: 0,0:21:28.07,0:21:29.58,Air Dialogue,,0000,0000,0000,,It's all thanks to Yukito-kun.
-Dialogue: 0,0:21:29.93,0:21:31.40,Air Dialogue,,0000,0000,0000,,No, you're wrong.
-Dialogue: 0,0:21:32.94,0:21:34.83,Air Dialogue,,0000,0000,0000,,That was your magic.
-Dialogue: 0,0:21:41.29,0:21:41.52,Air Dialogue,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:21:55.73,0:21:57.84,Air Dialogue,,0000,0000,0000,,Let it soar into the sky for you.
-Dialogue: 0,0:21:58.48,0:21:58.79,Air Dialogue,,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:21.92,0:20:23.24,Air Dialogue,,0000,0000,0000,,Just now...
+Dialogue: 0,0:20:23.24,0:20:24.66,Air Dialogue,,0000,0000,0000,,Kamio-san, you saw it too?
+Dialogue: 0,0:20:25.04,0:20:26.24,Air Dialogue,,0000,0000,0000,,Yes.
+Dialogue: 0,0:20:26.24,0:20:27.16,Air Dialogue,,0000,0000,0000,,Oh.
+Dialogue: 0,0:20:34.77,0:20:36.46,Air Dialogue,,0000,0000,0000,,Are you awake now?
+Dialogue: 0,0:20:36.46,0:20:37.50,Air Dialogue,,0000,0000,0000,,Kano.
+Dialogue: 0,0:20:39.81,0:20:41.20,Air Dialogue,,0000,0000,0000,,Yukito-kun...
+Dialogue: 0,0:20:42.54,0:20:43.86,Air Dialogue,,0000,0000,0000,,Onee-chan.
+Dialogue: 0,0:20:53.37,0:20:54.34,Air Dialogue,,0000,0000,0000,,Kano!
+Dialogue: 0,0:20:54.34,0:20:55.01,Air Dialogue,,0000,0000,0000,,Pika!
+Dialogue: 0,0:20:55.01,0:20:59.90,Air Dialogue - top,,0000,0000,0000,,Piko piko piko piko piko piko piko piko piko...
+Dialogue: 0,0:21:09.64,0:21:12.62,Air Dialogue,,0000,0000,0000,,So, what was that feather?
+Dialogue: 0,0:21:12.94,0:21:14.12,Air Dialogue,,0000,0000,0000,,Who knows?
+Dialogue: 0,0:21:15.08,0:21:17.92,Air Dialogue,,0000,0000,0000,,Onee-chan, I met Mommy.
+Dialogue: 0,0:21:18.34,0:21:20.29,Air Dialogue,,0000,0000,0000,,Yeah, I was watching.
+Dialogue: 0,0:21:20.29,0:21:23.59,Air Dialogue,,0000,0000,0000,,I couldn't go to where she was,
+Dialogue: 0,0:21:23.59,0:21:27.91,Air Dialogue,,0000,0000,0000,,but I was able to thank her, just like Yukito-kun told me to.
+Dialogue: 0,0:21:27.91,0:21:29.81,Air Dialogue,,0000,0000,0000,,It's all thanks to Yukito-kun.
+Dialogue: 0,0:21:29.81,0:21:31.51,Air Dialogue,,0000,0000,0000,,No, you're wrong.
+Dialogue: 0,0:21:32.78,0:21:34.98,Air Dialogue,,0000,0000,0000,,That was your magic.
+Dialogue: 0,0:21:41.13,0:21:42.44,Air Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:55.57,0:21:57.87,Air Dialogue,,0000,0000,0000,,Let it soar into the sky for you.
+Dialogue: 0,0:21:58.34,0:21:59.29,Air Dialogue,,0000,0000,0000,,Okay.
 Dialogue: 0,0:23:40.60,0:23:43.48,Air Typesetting,,0000,0000,0000,,{\c&HFFFFFF&\fad(300,900)\fs51\shad2.25\pos(641,293)}Next Episode Preview
-Dialogue: 0,0:23:41.55,0:23:43.09,Air Dialogue,,0000,0000,0000,,Bubbles are pretty.
-Dialogue: 0,0:23:43.99,0:23:46.39,Air Dialogue,,0000,0000,0000,,They're empty, just like the sky.
-Dialogue: 0,0:23:48.75,0:23:52.87,Air Dialogue,,0000,0000,0000,,I just get in the way, so I'm always playing by myself.
-Dialogue: 0,0:23:53.87,0:23:57.10,Air Dialogue,,0000,0000,0000,,Did I do something wrong?
-Dialogue: 0,0:23:58.23,0:24:00.53,Air Dialogue,,0000,0000,0000,,My mother couldn't accept reality,
-Dialogue: 0,0:24:01.03,0:24:04.36,Air Dialogue,,0000,0000,0000,,so she chose to live in her dreams.
-Dialogue: 0,0:24:05.31,0:24:08.27,Air Dialogue,,0000,0000,0000,,Is there a use for wings that cannot fly?
+Dialogue: 0,0:23:41.39,0:23:43.56,Air Dialogue,,0000,0000,0000,,Bubbles are pretty.
+Dialogue: 0,0:23:43.56,0:23:46.52,Air Dialogue,,0000,0000,0000,,They're empty, just like the sky.
+Dialogue: 0,0:23:48.53,0:23:53.71,Air Dialogue,,0000,0000,0000,,I just get in the way, so I'm always playing by myself.
+Dialogue: 0,0:23:53.71,0:23:57.41,Air Dialogue,,0000,0000,0000,,Did I do something wrong?
+Dialogue: 0,0:23:58.07,0:24:01.08,Air Dialogue,,0000,0000,0000,,My mother couldn't accept reality,
+Dialogue: 0,0:24:01.08,0:24:05.17,Air Dialogue,,0000,0000,0000,,so she chose to live in her dreams.
+Dialogue: 0,0:24:05.17,0:24:08.77,Air Dialogue,,0000,0000,0000,,Is there a use for wings that cannot fly?
 Dialogue: 0,0:24:07.46,0:24:20.17,Air Typesetting,,0000,0000,0000,,{\fad(950,0)\fs39\fscx100\fscy100\shad2.4\c&HFEFEFA&\4c&H121213&\pos(314,419)}Episode 5
 Dialogue: 1,0:00:30.88,0:00:38.03,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}We watched the fading vapor trails
 Dialogue: 1,0:00:38.58,0:00:42.48,AirOPEng,,0000,0000,0000,karaoke,{\fad(250,250)}They were so dazzling, I ran away
@@ -427,4 +427,3 @@ Dialogue: 0,0:22:48.77,0:22:56.63,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k30
 Dialogue: 0,0:22:56.85,0:23:07.60,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k16}ひ{\k30}と{\k44}り{\k23}踏{\k25}み{\k57}出{\k84}す{\k86}足{\k34}だ{\k308}け{\k39}見{\k36}て{\k293}る
 Dialogue: 0,0:23:07.79,0:23:22.71,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k161}朝{\k25}に{\k119}は{\k48}消{\k25}え{\k117}た{\k24}あ{\k24}の{\k95}歌{\k119}声{\k97}を{\k36}い{\k30}つ{\k29}ま{\k71}で{\k69}も{\k33}聞{\k18}い{\k70}て{\k281}た
 Dialogue: 0,0:23:23.06,0:23:38.60,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k159}僕{\k26}ら{\k115}が{\k50}残{\k23}し{\k119}た{\k24}あ{\k25}の{\k94}足{\k118}跡{\k97}を{\k35}い{\k34}つ{\k26}ま{\k69}で{\k73}も{\k47}追{\k74}って{\k346}た
- 
