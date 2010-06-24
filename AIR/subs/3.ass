@@ -9,7 +9,7 @@ PlayResY: 720
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 34786
+Video Position: 12783
 Collisions: Normal
 Last Style Storage: Default
 Audio File: ?video
@@ -209,7 +209,7 @@ Dialogue: 0,0:08:34.19,0:08:35.85,Air Dialogue,,0000,0000,0000,,Potato!
 Dialogue: 0,0:08:37.89,0:08:40.84,Air Dialogue,,0000,0000,0000,,Potato... Where could he be?
 Dialogue: 0,0:08:42.75,0:08:45.65,Air Dialogue,,0000,0000,0000,,The sun's starting to set now.
 Dialogue: 0,0:08:48.29,0:08:49.79,Air Dialogue,,0000,0000,0000,,What's wrong?
-Dialogue: 0,0:08:49.79,0:08:51.07,Air Dialogue,,0000,0000,0000,,Nothing.
+Dialogue: 0,0:08:49.79,0:08:51.07,Air Dialogue,,0000,0000,0000,,No, it's nothing.
 Dialogue: 0,0:08:51.07,0:08:52.26,Air Dialogue,,0000,0000,0000,,Let's keep looking.
 Dialogue: 0,0:08:56.26,0:08:58.35,Air Dialogue,,0000,0000,0000,,Not here either.
 Dialogue: 0,0:08:59.25,0:09:01.48,Air Dialogue,,0000,0000,0000,,I can't think of anywhere else to look.
