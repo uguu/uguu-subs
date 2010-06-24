@@ -10,7 +10,7 @@ ScaledBorderAndShadow: yes
 Last Style Storage: Default
 Video Aspect Ratio: 0
 Video Zoom: 6
-Video Position: 34775
+Video Position: 28532
 Collisions: Normal
 Audio File: ?video
 Video File: ..\..\Downloads\4-tiny(2).mkv
@@ -259,7 +259,7 @@ Dialogue: 0,0:15:47.77,0:15:55.18,Air Dialogue,,0000,0000,0000,,{\i1}I felt that
 Dialogue: 0,0:15:56.84,0:16:03.96,Air Dialogue,,0000,0000,0000,,{\i1}However, that summer, an epidemic spread through the village, killing many.
 Dialogue: 0,0:16:06.27,0:16:08.52,Air Dialogue,,0000,0000,0000,,Chief Priest, how is she?
 Dialogue: 0,0:16:09.02,0:16:10.67,Air Dialogue,,0000,0000,0000,,The worst is over.
-Dialogue: 0,0:16:10.67,0:16:12.03,Air Dialogue,,0000,0000,0000,,His fever will come down in time.
+Dialogue: 0,0:16:10.67,0:16:12.03,Air Dialogue,,0000,0000,0000,,Her fever will come down in time.
 Dialogue: 0,0:16:12.49,0:16:17.99,Air Dialogue,,0000,0000,0000,,However, the villagers believe the two of you brought the epidemic to the village.
 Dialogue: 0,0:16:18.46,0:16:19.45,Air Dialogue,,0000,0000,0000,,No!
 Dialogue: 0,0:16:20.40,0:16:24.62,Air Dialogue,,0000,0000,0000,,It was a mistake to invite the two of you here.
@@ -318,7 +318,7 @@ Dialogue: 0,0:19:31.31,0:19:39.62,AirEDEng,,0000,0000,0000,,{\fad(250,250)}more 
 Dialogue: 0,0:19:40.72,0:19:48.93,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K75}ya{\K40}ma {\K56}de {\K88}ha{\K30}ki {\K53}no {\K62}ka{\K91}zu {\K32}ka{\K48}ya {\K68}no {\K52}ka{\K126}zu
 Dialogue: 0,0:19:40.72,0:19:48.93,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k115}山{\k56}で{\k88}は{\k30}木{\k53}の{\k153}数{\k32}か{\k48}や{\k68}の{\k178}数
 Dialogue: 0,0:19:40.72,0:19:48.93,AirEDEng,,0000,0000,0000,,{\fad(250,250)}more so than the number of trees, the number of grass blades.
-Dialogue: 0,0:19:50.08,0:19:58.84,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K125}o{\K57}ba{\K90}na {\K31}ka{\K58}ru{\K58}ka{\K86}ya {\K28}ha{\K54}gi {\K62}ki{\K26}ky{\K45}o{\K156}u
+Dialogue: 0,0:19:50.04,0:19:58.84,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K125}o{\K57}ba{\K90}na {\K31}ka{\K58}ru{\K58}ka{\K86}ya {\K28}ha{\K54}gi {\K62}ki{\K26}ky{\K45}o{\K156}u
 Dialogue: 0,0:19:50.04,0:19:58.84,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k125}お{\k57}ば{\k90}な{\k31}か{\k58}る{\k58}か{\k86}や{\k28}は{\k54}ぎ{\k62}き{\k26}こ{\k45}よ{\k156}う
 Dialogue: 0,0:19:50.04,0:19:58.84,AirEDEng,,0000,0000,0000,,{\fad(250,250)}Flowering grass, bush clover and bellflowers
 Dialogue: 0,0:19:59.57,0:20:08.19,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K78}na{\K24}na{\K57}ku{\K94}sa {\K40}chi{\K44}gu{\K63}sa {\K89}no {\K30}ka{\K68}zu {\K56}yo{\K56}ri {\K163}mo
@@ -327,14 +327,6 @@ Dialogue: 0,0:19:59.57,0:20:08.19,AirEDEng,,0000,0000,0000,,{\fad(250,250)}More 
 Dialogue: 0,0:20:08.85,0:20:17.52,AirEDRom,,0000,0000,0000,,{\fad(250,250)}{\K123}dai{\K59}ji{\K98}na {\K27}ko{\K61}no {\K56}ko {\K78}ga {\K42}ne{\K56}n{\K41}ne{\K59}su{\K167}ru
 Dialogue: 0,0:20:08.85,0:20:17.52,AirEDKan,,0000,0000,0000,,{\fad(250,250)}{\k123}大{\k59}事{\k98}な　{\k27}こ{\k61}の　{\k56}子　{\k78}が　{\k42}ね{\k56}ん{\k41}ね{\k59}す{\k167}る
 Dialogue: 0,0:20:08.85,0:20:17.52,AirEDEng,,0000,0000,0000,,{\fad(250,250)}is my sleeping child
-Comment: 0,0:19:23.89,0:19:30.93,Air Dialogue,,0000,0000,0000,,Kono ko no kawaisa kagirinaya\NThere is no end to the ways this child is so dear
-Comment: 0,0:19:30.93,0:19:39.90,Air Dialogue,,0000,0000,0000,,Ten ni tatoeba hoshi no kazu\NLike the number of stars in the heavens
-Comment: 0,0:19:40.24,0:19:45.28,Air Dialogue,,0000,0000,0000,,Yama dewa ki no kazu, kaya no kazu\NThe number of trees in the mountains
-Comment: 0,0:19:45.28,0:19:49.21,Air Dialogue,,0000,0000,0000,,Yama dewa ki no kazu, kaya no kazu\NThe number of grasses in the field
-Comment: 0,0:19:49.68,0:19:59.16,Air Dialogue,,0000,0000,0000,,Obana karukaya, hagi, kikyou\NFlowering broomsedge, bush clover, bellflowers
-Comment: 0,0:19:59.16,0:20:04.10,Air Dialogue,,0000,0000,0000,,Nana kusa, chigusa no kazu yorimo\NMore than the flowers of autumn
-Comment: 0,0:20:04.10,0:20:08.47,Air Dialogue,,0000,0000,0000,,Nana kusa, chigusa no kazu yorimo\NMore than the number of all the flowering plants
-Comment: 0,0:20:08.47,0:20:17.57,Air Dialogue,,0000,0000,0000,,Daijina kono ko ga nenne suru\NMy precious child is sleeping
 Dialogue: 0,0:20:21.92,0:20:23.24,Air Dialogue,,0000,0000,0000,,Just now...
 Dialogue: 0,0:20:23.24,0:20:24.66,Air Dialogue,,0000,0000,0000,,Kamio-san, you saw it too?
 Dialogue: 0,0:20:25.04,0:20:26.24,Air Dialogue,,0000,0000,0000,,Yes.
