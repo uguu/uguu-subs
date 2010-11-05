@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>1842807478</EditionUID>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>Forelocks Yet to Be Opened (part 1)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>2180115359</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:00:22.000000000</ChapterTimeEnd>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>OP1 (Kuusou Rumba)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>1253683640</ChapterUID>
+      <ChapterTimeStart>00:00:22.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:52.000000000</ChapterTimeEnd>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>Forelocks Yet to Be Opened (part 2)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>1070143126</ChapterUID>
+      <ChapterTimeStart>00:01:52.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:04.000000000</ChapterTimeEnd>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>Dressup at Tiffany's</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>2894645669</ChapterUID>
+      <ChapterTimeStart>00:09:04.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:15:14.000000000</ChapterTimeEnd>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>Rouse Up, O Old Men of the Old Age</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>2413348027</ChapterUID>
+      <ChapterTimeStart>00:15:14.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:42.000000000</ChapterTimeEnd>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>ED1 (Romance Romanesque)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>646029988</ChapterUID>
+      <ChapterTimeStart>00:21:42.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:15.000000000</ChapterTimeEnd>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>Epilogue</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>3081136785</ChapterUID>
+      <ChapterTimeStart>00:23:15.000000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
