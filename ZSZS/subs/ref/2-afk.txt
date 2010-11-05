@@ -1,0 +1,1672 @@
+TOP: Toptitles by Kohji Kumeta
+LEFT: January
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: February
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: March
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: April
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: May
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: June
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: July
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 1st
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 2nd
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 3rd
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 4th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 5th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 6th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 7th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 8th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 9th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 10th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 11th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 12th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+TOP: Toptitles by Kohji Kumeta
+LEFT: 13th
+BOTTOM: Subtitles by Yuichiro Oguro
+ 
+MIDDLE: School Opening Anniversary
+ 
+TOP: School Opening Anniversary
+BELOW TOP: July 12th
+BOTTOM: Everybody, Jule 13th is Nice Day.
+ 
+SIGN: STARE
+SIGN: STARE
+BOTTOM: Teacher.
+ 
+SIGN: "What is it..."
+BOTTOM: What is it?
+ 
+TOP: Commodore Perry has come for the School Opening Anniversary!
+BOTTOM: Goku-san has come for Nice Day!
+ 
+TOP: Commodore Perry is coming
+ 
+TOP: Yes?
+SIGN: Yes?
+BOTTOM: Yes?
+ 
+TOP: July 13th
+ 
+BOTTOM: For the School Opening Anniversary
+ 
+TOP: Commodore Perry
+ 
+TOP: Has come for the School Opening Anniversary!
+BOTTOM: Has come!
+ 
+SIGN: Born in 1794
+ 
+SIGN: in northern
+ 
+SIGN: Rhode Island
+ 
+SIGN: as the third son
+ 
+SIGN: in a
+ 
+SIGN: naval family
+ 
+TOP: Forelocks Yet to Be Opened
+ 
+TOP: Commodore Perry has come for the School Opening Anniversary!
+BOTTOM: Goku-san has come for Nice Day!
+ 
+TOP: What is that supposed to mean!?
+BOTTOM: How is that person supposed to be Masaaki ()()()()()!?
+ 
+SIGN: Ah
+ 
+TOP: Because it's the anniversary of the opening the ports?
+BLACKBOARD: Open the ports
+BOTTOM: Maybe he's from the Drifters' version?
+ 
+TOP: It's the anniversary of opening the school!
+BOTTOM: He looks more like Yajirobe!
+ 
+TOP: Commodore Perry!
+BOTTOM: Goku-san!
+ 
+TOP: Hey, I'm here, Kafuka-chan.
+BOTTOM: I'm here, Kafuka-chan.
+ 
+Top: Is he a friend of yours?
+BOTTOM: Is he a friend of yours?
+ 
+TOP: You shouldn't simply be friends with anybody and everybody.
+BOTTOM: You shouldn't simply be friends with anybody and everybody.
+ 
+TOP: Now that the Commodore is here, many things will be opened.
+BOTTOM: Goku-san is collecting magical ()()()()().
+ 
+TOP: Opened?
+SIGNS: The book opens
+BOTTOM: ()()()()()?
+ 
+TOP: Commodore Perry is a troubled local foreigner...
+BOTTOM: Goku-san is a warrior of justice...
+ 
+TOP: ...who isn't satisfied by opening ports and needs to open everything.
+BOTTOM: ...fighting against aliens who are after the ()()()()().
+ 
+SIGN: Horse mackerel
+ 
+TOP: Horse mackerel?
+BOTTOM: A phaser?
+ 
+TOP: Horse mackerel cut open!?
+BOTTOM: A weapon for fighting the aliens?
+ 
+TOP: Commodore Perry opens everything.
+BOTTOM: Whoever obtains the ()()()()() will rule the universe!
+ 
+BOTTOM: Yes, I must obtain the ()()()()() for the sake of peace.
+ 
+BOTTOM: Hmm?
+ 
+BOTTOM: There's a ()()()() in that direction!
+ 
+TOP: Teacher!
+BOTTOM: Teacher!
+ 
+TOP: If we don't chase after Commodore Perry...
+BOTTOM: Let's chase after GOKU-san...
+ 
+TOP: ...he'll open everything in the school!
+BOTTOM: ...and help fight the aliens and look for the ()()()()()!
+ 
+TOP: Let's leave him alone.
+BOTTOM: I don't like fighting.
+ 
+SIGN: Library
+ 
+WHITE SIGNS: Book
+BLUE SIGN: Nozomu
+YELLOW SIGN: Jun
+ 
+TOP: Th-This is...!
+BOTTOM: This is! This is! This is!
+ 
+TOP: A Perry-looking guy came in...
+BOTTOM: A Goku-looking guy came in...
+ 
+TOP: ...and opened every single book the library.
+BOTTOM: ...and fought with a bunch of purple people.
+ 
+TOP: Commodore Perry's doing?
+BOTTOM: Aliens really came!
+ 
+TOP: Sure is.
+BOTTOM: Looks like it.
+ 
+TOP: Come, let's keep chasing.
+BOTTOM: Come, let's keep chasing.
+ 
+TOP: No way!
+BOTTOM: No way! No way!
+ 
+TOP: It's obvious that Commodore Perry passed through this place.
+BOTTOM: It looks like they also fought in this place.
+ 
+TOP: All of the doors and lockers have been opened.
+BOTTOM: It looks like the aliens ran away after Goku-San beat them up.
+ 
+Bottom: Ah!
+ 
+BOTTOM: My Kaworu cans have been turned into Gendou cans!
+ 
+BOTTOM: Ah!
+ 
+SIGN: RAGE
+BOTTOM: My ko()()ta has turned into some weird toy!
+ 
+BOTTOM: It's like some kind of magical phenomenon.
+ 
+SIGN: Home Economics Room
+ 
+SIGN: HISS
+ 
+TOP: Th-This smell is...
+BOTTOM: Is this steam from a hot spring?
+ 
+TOP: Don't open all of the natural gas valves!
+BOTTOM: Don't open all of the natural gas valves!
+ 
+TOP: Even if you're Commodore Perry...
+BOTTOM: Even if you're looking for ()()()()()...
+ 
+TOP: ...there are things you shouldn't open!
+BOTTOM: ...there are things you shouldn't do!
+ 
+BOOK: Rand McNally's Guide to Death (Cheap)
+TOP: Besides, I've already had my eyes on this spot for a while.
+BOTTOM: Besides, what does natural gas have to do with ()()()()()!?
+ 
+TOP: What if they beef up the security measures!?
+BOTTOM: I don't want to die before I've killed myself!
+ 
+TOP: Where are you going now!?
+BOTTOM: Where are you going now!?
+ 
+TOP: Ah, this is lame so I'm going home.
+BOTTOM: Ah, this is lame so I'm going home.
+ 
+TOP: Open you legs, high school girl!
+BOTTOM: Show me you ()()()()(), high school girl!
+ 
+TOP: Commodore Perry, that's a bit...
+BOTTOM: High school girls don't have ()()()()() down there!
+ 
+TOP: Commodore Perry, that's also a bit...!
+BOTTOM: There are ()()()()() down there, but those are the wrong ()()()()()!
+ 
+TOP: I happen to swing that way.
+BOTTOM: They were wrong, but they were nice ()()()()().
+ 
+SIGN: Blush...
+ 
+TOP: Which way are you talking about!?
+BOTTOM: Please don't turn red!
+ 
+TOP: I'm Perry.
+BOTTOM: I'm Goku.
+ 
+SIGN: I'm Perry
+ 
+TOP: I'll open everything in this world!
+BOTTOM: I'll do whatever it takes to obtain the ()()()()()!
+ 
+SIGN: I'll open everything in this world!
+ 
+SIGN: Komori
+ 
+SIGN: Do not open
+Kiri
+ 
+SIGN: Do not open
+Kiri
+TOP: What's this?
+BOTTOM: What's this room?
+ 
+TOP: An unopened room that's actually a hikikomori's room.
+BOTTOM: A hikikomori's room boom.
+ 
+TOP: It doesn't look like Teacher intends to stop him.
+BOTTOM: Teacher has no intention of stopping him saurus.
+ 
+TOP: Ah! He opened it!
+BOTTOM: Shee! He opened Komori-san's room!
+ 
+TOP: Eek!
+BOTTOM: Dayo~n!
+ 
+SIGN: GRIN
+ 
+SIGN: Pluck
+ 
+TOP: Ah! He opened something else!
+BOTTOM: Komori-san's forelocks!
+ 
+SIGNS: SOB
+ 
+TOP: I opened it!
+BOTTOM: There weren't any ()()()()() here.
+ 
+TOP: I'd only been opened by Teacher before...
+BOTTOM: Miso miso cat kitty miso miso...
+ 
+TOP: Don't say things that will create misunderstandings!
+BOTTOM: Komori-san is spouting nonsense!
+ 
+TOP: Why isn't that open!?
+BOTTOM: Oh, no! Toxic waves from the aliens?
+ 
+TOP SIGN: Hallway
+LEFT SIGN: Tsunetsuki
+SIGN SLIGHTLY TO THE RIGHT OF THE ABOVE: Itoshiki
+RIGHT SIGN: Hitou
+TOP: Teacher, it's terrible!
+BOTTOM: Teacher, it's terrible!
+ 
+TOP: Commodore Perry threatened the principal...
+BOTTOM: Everyone said the waves...
+ 
+SIGN: Everyone gather at the pool
+ 
+TOP: ...and forced him to open the pool!
+BOTTOM: ...ordered them to go to the pool!
+ 
+BOTTOM: Money monkey mayo! Mayonnaise monkey monkey!
+ 
+TOP: I'm Perry. I even open the pool.
+BOTTOM: The toxic waves are making everyone act strangely.
+ 
+TOP: Open the pool?
+BOTTOM: The persimmon next door eats a lot of guests!
+ 
+SIGN: Rand McNally's Guide to Death
+TOP: I was the first one to discover...
+BOTTOM: The boy drew and excellent picture of Jaws on the folding screen!
+ 
+TOP: ...that spot for drowning myself!
+BOTTOM: Tokyo Special Express Licensing Agency!
+ 
+TOP: What if they tighten the security measures!?
+BOTTOM: Ah, now I'm staring to spout nonsense!
+ 
+TOP SIGN: Kimura
+GREEN SIGN: Entrance
+(from left to right)BOTTOM SIGN 1: KOBUSHI
+BOTTOM SIGN 2: Otonashi
+BOTTOM SIGN 3: Kitsu
+BOTTOM SIGN 4: Tsunetsuki
+BOTTOM SIGN 5: Itoshiki:
+BOTTOM SIGN 6: Pool
+ 
+TOP: Hey, you. How dare you assault me earlier?
+BOTTOM: I know this is sudden, but I've fallen in love with you.
+ 
+TOP: I'll sue you!
+BOTTOM: Deeply from the bottom of my heart!
+ 
+SIGN: Poke
+TOP: Stop bitching, buttface!
+BOTTOM: Stop bitching, buttface!
+ 
+TOP: It's your fault for wearing such a short skirt!
+BOTTOM: I wouldn't waste my time on a whore like you!
+ 
+TOP: H-He's opening up a can on me!
+BOTTOM: I love how you're so rude!
+SIGN: GRIN
+ 
+SIGN: I'm Perry
+I open up a can on you
+TOP: I'm Perry. I open up a can on you.
+BOTTOM: I'm a warrior of justice. Wanderers don't need women.
+ 
+TOP: Was that supposed to be funny!?
+BOTTOM: If I can't be your wife, let me be your lover!
+ 
+TOP: Commodore Perry, if you want to open things...
+BOTTOM: Kimura-san is probably saying strange things...
+ 
+TOP: ...try to open Teacher's heart.
+BOTTOM: ...because of the toxic waves.
+ 
+TOP: That didn't help!
+BOTTOM: How frightening!
+ 
+SIGN: Vexille
+TOP: Teacher's heart follows a policy of isolation...
+BOTTOM: The toxic waves may be...
+ 
+TOP: ...and doesn't open his heart to anyone.
+BOTTOM: ...coming from Teacher's heart instead of all the aliens.
+ 
+SIGN: Dejima
+TOP: Isolation
+BOTTOM: Teacher's heart is the source of the toxic waves!
+ 
+TOP: That is bad! Open up!
+BOTTOM: That is bad!
+ 
+TOP: Open your heart.
+BOTTOM: Cheer up.
+ 
+BOTTOM: No way.
+ 
+BOTTOM: This is good. Let's watch it together.
+ 
+BOTTOM: No way.
+ 
+TOP: Commodore Perry is trying all kinds of methods...
+BOTTOM: Goku-san is trying all kinds of methods...
+ 
+TOP: ...to open Teacher's heart.
+BOTTOM: ...to stop the toxic waves.
+ 
+SIGN: Isolate
+TOP: But he's refusing to open his heart.
+BOTTOM: But Teacher's refusing to open his heart.
+ 
+BOTTOM: I must do something about the toxic waves before I search for the ()()()()().
+ 
+BOTTOM: What do I do?
+ 
+BOTTOM: Ha! What is this?
+ 
+BOTTOM: My surroundings have become creepy!
+ 
+BOTTOM: The toxic waves have begun to change the appearance of the world.
+ 
+BOTTOM: While you were thinking...
+ 
+BOTTOM: Teacher's toxic waves grew even stronger.
+ 
+BOTTOM: That is terrible! Earth is in trouble!
+ 
+BOTTOM: I must do something fast!
+ 
+BOTTOM: You can't do anything!
+ 
+BOTTOM: Oh! The source of the toxic waves!
+ 
+BOTTOM: Soon, the power of my toxic waves, in other words, Meguma waves...
+ 
+BOTTOM: Will reveal the true from of this world.
+ 
+BOTTOM: The previously hidden truth will be exposed!
+ 
+BOTTOM: Whoa!
+ 
+BOTTOM: This is the real world. It is always filled with despair.
+ 
+SIGNS: A hanging rope dangles from the branch of a withered tree in this wasteland.
+ 
+SIGN: Even in town.
+ 
+BOTTOM: Hope is nowhere to be found!
+ 
+BOTTOM: Even people who look nice...
+ 
+BOTTOM: ...secretly scorn and loathe other people deep down.
+ 
+BOTTOM: Eek!
+ 
+BOTTOM: Kekeke! Cackle cackle cackle!
+ 
+BOTTOM: Cackle Cackle pop!
+ 
+BOTTOM: Ha! Before I even noticed!
+ 
+BOTTOM: I started talking in a strange voice again!
+ 
+BOTTOM: I'm in despair!
+ 
+BOTTOM: Being infected by my own toxic waves has left me in despair!
+ 
+BOTTOM: This is only the beginning. Once the toxic waves have spread...
+ 
+BOTTOM: ...the would will be covered in the darkness of despair.
+ 
+BOTTOM: Please save me!
+ 
+TOP TEXT: "Ooh~~~"             As Despair screams, the background shatters like a mirror shattering.
+Despair: "I'm in despair! Being in despair has left me in despair!!"
+MIDDLE TEXT: Perry: "Eek!"
+The world falls
+Despair and Perry
+also fall
+BOTTOM TEXT: Despair: "(To Perry) This is only the beginning. My real nose is far more impressive."
+Perry: "(With a pale face) Please save me!"          The world continues to fall.
+ 
+BOTTOM: Huh?
+ 
+LEFT SIGN: Chiri
+MIDDLE SIGN: Harumi
+RIGHT SIGN: Abiru
+BOTTOM: The toxic waves appear to have vanished. That was a terrible experience.
+MAGASINE: Xcholar
+ 
+SIGN: Flip
+ 
+SIGN: Double cover
+TOP: This is a double cover gravure mag!
+BOTTOM: Double cover!
+ 
+SIGN: Flop
+TOP: Still unopened!?
+BOTTOM: Maybe the secret of the ()()()()() is here!
+ 
+TOP: Are you disappointed, Commodore Perry?
+BOTTOM: Are you disappointed, Goku-san?
+ 
+TOP: A double cover gravure mag...
+BOTTOM: A double cover gravure mag...
+ 
+TOP: ...is usually disappointing after you open it.
+BOTTOM: ...is usually disappointing after you open it.
+ 
+TOP: Yes, some tings in this world...
+BOTTOM: Even if it's for the sake of defending world peace...
+ 
+TOP: ...are never meant to be opened!
+BOTTOM: ...you're better off not opening a double cover gravure mag!
+TEXT(from top to bottom):Pandora's Box
+E-mail with virus
+The lid on the back of a PSX (They won't fix it for you)
+School gate (Intruders will get in)
+Can of Surstrˆmming (Smelliest food in the world)
+Parent's bedroom          Trunk of a black car
+Trepanation               Electric rice cooker
+Large wicker hamper       Door to weaving room
+Open education
+ 
+TOP: Th-That's true...
+BOTTOM: That's true...
+ 
+TOP: Perry may have been mistaken.
+BOTTOM: Goku may have been mistaken.
+ 
+TOP: To be honest, I'm not actually Perry.
+BOTTOM: To be honest, I'm not actually Goku.
+ 
+TOP: We already knew that.
+BOTTOM: We already new that.
+ 
+SIGN: Flashback...
+ 
+SIGN: Shimoigusa Station
+TOP: When I first came to Japan and had no friends...
+BOTTOM: When I first came to Earth...
+ 
+TOP: ...she talked to me, a complete stranger.
+BOTTOM: ...she talked to me, a person with no friends.
+ 
+SIGNS: You look like Commodore Perry
+TOP: You look like Commodore Perry.
+BOTTOM: The weather's nice today.
+ 
+TOP: Perry! Perry! Commodore Perry!
+BOTTOM: Weather! Weather! Nice weather!
+ 
+TOP: I was very happy.
+BOTTOM: I was very happy.
+ 
+TOP: Afterwards, I've decided to become Commodore Perry.
+BOTTOM: That's when I decided to become Goku.
+ 
+TOP: Seriously...
+BOTTOM: I don't get it.
+ 
+TOP: You're too good at worming into people's hearts.
+BOTTOM: What does Goku have to do with anything he just said?
+ 
+TOP: But I'm going to stop opening everything by force.
+BOTTOM: Bit I'm going to stop being Goku.
+ 
+TOP: Then...
+BOTTOM: From now on...
+ 
+SIGNS: This case is open and shut
+TOP: This case is open and shut.
+BOTTOM: I'll be Ke()shiro.
+ 
+TOP: Commodore Perry, that's a bit...
+BOTTOM: Goku-san, that's a bit...
+ 
+TOP: Commodore Perry hasn't learned his lesson.
+BOTTOM: Goku-san hasn't learned his lesson.
+ 
+TOP: Ha. Ha. Ha.
+BOTTOM: Ha. Ha. Ha. Ha.
+ 
+TOP: Even if you're Perry...
+BOTTOM: Even if you're Goku...
+ 
+TOP: ...I won't let it end this way!
+BOTTOM: ...I won't let it end this way!
+ 
+TOP: Teacher, you're talking funny.
+BOTTOM: Teacher, you're talking funny.
+ 
+SIGN: Forelocks Yet to Be Raised
+ 
+TOP: Wait!
+BOTTOM: Wait!
+ 
+TOP: Are you Perry or Peryl!?
+BOTTOM: Why are you neutral instead of an ally!?
+ 
+TOP: Make up your mind!
+BOTTOM: Give me a straight answer!
+ 
+TOP: Um, well... When you put it that way...
+BOTTOM: Well, when you put it that way...
+ 
+TOP SIGN: Perry's Store for Perry
+BOTTOM SIGN: Closed for Business
+TOP: Perry was closed.
+BOTTOM: He can no longer return to space.
+ 
+TOP: What was he selling?
+BOTTOM: Who was he anyway?
+ 
+SIGN: When you want to
+ 
+SIGN: get all the toppings
+ 
+SIGN: they don't all fit
+ 
+SIGN: so either the
+ 
+SIGN: sauce or toppings
+ 
+SIGN: goes on another place
+ 
+SIGN: Adorment at Tiffany's
+ 
+SIGN: Emperor
+ 
+SIGN: Empress
+ 
+SIGN: Paper Lamp
+ 
+SIGN: Three Court Ladies
+ 
+SIGN: Fine Glasses
+ 
+SIGN: Five Musicians
+ 
+SIGN: Singer
+ 
+SIGN: Minister of the Left
+(Old Man)
+ 
+SIGN: Tray for Food
+ 
+SIGN: Minister of the Right
+(Young Man)
+ 
+SIGN: Tachibana orange
+ 
+SIGN: Imperial Guards
+ 
+SIGN: Cherry Blossoms
+ 
+SIGNS: Late
+ 
+The Doll Festival is obviously...
+ 
+...overembellishment, isn't it?
+ 
+The Master says...
+ 
+To go beyond is as wrong as to fall short.
+ 
+Before people realize it...
+ 
+...they've overembellished everything.
+ 
+SIGN: For example
+ 
+SIGN: RATTLE
+ 
+Like this.
+ 
+SIGN: For example
+ 
+SIGN: And this
+And this!
+ 
+SIGN: Draft Inside
+ 
+SIGN: YANK
+And this!
+ 
+LEFT TEXT: I'm gonna make you melt.
+RIGHT TEXT: HEH
+ 
+SIGN: Both the hair and the skin
+ 
+SIGN: use screentone
+ 
+SIGN: all over the place
+ 
+SIGN: For example
+ 
+SIGN: LATE
+ 
+And this makeup, as well!
+ 
+Who did that?
+ 
+Maria-chan did it to herself.
+ 
+She doesn't like shoes and underwear...
+ 
+...but she's fine with this stuff, huh?
+ 
+Shoes and under-
+ 
+What was that?
+ 
+Maria feels sick...
+ 
+...whenever she wears shoes or underwear.
+ 
+I'm not wearing any right now!
+ 
+Okay.
+ 
+We'll ignore that.
+ 
+SIGN: Setting that aside
+ 
+Both old and young people...
+ 
+...overembellish!
+ 
+Are you trying to be Madame de Pompadour!?
+ 
+When nobody says anything...
+ 
+...things become more overembellished!
+ 
+Like the decorations on a sashimi plate at a Japanese diner!
+SIGN: Edible part
+ 
+SIGN: Super
+Cheap
+Palace
+ 
+Or the amusement park on top of a discount store!
+ 
+SIGNS (from right to left):One
+Two
+Three
+Four
+Five
+Six
+Seven
+ 
+Or the pile of UFO catcher stuffed animals in a car!
+ 
+There are people who put all seven dwarves in the back of their car.
+ 
+Anyone who has dwarves on their car usually has all seven.
+ 
+Since they're the seven dwarves.
+ 
+You can't just put one.
+ 
+SIGN: Nozomu
+"What's with this conversation"
+ 
+Well, it's true that...
+ 
+...some people don't know how to coordinate.
+ 
+Like wearing a checkered tie with a checkered shirt.
+ 
+Or wearing chrome heart rings on all ten fingers.
+ 
+Or furnishing a room with high class items that have no common theme.
+ 
+Doesn't that apply to a lot of manga artists...
+ 
+...who suddenly become rich after making a hit?
+ 
+Don't say that out loud.
+ 
+That isn't overembellishing.
+ 
+A checkered tie with a checkered shirt...
+ 
+...would be the act of a master of chic.
+ 
+Commoners are incapable of such coordination.
+ 
+…mile GallÈ's pottery...
+ 
+Gaudi's architechture...
+ 
+The Kabuki style...
+ 
+The beauty of addition.
+ 
+A local form of Art Nouveau...
+ 
+...based on Japanism!
+ 
+SIGN: Art Nouveau
+ 
+SIGN: Art Nouveau
+ 
+Whenever you start using fancy terms...
+ 
+...people who have no clue are turned off...
+ 
+...and people who are experts shoot off objections!
+ 
+The worst possible turn of events!
+ 
+Come.
+ 
+Let's go look for masters of chic in the neighborhood.
+ 
+There's one.
+ 
+Overembell-
+ 
+SIGN: ugh
+ 
+A master of chic!
+ 
+SIGN: Recognized as Master of Chic
+ 
+SIGN: Everything is 25% off today!!
+ 
+It looks like we're being complimented.
+ 
+Thank you.
+ 
+TOP LEFT SIGN: Beer
+TOP RIGHT SIGN: COCCOzero Store
+BOTTOM LEFT SIGN: Curry
+BOTTOM RIGHT SIGN: Spring is the season of curry
+ 
+TOP SIGNS (from left to right):Hamburger patty
+Sausage
+Boiled egg
+Cheese
+Spinach
+BOTTOM SIGNS (from left to right):Pork Cutlet
+Natto
+Large Service of Rice
+Mushrooms
+ 
+SIGN: LATE
+ 
+SIGN: Recognized as Master of Chic
+ 
+A master of chic!
+ 
+He just added too many toppings!
+ 
+You can also find masters of chic at Baskin Robbins and Starbucks.
+ 
+TOP LEFT SIGN: [Cherry]
+MIDDLE LEFT SIGN: [Whipped Cream]
+BOTTOM LEFT SIGN: [Milk]
+TOP RIGHT SIGN: [Almond Chips]
+MIDDLE LEFT SIGN: [Milk Foam]
+BOTTOM LEFT SIGN: [Coffee]
+ 
+You can...
+ 
+...but those are pretty expensive.
+ 
+SIGN: MY
+ 
+My.
+ 
+A master of chic wearing a hat over a hat.
+ 
+SIGN: Recognized as Master of Chic
+ 
+It would be cruel to call that overembellishment!
+ 
+You can expect good things from a house like this.
+ 
+There's always a cover on the doorknob.
+ 
+SIGN: Homemade
+ 
+And they make potpourri by hand.
+ 
+And have pieces of felt lying around.
+ 
+And lots of types of tea!
+ 
+You're very well-versed.
+ 
+A master of chic!
+ 
+SIGN: Recognized as Master of Chic
+ 
+Ma'am.
+ 
+Let's talk about Sylvanian some other time.
+ 
+Signs peppered around a game store!
+ 
+TOP SIGN 1 (from left to right, after all signs appears): Muscle Age DS
+TOP SIGN 2: Plenty of PS3s in stock
+TOP SIGN 3: Higurashi DS
+TOP SIGN 4: No ETA no next shipment for the wi
+LEFT MIDDLE SIGN: Pro Baseball DS
+RIGHT MIDDLE SIGN: Big Hit On Sale Now
+BOTTOM SIGN: Precure DS
+ 
+Master of chic!
+ 
+A person living in the park who's gathered too many belongings.
+ 
+Master of chic!
+ 
+LEFT SIGN: Limited Edition DVD Box
+MIDDLE SIGN: Nozomu Itoshiki
+RIGHT SIGN: Game
+Novels
+Layout Illustrations
+Storyboards
+ 
+A DVD that comes with so many extras...
+ 
+...that you can't tell which one's the main item...
+ 
+RED SIGN: This one
+ 
+...would be meant for masters of chic, right?
+ 
+Those splendid masters of chic!
+ 
+SIGNS (from top to bottom):A grilled meat restaurant featuring harp music
+The images on newer pachinko and pachisuro machines
+Fancy acceptance certificates     for prep schools
+Human skirt in Red and White show
+Swarovÿki cell phone
+ 
+SIGNS (from top to bottom):Maga**ne's home page
+Fashion leader of table tennis world
+Flyers' multi-color uniform
+Paris Collection Diÿr's Japanese-style dress
+Guÿdam Astray Gold Frame Amatsu
+Yuna's outfit
+Uniforms in SoreChiru
+Prehistoric Fish Beast ÿÿran
+ 
+SIGNS (from top to bottom):Hinoÿÿÿÿ Driving School
+ÿyama Manufacturing School
+Pencil cases with loupes
+                 and tapes measures
+Sour face on Dr. Kawaÿÿÿÿÿ
+70% of Japanese men are overwrapped
+Manga volume that comes with a picroÿÿ
+ 
+Isn't that overembellishment?
+ 
+Overembellishment isn't limited to the real world.
+ 
+What do you mean?
+ 
+Like this.
+ 
+What is that?
+ 
+An avatar.
+ 
+You can choose hairstyles, clothes, and accessories...
+ 
+...and make another you on the Internet.
+ 
+A lot of people overembellish.
+ 
+SIGNS:GRIN
+GRIN
+ 
+What are you grinning about?
+ 
+I made an avatar for you.
+ 
+Teacher's a master of chic!
+ 
+Stop doing things to make people look down on me!
+ 
+I made one for everybody.
+ 
+Please make an overembellished avatar for me.
+ 
+Sure.
+ 
+Uh...
+ 
+Isn't there a part that could be a little more overembellished?
+ 
+There's an extremely simple-looking part there...
+ 
+It's already overembellished enough.
+ 
+I found one!
+ 
+Drop the makeup already.
+ 
+I found somebody overembellished.
+ 
+Here!
+ 
+Wrong person.
+ 
+Over here!
+ 
+It's Mr. Jinroku.
+ 
+He's dressed rather plainly...
+ 
+And why do we have to watch from here?
+ 
+Is he overembellished?
+ 
+That isn't overembellishment!
+ 
+Mr. Jinroku!
+ 
+What happened during your youth!?
+ 
+SIGN: Elder Brother Kei Itoshiki
+ 
+Big brother...
+ 
+How could you do that to a sacred idol...
+ 
+You'll be...
+ 
+...cursed!
+ 
+Cursed!
+ 
+Cursed!
+ 
+There's only one way to save you.
+ 
+No!
+ 
+Is Teacher a master of chic?
+ 
+Any parts that aren't drawn on...
+ 
+...will be taken by evil spirits.
+ 
+I'm in despair!
+ 
+This curse that applies to anyone who isn't a master of chic has left me in despair!
+ 
+SIGN: Next Day
+ 
+I'm overembellished!
+ 
+You're not overembellished.
+ 
+What are you talking about?
+ 
+I put some on her.
+ 
+Shoes.
+ 
+She put shoes on me.
+ 
+Ew! Ew!
+ 
+The world is spinning!
+ 
+Overembellished...
+ 
+SIGN: Cherry tree as flower
+ 
+SIGN: Warrior as person
+ 
+SIGN: Cypress tree as pillar
+ 
+SIGN: Bream as fish
+ 
+SIGN: Autumn leaves as sleeves
+ 
+SIGN: Flowers are beautiful to see
+ 
+SIGN: Rouse Up, O Old Men of the Old Age
+ 
+Everybody.
+ 
+It's a new semester.
+ 
+It's already May...
+ 
+What are you talking about?
+ 
+I mean the old, new semester.
+ 
+SIGN: Old New Semester
+ 
+Old, new semester?
+ 
+I don't know what you mean.
+ 
+The new semester according to the old calender.
+ 
+If there can be an Old New Year...
+ 
+...why can't there can be an old, new semester?
+ 
+SIGN: That's not all
+ 
+That's not all...
+ 
+SIGN: Old
+ 
+There should also be Old Christmas...
+ 
+SIGN: Old
+ 
+...and Old Valentine's Day!
+ 
+SIGN: Old New Year's Eve
+ 
+And Old New Year's Eve, too?
+ 
+That goes without saying!
+ 
+I secretly anticipate receiving chocolate on Old Valentine's Day...
+ 
+...and glare jealously at couples on Old Christmas.
+ 
+When exactly are Old Christmas and Old Valentine's Day?
+ 
+Incidentally...
+ 
+Old Golden Week is coming up.
+ 
+I can't wait.
+ 
+So you're not going to come on a school day.
+ 
+SIGN: Applause?
+ 
+Marvelous.
+ 
+SIGN: Who are you?
+ 
+Who are you?
+ 
+One who loves the old.
+ 
+You're...
+ 
+My old friend...
+ 
+Yes.
+ 
+Your old friend...
+ 
+SIGN: Uh
+ 
+SIGN: Uh...
+ 
+Uh...
+ 
+SIGN: Old
+ 
+So old and...
+ 
+SIGN: Sudden
+ 
+...so sudden that I can't recall your name.
+ 
+Same here.
+ 
+SIGN: Old friends, but it's too sudden
+ 
+Shouldn't old friends be really close?
+ 
+Doesn't it just mean that they used to be friends?
+ 
+My old friend...
+ 
+...does a more extensive job of living in the old calender.
+ 
+Yes.
+ 
+As one who loves the old...
+ 
+I drive an old car.
+ 
+SIGN: I love thee
+I love thy skin
+I love thee so much I could die
+ 
+I write love letters in Old English.
+ 
+I walk across the Old Tokaido!
+ 
+I'm still in love with the old Zaku.
+ 
+Rejoice!
+ 
+This is the old school building!
+ 
+SIGN: I go to the old school building to meet an old friend
+ 
+I go to the old school building...
+ 
+...to meet an old friend.
+ 
+What's with this conversation?
+ 
+In any case...
+ 
+I am a fan of the old.
+ 
+It's a big wave.
+ 
+Other people would say that...
+ 
+...I have taken my love of the old to the extreme.
+ 
+That's right.
+ 
+It'll be Old Mother's Day after Old Golden Week.
+ 
+You should at least observe Mother's Day normally...
+ 
+What are you saying?
+ 
+My old mother would be my real mother.
+ 
+I don't get along very well with my new mother.
+ 
+TOP LEFT SIGN: Old Mother's
+TOP RIGHT SIGN: Old
+BOTTOM LEFT SIGN: Day
+BOTTOM RIGHT SIGN: Mother's Day
+ 
+That's what you meant?
+ 
+Anyway, Japanese people have a harsh view of the old.
+ 
+I concur, old friend.
+ 
+Old items have to become vintage before they're considered valuable.
+ 
+SIGN: Shiiou University
+ 
+This is...
+ 
+A college campus.
+ 
+College clubs...
+ 
+...pamper new members...
+ 
+...so the old, new members who joined last year...
+ 
+...are ignored and about to snap.
+ 
+SIGN: Second years = Old new students
+ 
+Poor things...
+ 
+I want to cheer them up!
+ 
+Hang in there...
+ 
+...old students!
+ 
+Don't call us old students!
+ 
+Why?
+ 
+LEFT SIGNS (from top to bottom):Old new employee
+Old artist award
+Old manga offensive
+Old livedoor
+Bats and Terry
+RIGHT SIGNS (from top to bottom):Old Burma
+Old Soviet Union
+Old village where
+       Pol Pot movement began
+ 
+SIGN: Oldsengumi
+ 
+In any case...
+ 
+SIGN: Oldjyo
+ 
+...I desire a restoration of the old.
+ 
+LEFT SIGN: Old Script
+RIGHT SIGN: Oldta Furuta
+ 
+My love for the old is no ordinary love.
+ 
+But...
+ 
+No matter how much you say you love the old...
+ 
+...you don't have an old name.
+ 
+SIGN: SHOCKERS
+ 
+If you don't have an old name...
+ 
+...wouldn't you be an amateur fan of the old?
+ 
+An old name, huh...
+ 
+Old name...
+ 
+Sounds nice!
+ 
+TOP SIGN: Happy New Year
+MIDDLE SIGN: Tokyo City Koishikawa District Otowa Town
+BOTTOM SIGN: Yumi Itoda
+          (Old Name Adachi)
+                  
+I'd love to write (Old Name ()()) on New Year's cards and stuff.
+ 
+There is only one way for a man to acquire an old name.
+ 
+Marry into another family!
+ 
+Let me marry into your family!
+ 
+SIGN: CRUNCH
+ 
+What are you doing all of a sudden!?
+ 
+Everybody in this class belongs to Teacher, so you have no chance.
+ 
+Don't make me sound like a bad person!
+ 
+Really...
+ 
+My old-fashioned way of thinking would never let me do such a thing.
+ 
+What are you doing?
+ 
+She showed up without any fanfare.
+ 
+Rin-chan was kidnapped.
+ 
+Now...
+ 
+Let us become man and wife.
+ 
+And I shall have my old name.
+ 
+No!
+ 
+SIGN: Children's Shrine
+ 
+They've come!
+ 
+The Tigers!
+ 
+Do you think you're going to get away with this!?
+ 
+I'm the one who wants to...
+ 
+...marry into another family and get rid of the Itoshiki name!
+ 
+Give up, Rin.
+ 
+Father is the kind of person who forgives such entertaining escapades.
+ 
+Tokita!
+ 
+Do something about this insolent fool!
+ 
+SIGN: Understood
+ 
+Understood.
+ 
+Young Man.
+ 
+It's true that you'll have an old name once you marry into this family.
+ 
+SIGN: However, at the same time
+ 
+However, at the same time...
+ 
+...you will no longer be old friends with young master Nozomu!
+ 
+RIGHT SIGN: Old Friend
+ 
+You'll no longer be old friends...
+ 
+LEFT SIGN: Brother-in-law
+ 
+You'll be brothers-in-law.
+ 
+LEFT SIGN: Win one
+RIGHT SIGN: Lose one
+ 
+Win one! Lose one!
+ 
+What a quandary.
+ 
+Old friend?
+ 
+Old name!?
+ 
+A rare quandary indeed.
+ 
+That's right, Teacher's family...
+ 
+...is an old family.
+ 
+TOP LEFT SIGN: Old Name
+RIGHT SIGN: Old Friend
+LOWER LEFT SIGN: Old Family
+ 
+Two to one.
+ 
+Furthermore...
+ 
+The Itoshiki family was an old zaibatsu.
+ 
+TOP LEFT SIGN: Old Name
+RIGHT SIGN: Old Friend
+MIDDLE LEFT SIGN: Old Family
+BOTTOM LEFT SIGN: Old Zaibatsu
+ 
+Three to one.
+ 
+That didn't help, Tokita!
+ 
+I've made up my mind.
+ 
+I'm marrying you.
+ 
+Don't!
+ 
+SIGN: If you do that
+ 
+If you do that...
+ 
+...that wouldn't be fair to Rin-chan.
+ 
+Hey.
+ 
+You.
+ 
+I can introduce you to someone to marry.
+ 
+They all want to marry a Japanese person.
+ 
+Choose whoever you want!
+ 
+They don't mind if it's only on paper.
+ 
+That fits perfectly with my intentions.
+ 
+Hey!
+ 
+But if you marry into one of their families...
+ 
+...you'll become a citizen of their country, right?
+ 
+I'm not really sure though.
+ 
+SIGN: New Citizenship
+ 
+You can have an old name...
+ 
+...without marrying into a different family.
+ 
+Actually, you already have an old name!
+ 
+Your old name was...
+ 
+Belozerov the 6th!
+ 
+A penniless poet in 17th century Saint Petersburg!
+ 
+What did you say!?
+ 
+I'm sorry!
+ 
+I couldn't hear you because of all the noise in the background!
+ 
+A penniless poet in 17th century Saint Petersburg!
+ 
+Wouldn't that be my past life's name...
+ 
+...instead of my old name!?
+ 
+Your current name becomes your old name in your next life.
+ 
+How about it?
+ 
+Want to join me?
+ 
+Uh, well...
+ 
+Let's journey together!
+ 
+Aren't we old friends!?
+ 
+SIGN: Secret
+ 
+My secret messenger has delivered his report.
+ 
+The two of you aren't old friends.
+ 
+You were only friendly on the first day of grade school.
+ 
+In other words...
+ 
+SIGN: One-day Friend
+ 
+One-day friends.
+ 
+Don't split them apart!
+ 
+SIGN: One-day Friend
+ 
+You were only friends for one day.
+ 
+So that's why they couldn't remember each other's names.
+ 
+They were only friends on the first day.
+ 
+Afterwards, they made different friends...
+ 
+and grew apart.
+ 
+That happens...
+ 
+So old friends...
+ 
+...are one-day friends.
+ 
+Then everything else is one-day...
+ 
+The Old Testament...
+ 
+...would be the One-day Testament.
+ 
+SIGN: One-day Testament
+ 
+SIGN: One-day Japanese Soldier
+ 
+One-day Japanese soldier.
+ 
+SIGN: One-day Hashimoto Faction
+ 
+One-day Hashimoto faction.
+ 
+SIGN: One-day Zaku
+ 
+One-day Zaku.
+ 
+SIGN: One-day Lupin
+ 
+One-day Lupin!
+ 
+One-day name!
+ 
+That's called a Narita divorce.
+ 
+SIGN: This show is a work of fiction.
+There is no relation to the real Commodore Perry or C()CC()ICHI store.
+ 
+TOP LEFT SIGN: Despair Literature
+BOTTOM LEFT SIGN: From Volume Two
+RIGHT SIGN: Run Eros......
+ 
+Run, Eros.
+ 
+Melos was enraged.
+ 
+Whaddya mean, 70 grand for a couple beers!?
+ 
+Ya said there wasn't any extra charge!
+ 
+No, that's out regular price.
+ 
+Then I'll go grab some money!
+ 
+Leave a friend then.
+ 
+I'll bury him if you don't come back.
+ 
+Melos ran.
+ 
+Sorry.
+ 
+I might not be coming back.
+ 
+TOP SIGN: Next episode will leave you in despair!
+BOTTOM SIGN: Illustration: Maru Asakura
+ 
+TOP SIGN: Kei Itoshiki
+MIDDLE-TOP SIGN: ito shiki key
+LOWER-TOP SIGN: zek kei
+LOWER SIGN: When "ito" and "shiki" are compressed into one word,
+his name now reads as "zekkei",
+which translates into "great view."
+ 
+TOP SIGN: Mikoto Itoshiki
+MIDDLE-TOP SIGN: ito shiki mikoto
+LOWER-TOP SIGN: zetsu mei
+LOWER SIGN: "Mikoto" means life.
+When "ito" and "shiki" are compressed into one word,
+his name now reads as "zetsumei,"
+which translates into death.
+ 
+TOP SIGN: Rin Itoshiki
+MIDDLE-TOP SIGN: ito shiki rin
+LOWER-TOP SIGN: zetsu rin
+LOWER SIGN: When "ito" and "shiki" are compressed into one word,
+her name now reads as "zetsurin,"
+which translates into peerless (in bed).
+ 
+TOP SIGN: Majiru Itoshiki
+MIDDLE-TOP SIGN: ito shiki majiru
+LOWER-TOP SIGN: zek kou
+LOWER SIGN: When "ito" and "shiki" are compressed into one word,
+his name now reads as "zekkou,"
+which translates into break off as in breaking off relations.
+ 
+TOP SIGN: Ikkyu
+MIDDLE-TOP SIGN: ik kyu
+LOWER-TOP SIGN ichi nichi
+LOWER SIGN: A play on the name of the famous monk Ikkyu Sojun
+The "kyu" in this Ikkyu's name means old,
+a reference to his love of the old.
+When you split the "kyu," it becomes "ichinichi," "one day."
