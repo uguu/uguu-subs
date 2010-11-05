@@ -9,10 +9,11 @@ PlayResY: 480
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 8
-Video Position: 36842
+Video Position: 488
 Last Style Storage: dongs
-Video File: J:\VIDEO_TS\1-muxing (1) (1).mkv
+Video File: ..\1-muxing (1) (1).mkv
 Collisions: Normal
+Audio File: ?video
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,7 +90,6 @@ Dialogue: 0,0:00:24.71,0:00:26.13,ZSZS Dialogue,,0000,0000,0000,,Absolutely!
 Dialogue: 0,0:00:26.13,0:00:29.55,ZSZS Dialogue,,0000,0000,0000,,I have never once in my life spoken a lie!
 Dialogue: 0,0:00:29.55,0:00:31.26,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\frz292.751\pos(408,195)\bord1\3c&HFFFFFF&}Kombucha {\c&H3753FB&}Z
 Dialogue: 0,0:00:29.55,0:00:31.26,ZSZS Dialogue,,0000,0000,0000,,Will this stuff really sell?
-Comment: 0,0:00:31.74,0:00:32.64,ZSZS Typesetting - frutiger,,0000,0000,0000,,Untranslated/untypeset stuff on whiteboard? {dongs}
 Dialogue: 0,0:00:31.86,0:00:32.64,ZSZS Dialogue,,0000,0000,0000,,It will!
 Dialogue: 0,0:00:32.98,0:00:34.34,ZSZS Dialogue,,0000,0000,0000,,There will be more and more members,
 Dialogue: 0,0:00:34.34,0:00:36.59,ZSZS Dialogue,,0000,0000,0000,,...and you'll all become filthy rich!
@@ -98,7 +98,6 @@ Dialogue: 0,0:00:36.94,0:00:38.47,ZSZS Dialogue,,0000,0000,0000,,Forget about th
 Dialogue: 0,0:00:38.86,0:00:40.22,ZSZS Dialogue,,0000,0000,0000,,Hey there, big guy.
 Dialogue: 0,0:00:40.52,0:00:42.45,ZSZS Dialogue,,0000,0000,0000,,You've got a cute face.
 Dialogue: 0,0:00:42.45,0:00:44.02,ZSZS Dialogue,,0000,0000,0000,,What are you doing?!
-Comment: 0,0:00:42.45,0:00:45.19,ZSZS Typesetting - frutiger,,0000,0000,0000,,Untranslated/untypeset stuff on whiteboard? {dongs}
 Dialogue: 0,0:00:44.02,0:00:45.19,ZSZS Dialogue,,0000,0000,0000,,P–Please stop that!
 Dialogue: 0,0:00:45.19,0:00:47.20,ZSZS Dialogue,,0000,0000,0000,,Oh my. Such an innocent little thing.
 Dialogue: 0,0:00:47.20,0:00:48.61,ZSZS Dialogue,,0000,0000,0000,,I said, please stop that!
@@ -152,7 +151,6 @@ Dialogue: 0,0:01:01.83,0:01:02.04,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:01:02.50,0:01:05.46,ZSZS Typesetting - book covers,,0000,0000,0000,,{\blur0.8\3c&HFFFFFF&\bord2\c&H556767&\fs28\b1\fn昭和モダン体\pos(371,117)}The Surprising Blunders of Baron Munchhausen
 Dialogue: 0,0:01:02.50,0:01:05.46,ZSZS Typesetting - book covers,,0000,0000,0000,,{\an9\blur0.8\pos(782,16)}From Volume 1's bookjacket
 Dialogue: 0,0:01:02.50,0:01:05.46,ZSZS Typesetting - book covers,,0000,0000,0000,,{\an1\blur0.8\pos(66,466)}Originally published 16th September, Showa 80
-Comment: 0,0:01:05.46,0:01:09.42,ZSZS Typesetting - frutiger,,0000,0000,0000,,untl Magazine title. Suggest not bothering since it's moving and only there for about 5 frames{dongs}
 Dialogue: 0,0:01:09.42,0:01:11.45,ZSZS Typesetting - Screen,,0000,0000,0000,,{\bord1.5\blur1\pos(424,55)}Beauty of Nature
 Dialogue: 0,0:01:14.72,0:01:15.26,ZSZS Typesetting - Screen,,0000,0000,0000,,{\bord1.5\blur1\pos(424,55)}Fried Meat Set
 Dialogue: 0,0:01:16.26,0:01:17.02,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HEFF3FB&\blur0.6\pos(424,42)\fs35}Lotus Roots
@@ -160,8 +158,8 @@ Dialogue: 0,0:01:18.02,0:01:20.76,ZSZS Typesetting - Screen,,0000,0000,0000,,{\b
 Dialogue: 0,0:01:20.76,0:01:23.52,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(431,42)\blur0.6\fs28\c&HDFF3FD&}Nozomu Itoshiki would more or less be considered a serious, ordinary young man
 Dialogue: 0,0:01:26.39,0:01:28.15,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}Until that day
 Dialogue: 0,0:01:28.15,0:01:29.73,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\pos(376,155)\fs20\bord1\3c&HFFFFFF&\blur1}Nishi-Bakurocho 8-chome{i don't really like doing this, but it's official by internationa treaty :v}
-Dialogue: 0,0:01:30.82,0:01:32.57,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an7\fs22\pos(304,218)\bord1.5\3c&HC9C0B9&\fn昭和モダン体}Teetotaler's Cafe BON
-Dialogue: 0,0:01:30.82,0:01:32.57,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fn昭和モダン体\an7\fs22\bord1.5\3c&HC9C0B9&\pos(304,218)}Teetotaler's Caf{\fscx25} {\fscx150}'{this will need playing with}
+Dialogue: 0,0:01:30.82,0:01:32.57,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an7\fs22\pos(304,218)\bord1.5\3c&HC9C0B9&\fn昭和モダン体}Teetotaler Cafe BON
+Dialogue: 0,0:01:30.82,0:01:32.57,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an7\fs22\bord1.5\3c&HC9C0B9&\fn昭和モダン体\p1\frz30\fscx125\fscy30\pos(481,222)}m 0 0 l 0 5 l 5 5 l 5 0 {\p0}
 Dialogue: 0,0:01:31.51,0:01:32.57,ZSZS Dialogue,,0000,0000,0000,,Me?
 Dialogue: 0,0:01:32.57,0:01:33.78,ZSZS Dialogue,,0000,0000,0000,,Yes.
 Dialogue: 0,0:01:33.78,0:01:34.82,ZSZS Dialogue,,0000,0000,0000,,You.
@@ -177,8 +175,9 @@ Dialogue: 0,0:01:48.71,0:01:50.46,ZSZS Dialogue,,0000,0000,0000,,The HAMASHO mee
 Dialogue: 0,0:01:50.85,0:01:52.85,ZSZS Dialogue,,0000,0000,0000,,The revolutionary religious order...
 Dialogue: 0,0:01:52.85,0:01:54.88,ZSZS Dialogue,,0000,0000,0000,,HAMASHO.
 Dialogue: 0,0:01:54.88,0:01:56.97,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an7\fs22\pos(304,218)\bord1.5\3c&HC9C0B9&\fn昭和モダン体}Teetotaler's Cafe BON
-Dialogue: 0,0:01:54.88,0:01:56.97,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fn昭和モダン体\an7\fs22\bord1.5\3c&HC9C0B9&\pos(304,218)}Teetotaler's Caf{\fscx25} {\fscx150}'{this will need playing with}
-Dialogue: 0,0:01:54.89,0:01:57.54,ZSZS Dialogue,,0000,0000,0000,,Religious order HAMASHO.
+Dialogue: 0,0:01:54.88,0:01:56.97,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an7\fs22\bord1.5\3c&HC9C0B9&\fn昭和モダン体\p1\frz30\fscx125\fscy30\pos(481,222)}m 0 0 l 0 5 l 5 5 l 5 0 {\p0}
+Comment: 0,0:01:54.88,0:01:56.97,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fn昭和モダン体\an7\fs22\bord1.5\3c&HC9C0B9&\pos(304,218)}Teetotaler's Caf{\fscx25} {\fscx150}'{this will need playing with}
+Dialogue: 0,0:01:54.89,0:01:56.96,ZSZS Dialogue,,0000,0000,0000,,Religious order HAMASHO?
 Dialogue: 0,0:01:56.97,0:01:57.60,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE8EFF6&}HAMASHO
 Dialogue: 0,0:01:57.54,0:01:58.74,ZSZS Dialogue,,0000,0000,0000,,Yes.
 Dialogue: 0,0:01:58.74,0:02:00.15,ZSZS Dialogue,,0000,0000,0000,,You should know of it.
@@ -193,7 +192,7 @@ Dialogue: 0,0:02:10.51,0:02:12.06,ZSZS Dialogue,,0000,0000,0000,,Is it short for
 Dialogue: 0,0:02:12.06,0:02:13.77,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fnInkyDinky\fs60\pos(202,258)}HAMASHO
 Dialogue: 0,0:02:12.06,0:02:13.77,ZSZS Dialogue,,0000,0000,0000,,Or perhaps Hamada Shogo?
 Dialogue: 0,0:02:14.13,0:02:15.57,ZSZS Dialogue,,0000,0000,0000,,Neither.
-Dialogue: 0,0:02:15.90,0:02:20.20,ZSZS Dialogue,,0000,0000,0000,,A religious order which worships in the Ba{\i1}hama{\i0}{\fscx20} {\r}s while receiving golden {\i1}sho{\i0}{\fscx20} {\r}wers. { "at the beach while covered in piss". this is funnier and kills a tlnote.}
+Dialogue: 0,0:02:15.90,0:02:20.20,ZSZS Dialogue,,0000,0000,0000,,A religious order which worships at the beach {\i1}(hama){\i0} whilst covered in piss {\i1}(sho){\i0}.
 Dialogue: 0,0:02:20.20,0:02:21.16,ZSZS Dialogue,,0000,0000,0000,,Abbreviated...
 Dialogue: 0,0:02:21.16,0:02:22.12,ZSZS Dialogue,,0000,0000,0000,,HAMASHO.
 Dialogue: 0,0:02:25.12,0:02:27.54,ZSZS Dialogue,,0000,0000,0000,,How could such a bizarre religion exist?!
@@ -202,11 +201,10 @@ Dialogue: 0,0:02:29.37,0:02:32.54,ZSZS Dialogue,,0000,0000,0000,,You just called
 Dialogue: 0,0:02:33.96,0:02:35.88,ZSZS Dialogue,,0000,0000,0000,,A–An apostate!
 Dialogue: 0,0:02:33.96,0:02:35.88,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}A–An apostate!
 Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\pos(83,162)}Matsumura
-Comment: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\pos(165,216)}[blank]{dongs}
+Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\pos(165,194)\fs17}Kaoru
 Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\pos(212,175)\fs20}Kawane
 Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\pos(299,144)\fs30}Takeda
-Comment: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\pos(345,259)}[blank]{dongs}
-Comment: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,Also street signs{dongs}
+Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs17\pos(341,234)}Okubo
 Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\fs17\pos(416,201)}Sugita
 Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\fs32\pos(472,210)}Eri
 Dialogue: 0,0:02:35.88,0:02:36.67,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\pos(554,174)\fs17}Kouda
@@ -217,7 +215,7 @@ Dialogue: 0,0:02:37.47,0:02:38.47,ZSZS Typesetting - Screen,,0000,0000,0000,,{\p
 Dialogue: 0,0:02:38.47,0:02:39.55,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs40\blur0.5\xshad1\4c&H411E03&\c&HB77C69&\pos(302,424)}「Wh–What's that」
 Dialogue: 0,0:02:38.47,0:02:39.55,ZSZS Dialogue,,0000,0000,0000,,Wh–What's that?!
 Dialogue: 0,0:02:39.55,0:02:39.84,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs17\pos(131,124)}Murasame
-Comment: 0,0:02:39.55,0:02:39.84,ZSZS Typesetting - Red names,,0000,0000,0000,,Also street signs{dongs}
+Dialogue: 0,0:02:39.55,0:02:39.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H917C68&\fs20\frz342.722\pos(489,257)}Moby\NDick
 Dialogue: 0,0:02:39.55,0:02:39.84,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs30\pos(243,188)}Gioh
 Dialogue: 0,0:02:39.55,0:02:39.84,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\pos(548,188)\fs22}Luca
 Dialogue: 0,0:02:39.55,0:02:39.84,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs35\pos(706,177)}Sakurai
@@ -226,11 +224,17 @@ Dialogue: 0,0:02:40.97,0:02:42.10,ZSZS Dialogue,,0000,0000,0000,,An apostate.
 Dialogue: 0,0:02:42.10,0:02:43.47,ZSZS Dialogue,,0000,0000,0000,,Infidels cannot be forgiven!
 Dialogue: 0,0:02:43.47,0:02:45.18,ZSZS Dialogue,,0000,0000,0000,,Punish the sinner!
 Dialogue: 0,0:02:45.18,0:02:46.31,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(424,70)\fs52\c&H533D4B&\xshad-1\fscx140\4c&H4D3E22&\blur0.5}SHOCK
-Dialogue: 0,0:02:46.31,0:02:48.85,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(431,39)\fs25\blur0.6}The followers of the revolutionary religious order @HAMASHO were hidden all around the city
-Dialogue: 0,0:02:48.85,0:02:51.23,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\fs28\pos(424,42)}Nozomu was pursued as an apostate by an order he had never actually joined
+Dialogue: 0,0:02:46.31,0:02:48.85,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(431,38)\fs25\blur0.6}The followers of the revolutionary religious order @HAMASHO were hidden all around the city
+Dialogue: 0,0:02:48.85,0:02:51.23,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\fs28\pos(424,39)}Nozomu was pursued as an apostate by an order he had never actually joined
 Dialogue: 0,0:02:54.55,0:02:56.38,ZSZS Dialogue,,0000,0000,0000,,What an ordeal...
 Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\pos(140,293)\bord0.9\3c&HFFFFFF&\frz33.928\frx348\fry38\fs30\c&H1725A4&}Gérard
-Dialogue: 0,0:02:57.99,0:03:01.10,ZSZS Typesetting - Red names,,0000,0000,0000,,
+Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\frz33.928\frx348\fry38\fs27\c&H1725A4&\pos(128,146)}Myle'ne
+Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\frz33.928\frx348\fry38\fs28\c&H1725A4&\pos(241,170)}Daniel
+Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs25\c&H1725A4&\pos(290,105)\frx354\fry34\frz26.15}Roschdy
+Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs20\c&H1725A4&\pos(350,75)\frx358\fry8\frz2.839}Valeria
+Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs20\c&H1725A4&\frx6\fry10\frz353.945\pos(541,72)}Francis
+Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs22\c&H1725A4&\frx8\fry356\pos(616,107)\frz351.144}Catherine
+Dialogue: 0,0:02:57.44,0:02:57.99,ZSZS Typesetting - Red names,,0000,0000,0000,,{\bord0.9\3c&HFFFFFF&\fs30\c&H1725A4&\pos(727,268)\frx350\fry316\frz340.487}Andre
 Dialogue: 0,0:03:01.10,0:03:02.28,ZSZS Dialogue,,0000,0000,0000,,This should be far enough...
 Dialogue: 0,0:03:02.28,0:03:02.95,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\bord1\3c&HFFFFFF&\fs17\pos(568,351)}Palm Reading
 Dialogue: 0,0:03:03.20,0:03:03.87,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\bord1\3c&HFFFFFF&\fs17\pos(568,351)}Palm Reading
@@ -251,7 +255,7 @@ Dialogue: 0,0:03:30.12,0:03:31.77,ZSZS Dialogue,,0000,0000,0000,,Capture him!
 Dialogue: 0,0:03:31.77,0:03:33.73,ZSZS Dialogue,,0000,0000,0000,,Sieg HAMASHO!
 Dialogue: 0,0:03:38.36,0:03:40.37,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}Nozomu, still being chased, found a boat and set to sea
 Dialogue: 0,0:03:41.35,0:03:42.70,ZSZS Dialogue,,0000,0000,0000,,If I use this...
-Dialogue: 0,0:03:42.70,0:03:45.07,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs25\pos(424,41)\blur0.6\c&HE7EAED&}But the boat was actually a trap placed by their leader, who bore a resemblance to De**in Zabi
+Dialogue: 0,0:03:42.70,0:03:45.07,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs25\pos(424,40)\blur0.6\c&HE7EAED&}But the boat was actually a trap placed by their leader, who bore a resemblance to De**in Zabi
 Dialogue: 0,0:03:50.54,0:03:53.17,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}The island Nozomu arrived at was HAMASHO's base
 Dialogue: 0,0:03:53.17,0:03:56.13,ZSZS Dialogue,,0000,0000,0000,,What is this place?!
 Dialogue: 0,0:04:02.40,0:04:04.96,ZSZS Dialogue,,0000,0000,0000,,I know your weaknesses!
@@ -259,8 +263,8 @@ Dialogue: 0,0:04:09.75,0:04:10.84,ZSZS Dialogue,,0000,0000,0000,,Women and lotus
 Dialogue: 0,0:04:10.85,0:04:13.87,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,40)\fs27\blur0.6\c&HE7EAED&}Aware of Nozomu's weaknesses, the leader sent a swarm of women with one-meter busts
 Dialogue: 0,0:04:18.36,0:04:19.60,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,43)\blur0.6\c&HE7EAED&}Nozomu is in grave danger
 Dialogue: 0,0:04:33.21,0:04:44.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\bord1.3\fs18\pos(247,296)\3c&H000000&\c&HFAFAFA&\blur0.6}Moral
-Dialogue: 0,0:04:52.27,0:04:53.93,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\bord1.3\fs18\pos(247,296)\3c&H000000&\c&HFAFAFA&\blur0.6}Moral
-Dialogue: 0,0:05:00.73,0:05:04.74,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\bord1.3\fs18\pos(247,296)\3c&H000000&\c&HFAFAFA&\blur0.6}Moral
+Dialogue: 0,0:04:52.27,0:04:53.93,ZSZS Typesetting - smodern,,0000,0000,0000,,{\bord1.3\fs18\pos(247,296)\3c&H000000&\c&HFAFAFA&\blur0.6}Moral
+Dialogue: 0,0:05:00.73,0:05:04.74,ZSZS Typesetting - smodern,,0000,0000,0000,,{\bord1.3\fs18\pos(247,296)\3c&H000000&\c&HFAFAFA&\blur0.6}Moral
 Dialogue: 0,0:04:33.23,0:04:35.17,ZSZS Dialogue,,0000,0000,0000,,Wh–What is this?!
 Dialogue: 0,0:04:36.22,0:04:38.56,ZSZS Dialogue,,0000,0000,0000,,We finally meet, Nozomu.
 Dialogue: 0,0:04:38.56,0:04:41.85,ZSZS Dialogue,,0000,0000,0000,,We will be modifying your traitorous body
@@ -298,8 +302,8 @@ Dialogue: 0,0:05:46.82,0:05:48.45,ZSZS Typesetting - Screen,,0000,0000,0000,,{\p
 Dialogue: 0,0:05:48.45,0:05:49.78,ZSZS Dialogue,,0000,0000,0000,,Save me!
 Dialogue: 0,0:05:49.78,0:05:51.03,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}Fought with sea monsters
 Dialogue: 0,0:05:52.12,0:05:53.50,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}Wracked by hunger and thirst
-Dialogue: 0,0:06:02.88,0:06:05.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}Barely alive, he finally reached the Ashi**** Cape School for Girls
-Dialogue: 0,0:06:06.38,0:06:08.15,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}Ashi**** Cape is famous for *******
+Dialogue: 0,0:06:02.88,0:06:05.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}Barely alive, he finally reached the Cape Ashi**** School for Girls
+Dialogue: 0,0:06:06.38,0:06:08.15,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}Cape Ashi**** is famous for *******
 Dialogue: 0,0:06:08.15,0:06:09.26,ZSZS Typesetting - smodern,,0000,0000,0000,,{\bord2.5\3c&H2F3034&\fs36\blur0.8\pos(253,170)\c&HF9F9F9&}Nurse's Office
 Dialogue: 0,0:06:09.57,0:06:12.76,ZSZS Dialogue,,0000,0000,0000,,I was so surprised to find him sleeping there.
 Dialogue: 0,0:06:13.15,0:06:15.85,ZSZS Dialogue,,0000,0000,0000,,You came from Tokyo, right?
@@ -340,9 +344,9 @@ Dialogue: 0,0:07:29.47,0:07:30.42,ZSZS Dialogue,,0000,0000,0000,,Nosebleed?
 Dialogue: 0,0:07:30.42,0:07:32.00,ZSZS Dialogue,,0000,0000,0000,,She's the one.
 Dialogue: 0,0:07:50.03,0:07:53.05,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,39)\c&HE7EAED&\blur0.6\fs26}Nozomu Itoshiki, pressured into a fake wedding with a girl from a country he's never heard of
 Dialogue: 0,0:07:53.05,0:07:55.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE7EAED&}What will be his fate
-Dialogue: 0,0:07:55.42,0:07:58.41,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,40)\blur0.6\c&HE7EAED&}From the bookjacket of 「Sayonara, Zetsubou-sensei」 Volume 1
+Dialogue: 0,0:07:55.42,0:07:58.41,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,40)\blur0.6\c&HE7EAED&}From the book jacket of 「Sayonara, Zetsubou-sensei」 Volume 1
 Dialogue: 0,0:09:31.50,0:09:31.67,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE9F8FA&\blur0.8\fs28\an1\pos(517,416)}Thank you for
-Dialogue: 0,0:09:31.67,0:09:31.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE9F8FA&\blur0.8\fs28\an1\pos(517,416)}buying the DVDS
+Dialogue: 0,0:09:31.67,0:09:31.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE9F8FA&\blur0.8\fs28\an1\pos(517,416)}buying the DVDs
 Dialogue: 0,0:09:31.84,0:09:32.00,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE9F8FA&\blur0.8\fs28\an1\pos(517,445)}You are the reason\Nwe are able
 Dialogue: 0,0:09:32.00,0:09:32.17,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE9F8FA&\blur0.8\fs28\an1\pos(517,445)}to produce more\NZetsubou-sensei
 Dialogue: 0,0:09:32.17,0:09:32.34,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE9F8FA&\blur0.8\fs28\an1\pos(517,416)}Thank you
@@ -363,8 +367,10 @@ Dialogue: 0,0:09:56.17,0:09:58.24,ZSZS Dialogue,,0000,0000,0000,,I'm willingly g
 Dialogue: 0,0:09:59.96,0:10:01.95,ZSZS Dialogue,,0000,0000,0000,,Of course, I have a reason.
 Dialogue: 0,0:10:01.18,0:10:01.95,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}I have a reason
 Dialogue: 0,0:10:05.58,0:10:08.12,ZSZS Dialogue,,0000,0000,0000,,Nobody feels sorry for me.
-Dialogue: 0,0:10:08.12,0:10:09.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&H000000&\fs40\pos(195,465)\blur0.5}Poor thing
-Dialogue: 0,0:10:09.12,0:10:10.46,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs40\c&HFFFFFF&\fsp30\pos(274,187)\blur0.7}2-VI
+Dialogue: 0,0:10:08.12,0:10:09.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H000000&\fs40\blur0.5\pos(235,457)}Poor thing
+Dialogue: 0,0:10:09.12,0:10:10.46,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\c&HFFFFFF&\fsp30\blur0.7\pos(220,186)}2
+Dialogue: 0,0:10:09.12,0:10:10.46,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\c&HFFFFFF&\fsp30\blur0.7\pos(282,186)}-
+Dialogue: 0,0:10:09.12,0:10:10.46,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\c&HFFFFFF&\blur0.7\pos(325,186)}VI
 Dialogue: 0,0:10:13.69,0:10:15.96,ZSZS Dialogue,,0000,0000,0000,,Why didn't anyone get worried and come to my house?
 Dialogue: 0,0:10:16.97,0:10:18.00,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.8}Question
 Dialogue: 0,0:10:21.99,0:10:22.69,ZSZS Dialogue,,0000,0000,0000,,Who are you?
@@ -378,7 +384,6 @@ Dialogue: 0,0:10:25.93,0:10:26.10,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:10:26.10,0:10:26.52,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(671,56)\fs36\c&HB54697&}Question
 Dialogue: 0,0:10:26.54,0:10:28.56,ZSZS Dialogue,,0000,0000,0000,,I'm a truant!
 Dialogue: 0,0:10:28.56,0:10:31.56,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs14\blur0.5\c&HB3B3B5&\pos(432,198)}Body Care
-Comment: 0,0:10:31.56,0:10:33.56,ZSZS Typesetting - smodern,,0000,0000,0000,,untl'd signs {dongs}
 Dialogue: 0,0:10:28.92,0:10:30.33,ZSZS Dialogue,,0000,0000,0000,,But you're here today.
 Dialogue: 0,0:10:30.33,0:10:32.13,ZSZS Dialogue,,0000,0000,0000,,I just happened to show up!
 Dialogue: 0,0:10:32.13,0:10:33.53,ZSZS Dialogue,,0000,0000,0000,,Really, now.
@@ -387,7 +392,8 @@ Dialogue: 0,0:10:34.61,0:10:36.03,ZSZS Dialogue,,0000,0000,0000,,I'm not this cl
 Dialogue: 0,0:10:36.03,0:10:38.28,ZSZS Dialogue,,0000,0000,0000,,Then what is our teacher doing?
 Dialogue: 0,0:10:38.28,0:10:39.70,ZSZS Dialogue,,0000,0000,0000,,Um, well...
 Dialogue: 0,0:10:38.28,0:10:39.70,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}Um, well...
-Comment: 0,0:10:43.28,0:10:47.16,ZSZS Dialogue,,0000,0000,0000,,untranslated signs {dongs}
+Dialogue: 0,0:10:43.28,0:10:47.16,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx100\fscy106.25\pos(336,178)\c&H474747&}Tea solids may settle.\NShake well before drinking.
+Dialogue: 0,0:10:43.28,0:10:47.16,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fscx95\fs10\c&H585858&\frz357.066\frx2\fry14\pos(252,76)}We have mixed a refreshing tea\Nbrewed in pure water with a dark blend\Nbrewed in natural spring water.
 Dialogue: 0,0:10:40.19,0:10:42.65,ZSZS Dialogue,,0000,0000,0000,,He's been truant since last week.
 Dialogue: 0,0:10:43.38,0:10:45.32,ZSZS Dialogue,,0000,0000,0000,,The teacher's truant?
 Dialogue: 0,0:10:45.32,0:10:47.16,ZSZS Dialogue,,0000,0000,0000,,It's not so unusual these days.
@@ -433,7 +439,7 @@ Dialogue: 0,0:11:00.41,0:11:04.18,ZSZS Dialogue,,0000,0000,0000,,They'll have no
 Dialogue: 0,0:11:06.43,0:11:07.27,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,45)\blur0.6\fs40}Ah.
 Dialogue: 0,0:11:08.09,0:11:09.52,ZSZS Dialogue,,0000,0000,0000,,How did you get that injury?
 Dialogue: 0,0:11:09.52,0:11:10.60,ZSZS Dialogue,,0000,0000,0000,,Are you okay?
-Dialogue: 0,0:11:10.60,0:11:11.60,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\fs70\pos(419,303)}Yes
+Dialogue: 0,0:11:10.60,0:11:11.60,ZSZS Typesetting - smodern,,0000,0000,0000,,{\blur0.8\fs56\pos(419,303)\c&HFFFFFF&}Yes
 Dialogue: 0,0:11:10.60,0:11:11.60,ZSZS Dialogue,,0000,0000,0000,,Yes!
 Dialogue: 0,0:11:13.11,0:11:17.03,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs15\pos(35,86)\c&HBCB6B5&}Oolong
 Dialogue: 0,0:11:13.11,0:11:17.03,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs15\3c&HFFFFFF&\pos(117,139)\c&HB7B7B7&}Filming
@@ -446,14 +452,14 @@ Dialogue: 0,0:11:21.78,0:11:23.03,ZSZS Dialogue,,0000,0000,0000,,DV?
 Dialogue: 0,0:11:23.82,0:11:26.41,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs13\bord0\3c&HFFFFFF&\c&HA2A2A2&\pos(404,182)}Blend different\Nkinds of grapes\Nfor 100% juice
 Dialogue: 0,0:11:23.86,0:11:25.88,ZSZS Dialogue,,0000,0000,0000,,Doesn't it make you worry?
 Dialogue: 0,0:11:27.01,0:11:28.04,ZSZS Dialogue,,0000,0000,0000,,Worry?
-Dialogue: 0,0:11:26.66,0:11:28.04,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs60\blur0.6\c&HFEFDFD&\pos(672,292)}Worry
+Dialogue: 0,0:11:26.66,0:11:28.04,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs60\blur0.6\c&HFEFDFD&\pos(665,280)}Worry
 Dialogue: 0,0:11:28.43,0:11:30.91,ZSZS Dialogue,,0000,0000,0000,,They're worrying about someone else again!
 Dialogue: 0,0:11:32.00,0:11:34.04,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\c&H323639&\pos(134,81)}Abiru Kobushi
-Dialogue: 0,0:11:32.00,0:11:34.04,ZSZS Typesetting - name screens,,0000,0000,0000,,{\c&H323639&\fs29\pos(684,80)}Alleged Victim of DV
+Dialogue: 0,0:11:32.00,0:11:34.04,ZSZS Typesetting - name screens,,0000,0000,0000,,{\c&H323639&\fs29\pos(675,80)}Alleged Victim of DV
 Dialogue: 0,0:11:34.04,0:11:34.88,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\fs58\pos(424,58)}Ha
 Dialogue: 0,0:11:36.05,0:11:38.16,ZSZS Dialogue,,0000,0000,0000,,You hear about DV all the time these days.
 Dialogue: 0,0:11:38.16,0:11:39.76,ZSZS Dialogue,,0000,0000,0000,,It's not that unusual.
-Comment: 0,0:11:39.76,0:11:43.89,ZSZS Typesetting - frutiger,,0000,0000,0000,,Left sign untranslated maybe? {dongs}
+Dialogue: 0,0:11:39.76,0:11:43.89,ZSZS Typesetting - smodern,,0000,0000,0000,,{\3c&HFFFFFF&\alpha&H8F&\c&H585858&\fs12\pos(183,53)}Super-refreshing facial wipe
 Dialogue: 0,0:11:39.76,0:11:43.89,ZSZS Typesetting - smodern,,0000,0000,0000,,{\3c&HFFFFFF&\alpha&H8F&\c&H585858&\fs12\pos(637,53)}Beware of skin damage when going outside
 Dialogue: 0,0:11:39.76,0:11:43.89,ZSZS Typesetting - smodern,,0000,0000,0000,,{\3c&HFFFFFF&\fs12\alpha&H8F&\pos(816,197)\c&H585858&}Skin\NWhitening
 Dialogue: 0,0:11:39.76,0:11:42.15,ZSZS Dialogue,,0000,0000,0000,,A far more serious problem...
@@ -479,7 +485,7 @@ Dialogue: 0,0:12:08.54,0:12:08.87,ZSZS Typesetting - Blackboard,,0000,0000,0000,
 Dialogue: 0,0:12:08.87,0:12:09.62,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\c&HBAF7F2&\fs64\blur0.6\frz44.275\pos(73,81)}growl
 Dialogue: 0,0:12:10.75,0:12:13.93,ZSZS Dialogue,,0000,0000,0000,,These mushrooms grew in my country.
 Dialogue: 0,0:12:13.93,0:12:15.75,ZSZS Dialogue,,0000,0000,0000,,Can you tell which one is edible?
-Comment: 0,0:12:15.75,0:12:19.59,ZSZS Typesetting - frutiger,,0000,0000,0000,,Left sign untranslated maybe? {dongs}
+Dialogue: 0,0:12:15.75,0:12:19.59,ZSZS Typesetting - smodern,,0000,0000,0000,,{\3c&HFFFFFF&\alpha&H8F&\c&H585858&\fs12\pos(183,53)}Super-refreshing facial wipe
 Dialogue: 0,0:12:15.75,0:12:19.59,ZSZS Typesetting - smodern,,0000,0000,0000,,{\3c&HFFFFFF&\alpha&H8F&\c&H585858&\fs12\pos(637,53)}Beware of skin damage when going outside
 Dialogue: 0,0:12:15.75,0:12:19.59,ZSZS Typesetting - smodern,,0000,0000,0000,,{\3c&HFFFFFF&\fs12\alpha&H8F&\pos(816,197)\c&H585858&}Skin\NDarkening
 Dialogue: 0,0:12:15.75,0:12:17.35,ZSZS Dialogue,,0000,0000,0000,,N–No idea...
@@ -490,10 +496,10 @@ Dialogue: 0,0:12:25.89,0:12:27.65,ZSZS Dialogue,,0000,0000,0000,,We still ate th
 Dialogue: 0,0:12:27.65,0:12:29.51,ZSZS Dialogue,,0000,0000,0000,,...or else we would have starved to death.
 Dialogue: 0,0:12:30.30,0:12:33.98,ZSZS Dialogue,,0000,0000,0000,,Two of my friends who ate them, tragically...
 Dialogue: 0,0:12:33.98,0:12:35.02,ZSZS Dialogue,,0000,0000,0000,,That's enough!
-Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(171,79)}Sekiutsu ・ Maria ・ Taro
-Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(134,429)}(Japanese Name)
-Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(738,77)}Refugee Girl
-Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(586,434)}(Illegal Alien)
+Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(175,79)}Sekiutsu ・ Maria ・ Taro
+Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(140,429)}(Japanese Name)
+Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(730,75)}Refugee Girl
+Dialogue: 0,0:12:35.02,0:12:37.02,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs26\c&H15191D&\pos(580,429)}(Illegal Alien)
 Dialogue: 0,0:12:37.04,0:12:38.86,ZSZS Dialogue,,0000,0000,0000,,It makes me so worried.
 Dialogue: 0,0:12:38.86,0:12:41.57,ZSZS Dialogue,,0000,0000,0000,,They're worrying about someone else again!
 Dialogue: 0,0:12:41.57,0:12:42.67,ZSZS Dialogue,,0000,0000,0000,,Fine.
@@ -502,7 +508,7 @@ Dialogue: 0,0:12:51.29,0:12:52.79,ZSZS Dialogue,,0000,0000,0000,,I guess I'll ju
 Dialogue: 0,0:12:52.79,0:12:53.89,ZSZS Dialogue,,0000,0000,0000,,No!
 Dialogue: 0,0:12:53.89,0:12:54.54,ZSZS Dialogue,,0000,0000,0000,,Don't do it!
 Dialogue: 0,0:12:54.54,0:12:56.54,ZSZS Dialogue,,0000,0000,0000,,Yes!
-Dialogue: 0,0:12:54.54,0:12:56.54,ZSZS Typesetting - smodern,,0000,0000,0000,,{\blur0.6\fs56\c&HFBFBFB&\pos(677,298)}Yes
+Dialogue: 0,0:12:54.54,0:12:56.54,ZSZS Typesetting - smodern,,0000,0000,0000,,{\blur0.6\fs56\c&HFBFBFB&\pos(683,298)}Yes!
 Dialogue: 0,0:13:08.05,0:13:09.84,ZSZS Dialogue,,0000,0000,0000,,Wh–What is this?!
 Dialogue: 0,0:13:09.84,0:13:11.99,ZSZS Dialogue,,0000,0000,0000,,So Teacher was here.
 Dialogue: 0,0:13:11.99,0:13:13.95,ZSZS Dialogue,,0000,0000,0000,,What is this person doing?!
@@ -528,7 +534,8 @@ Dialogue: 0,0:13:39.55,0:13:41.09,ZSZS Dialogue,,0000,0000,0000,,You're normal.
 Dialogue: 0,0:13:43.80,0:13:44.92,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs48\c&HFCFCFC&\blur0.6\pos(637,462)}Normal?!
 Dialogue: 0,0:13:43.80,0:13:44.92,ZSZS Dialogue,,0000,0000,0000,,Normal?!
 Dialogue: 0,0:13:44.92,0:13:46.13,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs11\blur0.4\pos(48,160)\c&H9D9C9A&}Tears are the\Nsmallest ocean\Nhumans can\Ncreate
-Comment: 0,0:13:44.92,0:13:46.13,ZSZS Dialogue,,0000,0000,0000,,untranslated signs maybe? {dongs}
+Dialogue: 0,0:13:44.92,0:13:46.13,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\c&HA2A2A2&\pos(373,85)}Hope gives unlimited energy.
+Dialogue: 0,0:13:44.92,0:13:46.13,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\c&HA2A2A2&\pos(771,86)}To think is human.
 Dialogue: 0,0:13:46.84,0:13:48.72,ZSZS Dialogue,,0000,0000,0000,,Normal...
 Dialogue: 0,0:13:46.22,0:13:48.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fad(1300,0)\fs38\blur0.6\pos(681,98)\c&HD1814F&}Normal
 Dialogue: 0,0:13:46.63,0:13:48.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fad(1500,0)\fs32\blur0.6\pos(336,104)\c&HF1AA4A&}Normal
@@ -610,12 +617,11 @@ Dialogue: 0,0:14:19.00,0:14:19.47,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:14:19.00,0:14:19.47,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\blur0.6\fs30\c&H354559&\pos(146,322)}•
 Dialogue: 0,0:14:19.47,0:14:21.29,ZSZS Dialogue,,0000,0000,0000,,I'm not normal!
 Dialogue: 0,0:14:21.29,0:14:23.46,ZSZS Dialogue,,0000,0000,0000,,I'm a poor little truant!
-Comment: 0,0:14:22.67,0:14:24.88,ZSZS Typesetting - frutiger,,0000,0000,0000,,Top poster missing maybe? {dongs}
 Dialogue: 0,0:14:23.46,0:14:28.63,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fnFansub Block\blur1.1\fs150\fscx132\fscy200\c&HECEDEF&\pos(719,325)}A
 Dialogue: 1,0:14:23.46,0:14:28.63,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs9\b1\pos(630,318)\c&H515156&}Fuzzy logic is derived from fuzzy set theory\Ndealing with reasoning that is approximate\Nrather than precisely deduced from classical\Npredicate logic. It can be thought of as the\Napplication side of fuzzy set theory\Ndealing with well thought out real world expert\Nvalues for a complex problem (Klir 1997).\NDegrees of truth are often confused with\Nprobabilities. However, they are distinct\Nconceptually; fuzzy truth represents membership\Nin vaguely defined sets, not likelihood of some\Nevent or condition. For example, if a 100-ml glass\Ncontains 30 ml of water, then, for two fuzzy sets,\NEmpty and Full, one might define the glass as\Nbeing 0.7 empty and 0.3 full. Note that the concept\Nof emptiness would be subjective and thus would\Ndepend on the observer or designer. Another\Ndesigner might equally well design a set\Nmembership function where the glass would be\Nconsidered full for all values down to 50 ml. A\Nprobabilistic setting would first define a scalar\Nvariable for the fullness of the glass, and second,\Nconditional distributions describing the probability\Nthat someone would call the glass full given a\Nspecific fullness level. Note that the conditioning\Ncan be achieved by having a specific observer\Nthat randomly selects the label for the glass,\Na distribution over deterministic observers, or both.\NWhile fuzzy logic avoids talking about randomness\Nin this context, this simplification at the same time\Nobscures what is exactly meant by the statement\Nthe 'glass is 0.3 full'.
 Dialogue: 0,0:14:23.46,0:14:26.42,ZSZS Dialogue,,0000,0000,0000,,"A poor little truant?"
 Dialogue: 0,0:14:26.42,0:14:28.63,ZSZS Dialogue,,0000,0000,0000,,But even our teacher's truant.
-Dialogue: 0,0:14:28.63,0:14:29.65,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs28\blur0.6\pos(424,42)\c&HF6F6F7&}Chiri 「A poor, little truant? But even our teacher's truant.」
+Dialogue: 0,0:14:28.63,0:14:29.65,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs28\blur0.6\pos(424,42)\c&HF6F6F7&}Chiri 「A poor little truant? But even our teacher's truant.」
 Dialogue: 0,0:14:29.65,0:14:34.47,ZSZS Dialogue,,0000,0000,0000,,Forget high school, I'm even truant from driver's ed!
 Dialogue: 0,0:14:34.47,0:14:35.52,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs28\blur0.6\c&HE6E9EB&\pos(424,42)}Nozomu 「Forget high school, I'm even truant from driver's ed!」
 Dialogue: 0,0:14:35.52,0:14:37.18,ZSZS Dialogue,,0000,0000,0000,,Driver's ed?!
@@ -631,7 +637,7 @@ Dialogue: 0,0:14:48.74,0:14:49.53,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:14:48.90,0:14:49.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs34\blur0.6\c&HF5A6DB&\move(1120,351,-170,351)}I'll get my money back
 Dialogue: 0,0:14:48.97,0:14:50.07,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H86E7FF&\blur0.6\fs20\move(1085,165,-550,165)}Old men with cameras come during cultural festivals (voice acting program)
 Dialogue: 0,0:14:49.30,0:14:50.10,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HFDC69E&\fs28\move(900,71,-70,71)\blur0.6}Essay tests
-Dialogue: 0,0:14:49.43,0:14:50.27,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs32\blur0.6\move(950,198,-110,198)\c&HF5C68B&}180k a month
+Dialogue: 0,0:14:49.43,0:14:50.27,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs32\blur0.6\move(950,198,-110,198)\c&HF5C68B&}160k a month
 Dialogue: 0,0:14:49.50,0:14:50.33,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HD559F5&\fs32\blur0.6\move(945,32,-70,32)}Comedy Course
 Dialogue: 0,0:14:49.37,0:14:50.23,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs20\blur0.6\c&HA28CFF&\move(1190,389,320,389)}Revenue from voice acting program is used to support other schools
 Dialogue: 0,0:14:50.23,0:14:50.70,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs20\blur0.6\c&HA28CFF&\move(305,389,-350,389)}Revenue from voice acting program is used to support other schools
@@ -655,12 +661,25 @@ Dialogue: 0,0:15:07.34,0:15:09.08,ZSZS Dialogue,,0000,0000,0000,,That really irr
 Dialogue: 0,0:15:09.08,0:15:10.13,ZSZS Dialogue,,0000,0000,0000,,Make up your mind properly!
 Dialogue: 0,0:15:10.13,0:15:12.14,ZSZS Typesetting - name screens,,0000,0000,0000,,{\c&H25262B&\fs29\pos(135,87)}Kitsu Chiri
 Dialogue: 0,0:15:10.13,0:15:12.14,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\pos(733,348)\c&H2C2D35&}Methodical\NBusybody
-Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H9B9BA2&\fs16\pos(173,180)}Super cool{dongs this scene is full of missing signs}
-Comment: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - frutiger,,0000,0000,0000,,MISSING SIGNS{dongs}
+Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H9B9BA2&\fs16\pos(173,180)}Super cool
+Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\c&H747475&\pos(751,192)}Works on\Neye inflammation,
+Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\c&H747475&\pos(685,256)}restores\Nvision,
+Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\c&H747475&\pos(100,223)}bloodshot
+Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\c&H747475&\pos(168,247)}clears,
+Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\c&H747475&\pos(567,150)}aids, focus,
 Dialogue: 0,0:15:12.14,0:15:15.43,ZSZS Dialogue,,0000,0000,0000,,Are you a student in this class?
 Dialogue: 0,0:15:15.43,0:15:15.68,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs84\blur1.2\pos(576,342)}PAT
 Dialogue: 0,0:15:15.43,0:15:15.68,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs84\blur1.2\pos(283,193)}PAT
-Comment: 0,0:15:15.68,0:15:19.23,ZSZS Typesetting - frutiger,,0000,0000,0000,,MISSING SIGNS{dongs}
+Dialogue: 0,0:15:15.68,0:15:19.23,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs10\fscx95\c&H747475&\pos(271,265)}Arginine,\NBCAA,\Nornithine,\Ninositol,\Ncarnitine,\Naspartic acid
+Dialogue: 0,0:15:15.68,0:15:15.76,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\clip(m 15 107 l 17 147 40 148 71 132 68 120 86 118 114 126 137 144 137 149 151 134 184 126 181 101)\pos(93,134)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:15.76,0:15:15.89,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)\clip(m 6 104 l 19 172 58 146 94 125 82 117 115 118 149 133 162 146 167 139 168 126 192 122 194 107)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:15.89,0:15:16.01,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)\clip(m 21 110 l 5 167 56 163 85 137 114 122 102 111 137 114 169 126 182 142 191 128 191 121 191 104)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:16.01,0:15:16.14,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)\clip(m 18 98 l 25 188 78 160 110 136 133 128 123 115 178 124 201 140 207 105)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:16.14,0:15:16.26,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)\clip(m 18 98 l 25 188 85 165 117 140 140 127 129 118 178 124 201 140 207 105)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:16.26,0:15:16.39,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)\clip(m 18 98 l 25 188 85 165 127 145 153 133 138 124 180 125 201 140 207 105)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:16.39,0:15:16.52,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)\clip(m 18 98 l 25 188 85 165 127 145 153 133 167 129 159 119 201 140 207 105)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:16.52,0:15:16.64,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)\clip(m 18 98 l 25 188 85 165 127 145 153 133 167 129 159 119 201 140 207 105)}increases our savory flavour.\NPlease enjoy this premium taste.
+Dialogue: 0,0:15:16.64,0:15:19.23,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\fscx95\c&H747475&\pos(93,134)}increases our savory flavour.\NPlease enjoy this premium taste.
 Dialogue: 0,0:15:15.68,0:15:19.23,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs19\c&H616368&\clip(395,19,651,45)\pos(523,45)}Finger-stop bottle
 Dialogue: 0,0:15:16.03,0:15:18.00,ZSZS Dialogue,,0000,0000,0000,,I'm relieved that you're normal.
 Dialogue: 0,0:15:18.00,0:15:20.39,ZSZS Dialogue,,0000,0000,0000,,After all, this class has 31...
@@ -670,7 +689,7 @@ Dialogue: 0,0:15:26.07,0:15:29.49,ZSZS Typesetting - Blackboard,,0000,0000,0000,
 Dialogue: 0,0:15:26.07,0:15:29.19,ZSZS Dialogue,,0000,0000,0000,,Incidentally, the parts that are hidden
 Dialogue: 0,0:15:29.19,0:15:31.86,ZSZS Dialogue,,0000,0000,0000,,aren't covered up because they haven't been thought of yet.
 Dialogue: 0,0:15:31.86,0:15:33.74,ZSZS Dialogue,,0000,0000,0000,,Didn't someone just spill coffee over it?
-Comment: 0,0:15:30.70,0:15:33.74,ZSZS Typesetting - frutiger,,0000,0000,0000,,MISSING SIGNS{dongs}
+Dialogue: 0,0:15:30.70,0:15:33.74,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fscx95\fs9\c&H747475&\pos(712,57)}First, deviating from bushido.\NSecond, leaving the Shinsengumi.\NThird, raising money privately.\NFourth, takinh part in\Nothers' litigation.\NFifth, engaging in private fights.
 Dialogue: 0,0:15:34.38,0:15:35.56,ZSZS Dialogue,,0000,0000,0000,,That's right...
 Dialogue: 0,0:15:35.56,0:15:37.49,ZSZS Dialogue,,0000,0000,0000,,I see a lot of dangerous-looking people...
 Dialogue: 0,0:15:37.49,0:15:39.45,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\c&H15191D&\pos(142,84)}Kimura Kaere
@@ -718,7 +737,7 @@ Dialogue: 0,0:16:24.58,0:16:26.50,ZSZS Dialogue,,0000,0000,0000,,You ended up me
 Dialogue: 0,0:16:26.50,0:16:28.05,ZSZS Dialogue,,0000,0000,0000,,because you came to school!
 Dialogue: 0,0:16:28.63,0:16:31.77,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\pos(424,42)\c&H777F82&}「Going through Tsuji Jinsei books won't help!!」
 Dialogue: 0,0:16:28.63,0:16:31.77,ZSZS Dialogue,,0000,0000,0000,,Going through Tsuji Jinsei books won't help!
-Dialogue: 0,0:16:31.77,0:16:37.68,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs18\c&H676559&\pos(182,63)}That was hard
+Dialogue: 0,0:16:31.77,0:16:37.68,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs18\c&H676559&\pos(182,62.5)}That was hard
 Dialogue: 0,0:16:31.77,0:16:33.66,ZSZS Dialogue,,0000,0000,0000,,What's so special about refusing to leave?!
 Dialogue: 0,0:16:33.66,0:16:35.55,ZSZS Dialogue,,0000,0000,0000,,She just stays at school.
 Dialogue: 0,0:16:35.55,0:16:37.68,ZSZS Dialogue,,0000,0000,0000,,Someone who doesn't go to school is a bigger threat to society!
@@ -748,7 +767,7 @@ Dialogue: 0,0:18:14.53,0:18:16.44,ZSZS Dialogue,,0000,0000,0000,,Driving me insa
 Dialogue: 0,0:18:22.83,0:18:31.63,ZSZS top,,0000,0000,0000,,{\i1}A hole as deep as a young man's height...
 Dialogue: 0,0:18:31.63,0:18:34.21,ZSZS Dialogue,,0000,0000,0000,,Don't make up lyrics to Träumerei!
 Dialogue: 0,0:18:34.21,0:18:36.21,ZSZS Typesetting - name screens,,0000,0000,0000,,{\an3\pos(700,418)\c&H28282C&}Super\NPositive\NGirl
-Dialogue: 0,0:18:34.21,0:18:36.21,ZSZS Typesetting - name screens,,0000,0000,0000,,{\pos(127,79)\c&H292E34&}Kafuka Fuura
+Dialogue: 0,0:18:34.21,0:18:36.21,ZSZS Typesetting - name screens,,0000,0000,0000,,{\pos(125,79)\c&H292E34&}Kafuka Fuura
 Dialogue: 0,0:18:34.21,0:18:36.21,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs20\pos(127,96)}(Pen name)
 Dialogue: 0,0:18:36.21,0:18:37.77,ZSZS Dialogue,,0000,0000,0000,,Komori.
 Dialogue: 0,0:18:37.77,0:18:40.58,ZSZS Dialogue,,0000,0000,0000,,You're friends with this school shut-in?
@@ -758,7 +777,7 @@ Dialogue: 0,0:18:44.51,0:18:45.56,ZSZS Typesetting - Screen,,0000,0000,0000,,{\a
 Dialogue: 0,0:18:45.56,0:18:51.28,ZSZS Dialogue,,0000,0000,0000,,By cooping herself up in the school, she's protecting the school from evil spirits.
 Dialogue: 0,0:18:51.28,0:18:54.65,ZSZS Dialogue,,0000,0000,0000,,If she were to leave, the school would be destroyed in a flash.
 Dialogue: 0,0:18:55.49,0:19:00.32,ZSZS Dialogue,,0000,0000,0000,,In fact, the house she used to be in was tragically destroyed.
-Dialogue: 0,0:19:01.07,0:19:01.74,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs72\blur0.6\c&HF9F8FC&\pos(426,379)}Eh
+Dialogue: 0,0:19:01.07,0:19:01.74,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs72\blur0.6\c&HF9F8FC&\pos(426,179)}Eh
 Dialogue: 0,0:19:01.74,0:19:05.93,ZSZS Dialogue,,0000,0000,0000,,Komori is a certified member of the Japan Zashiki-warashi Union.
 Dialogue: 0,0:19:05.93,0:19:08.62,ZSZS Dialogue,,0000,0000,0000,,She's a proper warashi, so you don't need to worry.
 Dialogue: 0,0:19:08.62,0:19:10.75,ZSZS Dialogue,,0000,0000,0000,,What's she talking about?!
@@ -794,7 +813,6 @@ Dialogue: 0,0:19:28.14,0:19:29.93,ZSZS Typesetting - frutiger,,0000,0000,0000,,{
 Dialogue: 0,0:19:28.73,0:19:29.93,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H10232A&\fad(600,0)\frz15.69\fs30\pos(122,56)}my
 Dialogue: 0,0:19:30.53,0:19:33.09,ZSZS Dialogue,,0000,0000,0000,,The growing shadows of metal poles in the schoolyard.
 Dialogue: 0,0:19:33.09,0:19:35.68,ZSZS Dialogue,,0000,0000,0000,,The sorrowful crying of animals.
-Comment: 0,0:19:34.05,0:19:34.08,ZSZS Dialogue,,0000,0000,0000,,can this be tl'd? {dongs}
 Dialogue: 0,0:19:35.68,0:19:39.49,ZSZS Dialogue,,0000,0000,0000,,The reflection of your weary face in the windows of a dark hallway.
 Dialogue: 2,0:19:39.49,0:19:41.57,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an5\bord2.5\i1\fs46\3c&H282F3B&\c&HB8A069&\frz17.819\pos(242,354)}HUFF
 Dialogue: 1,0:19:39.49,0:19:41.57,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an5\bord4.2\i1\fs46\c&HB8A069&\3c&HF6FAFF&\frz17.819\pos(242,354)}HUFF
@@ -813,7 +831,7 @@ Dialogue: 0,0:20:02.88,0:20:04.51,ZSZS Dialogue,,0000,0000,0000,,Don't say weird
 Dialogue: 0,0:20:04.81,0:20:06.26,ZSZS Dialogue,,0000,0000,0000,,I just saw...
 Dialogue: 0,0:20:07.18,0:20:08.97,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\fs34\pos(424,42)}Something's there...
 Dialogue: 0,0:20:07.45,0:20:08.97,ZSZS Dialogue,,0000,0000,0000,,Something's there...
-Dialogue: 0,0:20:08.97,0:20:10.93,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\pos(137,433)\c&H0A131B&}Tsunetsuki Matoi
+Dialogue: 0,0:20:08.97,0:20:10.93,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\pos(145,433)\c&H0A131B&}Tsunetsuki Matoi
 Dialogue: 0,0:20:08.97,0:20:10.93,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\an3\c&H24272F&\pos(731,100)}Super Loving\NStalker Girl
 Dialogue: 0,0:20:10.93,0:20:13.03,ZSZS Dialogue,,0000,0000,0000,,There's nothing there!
 Dialogue: 0,0:20:13.03,0:20:14.52,ZSZS Dialogue,,0000,0000,0000,,Why can't you see it?!
@@ -839,14 +857,16 @@ Dialogue: 0,0:21:00.76,0:21:03.00,ZSZS Dialogue,,0000,0000,0000,,Mommy!
 Dialogue: 0,0:21:05.38,0:21:13.54,ZSZS Dialogue,,0000,0000,0000,,No!
 Dialogue: 0,0:21:13.54,0:21:15.54,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\pos(730,276)\c&H25292E&}Normal Girl
 Dialogue: 0,0:21:13.54,0:21:15.54,ZSZS Typesetting - name screens,,0000,0000,0000,,{\fs29\pos(132,86)\c&H2B2D33&}Hito Nami
-Dialogue: 0,0:21:17.05,0:21:18.13,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs40\c&HFFFFFF&\fsp30\pos(274,187)\blur0.7}2-VI
+Dialogue: 0,0:21:17.05,0:21:18.13,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\c&HFFFFFF&\fsp30\blur0.7\pos(220,186)}2
+Dialogue: 0,0:21:17.05,0:21:18.13,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\c&HFFFFFF&\fsp30\blur0.7\pos(282,183)}-
+Dialogue: 0,0:21:17.05,0:21:18.13,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\c&HFFFFFF&\blur0.7\pos(325,186)}VI
 Dialogue: 0,0:21:18.13,0:21:21.38,ZSZS Dialogue,,0000,0000,0000,,That was my experience as a truant.
 Dialogue: 0,0:21:21.38,0:21:27.76,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\fs24\pos(377,135)\blur0.6\c&HDEDAD1&}Discussing truancy from HR
 Dialogue: 0,0:21:21.69,0:21:22.50,ZSZS Dialogue,,0000,0000,0000,,That's right...
 Dialogue: 0,0:21:22.50,0:21:24.39,ZSZS Dialogue,,0000,0000,0000,,I'd completely forgotten...
 Dialogue: 0,0:21:24.39,0:21:27.74,ZSZS Dialogue,,0000,0000,0000,,...that Hito was a truant.
 Dialogue: 0,0:21:27.76,0:21:29.05,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs48\blur0.8\c&HF6F8FD&\pos(424,51)}Uh-huh
-Dialogue: 0,0:21:27.76,0:21:29.05,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\fs24\frz336.318\pos(188,303)\c&HA5A8AC&}That's right
+Dialogue: 0,0:21:27.76,0:21:29.05,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\fs24\frz336.318\pos(188,303)\c&HA5A8AC&\blur0.5}That's right
 Dialogue: 0,0:21:29.05,0:21:32.97,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\c&HE0D3BE&\blur0.6\fs28\pos(211,87)}I vaguely remember that being how it went
 Dialogue: 0,0:21:29.05,0:21:32.97,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\blur0.6\fs28\pos(632,87)\c&HDAD2C5&}I saw this setting somewhere
 Dialogue: 0,0:21:29.06,0:21:32.97,ZSZS Dialogue,,0000,0000,0000,,How could you forget such a dramatic event?!
@@ -855,9 +875,10 @@ Dialogue: 0,0:21:32.97,0:21:34.93,ZSZS Dialogue,,0000,0000,0000,,Uh...
 Dialogue: 0,0:21:35.26,0:21:37.44,ZSZS Dialogue,,0000,0000,0000,,Because it was relatively normal?
 Dialogue: 0,0:21:37.94,0:21:39.52,ZSZS Dialogue,,0000,0000,0000,,Don't say normal!
 Dialogue: 0,0:21:39.52,0:21:41.57,ZSZS Typesetting - garamond,,0000,0000,0000,,{\fs32\c&HE8FAFF&\pos(704,369)}Seat #28\NHito Nami\NNormal Girl
-Comment: 0,0:21:41.57,0:23:11.49,ZSZS Typesetting - garamond,,0000,0000,0000,,We could TS the folder. What do you think?{dongs}
 Dialogue: 0,0:23:11.49,0:23:14.45,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\fs26\c&HFFE8E7&\pos(47,442)}This show is a work of fiction.\NSimilarity to any actual people, organizations,\Nor HAMASHO is purely coincidental.
-Comment: 0,0:23:14.45,0:23:15.95,ZSZS Dialogue,,0000,0000,0000,,stuff on left is untl'd. Right stuff is spoken (I presume that's obvious enough) {dongs}
+Dialogue: 0,0:23:14.45,0:23:34.47,ZSZS Typesetting - book covers,,0000,0000,0000,,{\fnKan2EngGSZS3\an9\bord0\b1\c&H374257&\fs20\pos(770,32)}Death Country
+Dialogue: 0,0:23:14.45,0:23:34.47,ZSZS Typesetting - book covers,,0000,0000,0000,,{\fnKan2EngGSZS3\an8\bord0\b1\c&H374257&\fs16\pos(51,96)}Literature\Nof Despair
+Dialogue: 0,0:23:14.45,0:23:34.47,ZSZS Typesetting - book covers,,0000,0000,0000,,{\fnKan2EngGSZS3\an8\bord0\b1\c&H374257&\fs16\pos(56,365)}From\NVolume 1
 Dialogue: 0,0:23:14.45,0:23:17.63,ZSZS Dialogue,,0000,0000,0000,,Death Country
 Dialogue: 0,0:23:17.63,0:23:19.85,ZSZS Dialogue,,0000,0000,0000,,Once we left the tunnel, there was another tunnel.
 Dialogue: 0,0:23:19.85,0:23:22.35,ZSZS Dialogue,,0000,0000,0000,,After that tunnel, there was another tunnel.
@@ -870,100 +891,100 @@ Dialogue: 0,0:23:30.82,0:23:33.55,ZSZS Dialogue,,0000,0000,0000,,I left the tunn
 Dialogue: 0,0:23:34.47,0:23:50.64,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&HFBFAFB&\shad3\fs30\pos(653,37)}Despair cured my cold.
 Dialogue: 0,0:23:34.47,0:23:50.64,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HFBFAFB&\shad2\fs18\pos(181,409)}Illustration:
 Dialogue: 0,0:23:34.47,0:23:50.64,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HFBFAFB&\shad2\fs18\pos(215,431)}Terada Katsuya
-Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(570,153)}Original Work
-Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(619,187)}Kumeta Koji{he apparently prefers this spelling, so that's what we'll give him!}
-Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(601,297)}「Sayonara, Zetsubou-sensei」
-Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(603,342)}(Serialized in Kodansha's\N「Weekly Shonen Magazine」)
-Dialogue: 0,0:08:02.49,0:08:07.70,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs36\pos(426,423)}【Zoku】 Sayonara, Zetsubou-sensei
-Dialogue: 0,0:08:07.97,0:08:10.30,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs24\pos(130,231)}Series Organization\N& Dramatization
-Dialogue: 0,0:08:07.97,0:08:10.30,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(271,285)}Oguro Yuichiro
-Dialogue: 0,0:08:10.57,0:08:12.97,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs24\pos(108,236)}Character Design / Overall\N Key Animation Supervisor
-Dialogue: 0,0:08:10.57,0:08:12.97,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(248,293)}Morioka Hideyuki
-Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(675,367)}Art Director
-Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs26\pos(578,394)}Kakoi Hirotsugu
-Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(487,367)}Color Key
-Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(452,394)}Takizawa Izumi
-Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(192,367)}Visual Effects
-Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(179,394)}Sakai Motoki
-Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an3\c&HF7F8FD&\blur0.6\fs22\pos(371,351)}Director of\NPhotography
-Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(300,390)}Egami Satoru
-Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(642,351)}Editor
-Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(591,390)}Seki Kazuhiko
-Dialogue: 0,0:08:18.84,0:08:21.41,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs48\pos(423,358)}Cast
-Dialogue: 0,0:08:21.55,0:08:23.95,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(388,373)}Itoshiki Nozumu
-Dialogue: 0,0:08:21.55,0:08:23.95,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(439,404)}Itoshiki Nozumu
-Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(590,386)}Fuura Kafuka
-Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(641,414)}Fuura Kafuka
-Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(412,385)}Kitsu Chiri
-Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(457,413)}Kitsu Chiri
-Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(180,385)}Tsunetsuki Matoi
-Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(241,413)}Tsunetsuki Matoi
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(700,337)}Fujiyoshi Harumi
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(674,363)}Fujiyoshi Harumi
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(631,103)}Kobushi Abiru
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(599,127)}Kobushi Abiru
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(505,338)}Hito Nami
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(477,363)}Hito Nami
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(387,102)}Otonashi Meru
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(356,127)}Otonashi Meru
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(282,338)}Komori Kiri
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(248,362)}Komori Kiri
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(200,102)}Kimura Kaere
-Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(174,127)}Kimura Kaere
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(673,346)}Kaga Ai
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(701,373)}Kaga Ai
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(628,94)}Mitama Mayo
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(585,117)}Mitama Mayo
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(435,348)}Ookusa Manami
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(480,373)}Ookusa Manami
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(425,94)}Sekiutsu · Maria · Taro
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(374,117)}Sekiutsu · Maria · Taro
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(230,348)}Kudo Jun
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(259,373)}Kudo Jun
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(212,93)}Kino Kuniya
-Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(180,117)}Kino Kuniya
-Dialogue: 0,0:08:32.36,0:08:34.76,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(197,241)}Emperor Penguin
-Dialogue: 0,0:08:32.36,0:08:34.76,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(281,279)}Emperor Penguin
-Dialogue: 0,0:08:34.99,0:08:37.50,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(197,241)}Oriental Stork
-Dialogue: 0,0:08:34.99,0:08:37.50,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(281,279)}Oriental Stork
-Dialogue: 0,0:08:37.73,0:08:40.20,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(197,241)}Ms. Sakurai
-Dialogue: 0,0:08:37.73,0:08:40.20,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(281,279)}Ms. Sakurai
-Dialogue: 0,0:08:40.57,0:08:43.03,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(231,247)}Other
-Dialogue: 0,0:08:40.57,0:08:43.03,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(290,280)}Staff
-Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(611,364)}Assistant Director
-Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(653,390)}Tatsuwa Naoyuki
-Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(377,364)}Chief Direction
-Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(443,389)}Miyamoto Yukihiro
-Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs20\pos(108,363)}Key Animation Supervisor
-Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(220,389)}Yamamura Hiroki
-Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(506,382)}Sound Director
-Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(611,410)}Kameyama Toshiki
-Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(176,381)}Music
-Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(265,411)}Hasegawa Tomoki
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(673,372)}Music Production
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(630,401)}StarChild Records
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(488,372)}Opening Theme
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(438,400)}「Fantasy Rumba」
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs16\pos(376,198)}Lyrics
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(338,216)}Ohtsuki Kenji
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an3\c&HF7F8FD&\blur0.6\fs16\pos(358,282)}Composition\NArrangement
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs20\pos(252,304)}NARASAKI
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs16\pos(151,142)}Vocals
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs16\pos(131,194)}Ohtsuki Kenji\Nand the\NZetsubou Girls
-Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs14\pos(122,323)}Fuura Kafuka\NKitsu Chiri\NKimura Kaere\NTarou·Maria\NHito Nami
-Dialogue: 0,0:09:02.45,0:09:07.66,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(423,118)}Opening Directors
-Dialogue: 0,0:09:02.45,0:09:07.66,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(558,423)}Oishi Tatsuya
-Dialogue: 0,0:09:02.45,0:09:07.66,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(304,423)}Miyamoto Yukihiro
-Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(498,376)}Producer
-Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(583,405)}Moriyama Atsushi
-Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs22\pos(110,372)}Animation\NProducer
-Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(215,408)}Kubota Mitsutoshi
-Dialogue: 0,0:09:13.13,0:09:18.30,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(182,243)}Director
-Dialogue: 0,0:09:13.13,0:09:18.30,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(268,286)}Shinbo Akiyuki
-Dialogue: 0,0:09:18.67,0:09:23.54,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(226,247)}Animation Production
-Dialogue: 0,0:09:18.67,0:09:23.54,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(332,289)}SHAFT
-Dialogue: 0,0:09:23.81,0:09:28.51,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(154,224)}Production
-Dialogue: 0,0:09:23.81,0:09:28.51,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs30\pos(144,288)}Sayonara, Zetsubou-sensei\NProduction Committee
+Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(590,153)}Original Work
+Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(630,190)}Kumeta Koji{he apparently prefers this spelling, so that's what we'll give him!}
+Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(496,380)}「Sayonara, Zetsubou-sensei」
+Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(496,420)}(Serialized in Kodansha's\N「Weekly Shonen Magazine」)
+Dialogue: 0,0:08:02.49,0:08:07.70,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs30\fnArial\pos(424,434)}【{\fs60\b1\fnGabriola}Zoku{\fnArial\fs30}】{\fs30\fn昭和モダン体\c&H2D343B&\bord2\3c&HF7F8FD&} Sayonara{\c&HF7F8FD&\bord0} Zetsubou-sensei
+Dialogue: 0,0:08:07.97,0:08:10.30,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs24\pos(110,220)}Series Organization\N& Dramatization
+Dialogue: 0,0:08:07.97,0:08:10.30,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(260,264)}Oguro Yuichiro
+Dialogue: 0,0:08:10.57,0:08:12.97,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs20\pos(91,221)}Character Design/Overall\N Key Animation Supervisor
+Dialogue: 0,0:08:10.57,0:08:12.97,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs30\pos(255,270)}Morioka Hideyuki
+Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(670,392)}Art Director
+Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs26\pos(503,425)}Kakoi Hirotsugu
+Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(333,353)}Color Key
+Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(398,382)}Takizawa Izumi
+Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(178,392)}Visual Effects
+Dialogue: 0,0:08:13.24,0:08:15.57,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(215,425)}Sakai Motoki
+Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an3\c&HF7F8FD&\blur0.6\fs22\pos(425,340)}Director of\NPhotography
+Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(321,386)}Egami Satoru
+Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(640,339)}Editor
+Dialogue: 0,0:08:15.94,0:08:18.18,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(591,390)}Seki Kazuhiko
+Dialogue: 0,0:08:18.84,0:08:21.41,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs48\pos(423,358)}Cast
+Dialogue: 0,0:08:21.55,0:08:23.95,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(388,366)}Itoshiki Nozumu
+Dialogue: 0,0:08:21.55,0:08:23.95,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(439,404)}Itoshiki Nozumu
+Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(590,385)}Fuura Kafuka
+Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(630,418)}Fuura Kafuka
+Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(403,385)}Kitsu Chiri
+Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(440,418)}Kitsu Chiri
+Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(189,385)}Tsunetsuki Matoi
+Dialogue: 0,0:08:24.22,0:08:26.72,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(235,418)}Tsunetsuki Matoi
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(683,340)}Fujiyoshi Harumi
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(627,374)}Fujiyoshi Harumi
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(644,102)}Kobushi Abiru
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(599,130)}Kobushi Abiru
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(453,340)}Hito Nami
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(412,374)}Hito Nami
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(435,102)}Otonashi Meru
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(390,130)}Otonashi Meru
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(249,340)}Komori Kiri
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(212,374)}Komori Kiri
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(230,102)}Kimura Kaere
+Dialogue: 0,0:08:26.92,0:08:29.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(192,130)}Kimura Kaere
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(629,348)}Kaga Ai
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(657,376)}Kaga Ai
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(620,94)}Mitama Mayo
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(651,122)}Mitama Mayo
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(438,348)}Ookusa Manami
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(478,376)}Ookusa Manami
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(387,94)}Sekiutsu{\b1\fnFrutiger LT 45 Light}·{\fn昭和モダン体\b0}Maria{\b1\fnFrutiger LT 45 Light}·{\fn昭和モダン体\b0}Taro
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(429,122)}Sekiutsu{\b1\fnFrutiger LT 45 Light}·{\fn昭和モダン体\b0}Maria{\b1\fnFrutiger LT 45 Light}·{\fn昭和モダン体\b0}Taro
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(182,348)}Kudo Jun
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(216,376)}Kudo Jun
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(188,94)}Kino Kuniya
+Dialogue: 0,0:08:29.62,0:08:32.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(214,122)}Kino Kuniya
+Dialogue: 0,0:08:32.36,0:08:34.76,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(204,232)}Emperor Penguin
+Dialogue: 0,0:08:32.36,0:08:34.76,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(255,278)}Emperor Penguin
+Dialogue: 0,0:08:34.99,0:08:37.50,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(197,241)}Oriental Stork
+Dialogue: 0,0:08:34.99,0:08:37.50,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(258,288)}Oriental Stork
+Dialogue: 0,0:08:37.73,0:08:40.20,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(199,241)}Ms. Sakurai
+Dialogue: 0,0:08:37.73,0:08:40.20,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(259,286)}Ms. Sakurai
+Dialogue: 0,0:08:40.57,0:08:43.03,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(231,247)}Other
+Dialogue: 0,0:08:40.57,0:08:43.03,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(256,283)}Staff
+Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(662,352)}Assistant Director
+Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(636,382)}Tatsuwa Naoyuki
+Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(424,388)}Chief Direction
+Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(424,420)}Miyamoto Yukihiro
+Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs18\pos(90,352)}Key Animation Supervisor
+Dialogue: 0,0:08:43.33,0:08:45.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs24\pos(208,382)}Yamamura Hiroki
+Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(535,377)}Sound Director
+Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(592,411)}Kameyama Toshiki
+Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs22\pos(160,378)}Music
+Dialogue: 0,0:08:46.10,0:08:48.44,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(265,411)}Hasegawa Tomoki
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs16\pos(670,372)}Music Production
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(634,394)}StarChild Records
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(383,392)}Opening Theme
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(443,422)}「Fantasy Rumba」
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs16\pos(379,192)}Lyrics
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs16\pos(344,213)}Ohtsuki Kenji
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an3\c&HF7F8FD&\blur0.6\fs16\pos(389,250)}Composition\NArrangement
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs20\pos(277,276)}NARASAKI
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(254,299)}Vocals
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs14\pos(285,344)}Ohtsuki Kenji\Nand the\NZetsubou Girls
+Dialogue: 0,0:08:48.71,0:08:51.24,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs13\pos(250,414)}Fuura Kafuka\NKitsu Chiri\NKimura Kaere\NTarou·Maria\NHito Nami
+Dialogue: 0,0:09:02.45,0:09:07.66,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(423,118)}Opening Directors
+Dialogue: 0,0:09:02.45,0:09:07.66,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(584,425)}Oishi Tatsuya
+Dialogue: 0,0:09:02.45,0:09:07.66,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs32\pos(291,425)}Miyamoto Yukihiro
+Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs18\pos(574,357)}Producer
+Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(646,390)}Moriyama Atsushi
+Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs18\pos(330,365)}Animation\NProducer
+Dialogue: 0,0:09:07.86,0:09:12.90,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs20\pos(434,390)}Kubota Mitsutoshi
+Dialogue: 0,0:09:13.13,0:09:18.30,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(173,243)}Director
+Dialogue: 0,0:09:13.13,0:09:18.30,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(256,286)}Shinbo Akiyuki
+Dialogue: 0,0:09:18.67,0:09:23.54,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs28\pos(244,243)}Animation Production
+Dialogue: 0,0:09:18.67,0:09:23.54,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs34\pos(339,288)}SHAFT
+Dialogue: 0,0:09:23.81,0:09:28.51,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs16\pos(151,226)}Production
+Dialogue: 0,0:09:23.81,0:09:28.51,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HF7F8FD&\blur0.6\fs20\pos(127,268)}Sayonara, Zetsubou-sensei\NProduction Committee
 Dialogue: 0,0:08:07.96,0:08:10.72,ZSZSOP1Rom,,0000,0000,0000,,{\fad(250,250)}{\k17}ru{\k27}n{\k21}ba {\k14}ru{\k20}n{\k22}ba {\k11}ru{\k18}n{\k15}ba {\k18}ru{\k18}n{\k16}ba {\k21}ru{\k14}n{\k17}ba
 Dialogue: 0,0:08:07.96,0:08:10.72,ZSZSOP1Kan,,0000,0000,0000,,{\fad(250,250)}{\k17}ル{\k27}ン{\k21}バ {\k14}ル{\k20}ン{\k22}バ {\k11}ル{\k18}ン{\k15}バ {\k18}ル{\k18}ン{\k16}バ {\k21}ル{\k14}ン{\k17}バ
 Dialogue: 0,0:08:07.96,0:08:10.72,ZSZSOP1Eng,,0000,0000,0000,,{\fad(250,250)}Rumba, rumba, rumba, rumba, rumba
