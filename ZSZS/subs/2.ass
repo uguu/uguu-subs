@@ -8,11 +8,12 @@ PlayResX: 848
 PlayResY: 480
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
-Video Zoom: 1
-Video Position: 29583
+Video Zoom: 8
+Video Position: 5479
 Last Style Storage: Default
 Collisions: Normal
 Video File: ..\2 (1).mkv
+Audio File: ?video
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,20 +61,20 @@ Dialogue: 0,0:00:02.78,0:00:03.28,ZSZS Typesetting - Screen,,0000,0000,0000,,{\a
 Dialogue: 0,0:00:03.28,0:00:04.12,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}School Opening Anniversary
 Dialogue: 0,0:00:04.12,0:00:06.61,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(424,218)}School Opening Anniversary{dongs pos}{I wish these could've been translated into 4 word phrases. I'm just going to leave it in the middle of the screen.}
 Dialogue: 0,0:00:04.12,0:00:06.61,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(436,352)\c&H0A1217&}July 13th
-Dialogue: 0,0:00:04.17,0:00:08.34,ZSZS Dialogue,,0000,0000,0000,,Everybody, July 13th is the day our school was founded. {"nice day?" :psypop:}
+Dialogue: 0,0:00:04.27,0:00:07.69,ZSZS Dialogue,,0000,0000,0000,,Everybody, July 13th is the day our school was founded. {"nice day?" :psypop:}
 Dialogue: 0,0:00:06.61,0:00:09.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HCA68FB&\frz8.429\move(408,197,382,117,0,2499)}STARE
 Dialogue: 0,0:00:07.89,0:00:09.12,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HCA68FB&\frz8.429\move(563,213,551,185,0,1219)}STARE
-Dialogue: 0,0:00:07.98,0:00:09.07,ZSZS Dialogue,,0000,0000,0000,,Teacher....
+Dialogue: 0,0:00:08.16,0:00:08.76,ZSZS Dialogue,,0000,0000,0000,,Teacher....
 Dialogue: 0,0:00:09.12,0:00:09.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(424,70)\c&HD17836&}「What is it..?」{dongs move this}{Actually, this line is stationary}
-Dialogue: 0,0:00:09.07,0:00:09.65,ZSZS Dialogue,,0000,0000,0000,,What is it?
-Dialogue: 0,0:00:09.87,0:00:14.42,ZSZS Dialogue,,0000,0000,0000,,Perry is coming for the School Opening Anniversary!
+Dialogue: 0,0:00:09.15,0:00:09.65,ZSZS Dialogue,,0000,0000,0000,,What is it?
+Dialogue: 0,0:00:10.31,0:00:13.45,ZSZS Dialogue,,0000,0000,0000,,Perry is coming for the School Opening Anniversary!
 Dialogue: 0,0:00:14.53,0:00:15.53,ZSZS Typesetting - Screen,,0000,0000,0000,,Perry is coming
-Dialogue: 0,0:00:15.53,0:00:16.87,ZSZS Dialogue,,0000,0000,0000,,Yes?
+Dialogue: 0,0:00:16.42,0:00:16.69,ZSZS Dialogue,,0000,0000,0000,,Yes?
 Dialogue: 0,0:00:16.28,0:00:16.87,ZSZS Typesetting - smodern,,0000,0000,0000,,Yes?
 Dialogue: 0,0:00:17.70,0:00:18.20,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}July 13th
 Dialogue: 0,0:00:19.04,0:00:19.54,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\pos(424,470)}For the School Opening Anniversary
 Dialogue: 0,0:00:20.20,0:00:20.70,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}Perry is
-Dialogue: 0,0:00:20.83,0:00:21.74,ZSZS Dialogue,,0000,0000,0000,,He really came!
+Dialogue: 0,0:00:20.91,0:00:21.74,ZSZS Dialogue,,0000,0000,0000,,He really came!
 Comment: 0,0:00:00.38,0:00:00.38,ZSZS Dialogue,,0000,0000,0000,,OP {Sup dawg, I heard you like comments, so I put a comment in your comment so you can read a comment while you read a comment}
 Dialogue: 0,0:01:52.50,0:01:52.67,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HEAF4F2&\an1\fs30\pos(524,417)\blur0.6}Born in 1794
 Dialogue: 0,0:01:52.67,0:01:52.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HEAF4F2&\an1\fs30\pos(524,417)\blur0.6}in northern
@@ -84,31 +85,32 @@ Dialogue: 0,0:01:53.38,0:01:53.59,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:01:54.05,0:01:57.05,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H434C4C&\fs30\bord1.5\3c&HFFFFFF&\pos(339,122)}Forelocks Yet to Be Opened
 Dialogue: 0,0:01:54.05,0:01:57.05,ZSZS Typesetting - book covers,,0000,0000,0000,,{\pos(178,467)\blur0.6}Originally published 13th July, Showa 80
 Dialogue: 0,0:01:54.05,0:01:57.05,ZSZS Typesetting - book covers,,0000,0000,0000,,{\pos(745,35)\blur.6}From Chapter 12
-Dialogue: 0,0:01:57.05,0:01:59.76,ZSZS Dialogue,,0000,0000,0000,,Perry has come for the School Opening Anniversary!
-Dialogue: 0,0:02:00.30,0:02:01.22,ZSZS Dialogue,,0000,0000,0000,,What's that supposed to mean!?
+Dialogue: 0,0:01:57.16,0:01:59.48,ZSZS Dialogue,,0000,0000,0000,,Perry has come for the School Opening Anniversary!
+Dialogue: 0,0:02:00.37,0:02:01.39,ZSZS Dialogue,,0000,0000,0000,,What's that supposed to mean!?
 Dialogue: 0,0:02:01.85,0:02:02.47,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\fs58\pos(424,55)}Ah.
-Dialogue: 0,0:02:02.64,0:02:05.23,ZSZS Dialogue,,0000,0000,0000,,Because Perry opened Japan's ports?
+Dialogue: 0,0:02:02.87,0:02:05.22,ZSZS Dialogue,,0000,0000,0000,,Because Perry opened Japan's ports?
 Dialogue: 0,0:02:02.47,0:02:05.27,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\an5\fs60\pos(278,143)\blur0.5\fnMary Jane Gilardino\b0\c&HB4B5B3&}Open the ports
-Dialogue: 0,0:02:05.23,0:02:07.14,ZSZS Dialogue,,0000,0000,0000,,{\pos(424,455)}That has nothing to do with the school's anniversary!
-Dialogue: 0,0:02:08.02,0:02:08.56,ZSZS Dialogue,,0000,0000,0000,,Perry!
-Dialogue: 0,0:02:09.56,0:02:10.61,ZSZS Dialogue,,0000,0000,0000,,Hey, I'm here, Kafuka.
-Dialogue: 0,0:02:11.94,0:02:12.86,ZSZS Dialogue,,0000,0000,0000,,Is he a friend of yours?
-Dialogue: 0,0:02:13.90,0:02:15.65,ZSZS Dialogue,,0000,0000,0000,,You shouldn't simply be friends with anybody and everybody.
-Dialogue: 0,0:02:16.78,0:02:19.20,ZSZS Dialogue,,0000,0000,0000,,Now that the Commodore is here, many things will be opened.
+Dialogue: 0,0:02:05.45,0:02:07.44,ZSZS Dialogue,,0000,0000,0000,,{\pos(424,455)}That has nothing to do with the school's anniversary!
+Dialogue: 0,0:02:08.02,0:02:09.05,ZSZS Dialogue,,0000,0000,0000,,Perry!
+Dialogue: 0,0:02:09.56,0:02:11.31,ZSZS Dialogue,,0000,0000,0000,,Hey, I'm here, Kafuka.
+Dialogue: 0,0:02:12.05,0:02:13.37,ZSZS Dialogue,,0000,0000,0000,,Is he a friend of yours?
+Dialogue: 0,0:02:13.85,0:02:16.39,ZSZS Dialogue,,0000,0000,0000,,You shouldn't simply be friends with anybody and everybody.
+Dialogue: 0,0:02:16.71,0:02:19.75,ZSZS Dialogue,,0000,0000,0000,,Now that the Commodore is here, many things will be opened.
 Dialogue: 0,0:02:19.78,0:02:20.74,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(424,60)}The book opens
-Dialogue: 0,0:02:21.07,0:02:22.03,ZSZS Dialogue,,0000,0000,0000,,Perry is a troubled foreigner who lives nearby
-Dialogue: 0,0:02:23.66,0:02:25.16,ZSZS Dialogue,,0000,0000,0000,,who isn't satisfied by just opening ports. He needs to open everything.
+Dialogue: 0,0:02:21.15,0:02:23.00,ZSZS Dialogue,,0000,0000,0000,,Perry is a troubled foreigner who lives nearby
+Dialogue: 0,0:02:23.25,0:02:26.38,ZSZS Dialogue,,0000,0000,0000,,who isn't satisfied by just opening ports. He needs to open everything.
+Dialogue: 0,0:02:26.66,0:02:27.15,ZSZS Dialogue,,0000,0000,0000,,Horse mackerel
 Dialogue: 0,0:02:27.00,0:02:27.37,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HFFFFFF&\pos(402,130)}Horse mackerel
-Dialogue: 0,0:02:27.41,0:02:27.83,ZSZS Dialogue,,0000,0000,0000,,Horse mackerel?
-Dialogue: 0,0:02:28.50,0:02:29.29,ZSZS Dialogue,,0000,0000,0000,,Horse mackerel cut open!?
-Dialogue: 0,0:02:30.42,0:02:31.83,ZSZS Dialogue,,0000,0000,0000,,Perry opens everything.
-Dialogue: 0,0:02:31.93,0:02:34.47,ZSZS Dialogue,,0000,0000,0000,,That's right! I'll open everything!
-Dialogue: 0,0:02:35.05,0:02:35.51,ZSZS Dialogue,,0000,0000,0000,,Hmm?
-Dialogue: 0,0:02:36.18,0:02:37.22,ZSZS Dialogue,,0000,0000,0000,,Starting with that!
-Dialogue: 0,0:02:38.89,0:02:39.80,ZSZS Dialogue,,0000,0000,0000,,Teacher!
-Dialogue: 0,0:02:40.05,0:02:43.72,ZSZS Dialogue,,0000,0000,0000,,If we don't catch Perry, he'll open everything in the school!
-Dialogue: 0,0:02:44.56,0:02:45.89,ZSZS Dialogue,,0000,0000,0000,,Let's just leave him be.
-Dialogue: 0,0:02:47.23,0:02:47.68,ZSZS Dialogue,,0000,0000,0000,,Wait!
+Dialogue: 0,0:02:27.79,0:02:28.28,ZSZS Dialogue,,0000,0000,0000,,Horse mackerel?
+Dialogue: 0,0:02:28.60,0:02:29.55,ZSZS Dialogue,,0000,0000,0000,,Horse mackerel cut open!?
+Dialogue: 0,0:02:30.21,0:02:32.04,ZSZS Dialogue,,0000,0000,0000,,Perry opens everything.
+Dialogue: 0,0:02:32.42,0:02:34.45,ZSZS Dialogue,,0000,0000,0000,,That's right! I'll open everything!
+Dialogue: 0,0:02:35.56,0:02:35.75,ZSZS Dialogue,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:02:36.71,0:02:37.55,ZSZS Dialogue,,0000,0000,0000,,Starting with that!
+Dialogue: 0,0:02:39.40,0:02:39.86,ZSZS Dialogue,,0000,0000,0000,,Teacher!
+Dialogue: 0,0:02:40.37,0:02:44.33,ZSZS Dialogue,,0000,0000,0000,,If we don't catch Perry, he'll open everything in the school!
+Dialogue: 0,0:02:44.69,0:02:46.18,ZSZS Dialogue,,0000,0000,0000,,Let's just leave him be.
+Dialogue: 0,0:02:47.35,0:02:48.21,ZSZS Dialogue,,0000,0000,0000,,Wait!
 Dialogue: 0,0:02:48.27,0:02:49.06,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HFFFFFF&\pos(257,163)\bord2\3c&H3F3833&}Library
 Dialogue: 0,0:02:49.06,0:02:49.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs30\p1\c&H000000&\frz8.219\an5\pos(583,294)\fscx220}m -20 20 l 20 20 l 20 -20 l -20 -20
 Dialogue: 0,0:02:49.06,0:02:49.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs30\p1\c&H000000&\an5\fscx220\frz339.318\pos(504,181)}m -20 20 l 20 20 l 20 -20 l -20 -20
@@ -127,74 +129,76 @@ Dialogue: 0,0:02:49.06,0:02:49.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:02:49.06,0:02:49.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HFEFEFE&\fs20\pos(443,336)}Book
 Dialogue: 0,0:02:49.06,0:02:49.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HFDCC80&\fs30\frz9.553\pos(537,299)}Nozomu
 Dialogue: 0,0:02:49.06,0:02:49.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H90FDDA&\fs30\bord2\pos(466,166)\frz357.18}Jun
-Dialogue: 0,0:02:50.08,0:02:51.05,ZSZS Dialogue,,0000,0000,0000,,Th-This is...!
-Dialogue: 0,0:02:51.18,0:02:52.49,ZSZS Dialogue,,0000,0000,0000,,Th-This is...!
-Dialogue: 0,0:02:52.54,0:02:54.16,ZSZS Dialogue,,0000,0000,0000,,Th-This is...!
-Dialogue: 0,0:02:54.77,0:02:58.70,ZSZS Dialogue,,0000,0000,0000,,A guy who looked kind of like a Perry came in and opened every single book the library.
-Dialogue: 0,0:02:59.49,0:03:00.32,ZSZS Dialogue,,0000,0000,0000,,So this is Perry's doing?
-Dialogue: 0,0:03:00.78,0:03:00.91,ZSZS Dialogue,,0000,0000,0000,,Sure is.
-Dialogue: 0,0:03:01.93,0:03:02.99,ZSZS Dialogue,,0000,0000,0000,,Come, let's keep chasing.
-Dialogue: 0,0:03:03.45,0:03:03.83,ZSZS Dialogue,,0000,0000,0000,,No way!
-Dialogue: 0,0:03:06.12,0:03:08.54,ZSZS Dialogue,,0000,0000,0000,,It's obvious that Perry passed through here.
-Dialogue: 0,0:03:09.16,0:03:12.21,ZSZS Dialogue,,0000,0000,0000,,All of the doors and lockers have been opened.
-Dialogue: 0,0:03:13.56,0:03:16.23,ZSZS Dialogue,,0000,0000,0000,,The unopened Eva cans I collected!
+Dialogue: 0,0:02:50.27,0:02:51.49,ZSZS Dialogue,,0000,0000,0000,,Th-This is...!
+Dialogue: 0,0:02:51.82,0:02:52.92,ZSZS Dialogue,,0000,0000,0000,,Th-This is...!
+Dialogue: 0,0:02:53.17,0:02:54.56,ZSZS Dialogue,,0000,0000,0000,,Th-This is...!
+Dialogue: 0,0:02:54.84,0:02:58.85,ZSZS Dialogue,,0000,0000,0000,,A guy who looked kind of like a Perry came in and opened every single book the library.
+Dialogue: 0,0:02:59.36,0:03:00.45,ZSZS Dialogue,,0000,0000,0000,,So this is Perry's doing?
+Dialogue: 0,0:03:00.69,0:03:01.48,ZSZS Dialogue,,0000,0000,0000,,Sure is.
+Dialogue: 0,0:03:01.71,0:03:03.20,ZSZS Dialogue,,0000,0000,0000,,Come, let's keep chasing.
+Dialogue: 0,0:03:03.49,0:03:04.81,ZSZS Dialogue,,0000,0000,0000,,No way!
+Dialogue: 0,0:03:06.18,0:03:08.74,ZSZS Dialogue,,0000,0000,0000,,It's obvious that Perry passed through here.
+Dialogue: 0,0:03:09.31,0:03:12.21,ZSZS Dialogue,,0000,0000,0000,,All of the doors and lockers have been opened.
+Dialogue: 0,0:03:13.63,0:03:16.18,ZSZS Dialogue,,0000,0000,0000,,The unopened Eva cans I collected!
 Dialogue: 0,0:03:17.34,0:03:19.63,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H141931&\fs70\pos(91,132)}RAGE
+Comment: 0,0:03:17.61,0:03:19.41,ZSZS Typesetting - frutiger,,0000,0000,0000,,Untranslated line {dongs}
+Dialogue: 0,0:03:20.03,0:03:22.35,ZSZS Typesetting - frutiger,,0000,0000,0000,,Untranslated line
 Dialogue: 0,0:03:22.39,0:03:23.18,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(259,162)\fs37\c&HFDFDFD&\bord2\3c&H443D31&}Home Economics{Room - it -says- room but people just don't do that in en.}{BUT WE ARE NOT NORMAL! WE ARE GIANT WEEABOO FAGS /argument}
 Dialogue: 0,0:03:23.18,0:03:23.97,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs80\frz324.699\c&H24344A&\blur0.6\pos(479,225)}HISS
-Dialogue: 0,0:03:24.47,0:03:25.26,ZSZS Dialogue,,0000,0000,0000,,Th-This smell is...
-Dialogue: 0,0:03:26.35,0:03:27.97,ZSZS Dialogue,,0000,0000,0000,,Don't open all of the gas valves!
-Dialogue: 0,0:03:28.52,0:03:30.98,ZSZS Dialogue,,0000,0000,0000,,Even if you're Perry, there are things you shouldn't open!
+Dialogue: 0,0:03:24.74,0:03:25.62,ZSZS Dialogue,,0000,0000,0000,,Th-This smell is...
+Dialogue: 0,0:03:26.65,0:03:28.22,ZSZS Dialogue,,0000,0000,0000,,Don't open all of the gas valves!
+Dialogue: 0,0:03:28.57,0:03:31.77,ZSZS Dialogue,,0000,0000,0000,,Even if you're Perry, there are things you shouldn't open!
 Dialogue: 0,0:03:31.98,0:03:32.02,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs25\frz26.256\c&H838C93&\bord3\3c&H222731&\pos(837,317)}Lonely Death {\c&H523945&\bord0\shad1.5\4c&H1C1F27&}travel guide
 Dialogue: 0,0:03:32.02,0:03:32.06,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs25\frz26.256\c&H838C93&\bord3\3c&H222731&\pos(706,310)}Lonely Death {\c&H523945&\bord0\shad1.5\4c&H1C1F27&}travel guide
 Dialogue: 0,0:03:32.06,0:03:32.10,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs25\frz26.256\c&H838C93&\bord3\3c&H222731&\pos(561,313)}Lonely Death {\c&H523945&\bord0\shad1.5\4c&H1C1F27&}travel guide
 Dialogue: 0,0:03:32.10,0:03:37.90,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs25\frz26.256\c&H838C93&\bord3\3c&H222731&\pos(420,312)}Lonely Death {\c&H523945&\bord0\shad1.5\4c&H1C1F27&}travel guide
-Dialogue: 0,0:03:32.40,0:03:35.19,ZSZS Dialogue,,0000,0000,0000,,Besides, I've already had my eyes on this spot for a while.
-Dialogue: 0,0:03:35.57,0:03:37.53,ZSZS Dialogue,,0000,0000,0000,,What if they beef up the security measures!?
-Dialogue: 0,0:03:38.57,0:03:39.78,ZSZS Dialogue,,0000,0000,0000,,Where are you going now!?
-Dialogue: 0,0:03:40.36,0:03:41.53,ZSZS Dialogue,,0000,0000,0000,,Ah, this is lame. I'm going home.
-Dialogue: 0,0:03:46.16,0:03:49.04,ZSZS Dialogue,,0000,0000,0000,,Open your ****, high school girl!
-Dialogue: 0,0:03:49.79,0:03:51.00,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry, that's a bit...
-Dialogue: 0,0:03:52.71,0:03:54.01,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry, that's also a bit...!
-Dialogue: 0,0:03:54.13,0:03:56.63,ZSZS Dialogue,,0000,0000,0000,,I happen to swing that way.
+Dialogue: 0,0:03:32.44,0:03:35.25,ZSZS Dialogue,,0000,0000,0000,,Besides, I've already had my eyes on this spot for a while.
+Dialogue: 0,0:03:35.58,0:03:37.88,ZSZS Dialogue,,0000,0000,0000,,What if they beef up the security measures!?
+Dialogue: 0,0:03:39.10,0:03:39.90,ZSZS Dialogue,,0000,0000,0000,,Where are you going now!?
+Dialogue: 0,0:03:40.40,0:03:42.15,ZSZS Dialogue,,0000,0000,0000,,Ah, this is lame. I'm going home.
+Dialogue: 0,0:03:46.40,0:03:49.21,ZSZS Dialogue,,0000,0000,0000,,Open your ****, high school girl!
+Dialogue: 0,0:03:49.45,0:03:51.09,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry, that's a bit...
+Dialogue: 0,0:03:52.76,0:03:54.21,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry, that's also a bit...!
+Dialogue: 0,0:03:54.74,0:03:57.04,ZSZS Dialogue,,0000,0000,0000,,I happen to swing that way.
 Dialogue: 0,0:03:57.21,0:03:57.67,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur.6}Blush...
-Dialogue: 0,0:03:57.55,0:03:58.67,ZSZS Dialogue,,0000,0000,0000,,Which way are you talking about!?
-Dialogue: 0,0:03:59.42,0:04:00.55,ZSZS Dialogue,,0000,0000,0000,,I'm Perry.
+Dialogue: 0,0:03:57.67,0:03:58.84,ZSZS Dialogue,,0000,0000,0000,,Which way are you talking about!?
+Dialogue: 0,0:03:59.64,0:04:00.80,ZSZS Dialogue,,0000,0000,0000,,I'm Perry.
 Dialogue: 0,0:04:00.63,0:04:00.88,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&H293037&\pos(424,42)\blur.6}I'm Perry
-Dialogue: 0,0:04:00.88,0:04:03.72,ZSZS Dialogue,,0000,0000,0000,,I'll open everything in this world!
+Dialogue: 0,0:04:01.05,0:04:03.83,ZSZS Dialogue,,0000,0000,0000,,I'll open everything in this world!
 Dialogue: 0,0:04:02.63,0:04:02.88,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\c&H353A3F&}I'll open everything in this world!
 Dialogue: 0,0:04:03.88,0:04:04.72,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H40424F&\blur0.6\fs30\pos(255,276)}Komori
 Dialogue: 0,0:04:04.72,0:04:05.47,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H424657&\frz351.257\pos(364,313)\fs30}Do not open
 Dialogue: 0,0:04:04.72,0:04:05.47,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\pos(335,354)\c&H424657&\frz351.257\fs30}Kiri
 Dialogue: 0,0:04:05.47,0:04:12.06,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs12\pos(251,267)\c&H596670&}Do not open
 Dialogue: 0,0:04:05.47,0:04:12.06,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs12\pos(235,335)\c&H596670&}Kiri
-Dialogue: 0,0:04:05.35,0:04:06.51,ZSZS Dialogue,,0000,0000,0000,,What's this?
-Dialogue: 0,0:04:06.93,0:04:09.43,ZSZS Dialogue,,0000,0000,0000,,An unopened room that's actually a hikikomori's room.
-Dialogue: 0,0:04:09.89,0:04:11.89,ZSZS Dialogue,,0000,0000,0000,,It doesn't look like Teacher intends to stop him.
-Dialogue: 0,0:04:15.10,0:04:17.98,ZSZS Dialogue,,0000,0000,0000,,Ah! He opened Komori-san's room!
-Comment: 0,0:04:18.02,0:04:18.69,ZSZS Dialogue,,0000,0000,0000,,Eek!
+Dialogue: 0,0:04:05.82,0:04:06.60,ZSZS Dialogue,,0000,0000,0000,,What's this?
+Dialogue: 0,0:04:07.12,0:04:09.59,ZSZS Dialogue,,0000,0000,0000,,An unopened room that's actually a hikikomori's room.
+Dialogue: 0,0:04:09.99,0:04:12.06,ZSZS Dialogue,,0000,0000,0000,,It doesn't look like Teacher intends to stop him.
+Dialogue: 0,0:04:15.25,0:04:18.15,ZSZS Dialogue,,0000,0000,0000,,Ah! He opened Komori-san's room!
+Dialogue: 0,0:04:18.52,0:04:18.81,ZSZS Dialogue,,0000,0000,0000,,Eek!
 Dialogue: 0,0:04:21.19,0:04:21.65,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs50\pos(164,85)\c&H5871F3&\blur0.6}GRIN
 Dialogue: 0,0:04:21.65,0:04:22.32,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}Pluck
-Dialogue: 0,0:04:22.90,0:04:24.44,ZSZS Dialogue,,0000,0000,0000,,Ah! He opened something else!
+Dialogue: 0,0:04:23.10,0:04:24.75,ZSZS Dialogue,,0000,0000,0000,,Ah! He opened something else!
 Dialogue: 0,0:04:24.78,0:04:25.71,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&HB1605A&\fs40\pos(712,267)}SOB
 Dialogue: 0,0:04:24.78,0:04:25.71,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&HB1605A&\fs40\pos(635,118)}SOB
-Dialogue: 0,0:04:25.78,0:04:26.95,ZSZS Dialogue,,0000,0000,0000,,I opened it!
-Dialogue: 0,0:04:27.91,0:04:30.20,ZSZS Dialogue,,0000,0000,0000,,I'd only been opened by Teacher before...
-Dialogue: 0,0:04:30.70,0:04:32.33,ZSZS Dialogue,,0000,0000,0000,,Don't say things that will create misunderstandings!
-Dialogue: 0,0:04:34.37,0:04:36.25,ZSZS Dialogue,,0000,0000,0000,,Why isn't that open!?
+Dialogue: 0,0:04:25.78,0:04:27.08,ZSZS Dialogue,,0000,0000,0000,,I opened it!
+Dialogue: 0,0:04:27.34,0:04:30.20,ZSZS Dialogue,,0000,0000,0000,,I'd only been opened by Teacher before...
+Dialogue: 0,0:04:30.33,0:04:32.51,ZSZS Dialogue,,0000,0000,0000,,Don't say things that will create misunderstandings!
+Dialogue: 0,0:04:34.79,0:04:36.54,ZSZS Dialogue,,0000,0000,0000,,Why isn't that open!?
 Dialogue: 0,0:04:36.63,0:04:38.52,ZSZS Typesetting - Red names,,0000,0000,0000,,{\c&H041CC6&\bord0\blur0.5\fs40\pos(172,44)}Hallway
 Dialogue: 0,0:04:36.63,0:04:38.52,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs37\move(806,168,504,167,21,1882)}Hito
 Dialogue: 0,0:04:36.63,0:04:38.52,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs37\pos(156,168)}Itoshiki
 Dialogue: 0,0:04:36.63,0:04:38.52,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs20\frz323.191\pos(60,233)}Tsunetsuki
-Dialogue: 0,0:04:36.92,0:04:38.46,ZSZS Dialogue,,0000,0000,0000,,Teacher, this is terrible!
-Dialogue: 0,0:04:38.54,0:04:40.38,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry threatened the principal...
+Dialogue: 0,0:04:37.15,0:04:38.58,ZSZS Dialogue,,0000,0000,0000,,Teacher, this is terrible!
+Dialogue: 0,0:04:38.92,0:04:40.45,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry threatened the principal...
 Dialogue: 0,0:04:40.63,0:04:41.13,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}A view of the pool
-Dialogue: 0,0:04:41.46,0:04:43.26,ZSZS Dialogue,,0000,0000,0000,,And forced him to open the pool!
-Dialogue: 0,0:04:44.01,0:04:45.72,ZSZS Dialogue,,0000,0000,0000,,Yay, the pool!
-Dialogue: 0,0:04:46.93,0:04:49.18,ZSZS Dialogue,,0000,0000,0000,,I'm Perry. I even open the pool.
-Dialogue: 0,0:04:49.47,0:04:50.64,ZSZS Dialogue,,0000,0000,0000,,Open the pool?
+Dialogue: 0,0:04:41.13,0:04:43.46,ZSZS Dialogue,,0000,0000,0000,,And forced him to open the pool!
+Dialogue: 0,0:04:44.22,0:04:45.81,ZSZS Dialogue,,0000,0000,0000,,Yay, the pool!
+Dialogue: 0,0:04:47.13,0:04:49.24,ZSZS Dialogue,,0000,0000,0000,,I'm Perry. I even open the pool.
+Dialogue: 0,0:04:49.52,0:04:50.85,ZSZS Dialogue,,0000,0000,0000,,Open the pool?
 Dialogue: 0,0:04:50.85,0:04:55.31,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\pos(424,42)\1a&HFF&\bord2.7\3c&H13223A&}Lonely Death {\bord1.5\shad2\1a&00&\c&HE9F3F7&\4c&H13223A&}travel guide
-Dialogue: 0,0:04:51.22,0:04:54.77,ZSZS Dialogue,,0000,0000,0000,,That's my spot to drown myself! I had it first!
-Dialogue: 0,0:04:54.94,0:04:57.38,ZSZS Dialogue,,0000,0000,0000,,What if they tighten the security measures!?
+Dialogue: 0,0:04:51.22,0:04:54.66,ZSZS Dialogue,,0000,0000,0000,,That's my spot to drown myself! I had it first!
+Dialogue: 0,0:04:55.31,0:04:57.61,ZSZS Dialogue,,0000,0000,0000,,What if they tighten the security measures!?
 Dialogue: 0,0:04:57.61,0:04:58.81,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs40\move(-40,71,513,71,0,1188)}Kimura
 Dialogue: 0,0:04:57.61,0:04:58.81,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\pos(730,247)\c&H334F5D&\blur0.5}Entrance
 Dialogue: 0,0:04:57.61,0:04:58.81,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs30\pos(177,300)}Kobushi
@@ -203,13 +207,13 @@ Dialogue: 0,0:04:57.61,0:04:58.81,ZSZS Typesetting - Red names,,0000,0000,0000,,
 Dialogue: 0,0:04:57.61,0:04:58.81,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs20\frz319.098\pos(412,351)}Tsunetsuki
 Dialogue: 0,0:04:57.61,0:04:58.81,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs30\pos(491,300)}Itoshiki
 Dialogue: 0,0:04:57.61,0:04:58.81,ZSZS Typesetting - Red names,,0000,0000,0000,,{\fs50\pos(686,382)}Pool
-Dialogue: 0,0:04:59.19,0:05:02.57,ZSZS Dialogue,,0000,0000,0000,,You there. How dare you assault me earlier?
-Dialogue: 0,0:05:03.03,0:05:03.99,ZSZS Dialogue,,0000,0000,0000,,I'll sue you!
-Dialogue: 0,0:05:03.99,0:05:06.41,ZSZS Dialogue,,0000,0000,0000,,I'll have this thoroughly investigated in a court of law!
+Dialogue: 0,0:04:59.35,0:05:02.74,ZSZS Dialogue,,0000,0000,0000,,You there. How dare you assault me earlier?
+Dialogue: 0,0:05:03.25,0:05:04.14,ZSZS Dialogue,,0000,0000,0000,,I'll sue you!
+Dialogue: 0,0:05:04.53,0:05:06.78,ZSZS Dialogue,,0000,0000,0000,,I'll have this thoroughly investigated in a court of law!
 Dialogue: 0,0:05:06.91,0:05:08.41,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}Poke
-Dialogue: 0,0:05:07.52,0:05:08.91,ZSZS Dialogue,,0000,0000,0000,,Stop bitching, buttface!
-Dialogue: 0,0:05:09.58,0:05:11.74,ZSZS Dialogue,,0000,0000,0000,,It's your fault for wearing such a short skirt!
-Dialogue: 0,0:05:12.62,0:05:13.16,ZSZS Dialogue,,0000,0000,0000,,H-He's opening up a can on me!
+Dialogue: 0,0:05:06.95,0:05:09.12,ZSZS Dialogue,,0000,0000,0000,,Stop bitching, buttface!
+Dialogue: 0,0:05:09.55,0:05:11.90,ZSZS Dialogue,,0000,0000,0000,,It's your fault for wearing such a short skirt!
+Dialogue: 0,0:05:12.69,0:05:13.92,ZSZS Dialogue,,0000,0000,0000,,H-He's opening up a can on me!
 Dialogue: 0,0:05:13.45,0:05:13.95,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\frz325.215\fs40\pos(280,207)\blur0.6\c&H3A5B63&}GRIN
 Dialogue: 0,0:05:14.06,0:05:14.25,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(686,64)}I'{\alpha&HFF&}m Perry
 Dialogue: 0,0:05:14.25,0:05:14.46,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(686,64)}I'm {\alpha&HFF&}Perry
@@ -225,51 +229,49 @@ Dialogue: 0,0:05:16.12,0:05:16.25,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:05:16.25,0:05:16.42,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\pos(628,467)}I open up\Na can\No{\alpha&HFF&}n you
 Dialogue: 0,0:05:16.42,0:05:16.58,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\pos(628,467)}I open up\Na can\Non y{\alpha&HFF&}ou
 Dialogue: 0,0:05:16.58,0:05:16.83,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs40\pos(628,467)}I open up\Na can\Non you
-Dialogue: 0,0:05:13.49,0:05:16.83,ZSZS Dialogue,,0000,0000,0000,,I'm Perry. I open up a can on you.
-Dialogue: 0,0:05:17.79,0:05:19.38,ZSZS Dialogue,,0000,0000,0000,,Was that supposed to be funny!?
-Dialogue: 0,0:05:19.38,0:05:19.84,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry.
-Dialogue: 0,0:05:19.84,0:05:23.30,ZSZS Dialogue,,0000,0000,0000,,If you want to open things,
-Dialogue: 0,0:05:23.72,0:05:25.84,ZSZS Dialogue,,0000,0000,0000,,try to open Teacher's heart.
-Dialogue: 0,0:05:26.38,0:05:27.64,ZSZS Dialogue,,0000,0000,0000,,That's no help!
+Dialogue: 0,0:05:14.16,0:05:16.80,ZSZS Dialogue,,0000,0000,0000,,I'm Perry. I open up a can on you.
+Dialogue: 0,0:05:18.02,0:05:19.45,ZSZS Dialogue,,0000,0000,0000,,Was that supposed to be funny!?
+Dialogue: 0,0:05:19.92,0:05:20.53,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry.
+Dialogue: 0,0:05:21.33,0:05:23.38,ZSZS Dialogue,,0000,0000,0000,,If you want to open things,
+Dialogue: 0,0:05:23.65,0:05:26.05,ZSZS Dialogue,,0000,0000,0000,,try to open Teacher's heart.
+Dialogue: 0,0:05:26.76,0:05:27.64,ZSZS Dialogue,,0000,0000,0000,,That's no help!
 Dialogue: 0,0:05:27.93,0:05:32.43,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur.6}Vexille
-Dialogue: 0,0:05:27.93,0:05:30.01,ZSZS Dialogue,,0000,0000,0000,,Teacher's heart follows a policy of isolation.
-Dialogue: 0,0:05:30.51,0:05:32.02,ZSZS Dialogue,,0000,0000,0000,,He doesn't open his heart to anyone.
+Dialogue: 0,0:05:28.05,0:05:30.35,ZSZS Dialogue,,0000,0000,0000,,Teacher's heart follows a policy of isolation.
+Dialogue: 0,0:05:30.57,0:05:32.12,ZSZS Dialogue,,0000,0000,0000,,He doesn't open his heart to anyone.
 Dialogue: 0,0:05:32.43,0:05:33.93,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs20\c&H22252D&\frx0\fry324\pos(701,221)}Dejima
-Dialogue: 0,0:05:32.27,0:05:36.61,ZSZS Dialogue,,0000,0000,0000,,Isolation?{no idea why this is timed so long dongs}{I second the dongs motion}
-Dialogue: 0,0:05:32.77,0:05:36.48,ZSZS Dialogue,,0000,0000,0000,,We can't have that! Open up!
-Dialogue: 0,0:05:37.08,0:05:38.58,ZSZS Dialogue,,0000,0000,0000,,Open your heart.
-Dialogue: 0,0:05:38.78,0:05:39.61,ZSZS Dialogue,,0000,0000,0000,,No way.
-Dialogue: 0,0:05:40.40,0:05:42.44,ZSZS Dialogue,,0000,0000,0000,,This is good. Let's watch it together.
-Dialogue: 0,0:05:42.14,0:05:43.36,ZSZS Dialogue,,0000,0000,0000,,No way!
-Dialogue: 0,0:05:43.57,0:05:48.20,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry is trying all kinds of methods to open Teacher's heart.
+Dialogue: 0,0:05:32.49,0:05:33.44,ZSZS Dialogue,,0000,0000,0000,,Isolation?{no idea why this is timed so long dongs}{I second the dongs motion}
+Dialogue: 0,0:05:33.95,0:05:36.45,ZSZS Dialogue,,0000,0000,0000,,We can't have that! Open up!
+Dialogue: 0,0:05:37.28,0:05:38.80,ZSZS Dialogue,,0000,0000,0000,,Open your heart.
+Dialogue: 0,0:05:39.20,0:05:39.67,ZSZS Dialogue,,0000,0000,0000,,No way.
+Dialogue: 0,0:05:40.06,0:05:42.50,ZSZS Dialogue,,0000,0000,0000,,This is good. Let's watch it together.
+Dialogue: 0,0:05:42.80,0:05:43.53,ZSZS Dialogue,,0000,0000,0000,,No way!
+Dialogue: 0,0:05:43.83,0:05:48.35,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry is trying all kinds of methods to open Teacher's heart.
 Dialogue: 0,0:05:48.78,0:05:51.74,ZSZS Typesetting - Red names,,0000,0000,0000,,{\frz19.69\fs50\pos(285,341)\c&H0421D2&}Isolate
-Dialogue: 0,0:05:49.20,0:05:51.46,ZSZS Dialogue,,0000,0000,0000,,But he's refusing to open his heart.
-Dialogue: 0,0:05:52.09,0:05:56.05,ZSZS Dialogue,,0000,0000,0000,,To open his heart, I must draw closer to it.
-Dialogue: 0,0:05:56.85,0:05:58.45,ZSZS Dialogue,,0000,0000,0000,,But how?
-Dialogue: 0,0:06:00.55,0:06:04.22,ZSZS Dialogue,,0000,0000,0000,,Wait, where am I? This isn't a school anymore!
-Dialogue: 0,0:06:05.15,0:06:09.26,ZSZS Dialogue,,0000,0000,0000,,This is Teacher's inner space, that is, within his heart!
-Dialogue: 0,0:06:09.77,0:06:14.74,ZSZS Dialogue,,0000,0000,0000,,While trying to open his heart, you made it in here!
-Dialogue: 0,0:06:14.74,0:06:16.10,ZSZS Dialogue,,0000,0000,0000,,Within his heart...
-Dialogue: 0,0:06:16.57,0:06:20.49,ZSZS Dialogue,,0000,0000,0000,,So I should be able to open his heart from here somehow!
-Dialogue: 0,0:06:20.97,0:06:21.76,ZSZS Dialogue,,0000,0000,0000,,How naïve.
-Dialogue: 0,0:06:22.61,0:06:24.46,ZSZS Dialogue,,0000,0000,0000,,He's in his own heart!
-Dialogue: 0,0:06:24.79,0:06:28.22,ZSZS Dialogue,,0000,0000,0000,,People cant force others' hearts to change!
-Dialogue: 0,0:06:28.43,0:06:31.18,ZSZS Dialogue,,0000,0000,0000,,Especially not my rotten heart!
-Dialogue: 0,0:06:31.28,0:06:33.63,ZSZS Dialogue,,0000,0000,0000,,Run away now!
-Dialogue: 0,0:06:37.58,0:06:40.40,ZSZS Dialogue,,0000,0000,0000,,Such a person's thoughts are filled with despair.
+Dialogue: 0,0:05:49.10,0:05:51.56,ZSZS Dialogue,,0000,0000,0000,,But he's refusing to open his heart.
+Dialogue: 0,0:05:52.15,0:05:56.05,ZSZS Dialogue,,0000,0000,0000,,To open his heart, I must draw closer to it.
+Dialogue: 0,0:05:56.85,0:05:58.36,ZSZS Dialogue,,0000,0000,0000,,But how?
+Dialogue: 0,0:06:00.52,0:06:04.22,ZSZS Dialogue,,0000,0000,0000,,Wait, where am I? This isn't a school anymore!
+Dialogue: 0,0:06:05.05,0:06:09.00,ZSZS Dialogue,,0000,0000,0000,,This is Teacher's inner space, that is, within his heart!
+Dialogue: 0,0:06:09.84,0:06:14.74,ZSZS Dialogue,,0000,0000,0000,,While trying to open his heart, you made it in here!
+Dialogue: 0,0:06:14.85,0:06:15.90,ZSZS Dialogue,,0000,0000,0000,,Within his heart...
+Dialogue: 0,0:06:16.59,0:06:20.49,ZSZS Dialogue,,0000,0000,0000,,So I should be able to open his heart from here somehow!
+Dialogue: 0,0:06:20.97,0:06:21.70,ZSZS Dialogue,,0000,0000,0000,,How naïve.
+Dialogue: 0,0:06:22.85,0:06:24.37,ZSZS Dialogue,,0000,0000,0000,,He's in his own heart!
+Dialogue: 0,0:06:24.84,0:06:28.14,ZSZS Dialogue,,0000,0000,0000,,People cant force others' hearts to change!
+Dialogue: 0,0:06:28.93,0:06:31.18,ZSZS Dialogue,,0000,0000,0000,,Especially not my rotten heart!
+Dialogue: 0,0:06:31.53,0:06:33.63,ZSZS Dialogue,,0000,0000,0000,,Run away now!
+Dialogue: 0,0:06:37.64,0:06:40.37,ZSZS Dialogue,,0000,0000,0000,,Such a person's thoughts are filled with despair.
 Dialogue: 0,0:06:41.29,0:06:42.29,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}A hanging rope dangles from the branch of a withered tree in this wasteland.
 Dialogue: 0,0:06:43.34,0:06:44.04,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(604,104)\blur0.6}Even in town.
 Dialogue: 0,0:06:44.96,0:06:45.67,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(604,104)\blur0.6}Even in town.
-Dialogue: 0,0:06:46.66,0:06:48.53,ZSZS Dialogue,,0000,0000,0000,,There is no hope left here.
-Dialogue: 0,0:06:49.02,0:06:54.85,ZSZS Dialogue,,0000,0000,0000,,Even those who appear kind secretly disdain and loathe me!
-Dialogue: 0,0:06:56.59,0:07:00.47,ZSZS Dialogue,,0000,0000,0000,,What pain it is to be constantly scorned and cursed!
-Dialogue: 0,0:07:00.94,0:07:06.54,ZSZS Dialogue,,0000,0000,0000,,And the worst is my own realization that I'm a worthless, good-for-nothing excuse for a human being!
-Dialogue: 0,0:07:11.57,0:07:15.63,ZSZS Dialogue,,0000,0000,0000,,I'm in despair! The despair in my heart has left me in despair!
-Dialogue: 0,0:07:19.85,0:07:23.92,ZSZS Dialogue,,0000,0000,0000,,And this is only the beginning! My heart goes deeper and deeper!
-Dialogue: 0,0:07:24.29,0:07:26.35,ZSZS Dialogue,,0000,0000,0000,,Help me!
-Dialogue: 0,0:07:26.84,0:07:29.48,ZSZS Dialogue,,0000,0000,0000,,Nooooooo!
-Dialogue: 0,0:07:11.82,0:07:12.74,ZSZS Dialogue,,0000,0000,0000,,I'm in despair!
-Dialogue: 0,0:07:24.62,0:07:26.09,ZSZS Dialogue,,0000,0000,0000,,Help me!
+Dialogue: 0,0:06:46.70,0:06:48.51,ZSZS Dialogue,,0000,0000,0000,,There is no hope left here.
+Dialogue: 0,0:06:49.15,0:06:54.85,ZSZS Dialogue,,0000,0000,0000,,Even those who appear kind secretly disdain and loathe me!
+Dialogue: 0,0:06:56.60,0:07:00.43,ZSZS Dialogue,,0000,0000,0000,,What pain it is to be constantly scorned and cursed!
+Dialogue: 0,0:07:01.06,0:07:06.44,ZSZS Dialogue,,0000,0000,0000,,And the worst is my own realization that I'm a worthless, good-for-nothing excuse for a human being!
+Dialogue: 0,0:07:11.66,0:07:15.63,ZSZS Dialogue,,0000,0000,0000,,I'm in despair! The despair in my heart has left me in despair!
+Dialogue: 0,0:07:19.50,0:07:23.92,ZSZS Dialogue,,0000,0000,0000,,And this is only the beginning! My heart goes deeper and deeper!
+Dialogue: 0,0:07:24.40,0:07:26.30,ZSZS Dialogue,,0000,0000,0000,,Help me!
+Dialogue: 0,0:07:27.14,0:07:29.48,ZSZS Dialogue,,0000,0000,0000,,Nooooooo!
 Dialogue: 0,0:07:30.22,0:07:30.90,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\pos(115,25)\fs20\c&H39424E&}Despair: 「Waaaaah!」             As Despair screams, the background shatters like a mirror shattering.
 Dialogue: 0,0:07:30.22,0:07:30.90,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\pos(115,49)\fs20\c&H39424E&}Despair: 「I'm in despair! The despair in my heart has left me in despair!!」
 Dialogue: 0,0:07:30.22,0:07:30.90,ZSZS Typesetting - Screen,,0000,0000,0000,,{\an1\fs20\c&H39424E&\pos(87,202)}Perry: 「Eek!」
@@ -291,12 +293,12 @@ Dialogue: 0,0:07:38.10,0:07:40.20,ZSZS Typesetting - frutiger,,0000,0000,0000,,{
 Dialogue: 0,0:07:38.10,0:07:40.20,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs10\frz305.189\pos(542,318)\3c&HFFFFFF&\bord1}But here comes a direct assault on your crotch!
 Dialogue: 0,0:07:38.10,0:07:40.20,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs10\frz35.815\bord1\3c&HFFFFFF&\pos(618,312)}You may\Nhave made\Nit this far...
 Dialogue: 0,0:07:38.10,0:07:40.20,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\frz40.364\c&H3F5763&\frx12\fry0\3c&HFFFFFF&\bord1\pos(493,192)}Extra!
-Comment: 0,0:07:38.06,0:07:39.71,ZSZS Dialogue,,0000,0000,0000,,This is a pinup mag with a sealed centerfold!
+Dialogue: 0,0:07:38.25,0:07:40.16,ZSZS Dialogue,,0000,0000,0000,,This is a pinup mag with a sealed centerfold!
 Dialogue: 0,0:07:40.20,0:07:41.23,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,52)\c&H142136&\fs60\blur0.6}Flop
-Dialogue: 0,0:07:40.21,0:07:40.94,ZSZS Dialogue,,0000,0000,0000,,Still unopened!?
-Dialogue: 0,0:07:44.23,0:07:46.11,ZSZS Dialogue,,0000,0000,0000,,Are you disappointed, Perry?
-Dialogue: 0,0:07:46.65,0:07:50.19,ZSZS Dialogue,,0000,0000,0000,,The sealed centerfolds in a pinup mag are usually disappointing after you open them.
-Dialogue: 0,0:07:50.36,0:07:54.09,ZSZS Dialogue,,0000,0000,0000,,Yes, some things in this world are never meant to be opened!
+Dialogue: 0,0:07:40.21,0:07:41.12,ZSZS Dialogue,,0000,0000,0000,,Still unopened!?
+Dialogue: 0,0:07:44.06,0:07:46.15,ZSZS Dialogue,,0000,0000,0000,,Are you disappointed, Perry?
+Dialogue: 0,0:07:46.73,0:07:50.26,ZSZS Dialogue,,0000,0000,0000,,The sealed centerfolds in a pinup mag are usually disappointing after you open them.
+Dialogue: 0,0:07:50.55,0:07:54.09,ZSZS Dialogue,,0000,0000,0000,,Yes, some things in this world are never meant to be opened!
 Dialogue: 0,0:07:51.68,0:07:54.11,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs20\move(806,47,79,47,25,191)}・Pandora's Box
 Dialogue: 0,0:07:51.92,0:07:54.11,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs20\move(848,96,80,96,18,218)}・E-mail with a virus
 Dialogue: 0,0:07:52.15,0:07:54.11,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs20\move(792,140,79,140,30,255)}・The sticker on the back of a PSX (They won't fix it for you)
@@ -306,45 +308,45 @@ Dialogue: 0,0:07:52.92,0:07:54.11,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:07:53.18,0:07:54.11,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs20\move(810,315,80,315,26,193)}・Trepanation            ・Electric thermos
 Dialogue: 0,0:07:53.42,0:07:54.11,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs20\move(855,359,80,359,20,220)}・Large{\fsp-5} {\fsp0}wicker{\fsp-5} {\fsp0}hamper{\fsp-7} {\fsp0}・Door to weaving room
 Dialogue: 0,0:07:53.66,0:07:54.11,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs20\move(777,403,80,403,22,213)}・Open education
-Dialogue: 0,0:07:55.15,0:07:56.59,ZSZS Dialogue,,0000,0000,0000,,Th-That's true...
-Dialogue: 0,0:07:57.58,0:07:59.91,ZSZS Dialogue,,0000,0000,0000,,Perry may have been mistaken.
-Dialogue: 0,0:08:00.37,0:08:02.83,ZSZS Dialogue,,0000,0000,0000,,To be honest, I'm not actually Perry.
-Dialogue: 0,0:08:03.42,0:08:05.10,ZSZS Dialogue,,0000,0000,0000,,We already knew that.
+Dialogue: 0,0:07:55.42,0:07:56.75,ZSZS Dialogue,,0000,0000,0000,,Th-That's true...
+Dialogue: 0,0:07:57.72,0:07:59.99,ZSZS Dialogue,,0000,0000,0000,,Perry may have been mistaken.
+Dialogue: 0,0:08:00.50,0:08:02.99,ZSZS Dialogue,,0000,0000,0000,,To be honest, I'm not actually Perry.
+Dialogue: 0,0:08:03.53,0:08:05.10,ZSZS Dialogue,,0000,0000,0000,,We already knew that.
 Dialogue: 0,0:08:05.13,0:08:06.06,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}Recollection...
 Dialogue: 0,0:08:06.16,0:08:07.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs30\move(446,239,446,0,0,1694)\c&H462F30&}Shimoigusa Station
 Dialogue: 0,0:08:06.16,0:08:07.87,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs30\clip(319,209,545,243)\t(0,1694,\clip(319,-30,545,4))\move(446,239,446,0,0,1694)\c&HCE937F&}Shimoigusa Station
-Dialogue: 0,0:08:05.53,0:08:08.75,ZSZS Dialogue,,0000,0000,0000,,When I first came to Japan and had no friends...
-Dialogue: 0,0:08:09.13,0:08:12.55,ZSZS Dialogue,,0000,0000,0000,,She talked to me, a complete stranger.
+Dialogue: 0,0:08:05.60,0:08:08.85,ZSZS Dialogue,,0000,0000,0000,,When I first came to Japan and had no friends...
+Dialogue: 0,0:08:09.33,0:08:12.65,ZSZS Dialogue,,0000,0000,0000,,She talked to me, a complete stranger.
 Dialogue: 0,0:08:14.34,0:08:14.39,ZSZS Typesetting - smodern,,0000,0000,0000,,SIGNS: You look like Perry
-Dialogue: 0,0:08:12.72,0:08:14.54,ZSZS Dialogue,,0000,0000,0000,,You look like Perry.
-Dialogue: 0,0:08:15.30,0:08:18.68,ZSZS Dialogue,,0000,0000,0000,,Perry! Perry! Mr. Perry!
-Dialogue: 0,0:08:19.56,0:08:20.39,ZSZS Dialogue,,0000,0000,0000,,I was very happy.
-Dialogue: 0,0:08:20.98,0:08:23.69,ZSZS Dialogue,,0000,0000,0000,,Afterwards, I decided to become Perry.
-Dialogue: 0,0:08:23.97,0:08:25.06,ZSZS Dialogue,,0000,0000,0000,,Seriously...
-Dialogue: 0,0:08:25.61,0:08:28.39,ZSZS Dialogue,,0000,0000,0000,,You're too good at worming into people's hearts.
-Dialogue: 0,0:08:29.09,0:08:31.89,ZSZS Dialogue,,0000,0000,0000,,But I'm going to stop opening everything by force.
-Dialogue: 0,0:08:31.93,0:08:32.60,ZSZS Dialogue,,0000,0000,0000,,So...
+Dialogue: 0,0:08:13.13,0:08:14.64,ZSZS Dialogue,,0000,0000,0000,,You look like Perry.
+Dialogue: 0,0:08:16.12,0:08:18.91,ZSZS Dialogue,,0000,0000,0000,,Perry! Perry! Mr. Perry!
+Dialogue: 0,0:08:19.10,0:08:20.41,ZSZS Dialogue,,0000,0000,0000,,I was very happy.
+Dialogue: 0,0:08:21.13,0:08:23.96,ZSZS Dialogue,,0000,0000,0000,,Afterwards, I decided to become Perry.
+Dialogue: 0,0:08:24.67,0:08:25.33,ZSZS Dialogue,,0000,0000,0000,,Seriously...
+Dialogue: 0,0:08:25.75,0:08:28.59,ZSZS Dialogue,,0000,0000,0000,,You're too good at worming into people's hearts.
+Dialogue: 0,0:08:28.93,0:08:32.05,ZSZS Dialogue,,0000,0000,0000,,But I'm going to stop opening everything by force.
+Dialogue: 0,0:08:32.52,0:08:32.93,ZSZS Dialogue,,0000,0000,0000,,So...
 Dialogue: 0,0:08:34.86,0:08:34.91,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs23\pos(732,283)}I'm opening a\Nnew chapter.
-Dialogue: 0,0:08:33.57,0:08:34.99,ZSZS Dialogue,,0000,0000,0000,,I'm opening a new chapter.
-Dialogue: 0,0:08:36.20,0:08:37.74,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry, that's a bit...
-Dialogue: 0,0:08:37.91,0:08:40.49,ZSZS Dialogue,,0000,0000,0000,,Perry hasn't learned his lesson at all.
+Dialogue: 0,0:08:33.70,0:08:35.08,ZSZS Dialogue,,0000,0000,0000,,I'm opening a new chapter.
+Dialogue: 0,0:08:36.27,0:08:37.85,ZSZS Dialogue,,0000,0000,0000,,Commodore Perry, that's a bit...
+Dialogue: 0,0:08:38.48,0:08:40.64,ZSZS Dialogue,,0000,0000,0000,,Perry hasn't learned his lesson at all.
 Comment: 0,0:08:40.95,0:08:42.50,ZSZS Dialogue,,0000,0000,0000,,TOP: Ha. Ha. Ha.
-Dialogue: 0,0:08:42.41,0:08:45.12,ZSZS Dialogue,,0000,0000,0000,,Even if you're Perry, I won't let it end this way!
-Dialogue: 0,0:08:45.79,0:08:47.50,ZSZS Dialogue,,0000,0000,0000,,Teacher, you're talking funny.
+Dialogue: 0,0:08:42.90,0:08:45.39,ZSZS Dialogue,,0000,0000,0000,,Even if you're Perry, I won't let it end this way!
+Dialogue: 0,0:08:46.00,0:08:47.50,ZSZS Dialogue,,0000,0000,0000,,Teacher, you're talking funny.
 Dialogue: 0,0:08:47.79,0:08:49.80,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H23302C&\bord2\fs35\3c&HFDFDFD&\pos(377,130)}Forelocks Yet to Be Opened
 Dialogue: 0,0:08:47.79,0:08:49.80,ZSZS Typesetting - book covers,,0000,0000,0000,,{\pos(178,463)\blur0.6}Originally published 13th July, Showa 80
 Dialogue: 0,0:08:47.79,0:08:49.80,ZSZS Typesetting - book covers,,0000,0000,0000,,{\pos(746,37)\blur0.6}From Chapter 12
-Dialogue: 0,0:08:49.88,0:08:50.50,ZSZS Dialogue,,0000,0000,0000,,Wait!
-Dialogue: 0,0:08:50.96,0:08:53.42,ZSZS Dialogue,,0000,0000,0000,,Are you Perry or Peril!?
-Dialogue: 0,0:08:53.84,0:08:54.84,ZSZS Dialogue,,0000,0000,0000,,Make up your mind!
-Dialogue: 0,0:08:55.30,0:08:59.39,ZSZS Dialogue,,0000,0000,0000,,Um, well... When you put it that way...
+Dialogue: 0,0:08:50.00,0:08:50.44,ZSZS Dialogue,,0000,0000,0000,,Wait!
+Dialogue: 0,0:08:51.05,0:08:53.71,ZSZS Dialogue,,0000,0000,0000,,Are you Perry or Peril!?
+Dialogue: 0,0:08:54.10,0:08:54.84,ZSZS Dialogue,,0000,0000,0000,,Make up your mind!
+Dialogue: 0,0:08:55.30,0:08:59.31,ZSZS Dialogue,,0000,0000,0000,,Um, well... When you put it that way...
 Dialogue: 0,0:09:00.26,0:09:04.06,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs18\pos(544,74)\c&H8E8687&}Perry's Store for
 Dialogue: 0,0:09:00.26,0:09:04.06,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs30\pos(624,103)\c&H8E8687&}Perry
 Dialogue: 0,0:09:00.26,0:09:04.06,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs15\pos(472,202)\blur0.6}Closed
 Dialogue: 0,0:09:00.26,0:09:04.06,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs15\pos(496,269)\blur0.6}for
 Dialogue: 0,0:09:00.26,0:09:04.06,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs15\pos(485,290)\blur0.6}Business
-Dialogue: 0,0:09:00.47,0:09:01.77,ZSZS Dialogue,,0000,0000,0000,,It closed even though it was Perry.
-Dialogue: 0,0:09:02.06,0:09:03.64,ZSZS Dialogue,,0000,0000,0000,,What was he selling?
+Dialogue: 0,0:09:00.54,0:09:01.79,ZSZS Dialogue,,0000,0000,0000,,It closed even though it was Perry.
+Dialogue: 0,0:09:02.45,0:09:03.49,ZSZS Dialogue,,0000,0000,0000,,What was he selling?
 Dialogue: 0,0:09:04.52,0:09:04.69,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HEDF3F4&\fs28\pos(523,415)\blur0.6}When{\fsp-5} {\fsp0}you{\fsp-5} {\fsp0}want{\fsp-5} {\fsp0}to
 Dialogue: 0,0:09:04.69,0:09:04.85,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HEDF3F4&\fs28\pos(523,415)\blur0.6}get{\fsp-5} {\fsp0}all{\fsp-5} {\fsp0}the{\fsp-5} {\fsp0}toppings
 Dialogue: 0,0:09:04.85,0:09:05.02,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\c&HEDF3F4&\fs28\pos(523,415)\blur0.6}they{\fsp-5} {\fsp0}don't{\fsp-5} {\fsp0}all{\fsp-5} {\fsp0}fit
@@ -397,18 +399,18 @@ Dialogue: 0,0:09:17.61,0:09:17.70,ZSZS Typesetting - Blackboard,,0000,0000,0000,
 Dialogue: 0,0:09:17.66,0:09:17.70,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\c&H12263C&\fs40\blur0.5\pos(580,389)}Late
 Dialogue: 0,0:09:17.66,0:09:17.70,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\c&H12263C&\fs40\blur0.5\pos(184,205)}Late
 Dialogue: 0,0:09:17.66,0:09:17.70,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\c&H12263C&\fs40\blur0.5\pos(403,403)}Late
-Dialogue: 0,0:09:17.74,0:09:21.08,ZSZS Dialogue,,0000,0000,0000,,The Doll Festival is obviously overembellishment, isn't it?
-Dialogue: 0,0:09:22.51,0:09:25.84,ZSZS Dialogue,,0000,0000,0000,,The Master says "to go beyond is as wrong as to fall short".
-Dialogue: 0,0:09:26.38,0:09:30.88,ZSZS Dialogue,,0000,0000,0000,,Before people realize it, they've overembellished everything.
+Dialogue: 0,0:09:17.90,0:09:21.55,ZSZS Dialogue,,0000,0000,0000,,The Doll Festival is obviously overembellishment, isn't it?
+Dialogue: 0,0:09:22.49,0:09:25.84,ZSZS Dialogue,,0000,0000,0000,,The Master says "to go beyond is as wrong as to fall short".
+Dialogue: 0,0:09:26.55,0:09:30.98,ZSZS Dialogue,,0000,0000,0000,,Before people realize it, they've overembellished everything.
 Dialogue: 0,0:09:30.98,0:09:31.50,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}For example
 Dialogue: 0,0:09:32.25,0:09:32.76,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\pos(429,90)\fs70\c&H6F506F&}RATTLE
-Dialogue: 0,0:09:32.43,0:09:33.32,ZSZS Dialogue,,0000,0000,0000,,Like this.
+Dialogue: 0,0:09:32.94,0:09:33.56,ZSZS Dialogue,,0000,0000,0000,,Like this.
 Dialogue: 0,0:09:33.76,0:09:34.26,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}For example
 Dialogue: 0,0:09:34.80,0:09:35.59,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}And this
-Dialogue: 0,0:09:34.30,0:09:35.06,ZSZS Dialogue,,0000,0000,0000,,And this!
+Dialogue: 0,0:09:34.81,0:09:35.46,ZSZS Dialogue,,0000,0000,0000,,And this!
 Dialogue: 0,0:09:35.59,0:09:36.22,ZSZS Typesetting - Red names,,0000,0000,0000,,{\frz17.977\pos(409,121)\c&H3C60C6&}Draft Inside
 Dialogue: 0,0:09:36.22,0:09:36.69,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs150\pos(406,135)\c&H9989C6&\blur0.5}YANK
-Dialogue: 0,0:09:35.66,0:09:36.66,ZSZS Dialogue,,0000,0000,0000,,And this!
+Dialogue: 0,0:09:36.27,0:09:36.95,ZSZS Dialogue,,0000,0000,0000,,And this!
 Dialogue: 0,0:09:36.76,0:09:37.51,ZSZS Typesetting - Whiteboard,,0000,0000,0000,,{\c&H64676E&\frz24.288\pos(194,327)}I'm
 Dialogue: 0,0:09:36.76,0:09:37.51,ZSZS Typesetting - Whiteboard,,0000,0000,0000,,{\c&H64676E&\frz24.288\pos(207,346)}gonna
 Dialogue: 0,0:09:36.76,0:09:37.51,ZSZS Typesetting - Whiteboard,,0000,0000,0000,,{\c&H64676E&\frz24.288\pos(227,355)}make you
@@ -420,24 +422,24 @@ Dialogue: 0,0:09:38.05,0:09:38.55,ZSZS Typesetting - Screen,,0000,0000,0000,,{\p
 Dialogue: 0,0:09:38.55,0:09:39.09,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}all over the place
 Dialogue: 0,0:09:39.76,0:09:40.29,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}For example
 Dialogue: 0,0:09:41.01,0:09:41.51,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H471D48&\3c&HFFFFFF&\bord2\fs80\pos(430,99)}LATE{this is also just sfx}
-Dialogue: 0,0:09:41.43,0:09:42.56,ZSZS Dialogue,,0000,0000,0000,,And this makeup, as well!
-Dialogue: 0,0:09:42.77,0:09:43.56,ZSZS Dialogue,,0000,0000,0000,,Who did that?
-Dialogue: 0,0:09:44.06,0:09:45.39,ZSZS Dialogue,,0000,0000,0000,,Maria did it to herself.
-Dialogue: 0,0:09:45.73,0:09:48.90,ZSZS Dialogue,,0000,0000,0000,,She doesn't like shoes and underwear, but she's fine with this stuff, huh?
-Dialogue: 0,0:09:49.15,0:09:50.11,ZSZS Dialogue,,0000,0000,0000,,Shoes and under--
-Dialogue: 0,0:09:50.36,0:09:50.77,ZSZS Dialogue,,0000,0000,0000,,What was that?
-Dialogue: 0,0:09:51.36,0:09:54.28,ZSZS Dialogue,,0000,0000,0000,,Maria feels sick whenever she wears shoes or underwear.
-Dialogue: 0,0:09:54.94,0:09:56.20,ZSZS Dialogue,,0000,0000,0000,,I'm not wearing any right now!
-Dialogue: 0,0:09:57.36,0:09:57.24,ZSZS Dialogue,,0000,0000,0000,,Okay.
-Dialogue: 0,0:09:57.66,0:09:58.61,ZSZS Dialogue,,0000,0000,0000,,We'll ignore that.
+Dialogue: 0,0:09:41.69,0:09:42.77,ZSZS Dialogue,,0000,0000,0000,,And this makeup, as well!
+Dialogue: 0,0:09:43.00,0:09:43.92,ZSZS Dialogue,,0000,0000,0000,,Who did that?
+Dialogue: 0,0:09:44.26,0:09:45.58,ZSZS Dialogue,,0000,0000,0000,,Maria did it to herself.
+Dialogue: 0,0:09:45.94,0:09:49.03,ZSZS Dialogue,,0000,0000,0000,,She doesn't like shoes and underwear, but she's fine with this stuff, huh?
+Dialogue: 0,0:09:49.35,0:09:49.85,ZSZS Dialogue,,0000,0000,0000,,Shoes and under--
+Dialogue: 0,0:09:50.47,0:09:51.12,ZSZS Dialogue,,0000,0000,0000,,What was that?
+Dialogue: 0,0:09:51.42,0:09:54.48,ZSZS Dialogue,,0000,0000,0000,,Maria feels sick whenever she wears shoes or underwear.
+Dialogue: 0,0:09:55.06,0:09:56.31,ZSZS Dialogue,,0000,0000,0000,,I'm not wearing any right now!
+Dialogue: 0,0:09:57.60,0:09:58.02,ZSZS Dialogue,,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:58.16,0:09:58.86,ZSZS Dialogue,,0000,0000,0000,,We'll ignore that.
 Dialogue: 0,0:09:58.94,0:09:59.68,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}Setting that aside
-Dialogue: 0,0:09:59.54,0:10:01.81,ZSZS Dialogue,,0000,0000,0000,,Both old and young people overembellish!
-Dialogue: 0,0:10:02.61,0:10:04.12,ZSZS Dialogue,,0000,0000,0000,,Are you trying to be Madame de Pompadour!?
-Dialogue: 0,0:10:06.66,0:10:09.38,ZSZS Dialogue,,0000,0000,0000,,When nobody says anything, things become more overembellished!
-Dialogue: 0,0:10:09.79,0:10:12.30,ZSZS Dialogue,,0000,0000,0000,,Like the decorations on a sashimi plate at a Japanese diner!
+Dialogue: 0,0:09:59.90,0:10:01.99,ZSZS Dialogue,,0000,0000,0000,,Both old and young people overembellish!
+Dialogue: 0,0:10:02.73,0:10:04.35,ZSZS Dialogue,,0000,0000,0000,,Are you trying to be Madame de Pompadour!?
+Dialogue: 0,0:10:06.76,0:10:09.28,ZSZS Dialogue,,0000,0000,0000,,When nobody says anything, things become more overembellished!
+Dialogue: 0,0:10:09.73,0:10:12.20,ZSZS Dialogue,,0000,0000,0000,,Like the decorations on a sashimi plate at a Japanese diner!
 Dialogue: 0,0:10:11.63,0:10:12.25,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H061B19&\fs15\frz6.086\pos(271,289)}Edible part
 Dialogue: 0,0:10:12.25,0:10:14.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs13\c&H2E3438&\pos(487,299)}Basilica\Nof Bargains
-Dialogue: 0,0:10:12.46,0:10:14.67,ZSZS Dialogue,,0000,0000,0000,,Or the amusement park on top of a discount store!
+Dialogue: 0,0:10:12.67,0:10:14.76,ZSZS Dialogue,,0000,0000,0000,,Or the amusement park on top of a discount store!
 Dialogue: 0,0:10:15.21,0:10:17.76,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\fs40\pos(676,279)}I
 Dialogue: 0,0:10:15.59,0:10:17.76,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\fs40\pos(589,270)}II
 Dialogue: 0,0:10:15.96,0:10:17.76,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\fs40\pos(506,271)}III
@@ -446,45 +448,47 @@ Dialogue: 0,0:10:16.72,0:10:17.76,ZSZS Typesetting - Red names,,0000,0000,0000,,
 Dialogue: 0,0:10:17.09,0:10:17.76,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\fs40\pos(257,269)}6
 Dialogue: 0,0:10:17.47,0:10:17.76,ZSZS Typesetting - Red names,,0000,0000,0000,,{\3c&HFFFFFF&\bord0.9\fs40\pos(175,281)}7
 Dialogue: 0,0:10:15.01,0:10:17.55,ZSZS Dialogue,,0000,0000,0000,,Or the pile of crane game stuffed animals in a car!
-Dialogue: 0,0:10:18.01,0:10:21.80,ZSZS Dialogue,,0000,0000,0000,,There are people who put all seven dwarves in the back of their car.
-Dialogue: 0,0:10:22.05,0:10:25.47,ZSZS Dialogue,,0000,0000,0000,,Anyone who has dwarves on their car usually has all seven.
-Dialogue: 0,0:10:25.85,0:10:27.64,ZSZS Dialogue,,0000,0000,0000,,Since they're the seven dwarves.
-Dialogue: 0,0:10:28.23,0:10:29.37,ZSZS Dialogue,,0000,0000,0000,,You can't just put one.
+Dialogue: 0,0:10:18.10,0:10:21.80,ZSZS Dialogue,,0000,0000,0000,,There are people who put all seven dwarves in the back of their car.
+Dialogue: 0,0:10:22.05,0:10:25.70,ZSZS Dialogue,,0000,0000,0000,,Anyone who has dwarves on their car usually has all seven.
+Dialogue: 0,0:10:26.19,0:10:27.71,ZSZS Dialogue,,0000,0000,0000,,Since they're the seven dwarves.
+Dialogue: 0,0:10:28.23,0:10:29.24,ZSZS Dialogue,,0000,0000,0000,,You can't just put one.
 Dialogue: 0,0:10:29.98,0:10:30.62,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs28\blur0.6\pos(424,42)\c&HF6F6F7&}Nozomu 「What's with this conversation」
-Dialogue: 0,0:10:29.98,0:10:34.19,ZSZS Dialogue,,0000,0000,0000,,Well, it's true that some people don't know how to coordinate.
-Dialogue: 0,0:10:34.57,0:10:36.78,ZSZS Dialogue,,0000,0000,0000,,Like wearing a checkered tie with a checkered shirt.
-Dialogue: 0,0:10:36.99,0:10:39.36,ZSZS Dialogue,,0000,0000,0000,,Or wearing chrome heart rings on all ten fingers.
-Dialogue: 0,0:10:39.66,0:10:42.59,ZSZS Dialogue,,0000,0000,0000,,Or furnishing a room with high class items that have no common theme.
-Dialogue: 0,0:10:45.58,0:10:50.12,ZSZS Dialogue,,0000,0000,0000,,Doesn't that apply to a lot of manga artists who suddenly become rich after making a hit?
-Dialogue: 0,0:10:50.58,0:10:51.58,ZSZS Dialogue,,0000,0000,0000,,Don't say that out loud.
-Dialogue: 0,0:10:52.08,0:10:54.17,ZSZS Dialogue,,0000,0000,0000,,That isn't overembellishing.
-Dialogue: 0,0:10:55.17,0:10:57.59,ZSZS Dialogue,,0000,0000,0000,,A checkered tie with a checkered shirt...
-Dialogue: 0,0:10:58.47,0:11:00.55,ZSZS Dialogue,,0000,0000,0000,,Would be the act of a master of chic.
-Dialogue: 0,0:11:01.51,0:11:03.85,ZSZS Dialogue,,0000,0000,0000,,Commoners are incapable of such coordination.
-Dialogue: 0,0:11:04.31,0:11:05.60,ZSZS Dialogue,,0000,0000,0000,,Émile Gallé's pottery...
-Dialogue: 0,0:11:05.81,0:11:07.02,ZSZS Dialogue,,0000,0000,0000,,Gaudi's architechture...
-Dialogue: 0,0:11:07.22,0:11:08.23,ZSZS Dialogue,,0000,0000,0000,,The Kabuki style...
-Dialogue: 0,0:11:08.55,0:11:09.48,ZSZS Dialogue,,0000,0000,0000,,The beauty of addition.
-Dialogue: 0,0:11:09.77,0:11:13.05,ZSZS Dialogue,,0000,0000,0000,,A local form of Art Nouveau based on Japanism!
+Dialogue: 0,0:10:30.11,0:10:34.39,ZSZS Dialogue,,0000,0000,0000,,Well, it's true that some people don't know how to coordinate.
+Dialogue: 0,0:10:34.65,0:10:36.90,ZSZS Dialogue,,0000,0000,0000,,Like wearing a checkered tie with a checkered shirt.
+Dialogue: 0,0:10:37.13,0:10:39.50,ZSZS Dialogue,,0000,0000,0000,,Or wearing chrome heart rings on all ten fingers.
+Dialogue: 0,0:10:39.87,0:10:42.65,ZSZS Dialogue,,0000,0000,0000,,Or furnishing a room with high class items that have no common theme.
+Dialogue: 0,0:10:46.03,0:10:50.24,ZSZS Dialogue,,0000,0000,0000,,Doesn't that apply to a lot of manga artists who suddenly become rich after making a hit?
+Dialogue: 0,0:10:50.60,0:10:51.67,ZSZS Dialogue,,0000,0000,0000,,Don't say that out loud.
+Dialogue: 0,0:10:51.87,0:10:54.39,ZSZS Dialogue,,0000,0000,0000,,That isn't overembellishing.
+Dialogue: 0,0:10:54.58,0:10:55.04,ZSZS Dialogue,,0000,0000,0000,,Eh?
+Dialogue: 0,0:10:55.30,0:10:58.00,ZSZS Dialogue,,0000,0000,0000,,A checkered tie with a checkered shirt...
+Dialogue: 0,0:10:58.70,0:11:00.63,ZSZS Dialogue,,0000,0000,0000,,would be the act of a master of chic.
+Dialogue: 0,0:11:00.83,0:11:01.25,ZSZS Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:01.65,0:11:04.10,ZSZS Dialogue,,0000,0000,0000,,Commoners are incapable of such coordination.
+Dialogue: 0,0:11:04.56,0:11:05.75,ZSZS Dialogue,,0000,0000,0000,,Émile Gallé's pottery...
+Dialogue: 0,0:11:05.94,0:11:07.24,ZSZS Dialogue,,0000,0000,0000,,Gaudi's architechture...
+Dialogue: 0,0:11:07.49,0:11:08.51,ZSZS Dialogue,,0000,0000,0000,,The Kabuki style...
+Dialogue: 0,0:11:08.73,0:11:09.53,ZSZS Dialogue,,0000,0000,0000,,The beauty of addition.
+Dialogue: 0,0:11:09.86,0:11:13.42,ZSZS Dialogue,,0000,0000,0000,,A local form of Art Nouveau based on Japanism!
 Dialogue: 0,0:11:13.42,0:11:13.95,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs34\blur0.6\pos(424,44)\c&H43484F&}Art Nouveau
 Dialogue: 0,0:11:14.31,0:11:21.95,ZSZS Typesetting - smodern,,0000,0000,0000,,{\pos(702,182)\fs20\c&H2A2C30&}Art Nouveau
-Dialogue: 0,0:11:14.23,0:11:18.07,ZSZS Dialogue,,0000,0000,0000,,Whenever you start using fancy terms, people who have no clue are turned off,
-Dialogue: 0,0:11:18.28,0:11:20.28,ZSZS Dialogue,,0000,0000,0000,,and people who are experts shoot off objections!
-Dialogue: 0,0:11:20.49,0:11:21.78,ZSZS Dialogue,,0000,0000,0000,,The worst possible turn of events!
-Dialogue: 0,0:11:21.99,0:11:22.45,ZSZS Dialogue,,0000,0000,0000,,Come.
-Dialogue: 0,0:11:23.07,0:11:25.37,ZSZS Dialogue,,0000,0000,0000,,Let's go look for masters of chic in the neighborhood.
-Dialogue: 0,0:11:30.16,0:11:31.12,ZSZS Dialogue,,0000,0000,0000,,There's one.
-Dialogue: 0,0:11:32.50,0:11:33.29,ZSZS Dialogue,,0000,0000,0000,,Overembell-
+Dialogue: 0,0:11:14.35,0:11:18.04,ZSZS Dialogue,,0000,0000,0000,,Whenever you start using fancy terms, people who have no clue are turned off,
+Dialogue: 0,0:11:18.28,0:11:20.48,ZSZS Dialogue,,0000,0000,0000,,and people who are experts shoot off objections!
+Dialogue: 0,0:11:20.63,0:11:21.90,ZSZS Dialogue,,0000,0000,0000,,The worst possible turn of events!
+Dialogue: 0,0:11:22.30,0:11:22.55,ZSZS Dialogue,,0000,0000,0000,,Come.
+Dialogue: 0,0:11:23.05,0:11:25.50,ZSZS Dialogue,,0000,0000,0000,,Let's go look for masters of chic in the neighborhood.
+Dialogue: 0,0:11:30.54,0:11:31.12,ZSZS Dialogue,,0000,0000,0000,,There's one.
+Dialogue: 0,0:11:32.83,0:11:33.41,ZSZS Dialogue,,0000,0000,0000,,Overembell-
 Dialogue: 0,0:11:33.17,0:11:34.00,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an6\fs72\c&H837571&\pos(324,248)}ugh
-Dialogue: 0,0:11:34.04,0:11:35.57,ZSZS Dialogue,,0000,0000,0000,,A master of chic!
+Dialogue: 0,0:11:34.20,0:11:35.59,ZSZS Dialogue,,0000,0000,0000,,A master of chic!
 Dialogue: 0,0:11:35.63,0:11:36.80,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(246,73)\blur0.4}Recognized as
 Dialogue: 0,0:11:35.63,0:11:36.80,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(339,110)\blur0.4}Master of Chic
 Dialogue: 0,0:11:36.80,0:11:39.46,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs13\pos(304,323)\c&H122532&}Today only
 Dialogue: 0,0:11:36.80,0:11:39.46,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs13\pos(565,323)\c&H122532&}Everything 25%
 Dialogue: 0,0:11:36.80,0:11:39.46,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs13\pos(764,323)\c&H122532&}off!!
-Dialogue: 0,0:11:36.67,0:11:38.55,ZSZS Dialogue,,0000,0000,0000,,It looks like we're being complimented.
-Dialogue: 0,0:11:38.55,0:11:39.17,ZSZS Dialogue,,0000,0000,0000,,Thank you.
-Dialogue: 0,0:11:40.47,0:11:42.84,ZSZS Dialogue,,0000,0000,0000,,Even more overembellishment!
+Dialogue: 0,0:11:36.91,0:11:38.68,ZSZS Dialogue,,0000,0000,0000,,It looks like we're being complimented.
+Dialogue: 0,0:11:38.95,0:11:39.53,ZSZS Dialogue,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:11:41.49,0:11:42.94,ZSZS Dialogue,,0000,0000,0000,,Even more overembellishment!
 Dialogue: 0,0:11:42.97,0:11:43.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs26\pos(121,247)\c&H9E8E87&}Beer
 Dialogue: 0,0:11:42.97,0:11:43.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs26\c&H526079&\pos(650,164)}COCCO Reibanya
 Dialogue: 0,0:11:42.97,0:11:43.84,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HD3F0F0&\fs16\frz16.702\pos(138,346)}Curry
@@ -501,35 +505,35 @@ Dialogue: 0,0:11:43.84,0:11:44.85,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:11:44.85,0:11:45.43,ZSZS Typesetting - Screen,,0000,0000,0000,,{\bord3\fs100\3c&HF0F1FC&\c&H23354B&\frz343.344\frx354\fry14\pos(495,164)}LATE
 Dialogue: 0,0:11:46.26,0:11:47.49,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(246,73)\blur0.4}Recognized as
 Dialogue: 0,0:11:46.26,0:11:47.49,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(339,110)\blur0.4}Master of Chic
-Dialogue: 0,0:11:46.52,0:11:47.81,ZSZS Dialogue,,0000,0000,0000,,A master of chic!
-Dialogue: 0,0:11:48.27,0:11:49.95,ZSZS Dialogue,,0000,0000,0000,,He just added too many toppings!
-Dialogue: 0,0:11:50.09,0:11:53.98,ZSZS Dialogue,,0000,0000,0000,,You can also find masters of chic at Baskin Robbins and Starbucks.
+Dialogue: 0,0:11:46.60,0:11:48.15,ZSZS Dialogue,,0000,0000,0000,,A master of chic!
+Dialogue: 0,0:11:48.71,0:11:50.18,ZSZS Dialogue,,0000,0000,0000,,He just added too many toppings!
+Dialogue: 0,0:11:50.70,0:11:53.92,ZSZS Dialogue,,0000,0000,0000,,You can also find masters of chic at Baskin Robbins and Starbucks.
 Dialogue: 0,0:11:51.92,0:11:53.79,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs20\c&H90848A&\move(625,173,625,510)}Coffee
 Dialogue: 0,0:11:52.09,0:11:54.10,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs24\c&H90848A&\move(212,126,212,488)}Milk
 Dialogue: 0,0:11:52.46,0:11:54.10,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs24\move(683,63,683,360)\c&H90848A&}Frothed Milk
 Dialogue: 0,0:11:52.82,0:11:54.10,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs24\c&H90848A&\move(143,92,143,320)}Whipped Cream
 Dialogue: 0,0:11:53.26,0:11:54.10,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs24\c&H90848A&\move(647,3,647,150)}Chopped almond
 Dialogue: 0,0:11:53.59,0:11:54.10,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs24\c&H90848A&\move(276,22,276,116)}Cherry
-Dialogue: 0,0:11:54.06,0:11:57.32,ZSZS Dialogue,,0000,0000,0000,,You can, but those are pretty expensive.
+Dialogue: 0,0:11:54.37,0:11:57.27,ZSZS Dialogue,,0000,0000,0000,,You can, but those are pretty expensive.
 Dialogue: 0,0:11:58.28,0:11:58.86,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs72\pos(276,93)\blur0.5\frz18.485}Oh my
-Dialogue: 0,0:11:57.78,0:11:58.36,ZSZS Dialogue,,0000,0000,0000,,Oh my.
-Dialogue: 0,0:11:59.69,0:12:02.67,ZSZS Dialogue,,0000,0000,0000,,A master of chic wearing a hat over a hat.
+Dialogue: 0,0:11:58.40,0:11:58.81,ZSZS Dialogue,,0000,0000,0000,,Oh my.
+Dialogue: 0,0:11:59.75,0:12:02.76,ZSZS Dialogue,,0000,0000,0000,,A master of chic wearing a hat over a hat.
 Dialogue: 0,0:12:02.78,0:12:05.28,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(246,73)\blur0.4}Recognized as
 Dialogue: 0,0:12:02.78,0:12:05.28,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(339,110)\blur0.4}Master of Chic
-Dialogue: 0,0:12:02.73,0:12:05.20,ZSZS Dialogue,,0000,0000,0000,,That's terrible even for an overembellishment!
-Dialogue: 0,0:12:05.57,0:12:07.12,ZSZS Dialogue,,0000,0000,0000,,You can expect good things from a house like this.
-Dialogue: 0,0:12:08.24,0:12:10.66,ZSZS Dialogue,,0000,0000,0000,,There's always a cover on the doorknob.
+Dialogue: 0,0:12:02.95,0:12:05.25,ZSZS Dialogue,,0000,0000,0000,,That's terrible even for an overembellishment!
+Dialogue: 0,0:12:05.49,0:12:07.98,ZSZS Dialogue,,0000,0000,0000,,You can expect good things from a house like this.
+Dialogue: 0,0:12:08.48,0:12:10.66,ZSZS Dialogue,,0000,0000,0000,,There's always a cover on the doorknob.
 Dialogue: 0,0:12:10.79,0:12:12.96,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs14\pos(457,329)\frz20.352\c&H36363A&}Homemade
-Dialogue: 0,0:12:11.16,0:12:12.62,ZSZS Dialogue,,0000,0000,0000,,And they make potpourri by hand.
-Dialogue: 0,0:12:12.96,0:12:14.58,ZSZS Dialogue,,0000,0000,0000,,And have pieces of felt lying around.
-Dialogue: 0,0:12:14.88,0:12:16.42,ZSZS Dialogue,,0000,0000,0000,,And lots of types of tea!
-Dialogue: 0,0:12:16.84,0:12:18.09,ZSZS Dialogue,,0000,0000,0000,,You're very well-versed.
-Dialogue: 0,0:12:18.38,0:12:19.62,ZSZS Dialogue,,0000,0000,0000,,A master of chic!
+Dialogue: 0,0:12:11.22,0:12:12.81,ZSZS Dialogue,,0000,0000,0000,,And they make potpourri by hand.
+Dialogue: 0,0:12:13.22,0:12:14.65,ZSZS Dialogue,,0000,0000,0000,,And have pieces of felt lying around.
+Dialogue: 0,0:12:15.03,0:12:16.65,ZSZS Dialogue,,0000,0000,0000,,And lots of types of tea!
+Dialogue: 0,0:12:17.13,0:12:18.01,ZSZS Dialogue,,0000,0000,0000,,You're very well-versed.
+Dialogue: 0,0:12:18.33,0:12:19.78,ZSZS Dialogue,,0000,0000,0000,,A master of chic!
 Dialogue: 0,0:12:19.80,0:12:20.89,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(246,73)\blur0.4}Recognized as
 Dialogue: 0,0:12:19.80,0:12:20.89,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HECEEF2&\fs28\pos(339,110)\blur0.4}Master of Chic
-Dialogue: 0,0:12:19.82,0:12:20.59,ZSZS Dialogue,,0000,0000,0000,,Ma'am.
-Dialogue: 0,0:12:20.80,0:12:23.26,ZSZS Dialogue,,0000,0000,0000,,Let's talk about Sylvanian some other time.
-Dialogue: 2,0:12:24.05,0:12:26.55,ZSZS Dialogue,,0000,0000,0000,,Signs peppered around a game store!
+Dialogue: 0,0:12:20.08,0:12:20.70,ZSZS Dialogue,,0000,0000,0000,,Ma'am.
+Dialogue: 0,0:12:21.10,0:12:23.55,ZSZS Dialogue,,0000,0000,0000,,Let's talk about Sylvanian some other time.
+Dialogue: 2,0:12:24.15,0:12:26.38,ZSZS Dialogue,,0000,0000,0000,,Signs peppered around a game store!
 Dialogue: 0,0:12:23.76,0:12:26.26,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs12\fscx90\pos(232,226)\c&HCACBCE&\frz13.401}Muscle {\c&H3E4986&}Age!{\c&HCACBCE&} DS
 Dialogue: 0,0:12:23.76,0:12:26.09,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs11\fscx90\c&HCACBCE&\frz13.401\pos(324,204)}Muscle {\c&H3E4986&}Age!{\c&HCACBCE&} DS
 Dialogue: 1,0:12:23.76,0:12:28.10,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs10\fscx90\frz13.401\c&H272727&\pos(512,142)}Higurashi DS
@@ -568,9 +572,9 @@ Dialogue: 0,0:12:26.60,0:12:28.10,ZSZS Typesetting - frutiger,,0000,0000,0000,,{
 Dialogue: 0,0:12:26.60,0:12:28.10,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H30375E&\fs13\frz279.56\pos(233,319)}Almost sold out!
 Dialogue: 0,0:12:26.68,0:12:28.10,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fnFansub Block\fs150\fscx120\fscy125\c&HF7F5F8&\pos(675,426)\clip(m 643 283 l 660 280 649 376 634 375)}A
 Dialogue: 1,0:12:26.68,0:12:28.10,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs11\c&H3C4351&\frz262.82\pos(634,331)}Undercover security\Non duty
-Dialogue: 2,0:12:26.51,0:12:28.14,ZSZS Dialogue,,0000,0000,0000,,Master of chic!
-Dialogue: 0,0:12:28.47,0:12:30.68,ZSZS Dialogue,,0000,0000,0000,,A person living in the park who's gathered too many belongings.
-Dialogue: 0,0:12:31.10,0:12:32.23,ZSZS Dialogue,,0000,0000,0000,,Master of chic!
+Dialogue: 2,0:12:27.11,0:12:28.21,ZSZS Dialogue,,0000,0000,0000,,Master of chic!
+Dialogue: 0,0:12:28.69,0:12:30.68,ZSZS Dialogue,,0000,0000,0000,,A person living in the park who's gathered too many belongings.
+Dialogue: 0,0:12:31.31,0:12:32.42,ZSZS Dialogue,,0000,0000,0000,,Master of chic!
 Dialogue: 0,0:12:32.48,0:12:38.82,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs11\fscx90\pos(143,163)}{\c&H7A7479&\t(2500,2800,\c&H3E454E&)}Limited Edition
 Dialogue: 0,0:12:32.48,0:12:38.82,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs16\pos(146,245)}{\c&H7A7479&\t(2500,2800,\c&H3E454E&)}DVD Box
 Dialogue: 0,0:12:32.48,0:12:38.82,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an5\fs18\blur0.5\pos(292,205)}{\c&HC6585C&\t(2500,2800,\c&H3C4851&)}Itoshiki\NNozomu
@@ -586,12 +590,12 @@ Dialogue: 2,0:12:32.48,0:12:38.82,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 2,0:12:32.48,0:12:38.82,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\frz270\pos(493,209)}{\c&H32414C&\t(2500,2800,\c&H141D22&)}Novels
 Dialogue: 2,0:12:32.48,0:12:38.82,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs10\frz270\pos(474,236)}{\c&H32414C&\t(2500,2800,\c&H141D22&)}Layout Illustrations
 Dialogue: 2,0:12:32.48,0:12:38.82,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs12\frz270\pos(451,221)}{\c&H32414C&\t(2500,2800,\c&H141D22&)}Storyboards
-Dialogue: 0,0:12:32.56,0:12:36.69,ZSZS Dialogue,,0000,0000,0000,,A DVD that comes with so many extras that you can't tell which one's the main item...
+Dialogue: 0,0:12:32.70,0:12:36.69,ZSZS Dialogue,,0000,0000,0000,,A DVD that comes with so many extras that you can't tell which one's the main item...
 Dialogue: 0,0:12:36.48,0:12:36.73,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs22\pos(446,39)\blur0.4\c&H2C36AB&}This one
 Dialogue: 0,0:12:37.23,0:12:37.48,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs22\pos(446,39)\blur0.4\c&H2C36AB&}This one
 Dialogue: 0,0:12:37.98,0:12:38.23,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs22\pos(446,39)\blur0.4\c&H2C36AB&}This one
-Dialogue: 0,0:12:36.65,0:12:38.61,ZSZS Dialogue,,0000,0000,0000,,That would be meant for masters of chic, right?
-Dialogue: 0,0:12:39.61,0:12:42.61,ZSZS Dialogue,,0000,0000,0000,,Those splendid masters of chic!
+Dialogue: 0,0:12:37.12,0:12:38.75,ZSZS Dialogue,,0000,0000,0000,,That would be meant for masters of chic, right?
+Dialogue: 0,0:12:39.95,0:12:42.71,ZSZS Dialogue,,0000,0000,0000,,Those splendid masters of chic!
 Dialogue: 0,0:12:42.78,0:12:43.03,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs26\pos(149,145)\blur0.6\c&H189BAB&}•
 Dialogue: 0,0:12:42.78,0:12:43.03,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H189BAB&\fs22\an1\pos(166,141)}A grilled meat restaurant featuring harp music
 Dialogue: 0,0:12:42.78,0:12:43.03,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs26\blur0.6\c&H189BAB&\pos(149,220)}•
@@ -632,71 +636,73 @@ Dialogue: 0,0:12:43.53,0:12:43.90,ZSZS Typesetting - frutiger,,0000,0000,0000,,{
 Dialogue: 0,0:12:43.53,0:12:43.90,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H189BAB&\fs19\an1\pos(164,371)}70% of Japanese men are overwrapped
 Dialogue: 0,0:12:43.53,0:12:43.90,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs24\blur0.6\c&H189BAB&\pos(149,435)}•
 Dialogue: 0,0:12:43.53,0:12:43.90,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H189BAB&\fs19\an1\pos(164,431)}Manga volume that comes with a picro**
-Dialogue: 0,0:12:44.36,0:12:45.87,ZSZS Dialogue,,0000,0000,0000,,Isn't that overembellishment?
-Dialogue: 0,0:12:47.20,0:12:50.66,ZSZS Dialogue,,0000,0000,0000,,Overembellishment isn't limited to the real world.
-Dialogue: 0,0:12:51.16,0:12:52.00,ZSZS Dialogue,,0000,0000,0000,,What do you mean?
-Dialogue: 0,0:12:51.68,0:12:52.32,ZSZS Dialogue,,0000,0000,0000,,Like this.
+Dialogue: 0,0:12:44.22,0:12:45.82,ZSZS Dialogue,,0000,0000,0000,,Isn't that overembellishment?
+Dialogue: 0,0:12:47.36,0:12:50.75,ZSZS Dialogue,,0000,0000,0000,,Overembellishment isn't limited to the real world.
+Dialogue: 0,0:12:51.47,0:12:52.00,ZSZS Dialogue,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:12:52.20,0:12:52.75,ZSZS Dialogue,,0000,0000,0000,,Like this.
 Dialogue: 0,0:12:52.04,0:13:00.88,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs12\c&H263748&\pos(306,375)}Contributed by the JZU
 Dialogue: 0,0:13:00.88,0:13:04.17,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H4E5154&\fs13\pos(499,64)}Create avatar
-Dialogue: 0,0:12:52.86,0:12:53.95,ZSZS Dialogue,,0000,0000,0000,,What is that?
-Dialogue: 0,0:12:54.42,0:12:55.37,ZSZS Dialogue,,0000,0000,0000,,An avatar.
-Dialogue: 0,0:12:55.62,0:13:01.01,ZSZS Dialogue,,0000,0000,0000,,You can choose hairstyles, clothes, and accessories, and make another you on the Internet.
-Dialogue: 0,0:13:01.34,0:13:03.22,ZSZS Dialogue,,0000,0000,0000,,A lot of people overembellish.
+Dialogue: 0,0:12:53.50,0:12:54.21,ZSZS Dialogue,,0000,0000,0000,,What is that?
+Dialogue: 0,0:12:54.59,0:12:55.51,ZSZS Dialogue,,0000,0000,0000,,An avatar.
+Dialogue: 0,0:12:56.21,0:13:01.26,ZSZS Dialogue,,0000,0000,0000,,You can choose hairstyles, clothes, and accessories, and make another you on the Internet.
+Dialogue: 0,0:13:01.40,0:13:03.22,ZSZS Dialogue,,0000,0000,0000,,A lot of people overembellish.
 Dialogue: 0,0:13:04.17,0:13:06.76,ZSZS Typesetting - name screens,,0000,0000,0000,,{\c&HCBF6C4&\fs48\pos(455,100)\frz12.551}GRIN
 Dialogue: 0,0:13:04.17,0:13:06.76,ZSZS Typesetting - name screens,,0000,0000,0000,,{\c&HCBF6C4&\fs48\frz31.995\pos(367,210)}GRIN
-Dialogue: 0,0:13:04.93,0:13:06.30,ZSZS Dialogue,,0000,0000,0000,,What are you grinning about?
-Dialogue: 0,0:13:07.09,0:13:09.18,ZSZS Dialogue,,0000,0000,0000,,I made an avatar for you.
+Dialogue: 0,0:13:05.15,0:13:06.58,ZSZS Dialogue,,0000,0000,0000,,What are you grinning about?
+Dialogue: 0,0:13:07.56,0:13:09.18,ZSZS Dialogue,,0000,0000,0000,,I made an avatar for you.
 Dialogue: 0,0:13:09.18,0:13:10.43,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H4E5154&\fs13\pos(499,64)}Create avatar
-Dialogue: 0,0:13:10.26,0:13:12.77,ZSZS Dialogue,,0000,0000,0000,,Teacher's a master of chic!
-Dialogue: 0,0:13:13.27,0:13:15.48,ZSZS Dialogue,,0000,0000,0000,,Stop doing things to make people look down on me!
-Dialogue: 0,0:13:15.98,0:13:17.35,ZSZS Dialogue,,0000,0000,0000,,I made one for everybody.
+Dialogue: 0,0:13:10.55,0:13:12.75,ZSZS Dialogue,,0000,0000,0000,,Teacher's a master of chic!
+Dialogue: 0,0:13:13.27,0:13:15.67,ZSZS Dialogue,,0000,0000,0000,,Stop doing things to make people look down on me!
+Dialogue: 0,0:13:16.18,0:13:17.53,ZSZS Dialogue,,0000,0000,0000,,I made one for everybody.
 Dialogue: 0,0:13:17.65,0:13:18.44,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H4E5154&\fs13\pos(300,75)}Create avatar
 Dialogue: 0,0:13:18.44,0:13:19.19,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H4E5154&\fs13\pos(685,75)}Create avatar
 Dialogue: 0,0:13:19.19,0:13:19.94,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H4E5154&\fs13\pos(300,75)}Create avatar
 Dialogue: 0,0:13:19.94,0:13:20.65,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H4E5154&\fs13\pos(685,75)}Create avatar
-Dialogue: 0,0:13:21.44,0:13:24.57,ZSZS Dialogue,,0000,0000,0000,,Please make an overembellished avatar for me.
-Dialogue: 0,0:13:24.95,0:13:25.62,ZSZS Dialogue,,0000,0000,0000,,Sure.
-Dialogue: 0,0:13:28.16,0:13:28.82,ZSZS Dialogue,,0000,0000,0000,,Uh...
-Dialogue: 0,0:13:29.20,0:13:31.62,ZSZS Dialogue,,0000,0000,0000,,Isn't there a part that could be a little more overembellished?
-Dialogue: 0,0:13:32.24,0:13:34.96,ZSZS Dialogue,,0000,0000,0000,,There's an extremely simple-looking part there...
-Dialogue: 0,0:13:35.33,0:13:36.87,ZSZS Dialogue,,0000,0000,0000,,It's already overembellished enough.
-Dialogue: 0,0:13:38.08,0:13:39.25,ZSZS Dialogue,,0000,0000,0000,,I found one!
-Dialogue: 0,0:13:39.79,0:13:41.55,ZSZS Dialogue,,0000,0000,0000,,Drop the makeup already.
-Dialogue: 0,0:13:44.38,0:13:46.97,ZSZS Dialogue,,0000,0000,0000,,I found somebody overembellished.
-Dialogue: 0,0:13:46.85,0:13:47.39,ZSZS Dialogue,,0000,0000,0000,,Here!
-Dialogue: 0,0:13:52.47,0:13:53.47,ZSZS Dialogue,,0000,0000,0000,,Wrong person.
-Dialogue: 0,0:13:54.14,0:13:54.81,ZSZS Dialogue,,0000,0000,0000,,Over here!
-Dialogue: 0,0:13:55.64,0:13:57.19,ZSZS Dialogue,,0000,0000,0000,,It's Mr. Jinroku.
-Dialogue: 0,0:13:57.69,0:13:59.65,ZSZS Dialogue,,0000,0000,0000,,He's dressed rather plainly...
-Dialogue: 0,0:14:00.19,0:14:02.94,ZSZS Dialogue,,0000,0000,0000,,And why do we have to watch from here?
-Dialogue: 0,0:14:12.79,0:14:13.99,ZSZS Dialogue,,0000,0000,0000,,Is he overembellished?
-Dialogue: 0,0:14:14.69,0:14:17.25,ZSZS Dialogue,,0000,0000,0000,,That isn't overembellishment!
-Dialogue: 0,0:14:18.66,0:14:19.51,ZSZS Dialogue,,0000,0000,0000,,Mr. Jinroku!
-Dialogue: 0,0:14:19.55,0:14:21.24,ZSZS Dialogue,,0000,0000,0000,,What the heck did you do when you were younger!?
+Dialogue: 0,0:13:21.60,0:13:24.75,ZSZS Dialogue,,0000,0000,0000,,Please make an overembellished avatar for me.
+Dialogue: 0,0:13:25.24,0:13:25.70,ZSZS Dialogue,,0000,0000,0000,,Sure.
+Dialogue: 0,0:13:28.52,0:13:29.03,ZSZS Dialogue,,0000,0000,0000,,Uh...
+Dialogue: 0,0:13:29.47,0:13:31.85,ZSZS Dialogue,,0000,0000,0000,,Isn't there a part that could be a little more overembellished?
+Dialogue: 0,0:13:32.32,0:13:35.09,ZSZS Dialogue,,0000,0000,0000,,There's an extremely simple-looking part there...
+Dialogue: 0,0:13:35.49,0:13:37.03,ZSZS Dialogue,,0000,0000,0000,,It's already overembellished enough.
+Dialogue: 0,0:13:38.21,0:13:39.39,ZSZS Dialogue,,0000,0000,0000,,I found one!
+Dialogue: 0,0:13:39.96,0:13:41.71,ZSZS Dialogue,,0000,0000,0000,,Drop the makeup already.
+Dialogue: 0,0:13:43.75,0:13:47.03,ZSZS Dialogue,,0000,0000,0000,,I found somebody overembellished.
+Dialogue: 0,0:13:47.32,0:13:47.87,ZSZS Dialogue,,0000,0000,0000,,Here!
+Dialogue: 0,0:13:52.57,0:13:53.59,ZSZS Dialogue,,0000,0000,0000,,Wrong person.
+Dialogue: 0,0:13:54.21,0:13:54.85,ZSZS Dialogue,,0000,0000,0000,,Over here!
+Dialogue: 0,0:13:55.72,0:13:57.30,ZSZS Dialogue,,0000,0000,0000,,It's Mr. Jinroku.
+Dialogue: 0,0:13:58.03,0:13:59.81,ZSZS Dialogue,,0000,0000,0000,,He's dressed rather plainly...
+Dialogue: 0,0:14:00.55,0:14:03.37,ZSZS Dialogue,,0000,0000,0000,,And why do we have to watch from here?
+Dialogue: 0,0:14:12.90,0:14:14.17,ZSZS Dialogue,,0000,0000,0000,,Is he overembellished?
+Dialogue: 0,0:14:15.39,0:14:17.37,ZSZS Dialogue,,0000,0000,0000,,That isn't overembellishment!
+Dialogue: 0,0:14:19.23,0:14:19.91,ZSZS Dialogue,,0000,0000,0000,,Mr. Jinroku!
+Dialogue: 0,0:14:20.08,0:14:21.54,ZSZS Dialogue,,0000,0000,0000,,What the heck did you do when you were younger!?
 Dialogue: 0,0:14:25.01,0:14:30.51,ZSZS Typesetting - smodern,,0000,0000,0000,,{\bord1.4\fs28\pos(424,44)\c&H02031B&\3c&HFBFEFF&}Elder Brother Kei Itoshiki
-Dialogue: 0,0:14:24.76,0:14:25.63,ZSZS Dialogue,,0000,0000,0000,,Big brother...
-Dialogue: 0,0:14:27.22,0:14:29.39,ZSZS Dialogue,,0000,0000,0000,,How could you do that to a sacred idol?
-Dialogue: 0,0:14:29.09,0:14:29.97,ZSZS Dialogue,,0000,0000,0000,,You'll be...
-Dialogue: 0,0:14:30.30,0:14:31.30,ZSZS Dialogue,,0000,0000,0000,,Cursed!
-Dialogue: 0,0:14:31.72,0:14:32.92,ZSZS Dialogue,,0000,0000,0000,,Cursed!
-Dialogue: 0,0:14:33.89,0:14:35.47,ZSZS Dialogue,,0000,0000,0000,,Cursed!
-Dialogue: 0,0:14:36.43,0:14:39.12,ZSZS Dialogue,,0000,0000,0000,,There's only one way to save you.
-Dialogue: 0,0:14:39.36,0:14:40.79,ZSZS Dialogue,,0000,0000,0000,,No!
-Dialogue: 0,0:14:43.63,0:14:45.70,ZSZS Dialogue,,0000,0000,0000,,Is Teacher a master of chic?
-Dialogue: 0,0:14:45.91,0:14:49.40,ZSZS Dialogue,,0000,0000,0000,,Any parts that aren't drawn on will be taken by evil spirits.
-Dialogue: 0,0:14:52.07,0:14:53.71,ZSZS Dialogue,,0000,0000,0000,,I'm in despair!
-Dialogue: 0,0:14:54.01,0:14:57.38,ZSZS Dialogue,,0000,0000,0000,,This curse that applies to anyone who isn't a master of chic has left me in despair!
+Dialogue: 0,0:14:25.23,0:14:25.81,ZSZS Dialogue,,0000,0000,0000,,Big brother...
+Dialogue: 0,0:14:27.74,0:14:29.34,ZSZS Dialogue,,0000,0000,0000,,How could you do that to a sacred idol?
+Dialogue: 0,0:14:29.88,0:14:30.44,ZSZS Dialogue,,0000,0000,0000,,You'll be...
+Dialogue: 0,0:14:30.92,0:14:31.55,ZSZS Dialogue,,0000,0000,0000,,Cursed!
+Dialogue: 0,0:14:32.72,0:14:33.44,ZSZS Dialogue,,0000,0000,0000,,Cursed!
+Dialogue: 0,0:14:34.44,0:14:35.49,ZSZS Dialogue,,0000,0000,0000,,Cursed!
+Dialogue: 0,0:14:36.63,0:14:38.69,ZSZS Dialogue,,0000,0000,0000,,There's only one way to save you.
+Dialogue: 0,0:14:39.66,0:14:40.91,ZSZS Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:14:43.80,0:14:45.81,ZSZS Dialogue,,0000,0000,0000,,Is Teacher a master of chic?
+Dialogue: 0,0:14:46.51,0:14:49.47,ZSZS Dialogue,,0000,0000,0000,,Any parts that aren't drawn on will be taken by evil spirits.
+Dialogue: 0,0:14:52.62,0:14:53.75,ZSZS Dialogue,,0000,0000,0000,,I'm in despair!
+Dialogue: 0,0:14:54.01,0:14:57.54,ZSZS Dialogue,,0000,0000,0000,,This curse that applies to anyone who isn't a master of chic has left me in despair!
 Dialogue: 0,0:14:57.44,0:14:58.18,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fs36\blur0.6\pos(424,46)\c&HEEF6FB&}Next Day
-Dialogue: 0,0:14:58.33,0:15:00.04,ZSZS Dialogue,,0000,0000,0000,,I'm overembellished!
-Dialogue: 0,0:14:58.18,0:15:01.88,ZSZS Dialogue,,0000,0000,0000,,(board) I like eating warm anpan (poster) On break. - Tatsuwa
-Dialogue: 0,0:15:00.62,0:15:02.04,ZSZS Dialogue,,0000,0000,0000,,You're not overembellished.
-Dialogue: 0,0:15:02.08,0:15:02.96,ZSZS Dialogue,,0000,0000,0000,,What are you talking about?
-Dialogue: 0,0:15:03.21,0:15:04.67,ZSZS Dialogue,,0000,0000,0000,,I put some on her.
-Dialogue: 0,0:15:05.13,0:15:06.50,ZSZS Dialogue,,0000,0000,0000,,Shoes.
-Dialogue: 0,0:15:06.76,0:15:08.17,ZSZS Dialogue,,0000,0000,0000,,She put shoes on me.
-Dialogue: 0,0:15:08.51,0:15:09.63,ZSZS Dialogue,,0000,0000,0000,,Ew! Ew!
-Dialogue: 0,0:15:09.97,0:15:11.39,ZSZS Dialogue,,0000,0000,0000,,The world is spinning!
-Dialogue: 0,0:15:11.32,0:15:13.02,ZSZS Dialogue,,0000,0000,0000,,Overembellished...
+Dialogue: 0,0:14:58.38,0:15:00.20,ZSZS Dialogue,,0000,0000,0000,,I'm overembellished!
+Dialogue: 0,0:14:58.18,0:15:01.88,ZSZS Typesetting - Blackboard,,0000,0000,0000,,{\c&HC0C9C9&\fs42\blur0.8\frz5.872\pos(487,94)}I like eating warm anpan.
+Dialogue: 0,0:14:58.18,0:15:01.88,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs14\c&H47494B&\pos(43,253)}On break.
+Dialogue: 0,0:14:58.18,0:15:01.88,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs12\c&H47494B&\pos(49,267)}-Tatsuwa
+Dialogue: 0,0:15:00.62,0:15:02.00,ZSZS Dialogue,,0000,0000,0000,,You're not overembellished.
+Dialogue: 0,0:15:02.30,0:15:03.05,ZSZS Dialogue,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:15:03.83,0:15:04.73,ZSZS Dialogue,,0000,0000,0000,,I put some on her.
+Dialogue: 0,0:15:05.83,0:15:06.76,ZSZS Dialogue,,0000,0000,0000,,Shoes.
+Dialogue: 0,0:15:07.12,0:15:08.34,ZSZS Dialogue,,0000,0000,0000,,She put shoes on me.
+Dialogue: 0,0:15:08.94,0:15:09.87,ZSZS Dialogue,,0000,0000,0000,,Ew! Ew!
+Dialogue: 0,0:15:10.46,0:15:11.39,ZSZS Dialogue,,0000,0000,0000,,The world is spinning!
+Dialogue: 0,0:15:11.87,0:15:13.39,ZSZS Dialogue,,0000,0000,0000,,Overembellished...
 Dialogue: 0,0:15:14.51,0:15:14.68,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE8F2F2&\fs18\an7\pos(516,386)}Foremost among flowers are\Nthose of cherry trees,
 Dialogue: 0,0:15:14.68,0:15:14.85,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE8F2F2&\fs18\an7\pos(516,386)}of men the warrior,
 Dialogue: 0,0:15:14.85,0:15:15.01,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HE8F2F2&\fs18\an7\pos(516,386)}of pillars cypress,
@@ -706,98 +712,98 @@ Dialogue: 0,0:15:15.35,0:15:15.60,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:15:16.01,0:15:18.98,ZSZS Typesetting - book covers,,0000,0000,0000,,{\blur0.8\3c&HFFFFFF&\bord2\fs28\b1\fnSModern\c&H162C35&\an1\pos(221,127)}Rouse Up, O Old Men of the Old Age
 Dialogue: 0,0:15:16.01,0:15:18.52,ZSZS Typesetting - book covers,,0000,0000,0000,,{\an1\blur0.8\pos(66,466)}Originally published 24th May, Showa 81
 Dialogue: 0,0:15:16.01,0:15:18.52,ZSZS Typesetting - book covers,,0000,0000,0000,,{\an9\blur0.8\pos(782,16)}From Chapter 50
-Dialogue: 0,0:15:19.03,0:15:19.83,ZSZS Dialogue,,0000,0000,0000,,Everybody.
-Dialogue: 0,0:15:20.03,0:15:21.85,ZSZS Dialogue,,0000,0000,0000,,It's a new semester.
-Dialogue: 0,0:15:22.44,0:15:24.27,ZSZS Dialogue,,0000,0000,0000,,What? It's already May...
-Dialogue: 0,0:15:24.57,0:15:25.48,ZSZS Dialogue,,0000,0000,0000,,What are you talking about?
-Dialogue: 0,0:15:25.77,0:15:27.24,ZSZS Dialogue,,0000,0000,0000,,I mean the old new semester.
+Dialogue: 0,0:15:19.76,0:15:20.23,ZSZS Dialogue,,0000,0000,0000,,Everybody.
+Dialogue: 0,0:15:20.76,0:15:21.98,ZSZS Dialogue,,0000,0000,0000,,It's a new semester.
+Dialogue: 0,0:15:22.28,0:15:24.40,ZSZS Dialogue,,0000,0000,0000,,What? It's already May...
+Dialogue: 0,0:15:24.76,0:15:25.73,ZSZS Dialogue,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:15:26.20,0:15:27.30,ZSZS Dialogue,,0000,0000,0000,,I mean the old new semester.
 Dialogue: 0,0:15:27.36,0:15:28.11,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HEFF3FE&}Old New Semester
-Dialogue: 0,0:15:27.94,0:15:29.19,ZSZS Dialogue,,0000,0000,0000,,Old new semester?
-Dialogue: 0,0:15:29.57,0:15:31.61,ZSZS Dialogue,,0000,0000,0000,,I don't know what you mean.
-Dialogue: 0,0:15:31.99,0:15:33.78,ZSZS Dialogue,,0000,0000,0000,,The new semester according to the old calendar.
-Dialogue: 0,0:15:34.12,0:15:37.88,ZSZS Dialogue,,0000,0000,0000,,If there can be an Old New Year, why can't there be an old new semester?
+Dialogue: 0,0:15:28.45,0:15:29.57,ZSZS Dialogue,,0000,0000,0000,,Old new semester?
+Dialogue: 0,0:15:30.13,0:15:31.74,ZSZS Dialogue,,0000,0000,0000,,I don't know what you mean.
+Dialogue: 0,0:15:32.15,0:15:33.70,ZSZS Dialogue,,0000,0000,0000,,The new semester according to the old calendar.
+Dialogue: 0,0:15:34.19,0:15:38.05,ZSZS Dialogue,,0000,0000,0000,,If there can be an Old New Year, why can't there be an old new semester?
 Dialogue: 0,0:15:38.16,0:15:39.00,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6}That's not all
-Dialogue: 0,0:15:37.79,0:15:38.75,ZSZS Dialogue,,0000,0000,0000,,That's not all...
+Dialogue: 0,0:15:38.34,0:15:39.10,ZSZS Dialogue,,0000,0000,0000,,That's not all...
 Dialogue: 0,0:15:39.00,0:15:39.50,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H1E8CF5&\pos(422,164)\blur0.6}Old
-Dialogue: 0,0:15:38.87,0:15:39.79,ZSZS Dialogue,,0000,0000,0000,,There should also be Old Christmas!
+Dialogue: 0,0:15:39.50,0:15:40.23,ZSZS Dialogue,,0000,0000,0000,,There should also be Old Christmas!
 Dialogue: 0,0:15:40.46,0:15:40.96,ZSZS Typesetting - smodern,,0000,0000,0000,,{\blur0.6\c&H271D8C&\fs39\pos(425,383)}Old
 Dialogue: 0,0:15:40.96,0:15:42.50,ZSZS Typesetting - smodern,,0000,0000,0000,,{\blur0.6\fs14\c&H3F37D6&\frz42.178\pos(442,272)}Old
-Dialogue: 0,0:15:40.12,0:15:42.14,ZSZS Dialogue,,0000,0000,0000,,And Old Valentine's Day!
+Dialogue: 0,0:15:40.60,0:15:42.42,ZSZS Dialogue,,0000,0000,0000,,And Old Valentine's Day!
 Dialogue: 0,0:15:42.50,0:15:43.75,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HEFF3FE&}Old New Year's Eve
-Dialogue: 0,0:15:43.75,0:15:45.04,ZSZS Dialogue,,0000,0000,0000,,New Tokyo Tower
-Dialogue: 0,0:15:42.79,0:15:44.88,ZSZS Dialogue,,0000,0000,0000,,And Old New Year's Eve, too?
-Dialogue: 0,0:15:45.29,0:15:46.63,ZSZS Dialogue,,0000,0000,0000,,That goes without saying!
-Dialogue: 0,0:15:47.09,0:15:51.13,ZSZS Dialogue,,0000,0000,0000,,I secretly anticipate receiving chocolate on Old Valentine's Day,
-Dialogue: 0,0:15:51.55,0:15:54.14,ZSZS Dialogue,,0000,0000,0000,,and glare jealously at couples on Old Christmas.
-Dialogue: 0,0:15:54.39,0:15:58.52,ZSZS Dialogue,,0000,0000,0000,,When exactly are Old Christmas and Old Valentine's Day?
-Dialogue: 0,0:15:58.04,0:16:01.14,ZSZS Dialogue,,0000,0000,0000,,Incidentally, Old Golden Week is coming up.
-Dialogue: 0,0:16:01.14,0:16:01.81,ZSZS Dialogue,,0000,0000,0000,,I can't wait.
-Dialogue: 0,0:16:02.31,0:16:04.36,ZSZS Dialogue,,0000,0000,0000,,So you're not going to come on a school day.
+Dialogue: 0,0:15:43.75,0:15:45.04,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs12\c&H2D2938&\frx0\fry26\pos(305,384)\frz9.322}New\NTokyo\NTower
+Dialogue: 0,0:15:42.96,0:15:45.22,ZSZS Dialogue,,0000,0000,0000,,And Old New Year's Eve, too?
+Dialogue: 0,0:15:45.38,0:15:46.85,ZSZS Dialogue,,0000,0000,0000,,That goes without saying!
+Dialogue: 0,0:15:47.22,0:15:51.18,ZSZS Dialogue,,0000,0000,0000,,I secretly anticipate receiving chocolate on Old Valentine's Day,
+Dialogue: 0,0:15:51.73,0:15:54.26,ZSZS Dialogue,,0000,0000,0000,,and glare jealously at couples on Old Christmas.
+Dialogue: 0,0:15:54.53,0:15:58.52,ZSZS Dialogue,,0000,0000,0000,,When exactly are Old Christmas and Old Valentine's Day?
+Dialogue: 0,0:15:58.73,0:16:01.24,ZSZS Dialogue,,0000,0000,0000,,Incidentally, Old Golden Week is coming up.
+Dialogue: 0,0:16:01.59,0:16:02.40,ZSZS Dialogue,,0000,0000,0000,,I can't wait.
+Dialogue: 0,0:16:02.49,0:16:04.40,ZSZS Dialogue,,0000,0000,0000,,So you're not going to come on a school day.
 Dialogue: 0,0:16:06.40,0:16:07.15,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HEFF3FE&}Applause?
-Dialogue: 0,0:16:06.86,0:16:08.14,ZSZS Dialogue,,0000,0000,0000,,Marvelous.
+Dialogue: 0,0:16:07.40,0:16:08.44,ZSZS Dialogue,,0000,0000,0000,,Marvelous.
 Dialogue: 0,0:16:08.44,0:16:09.23,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HEFF3FE&}Who are you?
-Dialogue: 0,0:16:08.14,0:16:08.81,ZSZS Dialogue,,0000,0000,0000,,Who are you?
-Dialogue: 0,0:16:09.36,0:16:10.82,ZSZS Dialogue,,0000,0000,0000,,One who loves the old.
-Dialogue: 0,0:16:11.90,0:16:12.40,ZSZS Dialogue,,0000,0000,0000,,You're...
-Dialogue: 0,0:16:12.70,0:16:13.36,ZSZS Dialogue,,0000,0000,0000,,My old friend...
-Dialogue: 0,0:16:13.36,0:16:13.94,ZSZS Dialogue,,0000,0000,0000,,Yes.
-Dialogue: 0,0:16:13.94,0:16:15.19,ZSZS Dialogue,,0000,0000,0000,,Your old friend...
+Dialogue: 0,0:16:08.70,0:16:09.02,ZSZS Dialogue,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:16:09.50,0:16:11.03,ZSZS Dialogue,,0000,0000,0000,,One who loves the old.
+Dialogue: 0,0:16:12.13,0:16:12.64,ZSZS Dialogue,,0000,0000,0000,,You're...
+Dialogue: 0,0:16:12.95,0:16:13.67,ZSZS Dialogue,,0000,0000,0000,,My old friend...
+Dialogue: 0,0:16:13.96,0:16:14.33,ZSZS Dialogue,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:14.58,0:16:15.31,ZSZS Dialogue,,0000,0000,0000,,Your old friend...
 Dialogue: 0,0:16:15.62,0:16:16.45,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H1D2024&\fs56\pos(428,440)}Uhh
 Dialogue: 0,0:16:17.66,0:16:17.91,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs56\c&H080604&\pos(634,436)}U
 Dialogue: 0,0:16:17.91,0:16:18.20,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs56\c&H080604&\pos(634,436)}Uh
 Dialogue: 0,0:16:18.20,0:16:18.54,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs56\c&H080604&\pos(634,436)}Uhh
-Dialogue: 0,0:16:17.12,0:16:17.70,ZSZS Dialogue,,0000,0000,0000,,Uh...
+Dialogue: 0,0:16:17.71,0:16:18.65,ZSZS Dialogue,,0000,0000,0000,,Uh...
 Dialogue: 0,0:16:18.54,0:16:19.41,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HD57022&\blur0.6\fs72\pos(424,145)}Old
 Dialogue: 0,0:16:20.04,0:16:21.04,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&HD57022&\blur0.6\fs72\pos(424,122)}Sudden
-Dialogue: 0,0:16:18.50,0:16:22.33,ZSZS Dialogue,,0000,0000,0000,,So old, and such a sudden reunion, that I can't recall your name.
-Dialogue: 0,0:16:22.05,0:16:23.21,ZSZS Dialogue,,0000,0000,0000,,Same here.
+Dialogue: 0,0:16:19.04,0:16:22.26,ZSZS Dialogue,,0000,0000,0000,,So old, and such a sudden reunion, that I can't recall your name.
+Dialogue: 0,0:16:22.67,0:16:23.55,ZSZS Dialogue,,0000,0000,0000,,Same here.
 Dialogue: 0,0:16:23.79,0:16:24.50,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H05090C&\fs32\pos(424,82)}Old friends, but it's too sudden
-Dialogue: 0,0:16:24.58,0:16:27.21,ZSZS Dialogue,,0000,0000,0000,,Shouldn't old friends be really close?
-Dialogue: 0,0:16:27.50,0:16:29.55,ZSZS Dialogue,,0000,0000,0000,,Doesn't it just mean that they used to be friends?
-Dialogue: 0,0:16:29.93,0:16:33.74,ZSZS Dialogue,,0000,0000,0000,,My old friend does an even better job of living in the old calender.
-Dialogue: 0,0:16:34.01,0:16:34.52,ZSZS Dialogue,,0000,0000,0000,,Yes.
-Dialogue: 0,0:16:35.14,0:16:36.64,ZSZS Dialogue,,0000,0000,0000,,As one who loves the old...
-Dialogue: 0,0:16:36.48,0:16:38.22,ZSZS Dialogue,,0000,0000,0000,,I drive an old car.
+Dialogue: 0,0:16:24.73,0:16:27.21,ZSZS Dialogue,,0000,0000,0000,,Shouldn't old friends be really close?
+Dialogue: 0,0:16:27.61,0:16:29.69,ZSZS Dialogue,,0000,0000,0000,,Doesn't it just mean that they used to be friends?
+Dialogue: 0,0:16:30.10,0:16:33.87,ZSZS Dialogue,,0000,0000,0000,,My old friend does an even better job of living in the old calender.
+Dialogue: 0,0:16:34.25,0:16:34.80,ZSZS Dialogue,,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:35.29,0:16:36.51,ZSZS Dialogue,,0000,0000,0000,,As one who loves the old...
+Dialogue: 0,0:16:37.00,0:16:38.40,ZSZS Dialogue,,0000,0000,0000,,I drive an old car.
 Dialogue: 0,0:16:38.60,0:16:40.77,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs13\c&H5A646F&\pos(356,353)\frz12.55}I love thee.
 Dialogue: 0,0:16:38.60,0:16:40.77,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs13\c&H5A646F&\frz12.609\pos(359,364)}I love thy skin.
 Dialogue: 0,0:16:38.60,0:16:40.77,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs13\c&H5A646F&\frz12.512\pos(363,375)}I love thee so much
 Dialogue: 0,0:16:38.60,0:16:40.77,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs13\c&H5A646F&\frz21.081\pos(465,352)}I could die
-Dialogue: 0,0:16:38.60,0:16:40.47,ZSZS Dialogue,,0000,0000,0000,,I write love letters in Old Japanese.
-Dialogue: 0,0:16:40.64,0:16:42.23,ZSZS Dialogue,,0000,0000,0000,,I walk across the Old Tokaido!
-Dialogue: 0,0:16:42.69,0:16:45.44,ZSZS Dialogue,,0000,0000,0000,,I'm still in love with the old Zaku.
-Dialogue: 0,0:16:46.26,0:16:47.52,ZSZS Dialogue,,0000,0000,0000,,Rejoice!
-Dialogue: 0,0:16:47.77,0:16:49.27,ZSZS Dialogue,,0000,0000,0000,,This is the old school building!
+Dialogue: 0,0:16:38.85,0:16:40.65,ZSZS Dialogue,,0000,0000,0000,,I write love letters in Old Japanese.
+Dialogue: 0,0:16:40.76,0:16:42.43,ZSZS Dialogue,,0000,0000,0000,,I walk across the Old Tokaido!
+Dialogue: 0,0:16:43.00,0:16:45.58,ZSZS Dialogue,,0000,0000,0000,,I'm still in love with the old Zaku.
+Dialogue: 0,0:16:46.90,0:16:47.71,ZSZS Dialogue,,0000,0000,0000,,Rejoice!
+Dialogue: 0,0:16:48.19,0:16:49.37,ZSZS Dialogue,,0000,0000,0000,,This is the old school building!
 Dialogue: 0,0:16:50.86,0:16:53.02,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HE6F1FF&}I went to the old school building to meet an old friend
-Dialogue: 0,0:16:50.57,0:16:52.58,ZSZS Dialogue,,0000,0000,0000,,I went to the old school building to meet an old friend.
-Dialogue: 0,0:16:54.19,0:16:55.82,ZSZS Dialogue,,0000,0000,0000,,What's with this conversation?
-Dialogue: 0,0:16:55.44,0:16:58.11,ZSZS Dialogue,,0000,0000,0000,,In any case, I'm a fan of the old.
-Dialogue: 0,0:16:58.83,0:16:59.66,ZSZS Dialogue,,0000,0000,0000,,It's a big wave.
-Dialogue: 0,0:17:00.24,0:17:03.50,ZSZS Dialogue,,0000,0000,0000,,Other people would say that I have taken my love of the old to the extreme.
-Dialogue: 0,0:17:05.58,0:17:06.38,ZSZS Dialogue,,0000,0000,0000,,That's right.
-Dialogue: 0,0:17:06.58,0:17:09.04,ZSZS Dialogue,,0000,0000,0000,,It'll be Old Mother's Day after Old Golden Week.
-Dialogue: 0,0:17:09.29,0:17:12.01,ZSZS Dialogue,,0000,0000,0000,,You should at least observe Mother's Day normally...
-Dialogue: 0,0:17:12.21,0:17:13.21,ZSZS Dialogue,,0000,0000,0000,,What are you saying?
-Dialogue: 0,0:17:13.51,0:17:15.88,ZSZS Dialogue,,0000,0000,0000,,My old mother would be my real mother.
-Dialogue: 0,0:17:16.01,0:17:18.98,ZSZS Dialogue,,0000,0000,0000,,I don't get along very well with my new mother.
+Dialogue: 0,0:16:51.25,0:16:53.12,ZSZS Dialogue,,0000,0000,0000,,I went to the old school building to meet an old friend.
+Dialogue: 0,0:16:54.68,0:16:55.96,ZSZS Dialogue,,0000,0000,0000,,What's with this conversation?
+Dialogue: 0,0:16:56.03,0:16:58.58,ZSZS Dialogue,,0000,0000,0000,,In any case, I'm a fan of the old.
+Dialogue: 0,0:16:58.92,0:16:59.76,ZSZS Dialogue,,0000,0000,0000,,It's a big wave.
+Dialogue: 0,0:17:00.35,0:17:03.83,ZSZS Dialogue,,0000,0000,0000,,Other people would say that I have taken my love of the old to the extreme.
+Dialogue: 0,0:17:05.78,0:17:06.27,ZSZS Dialogue,,0000,0000,0000,,That's right.
+Dialogue: 0,0:17:06.62,0:17:09.17,ZSZS Dialogue,,0000,0000,0000,,It'll be Old Mother's Day after Old Golden Week.
+Dialogue: 0,0:17:09.50,0:17:12.16,ZSZS Dialogue,,0000,0000,0000,,You should at least observe Mother's Day normally...
+Dialogue: 0,0:17:12.37,0:17:13.41,ZSZS Dialogue,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:17:13.99,0:17:15.98,ZSZS Dialogue,,0000,0000,0000,,My old mother would be my real mother.
+Dialogue: 0,0:17:16.98,0:17:18.93,ZSZS Dialogue,,0000,0000,0000,,I don't get along very well with my new mother.
 Dialogue: 0,0:17:18.93,0:17:20.68,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\c&H495662&\pos(357,265)}Old Mother's
 Dialogue: 0,0:17:18.93,0:17:20.68,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\c&H495662&\pos(496,218)}Old
 Dialogue: 0,0:17:18.93,0:17:20.68,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\c&H495662&\pos(353,407)}Day
 Dialogue: 0,0:17:18.93,0:17:20.68,ZSZS Typesetting - Screen,,0000,0000,0000,,{\blur0.6\c&H495662&\pos(500,407)}Mother's Day
-Dialogue: 0,0:17:19.05,0:17:20.35,ZSZS Dialogue,,0000,0000,0000,,That's what you meant?
-Dialogue: 0,0:17:20.81,0:17:23.52,ZSZS Dialogue,,0000,0000,0000,,Anyway, Japanese people have a harsh view of the old.
-Dialogue: 0,0:17:23.81,0:17:25.35,ZSZS Dialogue,,0000,0000,0000,,I concur, old friend.
-Dialogue: 0,0:17:25.69,0:17:28.81,ZSZS Dialogue,,0000,0000,0000,,Old items have to become vintage before they're considered valuable.
+Dialogue: 0,0:17:19.16,0:17:20.60,ZSZS Dialogue,,0000,0000,0000,,That's what you meant?
+Dialogue: 0,0:17:21.00,0:17:23.64,ZSZS Dialogue,,0000,0000,0000,,Anyway, Japanese people have a harsh view of the old.
+Dialogue: 0,0:17:24.19,0:17:25.35,ZSZS Dialogue,,0000,0000,0000,,I concur, old friend.
+Dialogue: 0,0:17:26.01,0:17:29.23,ZSZS Dialogue,,0000,0000,0000,,Old items have to become vintage before they're considered valuable.
 Dialogue: 0,0:17:29.27,0:17:30.07,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H212329&\fs24\pos(228,90)\frx10\fry334}Shiiou University
-Dialogue: 0,0:17:29.90,0:17:30.82,ZSZS Dialogue,,0000,0000,0000,,This is...
-Dialogue: 0,0:17:30.88,0:17:32.11,ZSZS Dialogue,,0000,0000,0000,,A college campus.
-Dialogue: 0,0:17:33.03,0:17:35.80,ZSZS Dialogue,,0000,0000,0000,,College clubs pamper new members,
-Dialogue: 0,0:17:36.28,0:17:40.74,ZSZS Dialogue,,0000,0000,0000,,so the old new members who joined last year are ignored and about to snap.
+Dialogue: 0,0:17:30.45,0:17:30.86,ZSZS Dialogue,,0000,0000,0000,,This is...
+Dialogue: 0,0:17:31.37,0:17:32.51,ZSZS Dialogue,,0000,0000,0000,,A college campus.
+Dialogue: 0,0:17:33.22,0:17:36.32,ZSZS Dialogue,,0000,0000,0000,,College clubs pamper new members,
+Dialogue: 0,0:17:36.76,0:17:40.74,ZSZS Dialogue,,0000,0000,0000,,so the old new members who joined last year are ignored and about to snap.
 Dialogue: 0,0:17:40.78,0:17:41.62,ZSZS Typesetting - Screen,,0000,0000,0000,,{\pos(424,42)\blur0.6\c&HF6F8FD&}Sophomores = Old new students
-Dialogue: 0,0:17:41.41,0:17:42.29,ZSZS Dialogue,,0000,0000,0000,,Poor things...
-Dialogue: 0,0:17:42.49,0:17:44.46,ZSZS Dialogue,,0000,0000,0000,,I want to cheer them up!
-Dialogue: 0,0:17:44.71,0:17:47.00,ZSZS Dialogue,,0000,0000,0000,,Hang in there, old students!
-Dialogue: 0,0:17:48.07,0:17:49.84,ZSZS Dialogue,,0000,0000,0000,,Don't call us old students!
-Dialogue: 0,0:17:50.41,0:17:51.50,ZSZS Dialogue,,0000,0000,0000,,Why?
+Dialogue: 0,0:17:41.73,0:17:42.49,ZSZS Dialogue,,0000,0000,0000,,Poor things...
+Dialogue: 0,0:17:42.91,0:17:44.63,ZSZS Dialogue,,0000,0000,0000,,I want to cheer them up!
+Dialogue: 0,0:17:45.05,0:17:47.16,ZSZS Dialogue,,0000,0000,0000,,Hang in there, old students!
+Dialogue: 0,0:17:48.70,0:17:50.09,ZSZS Dialogue,,0000,0000,0000,,Don't call us old students!
+Dialogue: 0,0:17:51.09,0:17:51.57,ZSZS Dialogue,,0000,0000,0000,,Why?
 Dialogue: 0,0:17:51.84,0:17:52.80,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs29\blur0.6\c&H14415B&\pos(88,144)}•
 Dialogue: 0,0:17:51.84,0:17:52.80,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs24\pos(116,141)\c&H14415B&}Old new employee
 Dialogue: 0,0:17:51.84,0:17:52.80,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\an1\fs29\blur0.6\c&H14415B&\pos(88,216)}•
@@ -818,159 +824,159 @@ Dialogue: 0,0:17:51.84,0:17:52.80,ZSZS Typesetting - smodern,,0000,0000,0000,,{\
 Dialogue: 0,0:17:51.84,0:17:52.80,ZSZS Typesetting - smodern,,0000,0000,0000,,{\an1\fs24\c&H14415B&\pos(486,349)}the Khmer Rouge
 Dialogue: 0,0:17:52.80,0:17:53.59,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs24\frz356.255\pos(611,106)\c&H253243&}Kyusengumi{dongs judgement call, Oldsengumi or Kyusengumi? makes the joke less obvious but no one really knows shin=new either. actually nvm they continue with the kyu next sign}
 Dialogue: 0,0:17:52.80,0:17:53.59,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H2D3740&\fs22\frz339.99\pos(510,149)}Old
-Dialogue: 0,0:17:52.55,0:17:53.21,ZSZS Dialogue,,0000,0000,0000,,In any case...
+Dialogue: 0,0:17:52.93,0:17:53.43,ZSZS Dialogue,,0000,0000,0000,,In any case...
 Dialogue: 0,0:17:53.59,0:17:54.30,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs20\c&H253243&\frz0.729\pos(269,152)}Kyujyo
-Dialogue: 0,0:17:53.46,0:17:55.01,ZSZS Dialogue,,0000,0000,0000,,...I desire a restoration of the old.
+Dialogue: 0,0:17:53.53,0:17:55.09,ZSZS Dialogue,,0000,0000,0000,,...I desire a restoration of the old.
 Dialogue: 0,0:17:54.30,0:17:55.17,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs13\b0\frz354.434\frx352\fry318\pos(384,277)\c&H313131&}Old
 Dialogue: 0,0:17:54.30,0:17:55.17,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\fs13\b0\frx356\fry12\frz2.044\pos(413,278)\c&H313131&}Script
 Dialogue: 0,0:17:54.30,0:17:55.17,ZSZS Typesetting - frutiger,,0000,0000,0000,,{\c&H263241&\fs24\pos(580,118)}Furuta Kyuta { dongs i still don't really like this though}
-Dialogue: 0,0:17:54.82,0:17:58.81,ZSZS Dialogue,,0000,0000,0000,,My love for the old is no ordinary love.
-Dialogue: 0,0:17:58.81,0:17:59.48,ZSZS Dialogue,,0000,0000,0000,,But!
-Dialogue: 0,0:17:59.72,0:18:01.89,ZSZS Dialogue,,0000,0000,0000,,No matter how much you say you love the old,
-Dialogue: 0,0:18:02.14,0:18:03.93,ZSZS Dialogue,,0000,0000,0000,,you don't have an old name.
+Dialogue: 0,0:17:55.49,0:17:58.93,ZSZS Dialogue,,0000,0000,0000,,My love for the old is no ordinary love.
+Dialogue: 0,0:17:59.20,0:17:59.82,ZSZS Dialogue,,0000,0000,0000,,But!
+Dialogue: 0,0:18:00.20,0:18:02.14,ZSZS Dialogue,,0000,0000,0000,,No matter how much you say you love the old,
+Dialogue: 0,0:18:02.57,0:18:04.08,ZSZS Dialogue,,0000,0000,0000,,you don't have an old name.
 Dialogue: 0,0:18:03.89,0:18:04.68,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs36\c&H2ECBFF&\pos(617,54)\frz6.292\blur0.6}SHOCKERS
-Dialogue: 0,0:18:04.43,0:18:05.53,ZSZS Dialogue,,0000,0000,0000,,If you don't have an old name,
-Dialogue: 0,0:18:05.53,0:18:08.56,ZSZS Dialogue,,0000,0000,0000,,wouldn't you be an amateur fan of the old?
-Dialogue: 0,0:18:09.56,0:18:10.65,ZSZS Dialogue,,0000,0000,0000,,An old name, huh...
-Dialogue: 0,0:18:10.90,0:18:11.94,ZSZS Dialogue,,0000,0000,0000,,Old name...
-Dialogue: 0,0:18:11.65,0:18:12.61,ZSZS Dialogue,,0000,0000,0000,,Sounds nice!
+Dialogue: 0,0:18:04.93,0:18:06.02,ZSZS Dialogue,,0000,0000,0000,,If you don't have an old name,
+Dialogue: 0,0:18:06.09,0:18:08.75,ZSZS Dialogue,,0000,0000,0000,,wouldn't you be an amateur fan of the old?
+Dialogue: 0,0:18:10.04,0:18:10.95,ZSZS Dialogue,,0000,0000,0000,,An old name, huh...
+Dialogue: 0,0:18:11.53,0:18:12.15,ZSZS Dialogue,,0000,0000,0000,,Old name...
+Dialogue: 0,0:18:12.26,0:18:12.78,ZSZS Dialogue,,0000,0000,0000,,Sounds nice!
 Dialogue: 0,0:18:13.11,0:18:17.07,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H20282C&\fs13\frz332.072\pos(244,240)}Happy New Year
 Dialogue: 0,0:18:13.11,0:18:17.07,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H20282C&\fs9\pos(257,303)\frz331.722}Tokyo-to Koishikawa-ku Otowa-cho Daiu
 Dialogue: 0,0:18:13.11,0:18:17.07,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H20282C&\fs13\frz332.072\pos(188,347)}Itoda Yumi\N(old name Adachi){want to use née but that kills the joke}
-Dialogue: 0,0:18:13.03,0:18:16.78,ZSZS Dialogue,,0000,0000,0000,,I'd love to write "old name **" on New Year's cards and stuff.
-Dialogue: 0,0:18:17.32,0:18:19.87,ZSZS Dialogue,,0000,0000,0000,,There is only one way for a man to acquire an old name.
-Dialogue: 0,0:18:20.32,0:18:22.12,ZSZS Dialogue,,0000,0000,0000,,Marry into another family!
-Dialogue: 0,0:18:22.23,0:18:24.50,ZSZS Dialogue,,0000,0000,0000,,Let me marry into your family!
+Dialogue: 0,0:18:13.33,0:18:16.81,ZSZS Dialogue,,0000,0000,0000,,I'd love to write "old name **" on New Year's cards and stuff.
+Dialogue: 0,0:18:17.59,0:18:20.30,ZSZS Dialogue,,0000,0000,0000,,There is only one way for a man to acquire an old name.
+Dialogue: 0,0:18:20.89,0:18:22.24,ZSZS Dialogue,,0000,0000,0000,,Marry into another family!
+Dialogue: 0,0:18:22.94,0:18:24.59,ZSZS Dialogue,,0000,0000,0000,,Let me marry into your family!
 Dialogue: 0,0:18:24.33,0:18:24.87,ZSZS Typesetting - name screens,,0000,0000,0000,,{\c&H2826D7&\fs66\frz16.094\pos(176,94)\blur0.8}CRUNCH
-Dialogue: 0,0:18:24.75,0:18:26.00,ZSZS Dialogue,,0000,0000,0000,,What are you doing all of a sudden!?
-Dialogue: 0,0:18:26.16,0:18:29.67,ZSZS Dialogue,,0000,0000,0000,,Every girl in this class belongs to Teacher, so you have no chance.
-Dialogue: 0,0:18:30.63,0:18:32.67,ZSZS Dialogue,,0000,0000,0000,,Don't make me sound like a bad person!
-Dialogue: 0,0:18:32.92,0:18:34.30,ZSZS Dialogue,,0000,0000,0000,,Really...
-Dialogue: 0,0:18:34.67,0:18:37.47,ZSZS Dialogue,,0000,0000,0000,,My old-fashioned way of thinking would never let me do such a thing.
-Dialogue: 0,0:18:37.67,0:18:38.93,ZSZS Dialogue,,0000,0000,0000,,What are you doing?
-Dialogue: 0,0:18:39.13,0:18:41.17,ZSZS Dialogue,,0000,0000,0000,,She showed up out of nowhere.
-Dialogue: 0,0:18:44.18,0:18:45.80,ZSZS Dialogue,,0000,0000,0000,,Rin was kidnapped.
-Dialogue: 0,0:18:45.97,0:18:47.71,ZSZS Dialogue,,0000,0000,0000,,Now... Let us become man and wife.
-Dialogue: 0,0:18:48.01,0:18:50.01,ZSZS Dialogue,,0000,0000,0000,,And I shall have my old name.
-Dialogue: 0,0:18:51.19,0:18:53.23,ZSZS Dialogue,,0000,0000,0000,,No!
+Dialogue: 0,0:18:25.23,0:18:26.10,ZSZS Dialogue,,0000,0000,0000,,What are you doing all of a sudden!?
+Dialogue: 0,0:18:26.27,0:18:29.87,ZSZS Dialogue,,0000,0000,0000,,Every girl in this class belongs to Teacher, so you have no chance.
+Dialogue: 0,0:18:30.91,0:18:32.88,ZSZS Dialogue,,0000,0000,0000,,Don't make me sound like a bad person!
+Dialogue: 0,0:18:33.04,0:18:34.50,ZSZS Dialogue,,0000,0000,0000,,Really...
+Dialogue: 0,0:18:34.93,0:18:37.59,ZSZS Dialogue,,0000,0000,0000,,My old-fashioned way of thinking would never let me do such a thing.
+Dialogue: 0,0:18:37.88,0:18:39.08,ZSZS Dialogue,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:18:40.10,0:18:41.26,ZSZS Dialogue,,0000,0000,0000,,She showed up out of nowhere.
+Dialogue: 0,0:18:44.79,0:18:45.96,ZSZS Dialogue,,0000,0000,0000,,Rin was kidnapped.
+Dialogue: 0,0:18:46.47,0:18:47.99,ZSZS Dialogue,,0000,0000,0000,,Now... Let us become man and wife.
+Dialogue: 0,0:18:48.36,0:18:50.54,ZSZS Dialogue,,0000,0000,0000,,And I shall have my old name.
+Dialogue: 0,0:18:51.19,0:18:53.19,ZSZS Dialogue,,0000,0000,0000,,No!
 Dialogue: 0,0:18:53.19,0:18:53.98,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H01022A&\fs17\pos(639,215)\blur0.6}Back\NThen\NShrine
 Dialogue: 0,0:18:54.40,0:18:54.48,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H01022A&\fs17\pos(639,215)\blur0.6\clip(m 620 164 l 644 182 662 221 695 148 685 127)}Back\NThen\NShrine
 Dialogue: 0,0:18:54.48,0:18:54.61,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H01022A&\fs17\pos(639,215)\blur0.6}Back\NThen\NShrine
-Dialogue: 0,0:18:53.32,0:18:53.81,ZSZS Dialogue,,0000,0000,0000,,They've come!
-Dialogue: 0,0:18:53.86,0:18:54.77,ZSZS Dialogue,,0000,0000,0000,,The Tigers!
-Dialogue: 0,0:18:55.03,0:18:57.36,ZSZS Dialogue,,0000,0000,0000,,Do you think you're going to get away with this!?
-Dialogue: 0,0:18:57.61,0:19:01.37,ZSZS Dialogue,,0000,0000,0000,,I'm the one who wants to marry into another family and get rid of the Itoshiki name!
-Dialogue: 0,0:19:01.78,0:19:02.74,ZSZS Dialogue,,0000,0000,0000,,Give it up, Rin.
-Dialogue: 0,0:19:03.74,0:19:07.16,ZSZS Dialogue,,0000,0000,0000,,Father is the kind of person who appreciates such entertaining escapades.
-Dialogue: 0,0:19:08.25,0:19:09.04,ZSZS Dialogue,,0000,0000,0000,,Tokita!
-Dialogue: 0,0:19:09.29,0:19:10.96,ZSZS Dialogue,,0000,0000,0000,,Do something about this insolent fool!
+Dialogue: 0,0:18:53.90,0:18:54.40,ZSZS Dialogue,,0000,0000,0000,,They've come!
+Dialogue: 0,0:18:54.41,0:18:55.09,ZSZS Dialogue,,0000,0000,0000,,The Tigers!
+Dialogue: 0,0:18:55.37,0:18:57.53,ZSZS Dialogue,,0000,0000,0000,,Do you think you're going to get away with this!?
+Dialogue: 0,0:18:58.06,0:19:01.55,ZSZS Dialogue,,0000,0000,0000,,I'm the one who wants to marry into another family and get rid of the Itoshiki name!
+Dialogue: 0,0:19:01.92,0:19:02.81,ZSZS Dialogue,,0000,0000,0000,,Give it up, Rin.
+Dialogue: 0,0:19:03.89,0:19:07.12,ZSZS Dialogue,,0000,0000,0000,,Father is the kind of person who appreciates such entertaining escapades.
+Dialogue: 0,0:19:08.42,0:19:09.10,ZSZS Dialogue,,0000,0000,0000,,Tokita!
+Dialogue: 0,0:19:09.32,0:19:11.21,ZSZS Dialogue,,0000,0000,0000,,Do something about this insolent fool!
 Dialogue: 0,0:19:13.34,0:19:14.79,ZSZS Typesetting - smodern,,0000,0000,0000,,{\c&H9DBCFF&\fs32\pos(406,60)}Understood
-Dialogue: 0,0:19:12.93,0:19:14.29,ZSZS Dialogue,,0000,0000,0000,,Understood.
-Dialogue: 0,0:19:14.80,0:19:16.17,ZSZS Dialogue,,0000,0000,0000,,Young man.
-Dialogue: 0,0:19:16.17,0:19:19.76,ZSZS Dialogue,,0000,0000,0000,,It's true that you'll have an old name once you marry into this family.
+Dialogue: 0,0:19:13.50,0:19:14.57,ZSZS Dialogue,,0000,0000,0000,,Understood.
+Dialogue: 0,0:19:15.32,0:19:16.53,ZSZS Dialogue,,0000,0000,0000,,Young man.
+Dialogue: 0,0:19:16.68,0:19:19.76,ZSZS Dialogue,,0000,0000,0000,,It's true that you'll have an old name once you marry into this family.
 Dialogue: 0,0:19:19.84,0:19:20.88,ZSZS Typesetting - smodern,,0000,0000,0000,,{\fs32\c&H37333E&\pos(422,82)}However, at the same time
-Dialogue: 0,0:19:19.36,0:19:20.46,ZSZS Dialogue,,0000,0000,0000,,However, at the same time...
-Dialogue: 0,0:19:20.88,0:19:23.76,ZSZS Dialogue,,0000,0000,0000,,You will no longer be old friends with young master Nozomu!
+Dialogue: 0,0:19:20.00,0:19:20.88,ZSZS Dialogue,,0000,0000,0000,,However, at the same time...
+Dialogue: 0,0:19:21.07,0:19:23.76,ZSZS Dialogue,,0000,0000,0000,,You will no longer be old friends with young master Nozomu!
 Dialogue: 0,0:19:24.51,0:19:28.02,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fad(0,450)\blur0.6\c&HE6F1FF&\fs26\pos(489,325)}Old Friend
-Dialogue: 0,0:19:24.38,0:19:25.51,ZSZS Dialogue,,0000,0000,0000,,You'll no longer be old friends...
+Dialogue: 0,0:19:24.85,0:19:25.85,ZSZS Dialogue,,0000,0000,0000,,You'll no longer be old friends...
 Dialogue: 0,0:19:25.81,0:19:28.06,ZSZS Typesetting - Screen,,0000,0000,0000,,{\fad(450,0)\blur0.6\c&HE6F1FF&\fs26\pos(354,325)}Brother-in-law
-Dialogue: 0,0:19:25.47,0:19:27.56,ZSZS Dialogue,,0000,0000,0000,,You'll be brothers-in-law.
+Dialogue: 0,0:19:26.38,0:19:27.86,ZSZS Dialogue,,0000,0000,0000,,You'll be brothers-in-law.
 Dialogue: 0,0:19:28.06,0:19:29.35,ZSZS Typesetting - smodern,,0000,0000,0000,,LEFT SIGN: Win one
 Dialogue: 0,0:19:28.06,0:19:29.35,ZSZS Typesetting - smodern,,0000,0000,0000,,RIGHT SIGN: Lose one
-Dialogue: 0,0:19:27.93,0:19:29.51,ZSZS Dialogue,,0000,0000,0000,,Win one! Lose one!
-Dialogue: 0,0:19:29.78,0:19:30.36,ZSZS Dialogue,,0000,0000,0000,,What a quandary.
-Dialogue: 0,0:19:30.36,0:19:31.08,ZSZS Dialogue,,0000,0000,0000,,Old friend?
-Dialogue: 0,0:19:31.08,0:19:32.35,ZSZS Dialogue,,0000,0000,0000,,Old name!?
-Dialogue: 0,0:19:32.46,0:19:34.32,ZSZS Dialogue,,0000,0000,0000,,A rare quandary indeed.
-Dialogue: 0,0:19:37.15,0:19:40.36,ZSZS Dialogue,,0000,0000,0000,,That's right, Teacher's family is an old family.
+Dialogue: 0,0:19:28.20,0:19:29.32,ZSZS Dialogue,,0000,0000,0000,,Win one! Lose one!
+Dialogue: 0,0:19:29.75,0:19:30.16,ZSZS Dialogue,,0000,0000,0000,,What a quandary.
+Dialogue: 0,0:19:30.60,0:19:31.54,ZSZS Dialogue,,0000,0000,0000,,Old friend?
+Dialogue: 0,0:19:31.60,0:19:32.37,ZSZS Dialogue,,0000,0000,0000,,Old name!?
+Dialogue: 0,0:19:32.77,0:19:34.84,ZSZS Dialogue,,0000,0000,0000,,A rare quandary indeed.
+Dialogue: 0,0:19:37.32,0:19:40.45,ZSZS Dialogue,,0000,0000,0000,,That's right, Teacher's family is an old family.
 Dialogue: 0,0:19:40.45,0:19:42.46,ZSZS Typesetting - Screen,,0000,0000,0000,,TOP LEFT SIGN: Old Name
 Dialogue: 0,0:19:40.45,0:19:42.46,ZSZS Typesetting - Screen,,0000,0000,0000,,RIGHT SIGN: Old Friend
 Dialogue: 0,0:19:40.45,0:19:42.46,ZSZS Typesetting - Screen,,0000,0000,0000,,LOWER LEFT SIGN: Old Family
-Dialogue: 0,0:19:42.49,0:19:43.53,ZSZS Dialogue,,0000,0000,0000,,Two to one.
-Dialogue: 0,0:19:43.95,0:19:47.02,ZSZS Dialogue,,0000,0000,0000,,Furthermore, the Itoshiki family was an old zaibatsu.
+Dialogue: 0,0:19:42.89,0:19:43.62,ZSZS Dialogue,,0000,0000,0000,,Two to one.
+Dialogue: 0,0:19:43.78,0:19:47.09,ZSZS Dialogue,,0000,0000,0000,,Furthermore, the Itoshiki family was an old zaibatsu.
 Dialogue: 0,0:19:47.16,0:19:49.17,ZSZS Typesetting - Screen,,0000,0000,0000,,TOP LEFT SIGN: Old Name
 Dialogue: 0,0:19:47.16,0:19:49.17,ZSZS Typesetting - Screen,,0000,0000,0000,,RIGHT SIGN: Old Friend
 Dialogue: 0,0:19:47.16,0:19:49.17,ZSZS Typesetting - Screen,,0000,0000,0000,,MIDDLE LEFT SIGN: Old Family
 Dialogue: 0,0:19:48.43,0:19:49.17,ZSZS Typesetting - Screen,,0000,0000,0000,,BOTTOM LEFT SIGN: Old Zaibatsu
-Dialogue: 0,0:19:49.04,0:19:50.16,ZSZS Dialogue,,0000,0000,0000,,Three to one.
-Dialogue: 0,0:19:50.46,0:19:52.17,ZSZS Dialogue,,0000,0000,0000,,That didn't help, Tokita!
-Dialogue: 0,0:19:51.96,0:19:52.78,ZSZS Dialogue,,0000,0000,0000,,I've made up my mind.
-Dialogue: 0,0:19:52.67,0:19:53.50,ZSZS Dialogue,,0000,0000,0000,,I'm marrying you.
-Dialogue: 0,0:19:54.17,0:19:54.46,ZSZS Dialogue,,0000,0000,0000,,Don't!
+Dialogue: 0,0:19:49.48,0:19:50.37,ZSZS Dialogue,,0000,0000,0000,,Three to one.
+Dialogue: 0,0:19:50.58,0:19:52.37,ZSZS Dialogue,,0000,0000,0000,,That didn't help, Tokita!
+Dialogue: 0,0:19:52.60,0:19:53.05,ZSZS Dialogue,,0000,0000,0000,,I've made up my mind.
+Dialogue: 0,0:19:53.29,0:19:53.92,ZSZS Dialogue,,0000,0000,0000,,I'm marrying you.
+Dialogue: 0,0:19:54.45,0:19:55.42,ZSZS Dialogue,,0000,0000,0000,,Don't!
 Dialogue: 0,0:19:56.64,0:19:57.51,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: If you do that
-Dialogue: 0,0:19:56.31,0:19:59.60,ZSZS Dialogue,,0000,0000,0000,,If you do that, that wouldn't be fair to Rin.
-Dialogue: 0,0:19:59.80,0:20:00.27,ZSZS Dialogue,,0000,0000,0000,,Hey.
-Dialogue: 0,0:20:00.27,0:20:01.03,ZSZS Dialogue,,0000,0000,0000,,You.
-Dialogue: 0,0:20:00.99,0:20:03.27,ZSZS Dialogue,,0000,0000,0000,,I can introduce you to someone to marry.
-Dialogue: 0,0:20:03.24,0:20:05.48,ZSZS Dialogue,,0000,0000,0000,,They all want to marry a Japanese person.
-Dialogue: 0,0:20:05.48,0:20:06.55,ZSZS Dialogue,,0000,0000,0000,,Choose whoever you want!
-Dialogue: 0,0:20:07.60,0:20:09.52,ZSZS Dialogue,,0000,0000,0000,,They don't mind if it's only on paper.
-Dialogue: 0,0:20:09.85,0:20:11.85,ZSZS Dialogue,,0000,0000,0000,,That fits perfectly with my intentions.
-Dialogue: 0,0:20:12.16,0:20:13.02,ZSZS Dialogue,,0000,0000,0000,,Hey!
-Dialogue: 0,0:20:13.44,0:20:17.48,ZSZS Dialogue,,0000,0000,0000,,But if you marry into one of their families, you'll become a citizen of their country, right?
-Dialogue: 0,0:20:17.77,0:20:19.26,ZSZS Dialogue,,0000,0000,0000,,I'm not really sure though.
+Dialogue: 0,0:19:56.68,0:19:59.89,ZSZS Dialogue,,0000,0000,0000,,If you do that, that wouldn't be fair to Rin.
+Dialogue: 0,0:20:00.49,0:20:00.73,ZSZS Dialogue,,0000,0000,0000,,Hey.
+Dialogue: 0,0:20:00.82,0:20:01.34,ZSZS Dialogue,,0000,0000,0000,,You.
+Dialogue: 0,0:20:01.81,0:20:03.64,ZSZS Dialogue,,0000,0000,0000,,I can introduce you to someone to marry.
+Dialogue: 0,0:20:03.76,0:20:05.87,ZSZS Dialogue,,0000,0000,0000,,They all want to marry a Japanese person.
+Dialogue: 0,0:20:06.08,0:20:06.97,ZSZS Dialogue,,0000,0000,0000,,Choose whoever you want!
+Dialogue: 0,0:20:07.98,0:20:09.83,ZSZS Dialogue,,0000,0000,0000,,They don't mind if it's only on paper.
+Dialogue: 0,0:20:10.22,0:20:11.95,ZSZS Dialogue,,0000,0000,0000,,That fits perfectly with my intentions.
+Dialogue: 0,0:20:12.77,0:20:13.56,ZSZS Dialogue,,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:13.65,0:20:17.67,ZSZS Dialogue,,0000,0000,0000,,But if you marry into one of their families, you'll become a citizen of their country, right?
+Dialogue: 0,0:20:18.23,0:20:19.35,ZSZS Dialogue,,0000,0000,0000,,I'm not really sure though.
 Dialogue: 0,0:20:19.40,0:20:20.00,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: New Citizenship
-Dialogue: 0,0:20:21.30,0:20:24.94,ZSZS Dialogue,,0000,0000,0000,,You can have an old name without marrying into a different family.
-Dialogue: 0,0:20:25.82,0:20:27.37,ZSZS Dialogue,,0000,0000,0000,,Actually, you already have an old name!
-Dialogue: 0,0:20:27.67,0:20:28.57,ZSZS Dialogue,,0000,0000,0000,,Your old name was...
-Dialogue: 0,0:20:28.77,0:20:29.94,ZSZS Dialogue,,0000,0000,0000,,Belovzerov VI!
-Dialogue: 0,0:20:30.51,0:20:33.58,ZSZS Dialogue,,0000,0000,0000,,A penniless poet in 17th century Saint Petersburg!
-Dialogue: 0,0:20:33.78,0:20:35.35,ZSZS Dialogue,,0000,0000,0000,,What did you say!?
-Dialogue: 0,0:20:35.61,0:20:36.25,ZSZS Dialogue,,0000,0000,0000,,I'm sorry!
-Dialogue: 0,0:20:36.38,0:20:38.13,ZSZS Dialogue,,0000,0000,0000,,I couldn't hear you because of all the noise in the background!
-Dialogue: 0,0:20:38.42,0:20:41.67,ZSZS Dialogue,,0000,0000,0000,,A penniless poet in 17th century Saint Petersburg!
-Dialogue: 0,0:20:41.97,0:20:44.97,ZSZS Dialogue,,0000,0000,0000,,Wouldn't that be my past life's name, instead of my old name!?
-Dialogue: 0,0:20:46.09,0:20:48.51,ZSZS Dialogue,,0000,0000,0000,,Your current name becomes your old name in your next life.
-Dialogue: 0,0:20:48.81,0:20:49.45,ZSZS Dialogue,,0000,0000,0000,,How about it?
-Dialogue: 0,0:20:49.72,0:20:50.81,ZSZS Dialogue,,0000,0000,0000,,Want to join me?
-Dialogue: 0,0:20:51.14,0:20:52.73,ZSZS Dialogue,,0000,0000,0000,,Uh, well...
-Dialogue: 0,0:20:52.85,0:20:54.28,ZSZS Dialogue,,0000,0000,0000,,Let's journey together!
-Dialogue: 0,0:20:56.77,0:20:56.23,ZSZS Dialogue,,0000,0000,0000,,Aren't we old friends!?
+Dialogue: 0,0:20:21.44,0:20:25.12,ZSZS Dialogue,,0000,0000,0000,,You can have an old name without marrying into a different family.
+Dialogue: 0,0:20:25.98,0:20:27.56,ZSZS Dialogue,,0000,0000,0000,,Actually, you already have an old name!
+Dialogue: 0,0:20:27.93,0:20:28.85,ZSZS Dialogue,,0000,0000,0000,,Your old name was...
+Dialogue: 0,0:20:29.10,0:20:30.18,ZSZS Dialogue,,0000,0000,0000,,Belovzerov VI!
+Dialogue: 0,0:20:30.80,0:20:33.74,ZSZS Dialogue,,0000,0000,0000,,A penniless poet in 17th century Saint Petersburg!
+Dialogue: 0,0:20:34.12,0:20:35.45,ZSZS Dialogue,,0000,0000,0000,,What did you say!?
+Dialogue: 0,0:20:36.01,0:20:36.40,ZSZS Dialogue,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:20:36.64,0:20:38.48,ZSZS Dialogue,,0000,0000,0000,,I couldn't hear you because of all the noise in the background!
+Dialogue: 0,0:20:38.67,0:20:41.85,ZSZS Dialogue,,0000,0000,0000,,A penniless poet in 17th century Saint Petersburg!
+Dialogue: 0,0:20:42.30,0:20:45.39,ZSZS Dialogue,,0000,0000,0000,,Wouldn't that be my past life's name, instead of my old name!?
+Dialogue: 0,0:20:46.40,0:20:48.88,ZSZS Dialogue,,0000,0000,0000,,Your current name becomes your old name in your next life.
+Dialogue: 0,0:20:49.27,0:20:49.77,ZSZS Dialogue,,0000,0000,0000,,How about it?
+Dialogue: 0,0:20:50.14,0:20:51.07,ZSZS Dialogue,,0000,0000,0000,,Want to join me?
+Dialogue: 0,0:20:51.53,0:20:52.84,ZSZS Dialogue,,0000,0000,0000,,Uh, well...
+Dialogue: 0,0:20:53.43,0:20:54.70,ZSZS Dialogue,,0000,0000,0000,,Let's journey together!
+Dialogue: 0,0:20:55.10,0:20:56.50,ZSZS Dialogue,,0000,0000,0000,,Aren't we old friends!?
 Dialogue: 0,0:20:56.65,0:20:57.15,ZSZS Typesetting - frutiger,,0000,0000,0000,,SIGN: Secret
-Dialogue: 0,0:20:57.06,0:20:59.48,ZSZS Dialogue,,0000,0000,0000,,My secret messenger has delivered his report.
-Dialogue: 0,0:20:59.73,0:21:01.54,ZSZS Dialogue,,0000,0000,0000,,The two of you aren't old friends.
-Dialogue: 0,0:21:01.52,0:21:05.61,ZSZS Dialogue,,0000,0000,0000,,You were only friendly on the first day of grade school.
+Dialogue: 0,0:20:57.33,0:20:59.69,ZSZS Dialogue,,0000,0000,0000,,My secret messenger has delivered his report.
+Dialogue: 0,0:21:00.14,0:21:01.85,ZSZS Dialogue,,0000,0000,0000,,The two of you aren't old friends.
+Dialogue: 0,0:21:02.10,0:21:05.77,ZSZS Dialogue,,0000,0000,0000,,You were only friendly on the first day of grade school.
 Dialogue: 0,0:21:01.86,0:21:06.57,ZSZS Typesetting - smodern,,0000,0000,0000,,2-VI
-Dialogue: 0,0:21:05.50,0:21:06.74,ZSZS Dialogue,,0000,0000,0000,,In other words...
+Dialogue: 0,0:21:06.05,0:21:06.53,ZSZS Dialogue,,0000,0000,0000,,In other words...
 Dialogue: 0,0:21:07.12,0:21:07.66,ZSZS Typesetting - Blackboard,,0000,0000,0000,,SIGN: One-day Friend
 Dialogue: 0,0:21:07.66,0:21:08.24,ZSZS Typesetting - Blackboard,,0000,0000,0000,,SIGN: One-day Friend
-Dialogue: 0,0:21:07.83,0:21:09.70,ZSZS Dialogue,,0000,0000,0000,,One-day friends.
-Dialogue: 0,0:21:09.53,0:21:11.12,ZSZS Dialogue,,0000,0000,0000,,Don't split them apart!
+Dialogue: 0,0:21:08.65,0:21:09.58,ZSZS Dialogue,,0000,0000,0000,,One-day friends.
+Dialogue: 0,0:21:09.83,0:21:11.29,ZSZS Dialogue,,0000,0000,0000,,Don't split them apart!
 Dialogue: 0,0:21:11.29,0:21:11.79,ZSZS Typesetting - smodern,,0000,0000,0000,,SIGN: One-day Friend
-Dialogue: 0,0:21:11.38,0:21:14.21,ZSZS Dialogue,,0000,0000,0000,,You were only friends for one day.
-Dialogue: 0,0:21:14.04,0:21:16.50,ZSZS Dialogue,,0000,0000,0000,,So that's why they couldn't remember each other's names.
-Dialogue: 0,0:21:16.96,0:21:19.38,ZSZS Dialogue,,0000,0000,0000,,They were only friends on the first day.
-Dialogue: 0,0:21:19.54,0:21:23.26,ZSZS Dialogue,,0000,0000,0000,,Afterwards, they made different friends and grew apart.
-Dialogue: 0,0:21:23.55,0:21:24.76,ZSZS Dialogue,,0000,0000,0000,,That happens...
-Dialogue: 0,0:21:25.13,0:21:27.50,ZSZS Dialogue,,0000,0000,0000,,So old friends are one-day friends.
-Dialogue: 0,0:21:27.54,0:21:29.51,ZSZS Dialogue,,0000,0000,0000,,Then everything else is one-day...
-Dialogue: 0,0:21:30.01,0:21:32.57,ZSZS Dialogue,,0000,0000,0000,,The Old Testament would be the One-day Testament.
+Dialogue: 0,0:21:12.01,0:21:14.21,ZSZS Dialogue,,0000,0000,0000,,You were only friends for one day.
+Dialogue: 0,0:21:14.62,0:21:16.63,ZSZS Dialogue,,0000,0000,0000,,So that's why they couldn't remember each other's names.
+Dialogue: 0,0:21:17.05,0:21:19.63,ZSZS Dialogue,,0000,0000,0000,,They were only friends on the first day.
+Dialogue: 0,0:21:19.86,0:21:23.45,ZSZS Dialogue,,0000,0000,0000,,Afterwards, they made different friends and grew apart.
+Dialogue: 0,0:21:24.00,0:21:25.03,ZSZS Dialogue,,0000,0000,0000,,That happens...
+Dialogue: 0,0:21:25.36,0:21:27.99,ZSZS Dialogue,,0000,0000,0000,,So old friends are one-day friends.
+Dialogue: 0,0:21:28.16,0:21:29.85,ZSZS Dialogue,,0000,0000,0000,,Then everything else is one-day...
+Dialogue: 0,0:21:30.21,0:21:32.76,ZSZS Dialogue,,0000,0000,0000,,The Old Testament would be the One-day Testament.
 Dialogue: 0,0:21:32.81,0:21:33.84,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: One-day Testament
 Dialogue: 0,0:21:33.94,0:21:34.84,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: One-day Japanese Soldier
-Dialogue: 0,0:21:33.44,0:21:34.34,ZSZS Dialogue,,0000,0000,0000,,One-day Japanese soldier.
-Dialogue: 0,0:21:34.94,0:21:35.84,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: One-day Hashimoto Faction
+Dialogue: 0,0:21:33.94,0:21:34.81,ZSZS Dialogue,,0000,0000,0000,,One-day Japanese soldier.
+Dialogue: 0,0:21:34.90,0:21:35.84,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: One-day Hashimoto Faction
 Dialogue: 0,0:21:34.44,0:21:35.34,ZSZS Dialogue,,0000,0000,0000,,One-day Hashimoto faction.
-Dialogue: 0,0:21:35.94,0:21:36.84,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: One-day Zaku
+Dialogue: 0,0:21:35.87,0:21:36.74,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: One-day Zaku
 Dialogue: 0,0:21:35.44,0:21:36.34,ZSZS Dialogue,,0000,0000,0000,,One-day Zaku.
 Dialogue: 0,0:21:36.94,0:21:37.85,ZSZS Typesetting - Screen,,0000,0000,0000,,SIGN: One-day Lupin
-Dialogue: 0,0:21:36.44,0:21:37.35,ZSZS Dialogue,,0000,0000,0000,,One-day Lupin!
-Dialogue: 0,0:21:38.65,0:21:39.82,ZSZS Dialogue,,0000,0000,0000,,One-day name!
-Dialogue: 0,0:21:40.02,0:21:41.65,ZSZS Dialogue,,0000,0000,0000,,That's called a Narita divorce.
+Dialogue: 0,0:21:37.00,0:21:37.70,ZSZS Dialogue,,0000,0000,0000,,One-day Lupin!
+Dialogue: 0,0:21:39.14,0:21:40.01,ZSZS Dialogue,,0000,0000,0000,,One-day name!
+Dialogue: 0,0:21:40.54,0:21:41.75,ZSZS Dialogue,,0000,0000,0000,,That's called a Narita divorce.
 Comment: 0,0:21:42.65,0:21:44.65,ZSZS Dialogue,,0000,0000,0000,,ED
 Dialogue: 0,0:23:12.53,0:23:15.03,ZSZS Typesetting - Screen,,0000,0000,0000,,This show is a work of fiction.\NSimilarity to any actual Perry or C*CC* ****banya is purely coincidental.
 Dialogue: 0,0:23:15.03,0:23:35.05,ZSZS Typesetting - Screen,,0000,0000,0000,,TOP LEFT SIGN: Literature of Despair
 Dialogue: 0,0:23:15.03,0:23:35.05,ZSZS Typesetting - Screen,,0000,0000,0000,,BOTTOM LEFT SIGN: From Volume Two
-Dialogue: 0,0:23:16.87,0:23:17.66,ZSZS Dialogue,,0000,0000,0000,,Run, Eros.
-Dialogue: 0,0:23:18.54,0:23:19.83,ZSZS Dialogue,,0000,0000,0000,,Melos was enraged.
-Dialogue: 0,0:23:20.29,0:23:22.29,ZSZS Dialogue,,0000,0000,0000,,Whaddya mean, ¥70,000 for a couple beers!?
-Dialogue: 0,0:23:22.58,0:23:23.96,ZSZS Dialogue,,0000,0000,0000,,Ya said there wasn't any extra charge!
-Dialogue: 0,0:23:24.21,0:23:26.75,ZSZS Dialogue,,0000,0000,0000,,No, that's our regular price.
-Dialogue: 0,0:23:26.63,0:23:28.01,ZSZS Dialogue,,0000,0000,0000,,Then I'll go grab some money!
-Dialogue: 0,0:23:28.21,0:23:29.80,ZSZS Dialogue,,0000,0000,0000,,Leave a friend then.
-Dialogue: 0,0:23:30.01,0:23:31.55,ZSZS Dialogue,,0000,0000,0000,,I'll bury him if you don't come back.
-Dialogue: 0,0:23:31.51,0:23:32.89,ZSZS Dialogue,,0000,0000,0000,,Melos ran.
-Dialogue: 0,0:23:33.17,0:23:33.90,ZSZS Dialogue,,0000,0000,0000,,Sorry.
-Dialogue: 0,0:23:33.40,0:23:34.30,ZSZS Dialogue,,0000,0000,0000,,I might not be coming back.
+Dialogue: 0,0:23:16.10,0:23:16.97,ZSZS Dialogue,,0000,0000,0000,,Run, Eros.
+Dialogue: 0,0:23:17.96,0:23:19.01,ZSZS Dialogue,,0000,0000,0000,,Melos was enraged.
+Dialogue: 0,0:23:19.55,0:23:21.74,ZSZS Dialogue,,0000,0000,0000,,Whaddya mean, ¥70,000 for a couple beers!?
+Dialogue: 0,0:23:21.76,0:23:23.28,ZSZS Dialogue,,0000,0000,0000,,Ya said there wasn't any extra charge!
+Dialogue: 0,0:23:23.44,0:23:25.70,ZSZS Dialogue,,0000,0000,0000,,No, that's our regular price.
+Dialogue: 0,0:23:25.90,0:23:27.26,ZSZS Dialogue,,0000,0000,0000,,Then I'll go grab some money!
+Dialogue: 0,0:23:27.50,0:23:29.08,ZSZS Dialogue,,0000,0000,0000,,Leave a friend then.
+Dialogue: 0,0:23:29.27,0:23:30.37,ZSZS Dialogue,,0000,0000,0000,,I'll bury him if you don't come back.
+Dialogue: 0,0:23:31.12,0:23:32.09,ZSZS Dialogue,,0000,0000,0000,,Melos ran.
+Dialogue: 0,0:23:32.86,0:23:33.14,ZSZS Dialogue,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:23:33.40,0:23:34.03,ZSZS Dialogue,,0000,0000,0000,,I might not be coming back.
 Dialogue: 0,0:23:35.05,0:23:40.06,ZSZS Typesetting - smodern,,0000,0000,0000,,TOP SIGN: Let's despair over the next episode too!
 Dialogue: 0,0:23:35.05,0:23:40.06,ZSZS Typesetting - smodern,,0000,0000,0000,,BOTTOM SIGN: Illustration: Asakura Maru
 Dialogue: 0,0:07:58.59,0:08:02.29,ZSZS Typesetting - Screen,,0000,0000,0000,,{\c&HF7F8FD&\blur0.6\fs26\pos(570,153)}Original Work
